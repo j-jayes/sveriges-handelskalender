@@ -4,14 +4,14 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-resume_book_id = "nuisv"
-resume_page = 58
+resume_book_id = "handkal/1971alfa"
+resume_page = 16
 
 # Create necessary directories if they don't exist
-if not os.path.exists("data/raw/nuisv"):
-    os.makedirs("data/raw/nuisv")
-if not os.path.exists("data/images/nuisv"):
-    os.makedirs("data/images/nuisv")
+if not os.path.exists("data/raw/handkal/1971alfa"):
+    os.makedirs("data/raw/handkal/1971alfa")
+if not os.path.exists("data/images/handkal/1971alfa"):
+    os.makedirs("data/images/handkal/1971alfa")
 
 def extract_book_text(page_source):
     start_tag = "<!-- mode=normal -->"
@@ -38,7 +38,7 @@ def download_jpeg_image(image_url, save_path, book_id, page_number):
     else:
         print(f"Failed to download JPEG image for page {page_number}. Status code: {response.status_code}")
 
-def fetch_book_text_and_image(book_id, num_pages, start_page=1, end_page=225):
+def fetch_book_text_and_image(book_id, num_pages, start_page=1, end_page=735):
     for i in range(start_page, min(num_pages + 1, end_page + 1)):
         page_url = f"http://runeberg.org/{book_id}/{str(i).zfill(4)}.html"
         response = requests.get(page_url)
@@ -78,7 +78,7 @@ for book_id, num_pages in number_of_pages_per_book.items():
         if book_id == resume_book_id:
             found_resume_book = True
             print(f"Resuming text and image fetching for {book_id}...")
-            fetch_book_text_and_image(book_id, num_pages, resume_page, resume_page + 225)
+            fetch_book_text_and_image(book_id, num_pages, resume_page, resume_page + 735)
         else:
             print(f"Skipping {book_id}...")
             continue
