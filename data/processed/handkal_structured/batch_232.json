@@ -1,0 +1,237 @@
+{
+    "original": "KUNGSMASKINER AB\n\nPnr 42102\n\nVästra Frölunda 2, Fröhusg 10. Box\n2044. Tel 03145 03 45. Bankgiro\n410-0368. Postgiro 420840-1. Tga\n\nKungsbeslag\n\nVerksamhet: Generalagentur av\nsprutmålningsaggregat,\nkompressorer. vacuumpumpar, sågklingor o\nbandsågar\n\nVarunamn: Amersaw, Sprayit\nAktiekapital: 25000\nStyrelse: Adv G Lagerlöf, dir Allan\nAndersson\n\nÄgare o chef: Dir Allan Andersson\nEtableringsår: 1958\nDotterbolag till Kungsbeslag AB.\n\nKUNGSMÄSSAN AB\n\nPnr 43401\n\nKungsbacka 1, Box 104.\nBorg-mästareg 5. Tel 0300-125 60.\nBankgiro 189-4195. Postgiro 629518-2.\nTga Kungsmässan\nVerksamhet: Västsvenskt\nexpocentrum för båtar, byggmaterial o\nstugor. Fartygsexpo\nAntal anställda: 16\nÅrsomsättning: 1 000 000\nAktiekapital: 5 000\nVerkst dir; Lennart Hammarberg\nEtableringsår: 1966.\n\nVVS-KONSTRUKTIONER. AB\n\nPnr 116 49\n\nStockholm, Timmermansg 24. Tel\n08-6909 90. Bankgiro 73-3244.\nPostgiro 256476\n\nVerksamhet: Konsulterande\nverksamhet för VVS-anläggningar\nAntal anställda: 11\nÅrsomsättning: 600 000\nAktiekapital: 15 000\nVerkst dir. Ing Jan Ahlqvist\nEtableringsår: 1946.\n\nNÄRKES MASKIN AB\n\nPnr 700 06\n\nÖrebro 6, Box 6016. Ormesta. Tel\n019-13 08 50. Bankgiro 614-7060.\nPostgiro 343451-6\nVerksamhet: Återförsäljare för\nBolinder-Munktell\nAntal anställda: 105\nÅrsomsättning: 36 000 000\nAktiekapital: 600 000\nVerkst dir Carl Carlsson\nEtableringsår: 1947.\n\nALPEN &amp; PARELIUS AB\n\nPnr 402 32\n\nGöteborg 7, Box 7093. Första\nLång-g 21. Tel 031-42 08 00. Bankgiro\n404-1638. Postgiro 722858-8.\nTga Parelius. Telex 2519\nVerksamhet: Spedition, transporter\no lagringar\nAntal anställda: 49\nAktiekapital: 200 000\nVerkst dir: Claes-Axel Lagerwall\nEtableringsår: 1970.\n\nTOREBODA TRYCKERI AB\n\nPnr 545 00\n\nTöreboda, Box 31. Skövdev 22.\nTel 0506-100 34, 10169. Bankgiro\n153-5343. Postgiro 93534-6\nVerksamhet: Boktryckeri\nAntal anställda: 9\nÅrsomsättning: 850000\nAktiekapital: 45 000\nVerkst dir: Olle Johansson\nEtableringsår. 1945.\n\nHALMSTADS TRÄVARU AB\n\nPnr 302 45\n\nHalmstad, Stationsg 2. Tel\n035-11 1107, 1245 07. Bankgiro\n153-3629. Postgiro 278223-3. Tga\nTräbolaget\n\nVerksamhet: Säljer trävaror,\nsnickerier, inredningar till hus o\nbyggnadsmaterial\nAntal anställda: 24\nÅrsomsättning: 5 000 000\nAktiekapital: 300000\nChefer: John Petersson, Bruno\nJohansson\nEtableringsår: 1953.\n\nSVE\n\nSPECIALITET\n\nKallvalsad plåt\n\nVerksamhet: Valsverksprodukter,\nstålgjutgods, smide, legeringar\nAktiekapital: 100000\nVerkst din Leif Wilhelmson\nEtableringsår 1957.\n\nMICHAELSEN, AB BRÖDERNA\n\nPnr 211 20\n\nMalmö, Vinterg 65. Tel 040-93 67 30.\nBankgiro 875-3113. Postgiro\n432307-7. Tga Brosmic.\nTelex 32323 BROSMIC S\nVerksamhet: Generalagent för\nNordson sprututrustningar o Hotmelt\napplicatorer, Eisenmann\nkompletta målerianläggningar,\nElektro-Physik mätinstrument, BM-atic\nsprutautomater, BM oljeregulatorer\no gasautomatik\n\nFörsäljningskontor. Göteborg,\nStockholm, Örebro o Jönköping\nAktiekapital: 50 000\nVerkst dir: Eyvin Kerschner\nEtableringsår: 1952.\n\nSTE\n\nÅrsomsättning: 7 000 000\nAktiekapital: 300 000\nVerkst dir: Olle Stenberg\nEtableringsån 1924.\n\nFERNER AB, ERIK\n\nPnr 161 26\n\nBromma 1, Snörmakarv 35. Box 56.\nTel 08-80 25 40. Bankgiro 74-6622.\nPostgiro 197090. Telex 10312.\nTga Scientron\n\nVerksamhet: Import o försäljning\nav elektroniska mätinstrument o\nkomponenter\nAntal anställda: 75\nÅrsomsättning: 30 000 000\nAktiekapital: 95 000\nStyrelse: Adv Bo Sten B:son\nLeijonhufvud (ordf), civiling\nPer-Erik Ferner, med kand Elisabeth\nElmqvist, ing Ingvar Ferner\nVerkst dir: Ing Ingvar Ferner\nEtableringsår: 1954.",
+    "structured": {
+        "1": {
+            "company_name": "KUNGSMASKINER AB",
+            "pnr": "42102",
+            "address": "Västra Frölunda 2, Fröhusg 10. Box 2044.",
+            "phone_number": "03145 03 45",
+            "bank_details": {
+                "bankgiro": "410-0368",
+                "postgiro": "420840-1"
+            },
+            "activity": "Generalagentur av sprutmålningsaggregat, kompressorer, vacuumpumpar, sågklingor och bandsågar. Varunamn: Amersaw, Sprayit",
+            "capital": 25000,
+            "key_personnel": [
+                {
+                    "name": "Adv G Lagerlöf",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "dir Allan Andersson",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "Dir Allan Andersson",
+                    "position": "Ägare och chef"
+                }
+            ],
+            "establishment_year": 1958
+        },
+        "2": {
+            "company_name": "KUNGSMÄSSAN AB",
+            "pnr": "43401",
+            "address": "Kungsbacka 1, Box 104. Borg-mästareg 5.",
+            "phone_number": "0300-125 60",
+            "bank_details": {
+                "bankgiro": "189-4195",
+                "postgiro": "629518-2"
+            },
+            "activity": "Västsvenskt expocentrum för båtar, byggmaterial och stugor. Fartygsexpo",
+            "employees": 16,
+            "annual_turnover": 1000000,
+            "capital": 5000,
+            "key_personnel": [
+                {
+                    "name": "Lennart Hammarberg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1966
+        },
+        "3": {
+            "company_name": "VVS-KONSTRUKTIONER. AB",
+            "pnr": "116 49",
+            "address": "Stockholm, Timmermansg 24.",
+            "phone_number": "08-6909 90",
+            "bank_details": {
+                "bankgiro": "73-3244",
+                "postgiro": "256476"
+            },
+            "activity": "Konsulterande verksamhet för VVS-anläggningar",
+            "employees": 11,
+            "annual_turnover": 600000,
+            "capital": 15000,
+            "key_personnel": [
+                {
+                    "name": "Ing Jan Ahlqvist",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1946
+        },
+        "4": {
+            "company_name": "NÄRKES MASKIN AB",
+            "pnr": "700 06",
+            "address": "Örebro 6, Box 6016. Ormesta.",
+            "phone_number": "019-13 08 50",
+            "bank_details": {
+                "bankgiro": "614-7060",
+                "postgiro": "343451-6"
+            },
+            "activity": "Återförsäljare för Bolinder-Munktell",
+            "employees": 105,
+            "annual_turnover": 36000000,
+            "capital": 600000,
+            "key_personnel": [
+                {
+                    "name": "Carl Carlsson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1947
+        },
+        "5": {
+            "company_name": "ALPEN & PARELIUS AB",
+            "pnr": "402 32",
+            "address": "Göteborg 7, Box 7093. Första Lång-g 21.",
+            "phone_number": "031-42 08 00",
+            "bank_details": {
+                "bankgiro": "404-1638",
+                "postgiro": "722858-8"
+            },
+            "activity": "Spedition, transporter och lagringar",
+            "employees": 49,
+            "capital": 200000,
+            "key_personnel": [
+                {
+                    "name": "Claes-Axel Lagerwall",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1970
+        },
+        "6": {
+            "company_name": "TOREBODA TRYCKERI AB",
+            "pnr": "545 00",
+            "address": "Töreboda, Box 31. Skövdev 22.",
+            "phone_number": "0506-100 34, 10169",
+            "bank_details": {
+                "bankgiro": "153-5343",
+                "postgiro": "93534-6"
+            },
+            "activity": "Boktryckeri",
+            "employees": 9,
+            "annual_turnover": 850000,
+            "capital": 45000,
+            "key_personnel": [
+                {
+                    "name": "Olle Johansson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1945
+        },
+        "7": {
+            "company_name": "HALMSTADS TRÄVARU AB",
+            "pnr": "302 45",
+            "address": "Halmstad, Stationsg 2.",
+            "phone_number": "035-11 1107, 1245 07",
+            "bank_details": {
+                "bankgiro": "153-3629",
+                "postgiro": "278223-3"
+            },
+            "activity": "Säljer trävaror, snickerier, inredningar till hus och byggnadsmaterial",
+            "employees": 24,
+            "annual_turnover": 5000000,
+            "capital": 300000,
+            "key_personnel": [
+                {
+                    "name": "John Petersson",
+                    "position": "Chefer"
+                },
+                {
+                    "name": "Bruno Johansson",
+                    "position": "Chefer"
+                }
+            ],
+            "establishment_year": 1953
+        },
+        "8": {
+            "company_name": "SVE SPECIALITET",
+            "activity": "Kallvalsad plåt",
+            "capital": 100000,
+            "key_personnel": [
+                {
+                    "name": "Leif Wilhelmson",
+                    "position": "Verkst din"
+                }
+            ],
+            "establishment_year": 1957
+        },
+        "9": {
+            "company_name": "MICHAELSEN, AB BRÖDERNA",
+            "pnr": "211 20",
+            "address": "Malmö, Vinterg 65.",
+            "phone_number": "040-93 67 30",
+            "bank_details": {
+                "bankgiro": "875-3113",
+                "postgiro": "432307-7"
+            },
+            "activity": "Generalagent för Nordson sprututrustningar och Hotmelt applicatorer, Eisenmann kompletta målerianläggningar, Elektro-Physik mätinstrument, BM-atic sprutautomater, BM oljeregulatorer och gasautomatik Försäljningskontor. Göteborg, Stockholm, Örebro och Jönköping",
+            "capital": 50000,
+            "key_personnel": [
+                {
+                    "name": "Eyvin Kerschner",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1952
+        },
+        "10": {
+            "activity": "Valsverksprodukter, stålgjutgods, smide, legeringar",
+            "annual_turnover": 7000000,
+            "capital": 300000,
+            "key_personnel": [
+                {
+                    "name": "Olle Stenberg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1924
+        },
+        "11": {
+            "company_name": "FERNER AB, ERIK",
+            "pnr": "161 26",
+            "address": "Bromma 1, Snörmakarv 35. Box 56.",
+            "phone_number": "08-80 25 40",
+            "bank_details": {
+                "bankgiro": "74-6622",
+                "postgiro": "197090"
+            },
+            "activity": "Import och försäljning av elektroniska mätinstrument och komponenter",
+            "employees": 75,
+            "annual_turnover": 30000000,
+            "capital": 95000,
+            "key_personnel": [
+                {
+                    "name": "Adv Bo Sten B:son Leijonhufvud",
+                    "position": "Styrelse (ordf)"
+                },
+                {
+                    "name": "Per-Erik Ferner",
+                    "position": "med kand"
+                },
+                {
+                    "name": "Elisabeth Elmqvist",
+                    "position": "med kand"
+                },
+                {
+                    "name": "Ing Ingvar Ferner",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1954
+        }
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "original": "LAPAK AB, INGENIÖRSFIRMAN\n\nPnr 183 35\n\nTäby. Akerbyv 252. Tel\n08-758 54 21, 758 54 01. Bankgiro\n776-4046. Postgiro 692930-1\nVerksamhet: Projekterar,\nlevererar o monterar\ntransportanordningar\n\nAktiekapital: 10 000\nVerkst dir: Ing Ake Lantz\nEtableringsår: 1967.\n\nULTRAFORLAGET AB\n\nPnr 113 30\n\nStockholm, Hudiksvallsg 4. Tel\n08-23 49 10. Bankgiro 238-6621.\nPostgiro 358672\n\nVerksamhet: Affischer, folders,\nturistbroschyrer o turistböcker.\nSpecialitet: färgvykort o andra\nkonstförlagsartiklar\nAntal anställda: 15\nÅrsomsättning: 2 000 000\nAktiekapital: 60 000\nVerkst din Karl Erik Fröberg\nEtableringsår: 1950.\n\nLUNDAFRAKT EK FÖRENING\n\nPnr 222 38\n\nLund, Gustavshemsv 11. Tel\n046-14 00 40. Bankgiro 34-7844.\nPostgiro 668880\n\nVerksamhet: Åkeri- o\nentreprenadrörelse\n\nAntal anställda: 60\nÅrsomsättning: 20 000 000\nAktiekapital: 1500000\nChef: Stig Käll\nEtableringsår: 1964.\n\nTIMMELE FÄRGERI AB\n\nPnr 520 20\n\nTimmele. Tel 0321-302 00.\nBankgiro 53-2849. Postgiro 96164\nVerksamhet: Färgning o blekning\nAntal anställda: 120\nÅrsomsättning: 8100 000\nAktiekapital: 522 000\nVerkst dir Walter Eklöf\nEtableringsår: 1939.\n\nSME\n\nSMEDSTORPS SNICKERI AB\n\nPnr 270 43\n\nSmedstorp. Tel 0414-513 20.\nBankgiro 351-8460. Postgiro 245620-0\nVerksamhet: Tillverkar köks- o\ngarderobs inredning ar\nVarunamn: Smedstorp Kök\nAntal anställda: 43\nVerkst dir: Fabr Erik Hansson\nEtableringsår 1945.\n\nFOTOPRINT, TRYCKERI AB\n\nPnr 434 00\n\nKungsbacka 1, Box 45. Storg 4. Tel\n\n0300-11000, 110 01. Bankgiro 54-\n\n6688. Postgiro 420756\n\nVerksamhet: Kataloger, färgtryck,\n\nblanketter\n\nAntal anställda: 16\n\nÅrsomsättning: 100 0 000\n\nAktiekapital: 50 000\n\nVerkst dir: Kurt Vilh Berndtson\n\nEtableringsår: 1954.\n\nÅNHAMMARS SÄTERI AB\n\nPnr 15012\n\nStjärnhov. Tel 0158-420 03. 420 35.\nBankgiro 618-3602. Postgiro\n80 187-8\n\nVerksamhet: Tillverkar sågade o\n\nhyvlade trävaror\n\nAntal anställda: 35\n\nÅrsomsättning: 4 000000\n\nAktiekapital: 100 000\n\nVerkst dir: Godsägare Anders von\n\nStockenström\n\nEtableringsån 1861.\n\nALDRAPAK, AB\n\nPnr 44100\n\nAlingsås, Rektorsg 7. Tel\n0322-130 13. Tga Aldrapak\nVerksamhet: Tillverkar\nspecialemballage i aluminiumfolie\nAktiekapital: 25 000\nVerkst dir: Lars-Arne Emanuelson\nEtableringsår: 1957.\n\nALM &amp; CO, AB TORSTEN\n\nPnr 40010\n\nGöteborg 3, Box 3004. Pogelbergsg\n1. Tel 031-17 39 30. Bankgiro\n362-6074. Postgiro 43214-6. Tga\nAlmetco. Telex 20605\nTransporttekn avd: Maskiner o\nmaterial för transport o\ncontainer-hantering. Industri- o\ntransport-kompressorer\n\nMöbelavd: Brasilianska skinnmöbler\n\nAntal anställda: 9\nÅrsomsättning: 6 000 0 00\nAktiekapital: 50000\nVerkst dir: Torsten Alm\nEtableringsår: 1960.\n\nNILSSON, MASKIN AB NILS\n\nPnr 25103\n\nHelsingborg 1, Box 188. Kullag 30.\nTel 042-12 0230. Bankgiro\n340-5586. Postgiro 32089-5\nVeiksamhet: Tvätt- o diskmaskiner.\n\nNILSSON AB, NILS GÖRAN A\n\nPnr 941 00\n\nPiteå, Brädgårdsv 10. Tel\n0911-146 95, 146 96. Postgiro 66874\nVerksamhet: utför bygg-, WS- o\nel-installationer\nAntal anställda: 48\nÅrsomsättning: 5 500 000\nAktiekapital: 30 000\nVerkst dir: Göran Nilsson\nEtableringsår: 1950.",
+    "structured": {
+        "1": {
+            "company_name": "LAPAK AB",
+            "pnr": "183 35",
+            "address": "Täby, Akerbyv 252",
+            "phone_number": "08-758 54 21, 758 54 01",
+            "bank_details": {
+                "bankgiro": "776-4046",
+                "postgiro": "692930-1"
+            },
+            "activity": "Projekterar, levererar o monterar transportanordningar",
+            "capital": 10000,
+            "key_personnel": [
+                {
+                    "name": "Ing Ake Lantz",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1967
+        },
+        "2": {
+            "company_name": "ULTRAFORLAGET AB",
+            "pnr": "113 30",
+            "address": "Stockholm, Hudiksvallsg 4",
+            "phone_number": "08-23 49 10",
+            "bank_details": {
+                "bankgiro": "238-6621",
+                "postgiro": "358672"
+            },
+            "activity": "Affischer, folders, turistbroschyrer o turistböcker. Specialitet: färgvykort o andra konstförlagsartiklar",
+            "employees": 15,
+            "annual_turnover": 2000000,
+            "capital": 60000,
+            "key_personnel": [
+                {
+                    "name": "Karl Erik Fröberg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1950
+        },
+        "3": {
+            "company_name": "LUNDAFRAKT EK FÖRENING",
+            "pnr": "222 38",
+            "address": "Lund, Gustavshemsv 11",
+            "phone_number": "046-14 00 40",
+            "bank_details": {
+                "bankgiro": "34-7844",
+                "postgiro": "668880"
+            },
+            "activity": "Åkeri- o entreprenadrörelse",
+            "employees": 60,
+            "annual_turnover": 20000000,
+            "capital": 1500000,
+            "key_personnel": [
+                {
+                    "name": "Stig Käll",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1964
+        },
+        "4": {
+            "company_name": "TIMMELE FÄRGERI AB",
+            "pnr": "520 20",
+            "address": "Timmele",
+            "phone_number": "0321-302 00",
+            "bank_details": {
+                "bankgiro": "53-2849",
+                "postgiro": "96164"
+            },
+            "activity": "Färgning o blekning",
+            "employees": 120,
+            "annual_turnover": 8100000,
+            "capital": 522000,
+            "key_personnel": [
+                {
+                    "name": "Walter Eklöf",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1939
+        },
+        "5": {
+            "company_name": "SMEDSTORPS SNICKERI AB",
+            "pnr": "270 43",
+            "address": "Smedstorp",
+            "phone_number": "0414-513 20",
+            "bank_details": {
+                "bankgiro": "351-8460",
+                "postgiro": "245620-0"
+            },
+            "activity": "Tillverkar köks- o garderobs inredning ar",
+            "employees": 43,
+            "key_personnel": [
+                {
+                    "name": "Fabr Erik Hansson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1945
+        },
+        "6": {
+            "company_name": "FOTOPRINT, TRYCKERI AB",
+            "pnr": "434 00",
+            "address": "Kungsbacka 1, Box 45, Storg 4",
+            "phone_number": "0300-11000, 110 01",
+            "bank_details": {
+                "bankgiro": "54-6688",
+                "postgiro": "420756"
+            },
+            "activity": "Kataloger, färgtryck, blanketter",
+            "employees": 16,
+            "annual_turnover": 100000,
+            "capital": 50000,
+            "key_personnel": [
+                {
+                    "name": "Kurt Vilh Berndtson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1954
+        },
+        "7": {
+            "company_name": "ÅNHAMMARS SÄTERI AB",
+            "pnr": "15012",
+            "address": "Stjärnhov",
+            "phone_number": "0158-420 03, 420 35",
+            "bank_details": {
+                "bankgiro": "618-3602",
+                "postgiro": "80187-8"
+            },
+            "activity": "Tillverkar sågade o hyvlade trävaror",
+            "employees": 35,
+            "annual_turnover": 4000000,
+            "capital": 100000,
+            "key_personnel": [
+                {
+                    "name": "Godsägare Anders von Stockenström",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1861
+        },
+        "8": {
+            "company_name": "ALDRAPAK, AB",
+            "pnr": "44100",
+            "address": "Alingsås, Rektorsg 7",
+            "phone_number": "0322-130 13",
+            "activity": "Tillverkar specialemballage i aluminiumfolie",
+            "capital": 25000,
+            "key_personnel": [
+                {
+                    "name": "Lars-Arne Emanuelson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1957
+        },
+        "9": {
+            "company_name": "ALM & CO, AB TORSTEN",
+            "pnr": "40010",
+            "address": "Göteborg 3, Box 3004, Pogelbergsg 1",
+            "phone_number": "031-17 39 30",
+            "bank_details": {
+                "bankgiro": "362-6074",
+                "postgiro": "43214-6"
+            },
+            "activity": "Transporttekn avd: Maskiner o material för transport o container-hantering. Industri- o transport-kompressorer Möbelavd: Brasilianska skinnmöbler",
+            "employees": 9,
+            "annual_turnover": 6000000,
+            "capital": 50000,
+            "key_personnel": [
+                {
+                    "name": "Torsten Alm",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1960
+        },
+        "10": {
+            "company_name": "NILSSON, MASKIN AB NILS",
+            "pnr": "25103",
+            "address": "Helsingborg 1, Box 188, Kullag 30",
+            "phone_number": "042-12 0230",
+            "bank_details": {
+                "bankgiro": "340-5586",
+                "postgiro": "32089-5"
+            },
+            "activity": "Tvätt- o diskmaskiner",
+            "establishment_year": 0
+        },
+        "11": {
+            "company_name": "NILSSON AB, NILS GÖRAN A",
+            "pnr": "941 00",
+            "address": "Piteå, Brädgårdsv 10",
+            "phone_number": "0911-146 95, 146 96",
+            "bank_details": {
+                "postgiro": "66874"
+            },
+            "activity": "Utför bygg-, WS- o el-installationer",
+            "employees": 48,
+            "annual_turnover": 5500000,
+            "capital": 30000,
+            "key_personnel": [
+                {
+                    "name": "Göran Nilsson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1950
+        }
+    }
+}

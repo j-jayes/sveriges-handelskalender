@@ -1,0 +1,288 @@
+{
+    "original": "RINGESTEN-TOPFLIGHT AB\n\nPnr 26501\n\nÅstorp 1, Box 103. Tel 042-509 35.\nBankgiro 283-8811. Postgiro\n511960-7\n\nVerksamhet: Special tryckeri för\nsjälvhäftande etiketter o tejper\nAktiekapital: 225 000\nVerkst din Georg Ringesten\nEtableringsår: 1959.\n\nBYGG-AB A, AB\n\nPnr 72106\n\nVästerås 1, Box 208. Hantverkarg\n2 A. Tel 021-18 0195. Bankgiro\n808-6647. Postgiro 118150-2\nVerksamhet: Byggnadsentreprenör\nÅrsomsättning: 10 500 000\nAktiekapital: 30 000\nChef: August Burström\nEtableringsår: 1954:\n\nHYLTEA, KONFEKTIONS AB\n\nPnr 302 43\n\nHalmstad, Brog 24. Tel\n035-1165 90, 1133 02. Tga Hyltea\nVerksamhet: Tillverkar klänningar\nAntal anställda: 130\nÅrsomsättning: 6 000 000\nAktiekapital: 260 000\nVerkst dir: Henry Hjalmarson\nEtableringsår: 1946.\n\nBOL\n\nVerkst dlr: Gösta Vamling\nFaktor: Kurt Andersson\nEtableringsår: 1921.\n\nBOKTRYCKERI\n\nse i övrigt resp namn.\n\nBOLGO, AB\n\nPnr 523 00\n\nUlricehamn, Grönahög. Tel\n0321-21000. Bankgiro 840-6381.\nPostgiro 274550-3\n\nVerksamhet: Tillverkar sydda o\nstickade varor\nAntal anställda: 25\nÅrsomsättning: 2 600 000\nAktiekapital: 100 000\nStyrelse: Fabr Herman Gotting\n(ordf), fru Dagny Gotting\nChef: Fabr Herman Gotting\nEtableringsår: 1943.\n\nÅKE\n\nAntal anställda: 24\nÅrsomsättning: 2 500 000\nAktiekapital: 70 000\nStyrelse: Riksdagsman Thorbjörn\nFälldin (ordf), Algot Bodén, Rune\nHögberg, Kenneth Karlsson,\nGunnar Ohlund\nVerkst dir. Gunnar Ohlund\nProduktionschef: Hans Selander\nFörsäljn-chef: Jan Gren\nEtableringsår. 1971.\n\nSVE\n\nAktiekapital: 25 000\nVerkst dir: Ove Hernestål\nEtableringsår: 1956.\n\nMOX, AB\n\nPnr 41104\n\nGöteborg, Gullbergs Strandg 13.\nTel 031-15 48 44. Bankgiro\n506-6725. Postgiro 43268-2. Tga\nMoxbrikett\n\nVerksamhet: Tillverkar o säljer\nlödkolvar samt moxbriketter\nAntal anställda: 3\nÅrsomsättning: 200 000\nAktiekapital: 40000\nVerkst dir: Elin Lantz\nEtableringsår: 1932.\n\nMOÄLVENS BRUK\nSTOCKHOLM AB\n\nPnr 100 72\n\nStockholm43, Box 43063. Mejeriv4.\nTel 08-18 02 70. Bankgiro 277-8843.\nPostgiro 403464-1\nVerksamhet: Säljer o monterar\nmonteringsfärdiga trähus\nAntal anställda: 12\nÅrsomsättning: 8 000 000\nAktiekapital: 50 000\nVerkst dir: Peter Stumpp\nEtableringsår: 1966.\n\nSJUBORGS MASKINAFFÄR, AB\n\nPnr 102 62\n\nStockholm 4, Asög 165. Box 4121.\nTel 08-23 22 30. Postgiro 455374-9\nVeiksamhet: Verktyg o maskiner\nför den mekaniska branschen\nVarunamn: Hardy\nAntal anställda: 8\nÅrsomsättning: 2 000 000\nAktiekapital: 50000\nVeikst dir Gunnar Sjöborg\nEtableringsår: 1951.\n\nSJUDELLS INDUSTRI AB,\nFRITZ\n\nPnr 330 21\n\nReftele, Norra v. Box 25. Tel 0371-\n\n200 19. Bankgiro 142-7186.\nPostgiro 22565-6\n\nVerksamhet: Tillverkar barncyklar,\n\ndockvagnar, dockkärror, kälkar o\n\nvattenspridare\n\nAntal anställda: 10\n\nAktiekapital: 50 000\n\nVeikst dir: Fritz Sjödell\n\nEtableringsår 1920.\n\nTRANSAIR SWEDEN AB\n\nPnr 200 25\n\nMalmö 16, Fack. Smedstorpsg. Tel\n040-93 56 80. Bankgiro 87-0186.\nPostgiro455028. Tga Transwe.\nTelex 32312\n\nVerksamhet: Charterflyg\nAntal anställda: 225\nÅrsomsättning: 19 000 000\nAktiekapital: 100 000\nVerkst dir Anders Ericsson\nEtableringsår: 1951.\n\nMAL\n\nmalmquist &amp; edling ab\n\nPnr 60006\n\nNorrköping 6. Box 6026. O\nPromenaden 23 A. Tel 011-13 34 44,\n1334 45. Bankgiro 609-8370.\nPost-giro 327054-3\n\nVerksamhet: Oljegrossister\nAntal anställda: 8\nÅrsomsättning: 1000 000\nAktiekapital: 25 000\nVeikst dir: Sven Edling\nLagerchef: Vidar Ericsson\nEtableringsår: 1946.",
+    "structured": {
+        "1": {
+            "company_name": "RINGESTEN-TOPFLIGHT AB",
+            "pnr": "26501",
+            "address": "Åstorp 1, Box 103",
+            "phone_number": "042-509 35",
+            "bank_details": {
+                "bankgiro": "283-8811",
+                "postgiro": "511960-7"
+            },
+            "activity": "Special tryckeri för självhäftande etiketter o tejper",
+            "capital": 225000,
+            "key_personnel": [
+                {
+                    "name": "Georg Ringesten",
+                    "position": "Verkst din"
+                }
+            ],
+            "establishment_year": 1959
+        },
+        "2": {
+            "company_name": "BYGG-AB A, AB",
+            "pnr": "72106",
+            "address": "Västerås 1, Box 208, Hantverkarg 2 A",
+            "phone_number": "021-18 0195",
+            "bank_details": {
+                "bankgiro": "808-6647",
+                "postgiro": "118150-2"
+            },
+            "activity": "Byggnadsentreprenör",
+            "annual_turnover": 10500000,
+            "capital": 30000,
+            "key_personnel": [
+                {
+                    "name": "August Burström",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1954
+        },
+        "3": {
+            "company_name": "HYLTEA, KONFEKTIONS AB",
+            "pnr": "302 43",
+            "address": "Halmstad, Brog 24",
+            "phone_number": "035-1165 90, 1133 02",
+            "activity": "Tillverkar klänningar",
+            "employees": 130,
+            "annual_turnover": 6000000,
+            "capital": 260000,
+            "key_personnel": [
+                {
+                    "name": "Henry Hjalmarson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1946
+        },
+        "4": {
+            "company_name": "BOL",
+            "key_personnel": [
+                {
+                    "name": "Gösta Vamling",
+                    "position": "Verkst dlr"
+                },
+                {
+                    "name": "Kurt Andersson",
+                    "position": "Faktor"
+                }
+            ],
+            "establishment_year": 1921
+        },
+        "5": {
+            "company_name": "BOKTRYCKERI"
+        },
+        "6": {
+            "company_name": "BOLGO, AB",
+            "pnr": "523 00",
+            "address": "Ulricehamn, Grönahög",
+            "phone_number": "0321-21000",
+            "bank_details": {
+                "bankgiro": "840-6381",
+                "postgiro": "274550-3"
+            },
+            "activity": "Tillverkar sydda o stickade varor",
+            "employees": 25,
+            "annual_turnover": 2600000,
+            "capital": 100000,
+            "key_personnel": [
+                {
+                    "name": "Fabr Herman Gotting",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "fru Dagny Gotting",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "Fabr Herman Gotting",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1943
+        },
+        "7": {
+            "company_name": "ÅKE",
+            "employees": 24,
+            "annual_turnover": 2500000,
+            "capital": 70000,
+            "key_personnel": [
+                {
+                    "name": "Riksdagsman Thorbjörn Fälldin",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "Algot Bodén",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "Rune Högberg",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "Kenneth Karlsson",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "Gunnar Ohlund",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "Gunnar Ohlund",
+                    "position": "Verkst dir"
+                },
+                {
+                    "name": "Hans Selander",
+                    "position": "Produktionschef"
+                },
+                {
+                    "name": "Jan Gren",
+                    "position": "Försäljn-chef"
+                }
+            ],
+            "establishment_year": 1971
+        },
+        "8": {
+            "company_name": "SVE",
+            "capital": 25000,
+            "key_personnel": [
+                {
+                    "name": "Ove Hernestål",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1956
+        },
+        "9": {
+            "company_name": "MOX, AB",
+            "pnr": "41104",
+            "address": "Göteborg, Gullbergs Strandg 13",
+            "phone_number": "031-15 48 44",
+            "bank_details": {
+                "bankgiro": "506-6725",
+                "postgiro": "43268-2"
+            },
+            "activity": "Tillverkar o säljer lödkolvar samt moxbriketter",
+            "employees": 3,
+            "annual_turnover": 200000,
+            "capital": 40000,
+            "key_personnel": [
+                {
+                    "name": "Elin Lantz",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1932
+        },
+        "10": {
+            "company_name": "MOÄLVENS BRUK STOCKHOLM AB",
+            "pnr": "100 72",
+            "address": "Stockholm43, Box 43063, Mejeriv4",
+            "phone_number": "08-18 02 70",
+            "bank_details": {
+                "bankgiro": "277-8843",
+                "postgiro": "403464-1"
+            },
+            "activity": "Säljer o monterar monteringsfärdiga trähus",
+            "employees": 12,
+            "annual_turnover": 8000000,
+            "capital": 50000,
+            "key_personnel": [
+                {
+                    "name": "Peter Stumpp",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1966
+        },
+        "11": {
+            "company_name": "SJUBORGS MASKINAFFÄR, AB",
+            "pnr": "102 62",
+            "address": "Stockholm 4, Asög 165, Box 4121",
+            "phone_number": "08-23 22 30",
+            "bank_details": {
+                "postgiro": "455374-9"
+            },
+            "activity": "Verktyg o maskiner för den mekaniska branschen",
+            "trade_name": "Hardy",
+            "employees": 8,
+            "annual_turnover": 2000000,
+            "capital": 50000,
+            "key_personnel": [
+                {
+                    "name": "Gunnar Sjöborg",
+                    "position": "Veikst dir"
+                }
+            ],
+            "establishment_year": 1951
+        },
+        "12": {
+            "company_name": "SJUDELLS INDUSTRI AB, FRITZ",
+            "pnr": "330 21",
+            "address": "Reftele, Norra v. Box 25",
+            "phone_number": "0371-200 19",
+            "bank_details": {
+                "bankgiro": "142-7186",
+                "postgiro": "22565-6"
+            },
+            "activity": "Tillverkar barncyklar, dockvagnar, dockkärror, kälkar o vattenspridare",
+            "employees": 10,
+            "capital": 50000,
+            "key_personnel": [
+                {
+                    "name": "Fritz Sjödell",
+                    "position": "Veikst dir"
+                }
+            ],
+            "establishment_year": 1920
+        },
+        "13": {
+            "company_name": "TRANSAIR SWEDEN AB",
+            "pnr": "200 25",
+            "address": "Malmö 16, Fack. Smedstorpsg",
+            "phone_number": "040-93 56 80",
+            "bank_details": {
+                "bankgiro": "87-0186",
+                "postgiro": "455028"
+            },
+            "activity": "Charterflyg",
+            "employees": 225,
+            "annual_turnover": 19000000,
+            "capital": 100000,
+            "key_personnel": [
+                {
+                    "name": "Anders Ericsson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1951
+        },
+        "14": {
+            "company_name": "MAL malmquist & edling ab",
+            "pnr": "60006",
+            "address": "Norrköping 6, Box 6026, O Promenaden 23 A",
+            "phone_number": "011-13 34 44, 1334 45",
+            "bank_details": {
+                "bankgiro": "609-8370",
+                "postgiro": "327054-3"
+            },
+            "activity": "Oljegrossister",
+            "employees": 8,
+            "annual_turnover": 1000000,
+            "capital": 25000,
+            "key_personnel": [
+                {
+                    "name": "Sven Edling",
+                    "position": "Veikst dir"
+                },
+                {
+                    "name": "Vidar Ericsson",
+                    "position": "Lagerchef"
+                }
+            ],
+            "establishment_year": 1946
+        }
+    }
+}

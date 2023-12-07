@@ -1,0 +1,224 @@
+{
+    "original": "KRY\n\nVerksamhet: Tillverkar herrskor\nmed varumärke Master\nAntal anställda: 100\nÅrsomsättning: 8 000000\nAktiekapital: 500 000\nVerkst dir: Olle Larsson\nEtableringsår: 1913.\n\nELE\n\nVerkst dir: Ing Helge Rask\nEtableringsår; 1950.\n\nHelägt dotterbolag: AB\nElektro-Armatur, Gävle.\n\nELEKTRONIKBYGGSATSER\nAB\n\nPnr 182 71\n\nStocksund, Bengt Färjares v 4.\nPack. Tel 08-85 75 66, 85 75 67.\nBankgiro 13-0820. Postgiro 1535\nVerksamhet: Tillverkar elektronisk\napparatur tör industriellt bruk\nAktiekapital: 5 000\nVerkst dir: Ing John Schröder\nEtableringsår: 1965.\n\nNILSSON AB, ALLAN\n\nPnr 27100\n\nYstad, Box 17. Stortorget 6. Tel\n0411-136 60. Bankgiro 873-1945.\nPostgiro 593461-7. Tga Allanbolag.\nTelex 32299\n\nVerksamhet: Köper o säljer råvaror\nför järn- o metallindustrin\nAntal anstäUda: 6\nÅrsomsättning: 25 000 000\nAktiekapital: 45 000\nStyrelse: Fru Elsa Nilsson (ordf),\ndir Allan Nilsson, Bengt Nilsson\nVerkst dir: Allan Nilsson\nDisp:r: Bengt Nyman, Bengt\nNilsson\n\nEtableringsår: 1962.\n\nfal\n\nÅrsomsättning: 4 000 000\nAktiekapital: 100 000\nVerkst dir: Olof Fahlcrantz\nEtableringsår. 1950.\n\nETHOLIN, AB\n\nPnr 252 53\n\nHelsingborg, Älvsborgsg 6. Tel\n042-113747, 1137 41. Postgiro\n27009-0. Tga Etholin\nVerksamhet: Tillverkar golvpolish,\nbonvax, disk- o rengöringsmedel,\ndesinfektions- o luftreningsvätskor\nAktiekapital: 10 000\nVerkst dir: Kjell Thene\nEtableringsår: 1929.\n\nNORRLANDSVAGNAR AB\n\nPnr 930 21\n\nBygdsiljum, Box 106. Tel 0914-\n\n20210. Bankgiro 204-0434.\nPostgiro 518034-4\n\nVerksamhet: Tillverkar husvagnar\no lätta transportabla raststugor,\npersonal- o förläggningsvagnar\nAntal anställda: 30\nÅrsomsättning: 4 500 000\nÄgare o chef: Frans Sörensen\nEtableringsår: 1961.\n\nSALCO MASKIN AB\n\nPnr 19104\n\nSollentuna 4, Box 439. Polkungav\n1. Tel 08-9602 50. Bankgiro\n724-5590. Postgiro 55004-6\nVerksamhet: Tillverkar o säljer\nmaskiner samt\nlaboratorieutrust-ning för väg o byggnadsindustrin\nVanmamn: Salco\nAntal anstäUda: 13\nÅrsomsättning: 7 000 000\nAktiekapital: 100 000\nStyrelse: Dir Jarl Ergel (ordf),\ndir Bengt Blåns, adv Sture Hovden,\ndir Göte Jönsson, dir Gunnar\nMattsson\n\nVerkst dir: Bengt Blåns\nEtableringsår: 1961.\n\nTRANEMO YLLEFABRIKS AB\n\nPnr 510 80\n\nTranemo, Box 8. Tel 0325-70140.\nBankgiro 531-1733. Postgiro\n94111-2. TgaTyab\nVerksamhet: Modetrikå.\nBarnano-raker o -jackor\nVarunamn: Tyab\nAktiekapital: 640 000\nVerkst dir: Knut Palmquist\nEtableringsår: 1935.\n\nLULEÅ SPEDITIONS AB\n\nPnr 95101\n\nLuleå 1. Box 45. Tel 0920-118 02,\n118 01. Bankgiro 752-5157. Postgiro\n61133-5. Tga Luleåsped. Telex\n8325\n\nVerksamhet: Spedition,\nskepps-klarering, befraktning\nAntal anställda: 6\nAktiekapital: 30 000\nVerkst dir: c W Kjellberg\nEtableringsår: 1935.\n\nPETTERSSON, AB ALGOT\n\nPnr 280 51\n\nStrömsnäsbruk 2. Box 2007. N\nSta-tionsg 13. Tel 0433-222 80.\nBankgiro 279-6217. Postgiro 284382-9\nVerksamhet: Sågverk o hyvleri\nAntal anställda: 25\nÅrsomsättning: 7 000 000\nAktiekapital: 180 000\nVerkst dir: Carl Peterson\nEtableringsår: 1917.",
+    "structured": {
+        "0": {
+            "company_name": "KRY",
+            "activity": "Tillverkar herrskor med varumärke Master",
+            "employees": 100,
+            "annual_turnover": 8000000,
+            "capital": 500000,
+            "key_personnel": [
+                {
+                    "name": "Olle Larsson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1913
+        },
+        "1": {
+            "company_name": "ELE",
+            "key_personnel": [
+                {
+                    "name": "Ing Helge Rask",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1950
+        },
+        "2": {
+            "company_name": "ELEKTRONIKBYGGSATSER AB",
+            "pnr": "182 71",
+            "address": "Stocksund, Bengt Färjares v 4.",
+            "phone_number": "08-85 75 66, 85 75 67",
+            "bank_details": {
+                "bankgiro": "13-0820",
+                "postgiro": "1535"
+            },
+            "activity": "Tillverkar elektronisk apparatur tör industriellt bruk",
+            "capital": 5000,
+            "key_personnel": [
+                {
+                    "name": "Ing John Schröder",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1965
+        },
+        "3": {
+            "company_name": "NILSSON AB, ALLAN",
+            "pnr": "27100",
+            "address": "Ystad, Box 17. Stortorget 6.",
+            "phone_number": "0411-136 60",
+            "bank_details": {
+                "bankgiro": "873-1945",
+                "postgiro": "593461-7"
+            },
+            "activity": "Köper o säljer råvaror för järn- o metallindustrin",
+            "employees": 6,
+            "annual_turnover": 25000000,
+            "capital": 45000,
+            "key_personnel": [
+                {
+                    "name": "Fru Elsa Nilsson",
+                    "position": "Styrelse"
+                },
+                {
+                    "name": "Allan Nilsson",
+                    "position": "dir"
+                },
+                {
+                    "name": "Bengt Nilsson",
+                    "position": "Disp:r"
+                }
+            ],
+            "establishment_year": 1962
+        },
+        "4": {
+            "company_name": "fal",
+            "annual_turnover": 4000000,
+            "capital": 100000,
+            "key_personnel": [
+                {
+                    "name": "Olof Fahlcrantz",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1950
+        },
+        "5": {
+            "company_name": "ETHOLIN, AB",
+            "pnr": "252 53",
+            "address": "Helsingborg, Älvsborgsg 6.",
+            "phone_number": "042-113747, 1137 41",
+            "bank_details": {
+                "postgiro": "27009-0"
+            },
+            "activity": "Tillverkar golvpolish, bonvax, disk- o rengöringsmedel, desinfektions- o luftreningsvätskor",
+            "capital": 10000,
+            "key_personnel": [
+                {
+                    "name": "Kjell Thene",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1929
+        },
+        "6": {
+            "company_name": "NORRLANDSVAGNAR AB",
+            "pnr": "930 21",
+            "address": "Bygdsiljum, Box 106.",
+            "phone_number": "0914-20210",
+            "bank_details": {
+                "bankgiro": "204-0434",
+                "postgiro": "518034-4"
+            },
+            "activity": "Tillverkar husvagnar o lätta transportabla raststugor, personal- o förläggningsvagnar",
+            "employees": 30,
+            "annual_turnover": 4500000,
+            "key_personnel": [
+                {
+                    "name": "Frans Sörensen",
+                    "position": "Ägare o chef"
+                }
+            ],
+            "establishment_year": 1961
+        },
+        "7": {
+            "company_name": "SALCO MASKIN AB",
+            "pnr": "19104",
+            "address": "Sollentuna 4, Box 439. Polkungav 1.",
+            "phone_number": "08-9602 50",
+            "bank_details": {
+                "bankgiro": "724-5590",
+                "postgiro": "55004-6"
+            },
+            "activity": "Tillverkar o säljer maskiner samt laboratorieutrust-ning för väg o byggnadsindustrin",
+            "employees": 13,
+            "annual_turnover": 7000000,
+            "capital": 100000,
+            "key_personnel": [
+                {
+                    "name": "Jarl Ergel",
+                    "position": "Dir (ordf)"
+                },
+                {
+                    "name": "Bengt Blåns",
+                    "position": "dir"
+                },
+                {
+                    "name": "Sture Hovden",
+                    "position": "adv"
+                },
+                {
+                    "name": "Göte Jönsson",
+                    "position": "dir"
+                },
+                {
+                    "name": "Gunnar Mattsson",
+                    "position": "dir"
+                }
+            ],
+            "establishment_year": 1961
+        },
+        "8": {
+            "company_name": "TRANEMO YLLEFABRIKS AB",
+            "pnr": "510 80",
+            "address": "Tranemo, Box 8.",
+            "phone_number": "0325-70140",
+            "bank_details": {
+                "bankgiro": "531-1733",
+                "postgiro": "94111-2"
+            },
+            "activity": "Modetrikå. Barnano-raker o -jackor",
+            "capital": 640000,
+            "key_personnel": [
+                {
+                    "name": "Knut Palmquist",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1935
+        },
+        "9": {
+            "company_name": "LULEÅ SPEDITIONS AB",
+            "pnr": "95101",
+            "address": "Luleå 1. Box 45.",
+            "phone_number": "0920-118 02, 118 01",
+            "bank_details": {
+                "bankgiro": "752-5157",
+                "postgiro": "61133-5"
+            },
+            "activity": "Spedition, skepps-klarering, befraktning",
+            "employees": 6,
+            "capital": 30000,
+            "key_personnel": [
+                {
+                    "name": "c W Kjellberg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1935
+        },
+        "10": {
+            "company_name": "PETTERSSON, AB ALGOT",
+            "pnr": "280 51",
+            "address": "Strömsnäsbruk 2. Box 2007. N Sta-tionsg 13.",
+            "phone_number": "0433-222 80",
+            "bank_details": {
+                "bankgiro": "279-6217",
+                "postgiro": "284382-9"
+            },
+            "activity": "Sågverk o hyvleri",
+            "employees": 25,
+            "annual_turnover": 7000000,
+            "capital": 180000,
+            "key_personnel": [
+                {
+                    "name": "Carl Peterson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1917
+        }
+    }
+}

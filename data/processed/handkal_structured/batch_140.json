@@ -1,0 +1,169 @@
+{
+    "original": "SKÅ\n\nPostgiro 148500-2. Tga\nSkånemässan. Telex 32256\nVerksamhet: Mässor o utställningar\nStyrelse: Landshövd Gösta Netzén\n(hedersordf), dir Elam Tunhammar\n(ordf)\n\nVerkst dir: Folke Svedenfors\nEtableringsår: 1919.\n\nSOLIDAR EK FOR,\nKONSU-MENT FÖRENINGEN\n\nPnr 20110\n\nMalmö 1, Spång 37. Fack. Tel\n040-709 20. Postgiro 37753. Tga Solidar\nVerksamhet: Detaljhandel i\nlivsmedelsbutiker o varuhus,\nrestaurang* o konditoriavdelningar. Bageri\nAntal anstäUda: 2 820\nÅrsomsättning: 485 900 000\nVerkst dir: Allan Nilsson\nEtableringsår: 1907.\n\nINTER.STIKAB AB\n\nPnr 182 11\n\nDanderyd, Box 53. Tel 08-755 86 72,\n755 86 73. Bankgiro 41-0436.\nPostgiro 695660. Tga Swestikab\nVerksamhet: Agenturer för utländska\nverk inom el- o maskinbranschen\nAktiekapital: 5 000\nVerkst dir: Töre Kinnmark\nEtableringsår: 1967.\n\nTRANSISTOR, AB\n\nPnr 11249\n\nStockholm K, Svarvarg 11. Tel\n08-5417 30. Postgiro 199144. Tga\nTransistor\n\nVerksamhet: Utveckling o\ntillverkning av civila o militära\nelektroniska utrustningar samt hjälpmedel\nför hörselskadade\nChef: K Lennart Grundberg\nEtableringsår 1953.\n\nRINGSTRÖM &amp; K HAN\n\nPnr 11134\n\nStockholm, Sveav 32. Tel\n08-231155. Bankgiro 72-2191.\nPostgiro 1788\n\nVerksamhet: Säljer orientaliska,\nvävda samt heltäckande mattor i\ndetalj, leverans o en gros\nAntal anställda: 27\nStyrelseordf: Dir Gösta Sahlin\nChef: Dir Gösta Sahlin\nEtableringsår: 1922.\n\nBYGG-ALGOT AB\n\nPnr 731 00\n\nKöping, V Långg 4. Tel\n0221-15971, 11271. Bankgiro 11-4712.\nPostgiro 571590-9\nVerksamhet: Puts-, byggnads- o\nreparationsarbeten\nAntal anställda: 20\nÅrsomsättning: 2 000 000\nAktiekapital: 10 000\nVerkst dir: Algot Gustavsson\nEtableringsår: 1966.\n\nVIL\n\nWILSON &amp; DAHL\nINGENJÖRS-BYRA AB\n\nPnr 113 22\n\nStockholm. Odeng 69. Tel\n08-24 7 8 50. Postgiro 457680\nVerksamhet: Konsulterande\ningenjörsbyrå för rör- o\nventilationstekniska anläggningar\nAvdelningskontor: 162 37 Vällingby,\nMedsolsbacken 17. Tel 08-38 6010\nAntal anställda: 20\nÅrsomsättning: 1200 000\nAktiekapital: 25 000\nEtableringsån 1951.\n\nMUN\n\nVerkst dir: Axel Löfström\nV verkst dir: Håkan Billgren\nEtableringsår: 1932\nIngår i Plerongruppen, Malmö.\n\nMOTORVERKEN, AB\n\nPnr 40124\n\nGöteborg 1, Box 242. Odinsg 6-8.\nTel 031-17 50 60. Bankgiro\n847-7606. Postgiro 41877-2. Tga\nMotorverken. Telex 20913 ECKBIL S\nVerksamhet: Ensamförsäljare av\nPord person- o lastbilar\nAntal anställda: 270\nAktiekapital: 175000\nVerkst dir. Franklin Eck\nEtableringsår: 1930.\n\nCORNELIUSSON AB, M &amp; O\n\nPnr 450 82\n\nHavstensund. Tel 0525-210 01,\n21100. Bankgiro 429-8071.\nPostgiro 30674-6. Tga Corneliusson\nVerksamhet: Säljer skaldjur o\nfiskvaror en gros\nAntal anställda: 5\nÅrsomsättning: 1500 000\nAktiekapital: 50 000\nVerkst dir: Bengt Corneliusson\nEtableringsår: 1875\nOmbildat till aktiebolag 1961.\n\nCORONA AB, BOKFORLAGET\n\nPnr 22104\n\nLund 1, Box 1074. Lilla Fiskareg\n6. Tel 046-1172 30, 11 20 33.\nBankgiro 870-3415* Postgiro 431433-2\nVerksamhet: Läromedel,\nfacklitteratur, barnböcker m m\nAntal anställda: 30\nÅrsomsättning: 2 500 000\nAktiekapital: 25 000\nVerkst dir: Nils-Ake Janséüs\nEtableringsår: 1961.\n\nNORDBERGH, GUSTAW\n\nPnr 11631\n\nStockholm, Renstiernas g 21. Tel\n\n08-40 74 43. Bankgiro 169-8109.\nPostgiro 357400-1\nVerksamhet: Säljer järnvaror\nengros, skylthållare, excenterreglar,\ntallrikshållare A C, dubb, nit o\nkluven nit m m\nChef: Gustaw Nordbergh\nEtableringsår: 1947.",
+    "structured": {
+        "1": {
+            "company_name": "SKÅ",
+            "activity": "Mässor o utställningar",
+            "establishment_year": 1919
+        },
+        "2": {
+            "company_name": "SOLIDAR EK FOR",
+            "pnr": "20110",
+            "address": "Malmö 1, Spång 37",
+            "phone_number": "040-709 20",
+            "bank_details": {
+                "postgiro": "37753"
+            },
+            "activity": "Detaljhandel i livsmedelsbutiker o varuhus, restaurang* o konditoriavdelningar. Bageri",
+            "employees": 2820,
+            "annual_turnover": 485900000,
+            "establishment_year": 1907
+        },
+        "3": {
+            "company_name": "INTER.STIKAB AB",
+            "pnr": "182 11",
+            "address": "Danderyd, Box 53",
+            "phone_number": "08-755 86 72, 755 86 73",
+            "bank_details": {
+                "bankgiro": "41-0436",
+                "postgiro": "695660"
+            },
+            "activity": "Agenturer för utländska verk inom el- o maskinbranschen",
+            "capital": 5000,
+            "establishment_year": 1967
+        },
+        "4": {
+            "company_name": "TRANSISTOR, AB",
+            "pnr": "11249",
+            "address": "Stockholm K, Svarvarg 11",
+            "phone_number": "08-5417 30",
+            "bank_details": {
+                "postgiro": "199144"
+            },
+            "activity": "Utveckling o tillverkning av civila o militära elektroniska utrustningar samt hjälpmedel för hörselskadade",
+            "key_personnel": [
+                {
+                    "name": "K Lennart Grundberg",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1953
+        },
+        "5": {
+            "company_name": "RINGSTRÖM & K HAN",
+            "pnr": "11134",
+            "address": "Stockholm, Sveav 32",
+            "phone_number": "08-231155",
+            "bank_details": {
+                "bankgiro": "72-2191",
+                "postgiro": "1788"
+            },
+            "activity": "Säljer orientaliska, vävda samt heltäckande mattor i detalj, leverans o en gros",
+            "employees": 27,
+            "establishment_year": 1922
+        },
+        "6": {
+            "company_name": "BYGG-ALGOT AB",
+            "pnr": "731 00",
+            "address": "Köping, V Långg 4",
+            "phone_number": "0221-15971, 11271",
+            "bank_details": {
+                "bankgiro": "11-4712",
+                "postgiro": "571590-9"
+            },
+            "activity": "Puts-, byggnads- o reparationsarbeten",
+            "employees": 20,
+            "annual_turnover": 2000000,
+            "capital": 10000,
+            "establishment_year": 1966
+        },
+        "7": {
+            "company_name": "VIL WILSON & DAHL INGENJÖRS-BYRA AB",
+            "pnr": "113 22",
+            "address": "Stockholm. Odeng 69",
+            "phone_number": "08-24 7 8 50",
+            "bank_details": {
+                "postgiro": "457680"
+            },
+            "activity": "Konsulterande ingenjörsbyrå för rör- o ventilationstekniska anläggningar",
+            "employees": 20,
+            "annual_turnover": 1200000,
+            "capital": 25000,
+            "establishment_year": 1951
+        },
+        "8": {
+            "company_name": "MOTORVERKEN, AB",
+            "pnr": "40124",
+            "address": "Göteborg 1, Box 242. Odinsg 6-8",
+            "phone_number": "031-17 50 60",
+            "bank_details": {
+                "bankgiro": "847-7606",
+                "postgiro": "41877-2"
+            },
+            "activity": "Ensamförsäljare av Pord person- o lastbilar",
+            "employees": 270,
+            "capital": 175000,
+            "key_personnel": [
+                {
+                    "name": "Franklin Eck",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1930
+        },
+        "9": {
+            "company_name": "CORNELIUSSON AB, M & O",
+            "pnr": "450 82",
+            "address": "Havstensund",
+            "phone_number": "0525-210 01, 21100",
+            "bank_details": {
+                "bankgiro": "429-8071",
+                "postgiro": "30674-6"
+            },
+            "activity": "Säljer skaldjur o fiskvaror en gros",
+            "employees": 5,
+            "annual_turnover": 1500000,
+            "capital": 50000,
+            "establishment_year": 1875
+        },
+        "10": {
+            "company_name": "CORONA AB, BOKFORLAGET",
+            "pnr": "22104",
+            "address": "Lund 1, Box 1074. Lilla Fiskareg 6",
+            "phone_number": "046-1172 30, 11 20 33",
+            "bank_details": {
+                "bankgiro": "870-3415",
+                "postgiro": "431433-2"
+            },
+            "activity": "Läromedel, facklitteratur, barnböcker m m",
+            "employees": 30,
+            "annual_turnover": 2500000,
+            "capital": 25000,
+            "key_personnel": [
+                {
+                    "name": "Nils-Ake Janséüs",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1961
+        },
+        "11": {
+            "company_name": "NORDBERGH, GUSTAW",
+            "pnr": "11631",
+            "address": "Stockholm, Renstiernas g 21",
+            "phone_number": "08-40 74 43",
+            "bank_details": {
+                "bankgiro": "169-8109",
+                "postgiro": "357400-1"
+            },
+            "activity": "Säljer järnvaror engros, skylthållare, excenterreglar, tallrikshållare A C, dubb, nit o kluven nit m m",
+            "key_personnel": [
+                {
+                    "name": "Gustaw Nordbergh",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1947
+        }
+    }
+}

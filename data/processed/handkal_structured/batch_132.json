@@ -1,0 +1,220 @@
+{
+    "original": "HJ.KOPIA H JOHNSON &amp; CO\n\nPnr 41118\n\nGöteborg. Magaslnsg 11. Tel\n031-137090, 1186 65. Bankgiro 50-1142.\nPostgiro 525537\nVerksamhet: Ljuskopiering\nAntal anställda: 9\nChef: Dir Stig H:son Johnson\nEtableringsår 1905.\n\nKÄKÄ AB\n\nPnr 211 34\n\nMalmö, Söderg 12. Tel 040-704 20.\nBankgiro 260-1037. Postgiro\n24597-7. Tga KåKå.\nTelex 32526\n\nVeiksamhet: Grosshandel med/samt\nfabrikation av råvaror för bagerier\no konditorier\nAntal anställda: 161\nÅrsomsättning: 87 300 000\nAktiekapital: 1650 000\nVerkst dir: Anders Alwå\nEtableringsår: 1927.\n\nBETONG-SANDER, AB\n\nPnr 96100\n\nBoden, Hednoret. Tel 0921-65100.\nPostgiro 61211-9. Tga Betongsander\nVerksamhet: Tillverkar betongrör,\nplattor, byggnadselement i\nförspänd betong m m\nFabriker: Arvidsjaur. Tel\n0960-100 59\n\nBastuträsk. Tel 0915-103 50\nKonstruktionskontor: Skellefteå.\nTel 0910-174 75\nKalix. Tel 0923-120 60\nNattavaara. Tel 0970-400 35\n\nVarunamn: Besacorör\nAntal anställda: 200\nÅrsomsättning: 14 000 000\nAktiekapital: 386 000\nStyrelseordf: Overlantmät Torsten\nSander\n\nVerkst dir: Ing Bengt O Sander\nEtableringsår 1926.\n\nACME BELÄGGNINGAR\nENTREPRENAD AB\n\nPnr 41734\n\nGöteborg, Ruskvädersg 3 B. Tel\n031-53 0015\n\nVerksamhet: Utför väg-, golv- o\ntakbeläggningar samt\nträdgårdsanläggningar\n\nVarunamn: Acmefloor\nAntal anställda: 50\nÅrsomsättning: 4 000 000\nAktiekapital: 50 000\nVerkst dir: Ing Sven Siewert\nEtableringsår: 1957.\n\nWIRSBO-RAMNAS KRAFT AB\n\nPnr 730 60\n\nRamnäs. Tel 0220-351 00. Bankgiro\n11^441. Postgiro 6433. Telex 4753\nVästerås\n\nVerksamhet: Kraftverksrörelse o\n\neldistribution\n\nAktiekapital: 3 000 000\n\nVerkst dir: Disp Berth v Kantzow\n\nEtableringsår: 1914.\n\nVIRSERUM, AB\nVERKTYGS-FABRIKEN\n\nPnr 570 80\n\nVirserum. Tel 0495-302 29.\nBankgiro 857-8825.. Postgiro 266900-0\nVerksamhet: Tillverkar\nmaskin-hyvelstål, stål för spån- o\nflis-tuggmaskiner m m\nAktiekapital: 50 000\nChef: Fabr Erik Axelsson\nEtableringsår: 1943.\n\nRIN\n\nRICHE, AB HOTEL &amp;\nRESTAURANT\n\nPnr 114 34\n\nStockholm, Birger jarlsg 4. Tel\n08-10 70 22\n\nFör vidare uppgifter se\nmoderbolaget Töre Wretman Restauranger AB.\n\nRICHTER, AB GUST\n\nPnr 453 00\n\nLysekil, Bangårdsg 1. Box 9. Tel\n0523-117 20. Bankgiro 548-2666.\nPostgiro 20825-6\n\nVerksamhet Tillverkar ansjovis-,\nsill- o fiskkonserver\nAntal anställda: 65\nAktiekapital: 300 000\nVeikst dir: Iwar Kaveland\nEtableringsår: 1889.\n\nPETRfS TRYCKERI\n\nPnr 462 00\n\nVänersborg, Söderg 3. Tel\n0521-139 40. Postgiro 116968\nVerksamhet: Accidenstryckeri\nAntal anställda: 3\nÅrsomsättning: 100 000\nChef: Lars Ström\nEtableringsår: 1952.\n\nSCANIA-BILAR I MALMÖ AB\n\nPnr 20110\n\nMalmö 1, Lundav 56. Fack. Tel\n010-93 4 0 00. Bankgiro 362-3139.\nPostgiro 24595-1\n\nVerksamhet: Bilförsäljning o\nservice\n\nAntal anstäUda: 292\nÅrsomsättning: 45 793 000\nAktiekapital: 1500000\nVerkst dir Göte Rohdin\nEtableringsår 1928.\n\nGRAFISK FÄRG , AB\n\nPnr 162 10\n\nVäUingby 1, Fack. Tel 08-36 26 00.\nBankgiro 169-7564. Postgiro\n1750-9. Tga Sepiaink.\nTelex 10989 SEPIA S\nVerksamhet: Tillverkar tryckfärger\nAktiekapital: 500000\nAntal anställda: 120\nVerkst dir: Sture Thörnsten\nEtableringsår: 1946.\n\nWIWEX PRESENNINGSFABRIK\n\nPnr 723 39\n\nVästerås, Skjutbaneg 8. Tel\n021-18 38 65. Bankgiro 74-8541. Postr\ngiro 643064\n\nVerksamhet: Säljer presenningar,\nbil-kapell, balkongskydd mm\nAntal anställda: 4\nÅrsomsättning: 900 000\nChef: Håkan Wadstedt\nEtableringsår: 1964.",
+    "structured": {
+        "1": {
+            "company_name": "HJ.KOPIA H JOHNSON & CO",
+            "pnr": "41118",
+            "address": "Göteborg. Magaslnsg 11",
+            "phone_number": "031-137090, 1186 65",
+            "bank_details": {
+                "bankgiro": "50-1142",
+                "postgiro": "525537"
+            },
+            "activity": "Ljuskopiering",
+            "employees": 9,
+            "key_personnel": [
+                {
+                    "name": "Dir Stig H:son Johnson",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1905
+        },
+        "2": {
+            "company_name": "KÄKÄ AB",
+            "pnr": "211 34",
+            "address": "Malmö, Söderg 12",
+            "phone_number": "040-704 20",
+            "bank_details": {
+                "bankgiro": "260-1037",
+                "postgiro": "24597-7"
+            },
+            "activity": "Grosshandel med/samt fabrikation av råvaror för bagerier o konditorier",
+            "employees": 161,
+            "annual_turnover": 87300000,
+            "capital": 1650000,
+            "key_personnel": [
+                {
+                    "name": "Anders Alwå",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1927
+        },
+        "3": {
+            "company_name": "BETONG-SANDER, AB",
+            "pnr": "96100",
+            "address": "Boden, Hednoret",
+            "phone_number": "0921-65100",
+            "postgiro": "61211-9",
+            "activity": "Tillverkar betongrör, plattor, byggnadselement i förspänd betong m m",
+            "employees": 200,
+            "annual_turnover": 14000000,
+            "capital": 386000,
+            "key_personnel": [
+                {
+                    "name": "Overlantmät Torsten Sander",
+                    "position": "Styrelseordf"
+                },
+                {
+                    "name": "Ing Bengt O Sander",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1926
+        },
+        "4": {
+            "company_name": "ACME BELÄGGNINGAR ENTREPRENAD AB",
+            "pnr": "41734",
+            "address": "Göteborg, Ruskvädersg 3 B",
+            "phone_number": "031-53 0015",
+            "activity": "Utför väg-, golv- o takbeläggningar samt trädgårdsanläggningar",
+            "employees": 50,
+            "annual_turnover": 4000000,
+            "capital": 50000,
+            "key_personnel": [
+                {
+                    "name": "Ing Sven Siewert",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1957
+        },
+        "5": {
+            "company_name": "WIRSBO-RAMNAS KRAFT AB",
+            "pnr": "730 60",
+            "address": "Ramnäs",
+            "phone_number": "0220-35100",
+            "bank_details": {
+                "bankgiro": "11^441",
+                "postgiro": "6433"
+            },
+            "activity": "Kraftverksrörelse o eldistribution",
+            "capital": 3000000,
+            "key_personnel": [
+                {
+                    "name": "Disp Berth v Kantzow",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1914
+        },
+        "6": {
+            "company_name": "VIRSERUM, AB VERKTYGS-FABRIKEN",
+            "pnr": "570 80",
+            "address": "Virserum",
+            "phone_number": "0495-302 29",
+            "bank_details": {
+                "bankgiro": "857-8825",
+                "postgiro": "266900-0"
+            },
+            "activity": "Tillverkar maskin-hyvelstål, stål för spån- o flis-tuggmaskiner m m",
+            "capital": 50000,
+            "key_personnel": [
+                {
+                    "name": "Fabr Erik Axelsson",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1943
+        },
+        "7": {
+            "company_name": "RICHTER, AB GUST",
+            "pnr": "453 00",
+            "address": "Lysekil, Bangårdsg 1",
+            "phone_number": "0523-117 20",
+            "bank_details": {
+                "bankgiro": "548-2666",
+                "postgiro": "20825-6"
+            },
+            "activity": "Tillverkar ansjovis-, sill- o fiskkonserver",
+            "employees": 65,
+            "capital": 300000,
+            "key_personnel": [
+                {
+                    "name": "Iwar Kaveland",
+                    "position": "Veikst dir"
+                }
+            ],
+            "establishment_year": 1889
+        },
+        "8": {
+            "company_name": "PETRfS TRYCKERI",
+            "pnr": "462 00",
+            "address": "Vänersborg, Söderg 3",
+            "phone_number": "0521-139 40",
+            "postgiro": "116968",
+            "activity": "Accidenstryckeri",
+            "employees": 3,
+            "annual_turnover": 100000,
+            "key_personnel": [
+                {
+                    "name": "Lars Ström",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1952
+        },
+        "9": {
+            "company_name": "SCANIA-BILAR I MALMÖ AB",
+            "pnr": "20110",
+            "address": "Malmö 1, Lundav 56",
+            "phone_number": "010-93 4 0 00",
+            "bank_details": {
+                "bankgiro": "362-3139",
+                "postgiro": "24595-1"
+            },
+            "activity": "Bilförsäljning o service",
+            "employees": 292,
+            "annual_turnover": 45793000,
+            "capital": 1500000,
+            "key_personnel": [
+                {
+                    "name": "Göte Rohdin",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1928
+        },
+        "10": {
+            "company_name": "GRAFISK FÄRG , AB",
+            "pnr": "162 10",
+            "address": "VäUingby 1",
+            "phone_number": "08-36 26 00",
+            "bank_details": {
+                "bankgiro": "169-7564",
+                "postgiro": "1750-9"
+            },
+            "activity": "Tillverkar tryckfärger",
+            "capital": 500000,
+            "employees": 120,
+            "key_personnel": [
+                {
+                    "name": "Sture Thörnsten",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1946
+        },
+        "11": {
+            "company_name": "WIWEX PRESENNINGSFABRIK",
+            "pnr": "723 39",
+            "address": "Västerås, Skjutbaneg 8",
+            "phone_number": "021-18 38 65",
+            "bank_details": {
+                "bankgiro": "74-8541",
+                "postgiro": "643064"
+            },
+            "activity": "Säljer presenningar, bil-kapell, balkongskydd mm",
+            "employees": 4,
+            "annual_turnover": 900000,
+            "key_personnel": [
+                {
+                    "name": "Håkan Wadstedt",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1964
+        }
+    }
+}
