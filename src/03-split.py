@@ -3,9 +3,9 @@ import re
 import json
 import difflib
 
-def combine_entries_with_similarity(directory, similarity_threshold=0.8):
+def combine_entries_with_similarity(directory, similarity_threshold=0.9):
     combined_entries = []
-    entry_end_pattern = r'\d{4}\.'  # Looking for a year followed by a period
+    entry_end_pattern = r'\d{4}'  # Looking for a year
     pnr_pattern = r'Pnr \d+'
     target_phrase = "Etableringsår"
 
