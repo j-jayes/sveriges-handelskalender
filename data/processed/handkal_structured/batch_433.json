@@ -1,0 +1,143 @@
+{
+    "original": "PLE\n\nSolna 1, Box 1122. Vretenv 10.\nTel 08-98 05 80. Bankgiro\n164-6090. Postgiro 353690. Tga\nPlatz-mark. Telex 1818 PLATZAB S\nAdministrativt centrum Luleå:\nLulsundsg 8. Box 223, 95101\nLuleå 1. Tel 0920-105 40\nAdministrativt centrum Göteborg:\nKr åketor psg 10 B, 43133 Mölndal.\nTel 031-27 20 60\nAntal anställda: 3 100\nÅrsomsättning: 400 000000\nAktiekapital: 14 500 000\nStyrelse: Doc Lennart Strömberg\n(crdf), dir Sven Ersman, dir Sven\nPlalzer, dir Gösta Nilsson, dir\nLars-Olof Ilvén\nVerkst dir: Sven Platzer\nPirman grundad 1969 varvid den\növertog samtliga aktier i\nWidmark &amp; Platzer AB Oberg &amp; Co\nByggnads AB o Byggnads AB Ilvén\n&amp; Källqvist.\n\nPLEO, AB\n\nPnr 422 46\n\nHisings Backa. Tel 031-52 26 22,\n52 26 23. Bankgiro 847-7747.\nPostgiro 44149-3\n\nVerksamhet: Träindustri.\nTillverkar alla slag av inredningar\nAntal anställda: 50\nÅrsomsättning: 2500 000\nAktiekapital: 260 000\nÄgare o chef: Civiling H Jacobson\nEtableringsår: 1935.\n\nETAP\n\nPnr 217 44\n\nMalmö, Fågelbacksg 13. Tel\n040-758 40. Bankgiro 645-5125.\nPostgiro 539692-4\n\nVerksamhet: Konstruktion o\ntillverkning av el-automatik o\npneu-matik samt specialmaskiner för\nförpackning, varutransport o\nhantering. Doseringsanordning för bl a\nmatfett\n\nAntal anställda: 20\nÅrsomsättning: 2 000 000\nChef: Ing René Lundström\nEtableringsår: 1963.\n\nSERIGRAFIA I GOTEBORG AB\n\nPnr 400 51\n\nGöteborg 47, Midvintersg 9. Box\n47027. Tel 031-46 2 2 96. Bankgiro\n11-7751\n\nVerksamhet: Silk-screen,\nserigra-fier, ateljé, reproduktion o tryckeri\nEtableringsàr 1966.\n\nESKILSON AB, GUST J\n\nPnr 301 02\n\nHalmstad 1, Verkstads g 2. Box 44.\nTel 035-1002 25. Bankgiro\n530-0751. Postgiro 30598-7\nVerksamhet: Säljer trävaror,\nsnickerier o byggnadsmaterial\nAntal anstäUda: 14\nÅrsomsättning: 3 000 000\nAktiekapital: 200 000\nVerkst dir: Sven Eskilson\nEtableringsår: 1923.\n\nESKILSTORPS\nSLÖJD-INDUSTRI AB\n\nPnr 330 10\n\nBredaryd. Tel 0370-850 30.\nBankgiro 542-6259. Postgiro 380751-8\nVerksamhet: Tillverkar\nstrykbräden, trädgårdssnurror, julkyrkor,\nhanddukshängare m m. Träartiklar\npå beställning\nAntal anstäUda: 10\nÅrsomsättning: 700000\nAktiekapital: 40 000\nÄgare o chefer: Evert Johansson,\nGunnar Johansson\nEtableringsår 1946.",
+    "structured": {
+        "1": {
+            "company_name": "PLE",
+            "address": "Solna 1, Box 1122. Vretenv 10.",
+            "phone_number": "08-98 05 80",
+            "bank_details": {
+                "bankgiro": "164-6090",
+                "postgiro": "353690"
+            },
+            "activity": "Träindustri",
+            "employees": 3100,
+            "annual_turnover": 400000000,
+            "capital": 14500000,
+            "key_personnel": [
+                {
+                    "name": "Doc Lennart Strömberg",
+                    "position": "crdf"
+                },
+                {
+                    "name": "Sven Ersman",
+                    "position": "dir"
+                },
+                {
+                    "name": "Sven Plalzer",
+                    "position": "dir"
+                },
+                {
+                    "name": "Gösta Nilsson",
+                    "position": "dir"
+                },
+                {
+                    "name": "Lars-Olof Ilvén",
+                    "position": "dir"
+                },
+                {
+                    "name": "Sven Platzer",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1969
+        },
+        "2": {
+            "company_name": "PLEO, AB",
+            "pnr": "422 46",
+            "address": "Hisings Backa",
+            "phone_number": "031-52 26 22, 52 26 23",
+            "bank_details": {
+                "bankgiro": "847-7747",
+                "postgiro": "44149-3"
+            },
+            "activity": "Träindustri",
+            "employees": 50,
+            "annual_turnover": 2500000,
+            "capital": 260000,
+            "key_personnel": [
+                {
+                    "name": "Civiling H Jacobson",
+                    "position": "Ägare o chef"
+                }
+            ],
+            "establishment_year": 1935
+        },
+        "3": {
+            "company_name": "ETAP",
+            "pnr": "217 44",
+            "address": "Malmö, Fågelbacksg 13",
+            "phone_number": "040-758 40",
+            "bank_details": {
+                "bankgiro": "645-5125",
+                "postgiro": "539692-4"
+            },
+            "activity": "Konstruktion o tillverkning av el-automatik o pneu-matik samt specialmaskiner för förpackning, varutransport o hantering. Doseringsanordning för bl a matfett",
+            "employees": 20,
+            "annual_turnover": 2000000,
+            "key_personnel": [
+                {
+                    "name": "Ing René Lundström",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1963
+        },
+        "4": {
+            "company_name": "SERIGRAFIA I GOTEBORG AB",
+            "pnr": "400 51",
+            "address": "Göteborg 47, Midvintersg 9. Box 47027",
+            "phone_number": "031-46 2 2 96",
+            "bank_details": {
+                "bankgiro": "11-7751"
+            },
+            "activity": "Silk-screen, serigra-fier, ateljé, reproduktion o tryckeri",
+            "establishment_year": 1966
+        },
+        "5": {
+            "company_name": "ESKILSON AB, GUST J",
+            "pnr": "301 02",
+            "address": "Halmstad 1, Verkstads g 2. Box 44",
+            "phone_number": "035-1002 25",
+            "bank_details": {
+                "bankgiro": "530-0751",
+                "postgiro": "30598-7"
+            },
+            "activity": "Säljer trävaror, snickerier o byggnadsmaterial",
+            "employees": 14,
+            "annual_turnover": 3000000,
+            "capital": 200000,
+            "key_personnel": [
+                {
+                    "name": "Sven Eskilson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1923
+        },
+        "6": {
+            "company_name": "ESKILSTORPS SLÖJD-INDUSTRI AB",
+            "pnr": "330 10",
+            "address": "Bredaryd",
+            "phone_number": "0370-850 30",
+            "bank_details": {
+                "bankgiro": "542-6259",
+                "postgiro": "380751-8"
+            },
+            "activity": "Tillverkar strykbräden, trädgårdssnurror, julkyrkor, handdukshängare m m. Träartiklar på beställning",
+            "employees": 10,
+            "annual_turnover": 700000,
+            "capital": 40000,
+            "key_personnel": [
+                {
+                    "name": "Evert Johansson",
+                    "position": "Ägare o chefer"
+                },
+                {
+                    "name": "Gunnar Johansson",
+                    "position": "Ägare o chefer"
+                }
+            ],
+            "establishment_year": 1946
+        }
+    }
+}

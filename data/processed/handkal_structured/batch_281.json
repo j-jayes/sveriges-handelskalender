@@ -1,0 +1,233 @@
+{
+    "original": "NÄSSJÖ TRÄVARU AB\n\nPnr 57100\n\nNässjö, Storg 49 B. Box 199. Tel\n0380-100 1 3, 152 1 3. Bankgiro\n452-7719. Postgiro 86195-5. Tga Wikdan\nVerksamhet: Distriktombud för\nSvenska Cellulosa Aktiebolagets\nBoard- o Plywoodavdelning; Ryab\nspånskivor, Finsk björkplywood.\nPerstorpplattor\nAntal anställda: 10\nÅrsomsättning: 6 000000\nAktiekapital: 125 000\nVerkst dir: Thorsten Cederberg\nEtableringsår: 1904.\n\nFRE\n\nBankgiro 23-8406. Postgiro 94933\nVerksamhet: Byggnadssnickerier:\nentréportar, glaspartier\nAntal anställda: 20\nAktiekapital: 105 000\nVerkst dir: Folke Söderberg\nEtableringsår: 1918.\n\nFIEDLER, AB FREDERIK\n\nPnr 25103\n\nHälsingborg 1, Carlsg 9. Box 152.\nTel 042-1262 40. Bankgiro\n652-8145. Postgiro 158788-0. Tga\nFiedlerfred\n\nVerksamhet:\nHeminredningstextilier, möbeltyger, mattor, gardiner\nen gros\n\nAntal anställda: 10\nAktiekapital: 200 000\nVerkst dir: H Rasmusson\nEtableringsår: 1940.\n\nFOLLIN &amp; GRANAR AB\n\nPnr 502 60\n\nBorås, Metallg. Tel 033-11 16 41.\nBankgiro 531-4232. Postgiro\n365826-7\n\nVerksamhet: Konstruktion o\ntillverkning av formverktyg för plast,\nlättmetaller m m\nAntal anställda: 30\nVerkst dir: Ake Follin\nVerkstadschef: Ing Olof Granar\nEtableringsån 1948\nOmbildat till aktiebolag 1967.\n\nFONDKOMMISSION, AB\n\nPnr 11130\n\nStockholm, Skeppsbron 8. Tel\n08-23 18 95. Bankgiro 72-9507.\nPostgiro 507400-0. Tga\nFondkommission\n\nVerksamhet:\nFondkommissionärs-rörelse\n\nAntal anställda: 7\nAktiekapital: 500 000\nVerkst dir: Carl A Thulin\nEtableringsår: 1920.\n\nHA.PE JÄRNINDUSTRI\n\nPnr 330 33\n\nHillerstorp. Tel 0370-220 43\nVerkstmhet: Tillverkar\ngjuteri-artiklar, gardinbeslag m m\nÅrsomsättning: 600 000\nChef: Helge Petersson\nEtableringsår: 1938.\n\nSÖRMLANDS GRAFISKA AB\n\nPnr 641 00\n\nKatrineholm, Box 100. S\nHögmos-sev 7. Tel 0150-160 70. Bankgiro\n200-3929. Postgiro 412755-1\nVerksamhet: Bok- o offsettryckeri\nAntal anställda: 125\nAktiekapital: 300 000\nStyrelse: Dlr Sture Blomberg (ordf),\nkamrer Nils Ekström, dir Lars\nWidström\n\nVerkst dir: Lars Wirström\nFörsäljn-dir: Trygve Svendsen\nProd-chef: Stig Gustavsson\nEtableringsår: 1958.\n\nBETONGINDUSTRI, AB\n\nPnr 104 25\n\nStockholm 30, Lindhagensg 132.\nFack. Tel 08-24 20 60. Bankgiro\n483-1236. Postgiro 2453-9\nVerksamhet: Tillverkar\nfabriksbetong o lägger betonggolv\nAntal anställda: 533\nÅrsomsättning: 127136 000\nAktiekapital: 10 000 000\nVerkst dir: Civiling Göran Bjursten\nEtableringsår: 1931.\n\nPENDAX AB\n\nPnr 21618\n\nMalmö, Stjärnplan 3. Tel\n040-16 0075. Bankgiro 806-7167.\nPostgiro 636560-5. Tga Sydgrupp.\nTelex 32454 NORDWET S\nVerksamhet: Säljer kopierings-,\nmikrofilm- o dikteringsmaskiner\nsamt AV-hjälpmedel\nAvdelningskontor: 161 34 Bromma,\nMargretelundsv 17. Tel 08-80 2955\nAntal anställda: 10\nÅrsomsättning: 1200 000\nAktiekapital: 20 000\nVerkst dir: Bengt Svenby\nEtableringsår: 1967.\n\nENÅ SNICKERIFABRIK AB\n\nPnr 79400\n\nOrsa, Box 6. Tel 0250-40078.\nBankgiro 469-6738. Postgiro\n96407-2\n\nVerksamhet: Tillverkar o säljer\n\nbyggnadssnickerier\n\nAntal anställda: 4\n\nÅrsomsättning: 200 000\n\nAktiekapital: 10 400\n\nVerkst dir: Fabr Holger Persson\n\nEtableringsår 1903.\n\nTHULIN, AB G\n\nPnr 70104\n\nÖrebro 1, Hagmarksg 39. Box 282.\nTel 019-12 42 45. Bankgiro\n614-5221. Postgiro 72175-3. Tga\nGetekläder\n\nVerksamhet: Konfektionsfabriker\nmed butikskedja\nAntal anställda: 260\nÅrsomsättning: 18 700 000\nAktiekapital: 100000\nVerkst dir: Gunnar Thulin\nEtableringsår: 1923.",
+    "structured": {
+        "1": {
+            "company_name": "NÄSSJÖ TRÄVARU AB",
+            "pnr": "57100",
+            "address": "Nässjö, Storg 49 B. Box 199.",
+            "phone_number": "0380-100 1 3, 152 1 3",
+            "bank_details": {
+                "bankgiro": "452-7719",
+                "postgiro": "86195-5"
+            },
+            "activity": "Distriktombud för Svenska Cellulosa Aktiebolagets Board- o Plywoodavdelning; Ryab spånskivor, Finsk björkplywood. Perstorpplattor",
+            "employees": 10,
+            "annual_turnover": 6000000,
+            "capital": 125000,
+            "key_personnel": [
+                {
+                    "name": "Thorsten Cederberg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1904
+        },
+        "2": {
+            "company_name": "FRE",
+            "bank_details": {
+                "bankgiro": "23-8406",
+                "postgiro": "94933"
+            },
+            "activity": "Byggnadssnickerier: entréportar, glaspartier",
+            "employees": 20,
+            "capital": 105000,
+            "key_personnel": [
+                {
+                    "name": "Folke Söderberg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1918
+        },
+        "3": {
+            "company_name": "FIEDLER, AB FREDERIK",
+            "pnr": "25103",
+            "address": "Hälsingborg 1, Carlsg 9. Box 152.",
+            "phone_number": "042-1262 40",
+            "bank_details": {
+                "bankgiro": "652-8145",
+                "postgiro": "158788-0"
+            },
+            "activity": "Heminredningstextilier, möbeltyger, mattor, gardiner en gros",
+            "employees": 10,
+            "capital": 200000,
+            "key_personnel": [
+                {
+                    "name": "H Rasmusson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1940
+        },
+        "4": {
+            "company_name": "FOLLIN & GRANAR AB",
+            "pnr": "502 60",
+            "address": "Borås, Metallg",
+            "phone_number": "033-11 16 41",
+            "bank_details": {
+                "bankgiro": "531-4232",
+                "postgiro": "365826-7"
+            },
+            "activity": "Konstruktion o tillverkning av formverktyg för plast, lättmetaller m m",
+            "employees": 30,
+            "key_personnel": [
+                {
+                    "name": "Ake Follin",
+                    "position": "Verkst dir"
+                },
+                {
+                    "name": "Ing Olof Granar",
+                    "position": "Verkstadschef"
+                }
+            ],
+            "establishment_year": 1948
+        },
+        "5": {
+            "company_name": "FONDKOMMISSION, AB",
+            "pnr": "11130",
+            "address": "Stockholm, Skeppsbron 8",
+            "phone_number": "08-23 18 95",
+            "bank_details": {
+                "bankgiro": "72-9507",
+                "postgiro": "507400-0"
+            },
+            "activity": "Fondkommissionärs-rörelse",
+            "employees": 7,
+            "capital": 500000,
+            "key_personnel": [
+                {
+                    "name": "Carl A Thulin",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1920
+        },
+        "6": {
+            "company_name": "HA.PE JÄRNINDUSTRI",
+            "pnr": "330 33",
+            "address": "Hillerstorp",
+            "phone_number": "0370-220 43",
+            "activity": "Tillverkar gjuteri-artiklar, gardinbeslag m m",
+            "annual_turnover": 600000,
+            "key_personnel": [
+                {
+                    "name": "Helge Petersson",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1938
+        },
+        "7": {
+            "company_name": "SÖRMLANDS GRAFISKA AB",
+            "pnr": "641 00",
+            "address": "Katrineholm, Box 100. S Högmos-sev 7",
+            "phone_number": "0150-160 70",
+            "bank_details": {
+                "bankgiro": "200-3929",
+                "postgiro": "412755-1"
+            },
+            "activity": "Bok- o offsettryckeri",
+            "employees": 125,
+            "capital": 300000,
+            "key_personnel": [
+                {
+                    "name": "Lars Wirström",
+                    "position": "Verkst dir"
+                },
+                {
+                    "name": "Trygve Svendsen",
+                    "position": "Försäljn-dir"
+                },
+                {
+                    "name": "Stig Gustavsson",
+                    "position": "Prod-chef"
+                }
+            ],
+            "establishment_year": 1958
+        },
+        "8": {
+            "company_name": "BETONGINDUSTRI, AB",
+            "pnr": "104 25",
+            "address": "Stockholm 30, Lindhagensg 132. Fack",
+            "phone_number": "08-24 20 60",
+            "bank_details": {
+                "bankgiro": "483-1236",
+                "postgiro": "2453-9"
+            },
+            "activity": "Tillverkar fabriksbetong o lägger betonggolv",
+            "employees": 533,
+            "annual_turnover": 127136000,
+            "capital": 10000000,
+            "key_personnel": [
+                {
+                    "name": "Civiling Göran Bjursten",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1931
+        },
+        "9": {
+            "company_name": "PENDAX AB",
+            "pnr": "21618",
+            "address": "Malmö, Stjärnplan 3",
+            "phone_number": "040-16 0075",
+            "bank_details": {
+                "bankgiro": "806-7167",
+                "postgiro": "636560-5"
+            },
+            "activity": "Säljer kopierings-, mikrofilm- o dikteringsmaskiner samt AV-hjälpmedel",
+            "employees": 10,
+            "annual_turnover": 1200000,
+            "capital": 20000,
+            "key_personnel": [
+                {
+                    "name": "Bengt Svenby",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1967
+        },
+        "10": {
+            "company_name": "ENÅ SNICKERIFABRIK AB",
+            "pnr": "79400",
+            "address": "Orsa, Box 6",
+            "phone_number": "0250-40078",
+            "bank_details": {
+                "bankgiro": "469-6738",
+                "postgiro": "96407-2"
+            },
+            "activity": "Tillverkar o säljer byggnadssnickerier",
+            "employees": 4,
+            "annual_turnover": 200000,
+            "capital": 10400,
+            "key_personnel": [
+                {
+                    "name": "Fabr Holger Persson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1903
+        },
+        "11": {
+            "company_name": "THULIN, AB G",
+            "pnr": "70104",
+            "address": "Örebro 1, Hagmarksg 39. Box 282",
+            "phone_number": "019-12 42 45",
+            "bank_details": {
+                "bankgiro": "614-5221",
+                "postgiro": "72175-3"
+            },
+            "activity": "Konfektionsfabriker med butikskedja",
+            "employees": 260,
+            "annual_turnover": 18700000,
+            "capital": 100000,
+            "key_personnel": [
+                {
+                    "name": "Gunnar Thulin",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1923
+        }
+    }
+}

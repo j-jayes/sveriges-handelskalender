@@ -1,0 +1,255 @@
+{
+    "original": "BOX\n\n117 25. Bankgiro 428-8098.\nPostgiro 30300-8. Tga Bovik\nVerksamhet: Tillverkar ansjovis o\nsill i gaffelbitar\nAntal anställda: 100\nAktiekapital: 402 000\nVerkst dir: Göthe Grusell\nEtableringsår: 1898.\n\nSCHOEN &amp; ZOON AB, PIETER\n\nPnr 400 13\n\nGöteborg 36, Box 36130.\nPartihallarna. Tel 031-19 67 30,19 68 50.\nBankgiro 440-7078. Postgiro\n626490-7. Tga Slgmagot.\nTelex 2583\n\nVerksamhet: Försäljning av\nfartygsfärger\nAktiekapital: 25 000\nVerkst dir: Rudolf Gustafsson\nEtableringsår: 1964.\n\nPUR\n\nCarl Bäckman, civiling Sven\nKnutsson, tandläk Runa Hansson,\ntand-läk Ake Henriksson\nVerkst dir: Berndt-Ake Hansson\nFörsälj-chef: Sven Knutsson\nVerkstadschef: Sven Axelsson.\n\nFURE AB, T\n\nPnr 41317\n\nGöteborg, Älghagsg 1. Tel\n031-24 65 82. Bankgiro 50-8828.\nPostgiro 49863\n\nVerksamhet: Tillverkar o säljer\nsvetsmaskiner o svetsmaterial\nVarunamn: Arcos\nAntal anställda: 4\nÅrsomsättning: 500 000\nAktiekapital: 30 000\nStyrelse: Civiling T Puré (ordf), ing\nAnna Karin Puré, fru Sissel Lie\nVerkst dir: Civiling Truls Puré\nEtableringsår: 1951.\n\nLEE BRUK, AB\n\nPnr 660 01\n\nEd. Tel 0534-11130. Bankgiro\n534-4858, 890-6125. Postgiro 70723-2\nVerksamhet: Såg om 2 ramar o\nhyvleri\n\nAktiekapital: 150 000\nVerkst dir: Peder Höland\nFörvaltare: Conrad Sinclair\nEtableringsår: 1910.\n\nÅKERMANS VERKSTAD AB\n\nPnr 241 00\n\nEslöv, Pärlg 5. Fack. Tel\n0413-13110. Bankgiro 65-1508. Postgiro\n30605. Tga Åkermans\nVerksamhet: Tillverkar o säljer\ngrävmaskiner o pålningsmaskiner\nVarunamn: Åkerman\n.Antal anställda: 430\nÅrsomsättning: 77000 000\nAktiekapital: 12 000 000\nStyrelse: Bankdir Hans\nCavalli-Björkman(ordf), dir Göran Ekelund,\nbankdir Bengt Linander, civiling\nNils Linander, dir Sven D\nSonesson\n\nVerkst dir: Civiling Nils Linander\nEtableringsår: 1890.\n\nASOMA, AB\n\nPnr 732 00\n\nArboga. N Agatan. Box 28. Tel\n0589-105 06, 13400. Bankgiro\n80-9905. Postgiro 347853\nVerksamhet: Tillverkar broräcken\no kantskoningar\nAktiekapital: 100 000\nVerkst dir: Lars Waxin\nEtableringsår: 1951.\n\nSPRINTER PACK AB\n\nPnr 301 03\n\nHalmstad 1, Laholmsv. Box 152.\nTel 035-1182 80. Bankgiro 33-8992.\nPostgiro 91808. Tga Sprinter.\nTelex 38047\n\nVerksamhet: Tillverkar o säljer\nförpackningar\n\nFörsäljningskontor: 113 29\nStockholm, Rådmansg 88. Tel 08-24 84 40\n400 62 Göteborg 29, Fack 29006.\nTel 031-19 53 45\nVarunamn: Sprinter, Traytite\nAntal anställda: 250\nÅrsomsättning: 27 000 000\nVerkst dir: Yngve Hammenberg\nEtableringsår: 1947.\n\nALBA FABRIKERS AB\n\nPnr 240 10\n\nDalby. Tel 046-503 41, 503 42.\nBankgiro 27-7708. Postgiro\n139560. Tga Dalby\nVerksamhet: Margarin- o\nsenapsfabrik\n\nAntal anställda: 15\nÅrsomsättning: 4 500 000\nAktiekapital: 100 000\nDisp: Thure B Olsson, Lisa\nVir-gin-Hedin\n\nEtableringsår: 1931.\n\nSWANBERG&amp; CO\n\nPnr 16151\n\nBromma, Fagervlksv 37. Tel\n08-25 79 73\n\nVerksamhet: Tillverkar o säljer\nrörrengöringsmedel för avlopp etc\nÄgare o chef: Disp Oscar W\nSwan-berg\n\nEtableringsår: 1935.\n\nZEISS SVENSKA AB\n\nPnr 103 43\n\nStockholm 40. Box 40114. Kungsg\n33. Tel 08-24 02 00. Bankgiro\n168-8217. Postgiro 150776. Tga Zeiss.\nTelex 19305\n\nVerksamhet: Instrument o optiska\nartiklar\n\nFiUaler: 416 64 Göteborg, N Agatan\n10. Tel 031-19 81 52, 19 8120\n22104 Lund, L Gråbrödersg 2.\nTel 046-12 37 04\n\n902 46 Umeå, Skolg 117. Tel\n090-1227 65\n\nVarunamn: Zeiss, Carl, Zeiss Ikon,\nVoigtländer AG\nAntal anstäUda: 80\nAktiekapital: 450 000\nVerkst dir: Rune Fahlström\nEtableringsår: 1936.",
+    "structured": {
+        "1": {
+            "company_name": "BOX",
+            "address": "117 25",
+            "bank_details": {
+                "bankgiro": "428-8098"
+            },
+            "activity": "Tillverkar ansjovis och sill i gaffelbitar",
+            "employees": 100,
+            "capital": 402000,
+            "key_personnel": [
+                {
+                    "name": "Göthe Grusell",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1898
+        },
+        "2": {
+            "company_name": "SCHOEN & ZOON AB, PIETER",
+            "pnr": "400 13",
+            "address": "Göteborg 36, Box 36130",
+            "phone_number": "031-19 67 30, 19 68 50",
+            "bank_details": {
+                "bankgiro": "440-7078",
+                "postgiro": "626490-7"
+            },
+            "activity": "Försäljning av fartygsfärger",
+            "capital": 25000,
+            "key_personnel": [
+                {
+                    "name": "Rudolf Gustafsson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1964
+        },
+        "3": {
+            "company_name": "PUR",
+            "key_personnel": [
+                {
+                    "name": "Carl Bäckman",
+                    "position": "civiling Sven Knutsson"
+                },
+                {
+                    "name": "Berndt-Ake Hansson",
+                    "position": "Verkst dir"
+                },
+                {
+                    "name": "Sven Knutsson",
+                    "position": "Försälj-chef"
+                },
+                {
+                    "name": "Sven Axelsson",
+                    "position": "Verkstadschef"
+                }
+            ]
+        },
+        "4": {
+            "company_name": "FURE AB, T",
+            "pnr": "41317",
+            "address": "Göteborg, Älghagsg 1",
+            "phone_number": "031-24 65 82",
+            "bank_details": {
+                "bankgiro": "50-8828",
+                "postgiro": "49863"
+            },
+            "activity": "Tillverkar och säljer svetsmaskiner och svetsmaterial",
+            "annual_turnover": 500000,
+            "capital": 30000,
+            "key_personnel": [
+                {
+                    "name": "Civiling T Puré",
+                    "position": "ordf"
+                },
+                {
+                    "name": "ing Anna Karin Puré",
+                    "position": null
+                },
+                {
+                    "name": "fru Sissel Lie",
+                    "position": null
+                },
+                {
+                    "name": "Civiling Truls Puré",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1951
+        },
+        "5": {
+            "company_name": "LEE BRUK, AB",
+            "pnr": "660 01",
+            "address": "Ed",
+            "phone_number": "0534-11130",
+            "bank_details": {
+                "bankgiro": "534-4858, 890-6125",
+                "postgiro": "70723-2"
+            },
+            "activity": "Såg om 2 ramar och hyvleri",
+            "capital": 150000,
+            "key_personnel": [
+                {
+                    "name": "Peder Höland",
+                    "position": "Verkst dir"
+                },
+                {
+                    "name": "Conrad Sinclair",
+                    "position": "Förvaltare"
+                }
+            ],
+            "establishment_year": 1910
+        },
+        "6": {
+            "company_name": "ÅKERMANS VERKSTAD AB",
+            "pnr": "241 00",
+            "address": "Eslöv, Pärlg 5",
+            "phone_number": "0413-13110",
+            "bank_details": {
+                "bankgiro": "65-1508",
+                "postgiro": "30605"
+            },
+            "activity": "Tillverkar och säljer grävmaskiner och pålningsmaskiner",
+            "annual_turnover": 77000000,
+            "capital": 12000000,
+            "key_personnel": [
+                {
+                    "name": "Bankdir Hans Cavalli-Björkman",
+                    "position": "ordf"
+                },
+                {
+                    "name": "dir Göran Ekelund",
+                    "position": null
+                },
+                {
+                    "name": "bankdir Bengt Linander",
+                    "position": null
+                },
+                {
+                    "name": "civiling Nils Linander",
+                    "position": null
+                },
+                {
+                    "name": "dir Sven D Sonesson",
+                    "position": null
+                },
+                {
+                    "name": "Civiling Nils Linander",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1890
+        },
+        "7": {
+            "company_name": "ASOMA, AB",
+            "pnr": "732 00",
+            "address": "Arboga, N Agatan, Box 28",
+            "phone_number": "0589-105 06, 13400",
+            "bank_details": {
+                "bankgiro": "80-9905",
+                "postgiro": "347853"
+            },
+            "activity": "Tillverkar broräcken och kantskoningar",
+            "capital": 100000,
+            "key_personnel": [
+                {
+                    "name": "Lars Waxin",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1951
+        },
+        "8": {
+            "company_name": "SPRINTER PACK AB",
+            "pnr": "301 03",
+            "address": "Halmstad 1, Laholmsv, Box 152",
+            "phone_number": "035-1182 80",
+            "bank_details": {
+                "bankgiro": "33-8992",
+                "postgiro": "91808"
+            },
+            "activity": "Tillverkar och säljer förpackningar",
+            "employees": 250,
+            "annual_turnover": 27000000,
+            "key_personnel": [
+                {
+                    "name": "Yngve Hammenberg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1947
+        },
+        "9": {
+            "company_name": "ALBA FABRIKERS AB",
+            "pnr": "240 10",
+            "address": "Dalby",
+            "phone_number": "046-503 41, 503 42",
+            "bank_details": {
+                "bankgiro": "27-7708",
+                "postgiro": "139560"
+            },
+            "activity": "Margarin- och senapsfabrik",
+            "employees": 15,
+            "annual_turnover": 4500000,
+            "capital": 100000,
+            "key_personnel": [
+                {
+                    "name": "Thure B Olsson",
+                    "position": null
+                },
+                {
+                    "name": "Lisa Virgin-Hedin",
+                    "position": null
+                }
+            ],
+            "establishment_year": 1931
+        },
+        "10": {
+            "company_name": "SWANBERG & CO",
+            "pnr": "16151",
+            "address": "Bromma, Fagervlksv 37",
+            "phone_number": "08-25 79 73",
+            "activity": "Tillverkar och säljer rörrengöringsmedel för avlopp etc",
+            "key_personnel": [
+                {
+                    "name": "Disp Oscar W Swan-berg",
+                    "position": "Ägare och chef"
+                }
+            ],
+            "establishment_year": 1935
+        },
+        "11": {
+            "company_name": "ZEISS SVENSKA AB",
+            "pnr": "103 43",
+            "address": "Stockholm 40, Box 40114, Kungsg 33",
+            "phone_number": "08-24 02 00",
+            "bank_details": {
+                "bankgiro": "168-8217",
+                "postgiro": "150776"
+            },
+            "activity": "Instrument och optiska artiklar",
+            "employees": 80,
+            "capital": 450000,
+            "key_personnel": [
+                {
+                    "name": "Rune Fahlström",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1936
+        }
+    }
+}

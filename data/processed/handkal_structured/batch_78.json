@@ -1,0 +1,230 @@
+{
+    "original": "PANAX TRIKÅFABRIK AB\n\nPnr 182 75\n\nStocksund, Apelv 24. Tel\n08-85 40 06. Bankgiro 541-6045.\nPostgiro 379684-4\n\nVerksamhet: Tillverkar o säljer\n\ntrikåvaror\n\nAntal anställda: 25\n\nÅrsomsättning: 1750 000\n\nAktiekapital: 20000\n\nVerkst din Holge Pettersson\n\nEtableringsår: 1953.\n\nHELLBERG AB, J A\n\nPnr 630 05\n\nEskilstuna 5, Skjulstag 17. Box\n5066. Tel 016-13 13 61. Bankgiro\n601-4658. Postgiro 10797-9\nVerksamhet: Tillverkar jakt- o\nmattknivar, metallvaror samt\nkonsthantverksprodukter\nÅrsomsättning: 400 000\nAktiekapital: 25 000\nChef: Gösta Cenner\nEtableringsår: 1891.\n\nEXTRUFORM AB\n\nPnr 260 33\n\nPåarp, Industrig. Tel 042-276 75.\nBankgiro 806-3232. Postgiro\n699580-7\n\nVerksamhet: Tillverkar\nsträng-sprutade produkter, speciellt av\nPVC. Egen materialberedning\n\nAktiekapital: 500 000\nVerkst dir: Ing Töre Åkesson\nEtableringsår: 1967.\n\nRYB\n\nAntal anställda: 25\nÅrsomsättning: 2 000 000\nAktiekapital: 210 000\n\nVerkst dir Lennart Ryberg\nEtableringsår: 1938.\n\nKARLSHAMNS TRUCKEN AB\n\nPnr 292 00\n\nKarlshamn, Vink elg 1. Tel\n0454-166 55. Bankgiro 656-5352.\nPostgiro 30275-2\n\nVerksamhet: Tillverkar\ngaffeltruckar. Kapacitet 1-2 ton. Säljer\ngaffeltruckar. Kapacitet 1-4 ton,\näven begagnade\nVerkst dir: civiling Karl Ake\nKarlsson\n\nEtableringsår: 1875.\n\nELE\n\nELEKTRO-GENNEL, AB\n\nPnr 116 53\n\nStockholm, Rosenlundsg 50. Tel\n08-84 04 40. Bankgiro 563-4498.\nPostgiro 19-0. Tga Elgennel.\nTelex 10605\n\nVerksamhet: Tillverkar o\nimporterar elektr hushållsapparater\nAktiekapital: 150 000\nVerkst dir: Dr-ing Felix Nieburg\nEtableringsår: 1921.\n\nELEKTROHELIOS\nFÖRSÄLJ-NINGS AB\n\nPnr 105 45\n\nStockholm, Luxbacken 1, Lilla\nEssingen. Tel 08-2285 20.\nBankgiro 17-1919. Postgiro 2865. Tga\nElektrohelios\n\nVerksamhet: Säljer elektr\nhushållsapparater o kempletta kök\nAntal anställda: 124\nÅrsomsättning: 95 700 000\nAktiekapital: 500000\nVerkst dir: Gunnar Ekblad\nEtableringsår: 1963.\n\nWOODMAN, AB\n\nPnr 402 71\n\nGöteborg 8, Box 8804. Gamla\nTuvev 3. Tel 031-23 82 30, 23 8231.\nBankgiro 337-7116. Postgiro\n529200-8. Tga Manwood\nVeiksamhet: Pallboxar,\nspecialemballage i plywood, trä o stål\nAntal anställda: 15\nÅrsomsättning: 6 500 000\nAktiekapital: 75000\nVerkst dir: Ing Odd Nyman\nEtableringsår: 1960.\n\nDYVIKS BRUKS AB\n\nPnr 184 00\n\nAkersberga. Tel 0764-540 26,\n540 47. Bankgiro 16-0597.\nPostgiro 293737-3\n\nVerksamhet: Tillverkar\nspecial-karosserier samt kyl- o frysvagnar.\nSäljer plastbåtar\nVarunamn: Dysolid\nAntal anställda: 35\nÅrsomsättning: 3 000 000\nAktiekapital: 400 000\nStyrelse: Disp O Sjövall (ordf),\ndisp Göran Holmquist, bankdir\nBo Höglund\n\nVerkst dir: Disp Göran Holmquist\nEtableringsår: 1940.\n\nREKLAMSTATISTIK AB\n\nPnr 17121\n\nSolna 1, Box 1040. Virebergsv 13.\nTel 08-82 02 30. Bankgiro 481-4497.\nPostgiro 642050-9\nVerksamhet: Reklammätningar,\nreklamundersökningar\nVerkst dir: Lars Sundin\nEtableringsår: 1963.\n\nSNOLAND AB\n\nPnr 441 00\n\nAlingsås, Nolhaga. Tel 0322-142 60.\nBankgiro 88-9750. Postgiro 48114.\nTga Snowland.\nTelex 2457 MIWASNO S\nVerksamhet: Kemisk teknisk fabrik\nAntal anställda: 20\nAktiekapital: 75 000\nVerkst dir: Ingvar Warnberg\nEtableringsår: 1951.\n\nSNOSTORPS SNICKERIFABRIK\nG WESIK\n\nPnr 302 56\n\nHalmstad, Korsv 23. Tel\n035-11 18 68. Bankgiro 42-3802. Postr\ngiro 283634\n\nVerksamhet: Alla slags\nbyggnads-o inredningssnickerier\nAntal anställda: 10\nÅrsomsättning: 600 000\nChef: Fabr George Wesik\nEtableringsår: 1959.",
+    "structured": {
+        "1": {
+            "company_name": "PANAX TRIKÅFABRIK AB",
+            "pnr": "182 75",
+            "address": "Stocksund, Apelv 24.",
+            "phone_number": "08-85 40 06",
+            "bank_details": {
+                "bankgiro": "541-6045",
+                "postgiro": "379684-4"
+            },
+            "activity": "Tillverkar o säljer trikåvaror",
+            "employees": 25,
+            "annual_turnover": 1750000,
+            "capital": 20000,
+            "establishment_year": 1953
+        },
+        "2": {
+            "company_name": "HELLBERG AB, J A",
+            "pnr": "630 05",
+            "address": "Eskilstuna 5, Skjulstag 17. Box 5066.",
+            "phone_number": "016-13 13 61",
+            "bank_details": {
+                "bankgiro": "601-4658",
+                "postgiro": "10797-9"
+            },
+            "activity": "Tillverkar jakt- o mattknivar, metallvaror samt konsthantverksprodukter",
+            "annual_turnover": 400000,
+            "capital": 25000,
+            "key_personnel": [
+                {
+                    "name": "Gösta Cenner",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1891
+        },
+        "3": {
+            "company_name": "EXTRUFORM AB",
+            "pnr": "260 33",
+            "address": "Påarp, Industrig.",
+            "phone_number": "042-276 75",
+            "bank_details": {
+                "bankgiro": "806-3232",
+                "postgiro": "699580-7"
+            },
+            "activity": "Tillverkar sträng-sprutade produkter, speciellt av PVC. Egen materialberedning",
+            "capital": 500000,
+            "key_personnel": [
+                {
+                    "name": "Ing Töre Åkesson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1967
+        },
+        "4": {
+            "company_name": "RYB",
+            "employees": 25,
+            "annual_turnover": 2000000,
+            "capital": 210000,
+            "key_personnel": [
+                {
+                    "name": "Lennart Ryberg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1938
+        },
+        "5": {
+            "company_name": "KARLSHAMNS TRUCKEN AB",
+            "pnr": "292 00",
+            "address": "Karlshamn, Vink elg 1.",
+            "phone_number": "0454-166 55",
+            "bank_details": {
+                "bankgiro": "656-5352",
+                "postgiro": "30275-2"
+            },
+            "activity": "Tillverkar gaffeltruckar. Kapacitet 1-2 ton. Säljer gaffeltruckar. Kapacitet 1-4 ton, även begagnade",
+            "key_personnel": [
+                {
+                    "name": "civiling Karl Ake Karlsson",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1875
+        },
+        "6": {
+            "company_name": "ELEKTRO-GENNEL, AB",
+            "pnr": "116 53",
+            "address": "Stockholm, Rosenlundsg 50.",
+            "phone_number": "08-84 04 40",
+            "bank_details": {
+                "bankgiro": "563-4498",
+                "postgiro": "19-0"
+            },
+            "activity": "Tillverkar o importerar elektr hushållsapparater",
+            "capital": 150000,
+            "key_personnel": [
+                {
+                    "name": "Dr-ing Felix Nieburg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1921
+        },
+        "7": {
+            "company_name": "ELEKTROHELIOS FÖRSÄLJ-NINGS AB",
+            "pnr": "105 45",
+            "address": "Stockholm, Luxbacken 1, Lilla Essingen.",
+            "phone_number": "08-2285 20",
+            "bank_details": {
+                "bankgiro": "17-1919",
+                "postgiro": "2865"
+            },
+            "activity": "Säljer elektr hushållsapparater o kempletta kök",
+            "employees": 124,
+            "annual_turnover": 95700000,
+            "capital": 500000,
+            "key_personnel": [
+                {
+                    "name": "Gunnar Ekblad",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1963
+        },
+        "8": {
+            "company_name": "WOODMAN, AB",
+            "pnr": "402 71",
+            "address": "Göteborg 8, Box 8804. Gamla Tuvev 3.",
+            "phone_number": "031-23 82 30, 23 8231",
+            "bank_details": {
+                "bankgiro": "337-7116",
+                "postgiro": "529200-8"
+            },
+            "activity": "Pallboxar, specialemballage i plywood, trä o stål",
+            "employees": 15,
+            "annual_turnover": 6500000,
+            "capital": 75000,
+            "key_personnel": [
+                {
+                    "name": "Ing Odd Nyman",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1960
+        },
+        "9": {
+            "company_name": "DYVIKS BRUKS AB",
+            "pnr": "184 00",
+            "address": "Akersberga.",
+            "phone_number": "0764-540 26, 540 47",
+            "bank_details": {
+                "bankgiro": "16-0597",
+                "postgiro": "293737-3"
+            },
+            "activity": "Tillverkar special-karosserier samt kyl- o frysvagnar. Säljer plastbåtar",
+            "employees": 35,
+            "annual_turnover": 3000000,
+            "capital": 400000,
+            "key_personnel": [
+                {
+                    "name": "Disp GÃ¶ran Holmquist",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1940
+        },
+        "10": {
+            "company_name": "REKLAMSTATISTIK AB",
+            "pnr": "17121",
+            "address": "Solna 1, Box 1040. Virebergsv 13.",
+            "phone_number": "08-82 02 30",
+            "bank_details": {
+                "bankgiro": "481-4497",
+                "postgiro": "642050-9"
+            },
+            "activity": "Reklammätningar, reklamundersökningar",
+            "key_personnel": [
+                {
+                    "name": "Lars Sundin",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1963
+        },
+        "11": {
+            "company_name": "SNOLAND AB",
+            "pnr": "441 00",
+            "address": "Alingsås, Nolhaga.",
+            "phone_number": "0322-142 60",
+            "bank_details": {
+                "bankgiro": "88-9750",
+                "postgiro": "48114"
+            },
+            "activity": "Kemisk teknisk fabrik",
+            "employees": 20,
+            "capital": 75000,
+            "key_personnel": [
+                {
+                    "name": "Ingvar Warnberg",
+                    "position": "Verkst dir"
+                }
+            ],
+            "establishment_year": 1951
+        },
+        "12": {
+            "company_name": "SNOSTORPS SNICKERIFABRIK G WESIK",
+            "pnr": "302 56",
+            "address": "Halmstad, Korsv 23.",
+            "phone_number": "035-11 18 68",
+            "bank_details": {
+                "bankgiro": "42-3802",
+                "postgiro": "283634"
+            },
+            "activity": "Alla slags byggnads-o inredningssnickerier",
+            "employees": 10,
+            "annual_turnover": 600000,
+            "key_personnel": [
+                {
+                    "name": "Fabr George Wesik",
+                    "position": "Chef"
+                }
+            ],
+            "establishment_year": 1959
+        }
+    }
+}
