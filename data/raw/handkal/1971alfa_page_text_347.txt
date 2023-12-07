@@ -1,272 +1,272 @@
 KOL
-<br/>
-<br/>Intendent: Erik Berg
-<br/>Etableringsår: 1851
-<br/>Bolag: 1875.
-<br/>
-<br/>KOCKUMS MEKANISKA
-<br/>VERKSTADS AB
-<br/>
-<br/>Pnr 20110
-<br/>
-<br/>Malmö l, Stora Varvsg. Pack. Tel
-<br/>040-744 20, 744 00. Bankgiro
-<br/>640-1061. Postgiro 38200-2. Tga
-<br/>Kockumverkstad.
-<br/>Telex 3189 KOCKUM S
-<br/>Verksamhet: Moderbolag i
-<br/>Kockumgruppen, vilken bedriver mekanisk
-<br/>tillverkning på fyra huvudlinjer:
-<br/>Skeppsbyggeri, fartygsreparationer
-<br/>o fartygstillbehör (Malmö o
-<br/>Hälsingborg), jordförflyttningsmaskiner
-<br/>(Landskrona), transportutrustningar
-<br/>o containers (Falkenberg), maskiner
-<br/>o fordon för skogsindustrin
-<br/>(Söderhamn o Filipstad)
-<br/>Produkter: (moderbolag) Fartyg
-<br/>upp till 700 000 tons dw
-<br/>dieselmotorer o turbinanläggningar för
-<br/>fartyg, akustiska signalapparater,
-<br/>elektroniska o optiska
-<br/>lastfördel-ningsinstrument, elektroniska
-<br/>förbränningskontroller etc
-<br/>Varunamn: Electro-Tyfon,
-<br/>Loadmas-ter Computer, Optical Trim
-<br/>Loa-der, Supertyfon, Tyfon
-<br/>Antal anställda: 5 000
-<br/>Årsomsättning: 850 000 000
-<br/>(koncernen)
-<br/>
-<br/>Aktiekapital: 100 000 000
-<br/>Styrelse: Bankir L-E Thunholm
-<br/>(ordf), greve lan Hamilton, dir
-<br/>Einar Hansen, disp Jan Herslow,
-<br/>dir Thorolf Hjort, dir Nils
-<br/>Holmström (v ordf), dir Bernt-Erik
-<br/>Kockum, dir Gunnar Kockum, dir
-<br/>Elam Tunhammar, dir Anders Wall
-<br/>Verkst dir: Nils-Hugo Hallenborg
-<br/>V verkst dir:r: Olafur Sigurdsson,
-<br/>Hans-Erik Ovin, Gunnar Kockum
-<br/>Tekn dir: Olafur Sigurdsson
-<br/>Övriga chefer: Försäljning
-<br/>(fartyg) dir K G Råwall, inköp S
-<br/>Ericsson, konstruktion (fartyg) dir S
-<br/>Bergman, administration dir Fred
-<br/>Gärdsmo, ekonomidir Chr
-<br/>Christiansson
-<br/>
-<br/>Etableringsår: 1840
-<br/>Producerande dotterbolag i Sverige:
-<br/>AB Kockum Landsverk,
-<br/>Landskrona, Kockum Interconsult AB,
-<br/>Falkenberg, Kockum Söderhamn AB,
-<br/>Söderhamn, Kockums Filipstad AB,
-<br/>Filipstad, Helsingborgs Varfs AB,
-<br/>Hälsingborg, Kockum Rosengren
-<br/>AB, Malmö.
-<br/>
-<br/>KOCKUM ROSENGREN AB
-<br/>
-<br/>Pnr 20110
-<br/>
-<br/>Malmö 1, Fack. Stora Varvsg. Tel
-<br/>040-702 80. Kockumsverkstad.
-<br/>Telex 3189 KOCKUM S
-<br/>Verksamhet: Tillverkar o monterar
-<br/>prefabricerade småhusskorstenar i
-<br/>plåt, mekaniska frånluftsystem,
-<br/>öppna spisar
-<br/>Antal anställda: 75
-<br/>Årsomsättning: 10 000 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Jan Rosenberg
-<br/>Etableringsår: 1908
-<br/>Ombildat till aktiebolag 1963.
-<br/>Namnändring 1969.
-<br/>
-<br/>KOCKUM SÖDERHAMN AB
-<br/>
-<br/>Pnr 82601
-<br/>
-<br/>Söderhamn 1, Fack. Tel
-<br/>0270-100 10. Bankgiro 61-2686. Postgiro
-<br/>174200. Tga Sverk. Telex 81025
-<br/>Veiksamhet: Sågverksutrustningar,
-<br/>barkningsmaskiner, skogstraktorer
-<br/>Försäljningskontor: 652 21 Karlstad,
-<br/>Sågverksg 12. Tel 054-18 02 40
-<br/>852 53 Sundsvall. AB Kockum
-<br/>Landsverk, Ortviksv 1. Tel 060-15 00 80
-<br/>421 31 Västra Frölunda. AB Kockum
-<br/>Lands verk, Frökotteg 11. Tel
-<br/>031-49 00 50
-<br/>
-<br/>352 36 Växiö. AB Kockum
-<br/>Landsverk, Industrig 2. Tel 0470-260 70
-<br/>891 01 Örnsköldsvik 1, Box 2. Tel
-<br/>0660-103 80
-<br/>Antal anställda: 450
-<br/>Årsomsättning: 105 000 000
-<br/>Aktiekapital: 5 000 000
-<br/>Styrelse: Dir Nils-Hugo Hallenborg
-<br/>(ordf), dir Gunnar Kockum, dir Kjell
-<br/>Håkansson
-<br/>
-<br/>Verkst dir: Kjell Håkansson
-<br/>Försäljn-chef: Floyd Werner
-<br/>Ekonomichef: Bengt Olofsson
-<br/>Administrativ chef: Nils Lood
-<br/>Konstr-chef: Heimer Eriksson’
-<br/>Prod-chef: Thure Sundberg
-<br/>Etableringsår: 1864
-<br/>Ingår i Kockum-gruppen.
-<br/>
-<br/>KOCKUM-LANDSVERK, AB
-<br/>
-<br/>Pnr 261 20
-<br/>
-<br/>Landskrona 1, Industrig. Fack. Tel
-<br/>0418-770 00. Bankgiro 660-0621.
-<br/>Postgiro 23222-3. Tga Landsverk.
-<br/>Telex 72285
-<br/>
-<br/>Verksamhet: Mekanisk verkstad.
-<br/>Tillverkar entreprenadmaskiner
-<br/>Försäljningskontor: Växjö. Tel
-<br/>0470-260 70
-<br/>
-<br/>Göteborg. Tel 031-49 00 50
-<br/>Jakobsberg. Tel 0758-103 00
-<br/>Sundsvall. Tel 060-15 00 80
-<br/>Antal anställda: 900
-<br/>Årsomsättning: 140 000 000
-<br/>Aktiekapital: 23 000 000
-<br/>Styrelse: Dir Nils-Hugo Hallenborg
-<br/>(ordf), dir Gunnar Kockum, dir
-<br/>Carl-Erik Andersson
-<br/>Verkst dir: Carl-Erik Andersson
-<br/>Etableringsår: 1873
-<br/>Företaget ägs av Kockums
-<br/>Mekaniska Verkstads AB.
-<br/>
-<br/>KOCOVERK, KNUT OLSSON &amp;
-<br/>CO VERKSTADER AB
-<br/>
-<br/>Pnr 19121
-<br/>
-<br/>Sollentuna, Engelbrektsv 3. Tel
-<br/>08-35 40 00, 35 26 60. Tga Knutolsco
-<br/>Verksamhet: Tillverkar
-<br/>byggnadsmaskiner o varmluftsapparater samt
-<br/>utför metallfasader o
-<br/>byggnads-plåtslageriarbeten
-<br/>Årsomsättning: 10 000 000
-<br/>Aktiekapital: 200 000
-<br/>Verkst dir: Knut Olsson
-<br/>Etableringsår: 1920.
-<br/>
-<br/>KODAK AB
-<br/>
-<br/>Pnr 431 20
-<br/>
-<br/>Mölndal 1, Flöjelbergsg 8 B. Fack.
-<br/>Tel 031-87 00 60. Bankgiro
-<br/>500-0195. Postgiro 12388-5. Tga Kodak.
-<br/>Telex 20687
-<br/>
-<br/>Verksamhet: Fotografiska artiklar
-<br/>Aktiekapital: 1800 000
-<br/>Veikst dir: T F Cannon.
-<br/>
-<br/>KOGES DEKORATIONS.
-<br/>ATELJE
-<br/>
-<br/>Pnr 552 40
-<br/>
-<br/>Jönköping, Museig 5. Tel
-<br/>036-113256. Bankgiro 14-0235.
-<br/>Postgiro 145677-1
-<br/>
-<br/>Verksamhet: Ombesörjer all reklam
-<br/>såsom dekorationer, skyltar i
-<br/>olika utföranden, utställningar på
-<br/>mässor o dyl såväl i Sverige som
-<br/>i utlandet. Teckningar, logotypes,
-<br/>silksreentryck m m
-<br/>Antal anställda: 6
-<br/>Årsomsättning: 500 000
-<br/>Chef: Karl-Olof Gustavson
-<br/>Ateljéchef: Ingvar Alfredsson
-<br/>Etableringsår: 1939.
-<br/>
-<br/>KOL &amp; TRÄ I SUNDSVALL AB
-<br/>
-<br/>Pnr 85105
-<br/>
-<br/>Sundsvall 1, N Kajen 1. Box 360.
-<br/>Tel 060-15 55 60. Postgiro
-<br/>327830-6. Tga Kolträ
-<br/>Verksamhet: Driver handel med
-<br/>fasta bränslen
-<br/>Årsomsättning: 500 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Erik Björnback
-<br/>Etableringsår: 1947.
-<br/>
-<br/>KOLBÄCKS CEMENT.
-<br/>GJUTERI, AB
-<br/>
-<br/>Pnr 730 40
-<br/>
-<br/>Kolbäck, Box 85. Tel 0220-40470.
-<br/>Bankgiro 810-9118. Postgiro
-<br/>81751-0
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>be-tongrör, betongkantstöd mm
-<br/>Antal anställda: 45
-<br/>Årsomsättning: 5 000 000
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir: Nils Ryberg
-<br/>Etableringsår: 1923.
-<br/>
-<br/>KOLBÄCK METALL
-<br/>
-<br/>Pnr 730 40
-<br/>
-<br/>Kolbäck, Sörstafors. Tel
-<br/>0220-404 60. Bankgiro 808-7272.
-<br/>Postgiro 23196-9
-<br/>
-<br/>Kö)
-<br/>
-<br/>Verksamhet: Gjuterier för
-<br/>aluminium-, zink- o kopparlegeringar samt
-<br/>mekanisk verkstad i Kolbäck,
-<br/>Sörstafors o Grillby. Utför
-<br/>sandgjut-ning, slunggjutning, kokillgjutning,
-<br/>pressgjutning, bearbetning,
-<br/>värmebehandling, ytbehandling o
-<br/>röntgenkontroll
-<br/>Antal anställda: 200
-<br/>Årsomsättning: 15 000 000
-<br/>Verkst dir: Allan Varnas
-<br/>Försäljn-chef: Emil Steinbrecher
-<br/>Ekonomichef: Gustaf Eriksson
-<br/>Inköpschef: Lars Malm
-<br/>Etableringsår: 1934
-<br/>Tillhör Varnäsföretagen AB.
-<br/>
-<br/>KOLKOMPANIET MALMÖ, AB
-<br/>
-<br/>Pnr 200 13
-<br/>
-<br/>Malmö 27, Brännög 2. Box 27016.
-<br/>Tel 040-18 08 50. Bankgiro
-<br/>640-0451. Postgiro 37970-1. Tga
-<br/>Kolkomp. Telex 3122
-<br/>Verksamhet: Eldningsoljor. Kol o
-<br/>
-<br/>345
+
+Intendent: Erik Berg
+Etableringsår: 1851
+Bolag: 1875.
+
+KOCKUMS MEKANISKA
+VERKSTADS AB
+
+Pnr 20110
+
+Malmö l, Stora Varvsg. Pack. Tel
+040-744 20, 744 00. Bankgiro
+640-1061. Postgiro 38200-2. Tga
+Kockumverkstad.
+Telex 3189 KOCKUM S
+Verksamhet: Moderbolag i
+Kockumgruppen, vilken bedriver mekanisk
+tillverkning på fyra huvudlinjer:
+Skeppsbyggeri, fartygsreparationer
+o fartygstillbehör (Malmö o
+Hälsingborg), jordförflyttningsmaskiner
+(Landskrona), transportutrustningar
+o containers (Falkenberg), maskiner
+o fordon för skogsindustrin
+(Söderhamn o Filipstad)
+Produkter: (moderbolag) Fartyg
+upp till 700 000 tons dw
+dieselmotorer o turbinanläggningar för
+fartyg, akustiska signalapparater,
+elektroniska o optiska
+lastfördel-ningsinstrument, elektroniska
+förbränningskontroller etc
+Varunamn: Electro-Tyfon,
+Loadmas-ter Computer, Optical Trim
+Loa-der, Supertyfon, Tyfon
+Antal anställda: 5 000
+Årsomsättning: 850 000 000
+(koncernen)
+
+Aktiekapital: 100 000 000
+Styrelse: Bankir L-E Thunholm
+(ordf), greve lan Hamilton, dir
+Einar Hansen, disp Jan Herslow,
+dir Thorolf Hjort, dir Nils
+Holmström (v ordf), dir Bernt-Erik
+Kockum, dir Gunnar Kockum, dir
+Elam Tunhammar, dir Anders Wall
+Verkst dir: Nils-Hugo Hallenborg
+V verkst dir:r: Olafur Sigurdsson,
+Hans-Erik Ovin, Gunnar Kockum
+Tekn dir: Olafur Sigurdsson
+Övriga chefer: Försäljning
+(fartyg) dir K G Råwall, inköp S
+Ericsson, konstruktion (fartyg) dir S
+Bergman, administration dir Fred
+Gärdsmo, ekonomidir Chr
+Christiansson
+
+Etableringsår: 1840
+Producerande dotterbolag i Sverige:
+AB Kockum Landsverk,
+Landskrona, Kockum Interconsult AB,
+Falkenberg, Kockum Söderhamn AB,
+Söderhamn, Kockums Filipstad AB,
+Filipstad, Helsingborgs Varfs AB,
+Hälsingborg, Kockum Rosengren
+AB, Malmö.
+
+KOCKUM ROSENGREN AB
+
+Pnr 20110
+
+Malmö 1, Fack. Stora Varvsg. Tel
+040-702 80. Kockumsverkstad.
+Telex 3189 KOCKUM S
+Verksamhet: Tillverkar o monterar
+prefabricerade småhusskorstenar i
+plåt, mekaniska frånluftsystem,
+öppna spisar
+Antal anställda: 75
+Årsomsättning: 10 000 000
+Aktiekapital: 50 000
+Verkst dir: Jan Rosenberg
+Etableringsår: 1908
+Ombildat till aktiebolag 1963.
+Namnändring 1969.
+
+KOCKUM SÖDERHAMN AB
+
+Pnr 82601
+
+Söderhamn 1, Fack. Tel
+0270-100 10. Bankgiro 61-2686. Postgiro
+174200. Tga Sverk. Telex 81025
+Veiksamhet: Sågverksutrustningar,
+barkningsmaskiner, skogstraktorer
+Försäljningskontor: 652 21 Karlstad,
+Sågverksg 12. Tel 054-18 02 40
+852 53 Sundsvall. AB Kockum
+Landsverk, Ortviksv 1. Tel 060-15 00 80
+421 31 Västra Frölunda. AB Kockum
+Lands verk, Frökotteg 11. Tel
+031-49 00 50
+
+352 36 Växiö. AB Kockum
+Landsverk, Industrig 2. Tel 0470-260 70
+891 01 Örnsköldsvik 1, Box 2. Tel
+0660-103 80
+Antal anställda: 450
+Årsomsättning: 105 000 000
+Aktiekapital: 5 000 000
+Styrelse: Dir Nils-Hugo Hallenborg
+(ordf), dir Gunnar Kockum, dir Kjell
+Håkansson
+
+Verkst dir: Kjell Håkansson
+Försäljn-chef: Floyd Werner
+Ekonomichef: Bengt Olofsson
+Administrativ chef: Nils Lood
+Konstr-chef: Heimer Eriksson’
+Prod-chef: Thure Sundberg
+Etableringsår: 1864
+Ingår i Kockum-gruppen.
+
+KOCKUM-LANDSVERK, AB
+
+Pnr 261 20
+
+Landskrona 1, Industrig. Fack. Tel
+0418-770 00. Bankgiro 660-0621.
+Postgiro 23222-3. Tga Landsverk.
+Telex 72285
+
+Verksamhet: Mekanisk verkstad.
+Tillverkar entreprenadmaskiner
+Försäljningskontor: Växjö. Tel
+0470-260 70
+
+Göteborg. Tel 031-49 00 50
+Jakobsberg. Tel 0758-103 00
+Sundsvall. Tel 060-15 00 80
+Antal anställda: 900
+Årsomsättning: 140 000 000
+Aktiekapital: 23 000 000
+Styrelse: Dir Nils-Hugo Hallenborg
+(ordf), dir Gunnar Kockum, dir
+Carl-Erik Andersson
+Verkst dir: Carl-Erik Andersson
+Etableringsår: 1873
+Företaget ägs av Kockums
+Mekaniska Verkstads AB.
+
+KOCOVERK, KNUT OLSSON &amp;
+CO VERKSTADER AB
+
+Pnr 19121
+
+Sollentuna, Engelbrektsv 3. Tel
+08-35 40 00, 35 26 60. Tga Knutolsco
+Verksamhet: Tillverkar
+byggnadsmaskiner o varmluftsapparater samt
+utför metallfasader o
+byggnads-plåtslageriarbeten
+Årsomsättning: 10 000 000
+Aktiekapital: 200 000
+Verkst dir: Knut Olsson
+Etableringsår: 1920.
+
+KODAK AB
+
+Pnr 431 20
+
+Mölndal 1, Flöjelbergsg 8 B. Fack.
+Tel 031-87 00 60. Bankgiro
+500-0195. Postgiro 12388-5. Tga Kodak.
+Telex 20687
+
+Verksamhet: Fotografiska artiklar
+Aktiekapital: 1800 000
+Veikst dir: T F Cannon.
+
+KOGES DEKORATIONS.
+ATELJE
+
+Pnr 552 40
+
+Jönköping, Museig 5. Tel
+036-113256. Bankgiro 14-0235.
+Postgiro 145677-1
+
+Verksamhet: Ombesörjer all reklam
+såsom dekorationer, skyltar i
+olika utföranden, utställningar på
+mässor o dyl såväl i Sverige som
+i utlandet. Teckningar, logotypes,
+silksreentryck m m
+Antal anställda: 6
+Årsomsättning: 500 000
+Chef: Karl-Olof Gustavson
+Ateljéchef: Ingvar Alfredsson
+Etableringsår: 1939.
+
+KOL &amp; TRÄ I SUNDSVALL AB
+
+Pnr 85105
+
+Sundsvall 1, N Kajen 1. Box 360.
+Tel 060-15 55 60. Postgiro
+327830-6. Tga Kolträ
+Verksamhet: Driver handel med
+fasta bränslen
+Årsomsättning: 500 000
+Aktiekapital: 100 000
+Verkst dir: Erik Björnback
+Etableringsår: 1947.
+
+KOLBÄCKS CEMENT.
+GJUTERI, AB
+
+Pnr 730 40
+
+Kolbäck, Box 85. Tel 0220-40470.
+Bankgiro 810-9118. Postgiro
+81751-0
+
+Verksamhet: Tillverkar o säljer
+be-tongrör, betongkantstöd mm
+Antal anställda: 45
+Årsomsättning: 5 000 000
+Aktiekapital: 75 000
+Verkst dir: Nils Ryberg
+Etableringsår: 1923.
+
+KOLBÄCK METALL
+
+Pnr 730 40
+
+Kolbäck, Sörstafors. Tel
+0220-404 60. Bankgiro 808-7272.
+Postgiro 23196-9
+
+Kö)
+
+Verksamhet: Gjuterier för
+aluminium-, zink- o kopparlegeringar samt
+mekanisk verkstad i Kolbäck,
+Sörstafors o Grillby. Utför
+sandgjut-ning, slunggjutning, kokillgjutning,
+pressgjutning, bearbetning,
+värmebehandling, ytbehandling o
+röntgenkontroll
+Antal anställda: 200
+Årsomsättning: 15 000 000
+Verkst dir: Allan Varnas
+Försäljn-chef: Emil Steinbrecher
+Ekonomichef: Gustaf Eriksson
+Inköpschef: Lars Malm
+Etableringsår: 1934
+Tillhör Varnäsföretagen AB.
+
+KOLKOMPANIET MALMÖ, AB
+
+Pnr 200 13
+
+Malmö 27, Brännög 2. Box 27016.
+Tel 040-18 08 50. Bankgiro
+640-0451. Postgiro 37970-1. Tga
+Kolkomp. Telex 3122
+Verksamhet: Eldningsoljor. Kol o
+
+345

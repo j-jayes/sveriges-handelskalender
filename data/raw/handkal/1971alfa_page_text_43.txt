@@ -1,295 +1,295 @@
 ART
-<br/>
-<br/>ARONZON-LUNDIN AB
-<br/>
-<br/>Pnr 104 35
-<br/>
-<br/>Stockholm 23, Box 23068. Sveav
-<br/>153-155. Tel 08-24 62 30. Bankgiro
-<br/>73-4576. Postgiro 2652. Tga
-<br/>Boklundins
-<br/>
-<br/>Verksamhet: Partibokbinderi,
-<br/>spiralbindningar, tidningar, boktryck
-<br/>Antal anställda: 100
-<br/>Årsomsättning: 7 000000
-<br/>Aktiekapital: 600 000
-<br/>Verkst dir: Lennart Lind
-<br/>Etableringsår: 1874.
-<br/>
-<br/>AROS ELECTRONICS AB
-<br/>
-<br/>Pnr 436 00
-<br/>
-<br/>Askim, Hantverksv 1. Tel
-<br/>031-28 03 41, 28 0684. Bankgiro
-<br/>200-4034. Postgiro 623941-2
-<br/>Verksamhet: Tillverkar o säljer
-<br/>modern kraftelektronik, såsom
-<br/>varvtalsreglering av elektriska motorer,
-<br/>batteriladdare, elvärmeregleringar
-<br/>samt startapparater för 3-fas
-<br/>växelströmsmotorer. Utför
-<br/>industrimontage
-<br/>
-<br/>Fabrik: 724 10 Västerås,
-<br/>Naviga-törsg 10. Tel 021-13 40 20
-<br/>Antal anställda: 24
-<br/>Årsomsättning: 1500 000
-<br/>Aktiekapital: 30 000
-<br/>Verkst dir: Civiling Nils Paulsson
-<br/>Etableringsår: 1970.
-<br/>
-<br/>AROS NICKEL &amp; KROM, AB
-<br/>
-<br/>Pnr 724 81
-<br/>
-<br/>Västerås, Brygghusg 2. Tel
-<br/>021-18 33 30. Bankgiro 15-0918.
-<br/>Postgiro 32710
-<br/>
-<br/>Verkstad: Björnöv 12
-<br/>Verksamhet: Utför förnickling,
-<br/>för-kromning o förzinkning
-<br/>Antal anställda: 4
-<br/>Årsomsättning: 300 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Olle Bernerstedt
-<br/>Etableringsår: 1965.
-<br/>
-<br/>AROS PLÄT-&amp;
-<br/>MEK VERKSTAD AB
-<br/>
-<br/>Pnr 651 06
-<br/>
-<br/>Karlstad 1, Box 380. Gjuteiig 11-13.
-<br/>380. Tel 054-11 75 27, 18 05 27.
-<br/>Bankgiro 100-0637. Postgiro
-<br/>90691-7
-<br/>
-<br/>Verksamhet: Kranar, traverser,
-<br/>sand- o grussilos
-<br/>Antal anställda: 25
-<br/>Årsomsättning: 2 500 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Ing Gunnar Jernberg
-<br/>Etableringsår: 1948.
-<br/>
-<br/>AROS RORCENTRAL, AB
-<br/>
-<br/>Pnr 723 35
-<br/>
-<br/>Västerås, Stjernhöksg 11. Tel
-<br/>021-13 3184, 13 33 69. Bankgiro
-<br/>808-6076. Postgiro 161493-2
-<br/>Verksamhet:
-<br/>Rörlednings-entreprenör
-<br/>Antal anställda: 30
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 25 400
-<br/>Styrelseordf: Dir Ulf Pettersson
-<br/>Verkst dir: Ulf Pettersson
-<br/>Platschef: Nils Frantzén
-<br/>Etableringsår: 1932.
-<br/>
-<br/>[-AROSBYGDENSLANTMANNA-FÖRBUND-]
-<br/>
-<br/>{+AROSBYGDENSLANTMANNA-
-<br/>FÖRBUND+} FÖRENING U P A
-<br/>
-<br/>Pnr 72103
-<br/>
-<br/>Västerås 1, Box 17. Björnöv 2. Tel
-<br/>021-13 71 80. Bankgiro 356-6122.
-<br/>Postgiro 98988-9
-<br/>
-<br/>Verksamhet: Idkar handel med
-<br/>växtodlingsprodukter från lantbruket
-<br/>Antal anställda: 275
-<br/>Årsomsättning: 179 000 000
-<br/>Verkst dir: Lennart Larsson
-<br/>Etableringsår: 1936.
-<br/>
-<br/>AROSKRAFT, AB
-<br/>
-<br/>Pnr 72103
-<br/>
-<br/>Västerås 1, Box 14. Carl Hennings
-<br/>g 2. Tel 021-16 00 00. Bankgiro
-<br/>730-5469. Postgiro 10525-4
-<br/>Verksamhet: Uppförande av
-<br/>kraftvärmeverk. Produktion av elektrisk
-<br/>energi o värme
-<br/>Aktiekapital: 30 000 000
-<br/>Styrelse: Dir Vilgot Lannér (ordf),
-<br/>dir Tage Arnell, dir Bengt Löf,
-<br/>kommunalråd Gustaf Olsson, dir
-<br/>Erik Ternström
-<br/>Verkst dir: John Sintorn
-<br/>V verkst dir: Lars Netzler
-<br/>Etableringsår: 1965.
-<br/>
-<br/>AROSVERKEN, AB
-<br/>
-<br/>Pnr 723 50
-<br/>
-<br/>Västerås, Fältmätarg 9. Tel
-<br/>021-11 01 75, 11 01 76. Bankgiro 63-0008.
-<br/>Postgiro 177449
-<br/>
-<br/>Verksamhet: Tillverkar excenter-
-<br/>
-<br/>pressar
-<br/>
-<br/>Antal anställda: 60
-<br/>Årsomsättning: 5 000 000
-<br/>Aktiekapital: 300 000
-<br/>Styrelse: Adv Lennart Sparrin
-<br/>(ordf), dir Allan Roslund, dir Arne
-<br/>Ullsten
-<br/>
-<br/>Verkst dir: Arne Ullsten
-<br/>Etableringsår: 1940.
-<br/>
-<br/>AROT, AB
-<br/>
-<br/>Pnr 260 82
-<br/>
-<br/>Skälderviken, Box 43. Tel
-<br/>0431-20910. Bankgiro 672-3480.
-<br/>Postgiro 476496-5
-<br/>
-<br/>Verksamhet: Plasttillverkning av
-<br/>kableskydd, kabeldragningsrör,
-<br/>el-lister o -rör, salivsugare.
-<br/>Specialitet: högmolekylära
-<br/>poly-etener
-<br/>
-<br/>Försäljningskontor
-<br/>kabelskydds-produkter: 21136 Malmö, Baltzarsg
-<br/>31. Tel 040-9716 70
-<br/>Varunamn: Telet, Bonflex
-<br/>Antal anställda: 20
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 200 000
-<br/>Verkst dir: Civiling Björn
-<br/>Nordstrand
-<br/>
-<br/>Etableringsår: 1958.
-<br/>
-<br/>ARROS ARVID ROSLOV AB
-<br/>
-<br/>Pnr 40043
-<br/>
-<br/>Göteborg 30, Pennygången 84. Fack.
-<br/>Tel 031-416400. Bankgiro 33-7270.
-<br/>Postgiro 526960
-<br/>Verksamhet: Säljer byggnads- o
-<br/>skyddsrums material
-<br/>Antal anställda: 10
-<br/>Årsomsättning: 3 500 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Arvid Roslöv
-<br/>Etableringsår 1956.
-<br/>
-<br/>ARSANI, AB
-<br/>
-<br/>Pnr 212 28
-<br/>
-<br/>Malmö, Scheeleg 13. Tel
-<br/>040-93 63 85. Bankgiro 874-7024.
-<br/>Postgiro 247153-9
-<br/>
-<br/>Verksamhet: Formsprutade
-<br/>massartiklar i alla termoplaster.
-<br/>Formgivning, egen verktygstillverkning.
-<br/>Specialitet: industridetaljer,
-<br/>husgeråd o förpackningar
-<br/>Antal anställda: 30
-<br/>Aktiekapital: 10 000
-<br/>Verkst dir: Poul Jensen
-<br/>Etableringsår: 1951.
-<br/>
-<br/>AR-SERVICE I
-<br/>SUNDSVALL AB
-<br/>
-<br/>Pnr 852 33
-<br/>
-<br/>Sundsvall, Bankg 10. Tel
-<br/>060-15 0710. Bankgiro 795-2443.
-<br/>Postgiro 693800-5
-<br/>
-<br/>Verksamhet: Konsulter inom
-<br/>administrativ rationalisering såsom
-<br/>organisationsplanering,
-<br/>systemrationalisering, programering,
-<br/>resursdimensionering, lokalplanering m m
-<br/>
-<br/>Antal anställda: 18
-<br/>Årsomsättning: 1200000
-<br/>Aktiekapital: 20 000
-<br/>Styrelse: Bankdir Börje Carlson
-<br/>(ordf), dir Jan Berglund, dir Olof
-<br/>Lindbäck, dir Arne Wiklund
-<br/>Verkst dir: Arne Wiklund
-<br/>Etableringsår: 1967.
-<br/>
-<br/>ARSTROM AB,
-<br/>ATELIER FOLKE
-<br/>
-<br/>Pnr 18141
-<br/>
-<br/>Lidingö 1, Skogsv 5. Tel
-<br/>08-765 22 05, 765 23 05. Bankgiro
-<br/>74-3227. Postgiro 153553
-<br/>Verksamhet: Industriell
-<br/>formgivning. Specialitet: metall- o
-<br/>plastdesign
-<br/>
-<br/>Aktiekapital: 5 000
-<br/>
-<br/>Verkst dir: Konstnär Folke Arström
-<br/>
-<br/>Etableringsår: 1933.
-<br/>
-<br/>ARTEX-TORGNER AB
-<br/>
-<br/>Pnr 595 00
-<br/>
-<br/>Mjölby, Fabriksg 4. Tel
-<br/>0142-133 40. Postgiro 74880-6. Tga
-<br/>Artextorgner
-<br/>
-<br/>Verksamhet: Tillverkar Artex
-<br/>bil-klädselöverdrag o bilutrustning
-<br/>Aktiekapital: 242 000
-<br/>Verkst dir: John G Torgner
-<br/>Etableringsår: 1931.
-<br/>
-<br/>ARTMEN AB
-<br/>
-<br/>Pnr 43138
-<br/>
-<br/>Mölndal,KrokslättsParkg 22 B. Tel
-<br/>031-81 1300, 81 1400, 202105,
-<br/>18 60 18. Bankgiro 505-8425.
-<br/>Postgiro 627142-3
-<br/>
-<br/>Verksamhet: Konsulter inom
-<br/>marknadskommunikation, grafisk
-<br/>formgivning o produktion
-<br/>Antal anställda: 13
-<br/>Årsomsättning: 1200 000
-<br/>Årsomsättning: 600 000
-<br/>Aktiekapital: 5000
-<br/>Verkst dir: Grafiker Bo Norell
-<br/>Etableringsår: 1965.
-<br/>
-<br/>ARTOS-SVETEMA AB
-<br/>
-<br/>Pnr 411 19
-<br/>
-<br/>Göteborg, Esperantoplatsen 1. Tel
-<br/>031-115287, 115289. Tga Artos-
-<br/>
-<br/>41
+
+ARONZON-LUNDIN AB
+
+Pnr 104 35
+
+Stockholm 23, Box 23068. Sveav
+153-155. Tel 08-24 62 30. Bankgiro
+73-4576. Postgiro 2652. Tga
+Boklundins
+
+Verksamhet: Partibokbinderi,
+spiralbindningar, tidningar, boktryck
+Antal anställda: 100
+Årsomsättning: 7 000000
+Aktiekapital: 600 000
+Verkst dir: Lennart Lind
+Etableringsår: 1874.
+
+AROS ELECTRONICS AB
+
+Pnr 436 00
+
+Askim, Hantverksv 1. Tel
+031-28 03 41, 28 0684. Bankgiro
+200-4034. Postgiro 623941-2
+Verksamhet: Tillverkar o säljer
+modern kraftelektronik, såsom
+varvtalsreglering av elektriska motorer,
+batteriladdare, elvärmeregleringar
+samt startapparater för 3-fas
+växelströmsmotorer. Utför
+industrimontage
+
+Fabrik: 724 10 Västerås,
+Naviga-törsg 10. Tel 021-13 40 20
+Antal anställda: 24
+Årsomsättning: 1500 000
+Aktiekapital: 30 000
+Verkst dir: Civiling Nils Paulsson
+Etableringsår: 1970.
+
+AROS NICKEL &amp; KROM, AB
+
+Pnr 724 81
+
+Västerås, Brygghusg 2. Tel
+021-18 33 30. Bankgiro 15-0918.
+Postgiro 32710
+
+Verkstad: Björnöv 12
+Verksamhet: Utför förnickling,
+för-kromning o förzinkning
+Antal anställda: 4
+Årsomsättning: 300 000
+Aktiekapital: 5 000
+Verkst dir: Olle Bernerstedt
+Etableringsår: 1965.
+
+AROS PLÄT-&amp;
+MEK VERKSTAD AB
+
+Pnr 651 06
+
+Karlstad 1, Box 380. Gjuteiig 11-13.
+380. Tel 054-11 75 27, 18 05 27.
+Bankgiro 100-0637. Postgiro
+90691-7
+
+Verksamhet: Kranar, traverser,
+sand- o grussilos
+Antal anställda: 25
+Årsomsättning: 2 500 000
+Aktiekapital: 100 000
+Verkst dir: Ing Gunnar Jernberg
+Etableringsår: 1948.
+
+AROS RORCENTRAL, AB
+
+Pnr 723 35
+
+Västerås, Stjernhöksg 11. Tel
+021-13 3184, 13 33 69. Bankgiro
+808-6076. Postgiro 161493-2
+Verksamhet:
+Rörlednings-entreprenör
+Antal anställda: 30
+Årsomsättning: 3 000 000
+Aktiekapital: 25 400
+Styrelseordf: Dir Ulf Pettersson
+Verkst dir: Ulf Pettersson
+Platschef: Nils Frantzén
+Etableringsår: 1932.
+
+[-AROSBYGDENSLANTMANNA-FÖRBUND-]
+
+{+AROSBYGDENSLANTMANNA-
+FÖRBUND+} FÖRENING U P A
+
+Pnr 72103
+
+Västerås 1, Box 17. Björnöv 2. Tel
+021-13 71 80. Bankgiro 356-6122.
+Postgiro 98988-9
+
+Verksamhet: Idkar handel med
+växtodlingsprodukter från lantbruket
+Antal anställda: 275
+Årsomsättning: 179 000 000
+Verkst dir: Lennart Larsson
+Etableringsår: 1936.
+
+AROSKRAFT, AB
+
+Pnr 72103
+
+Västerås 1, Box 14. Carl Hennings
+g 2. Tel 021-16 00 00. Bankgiro
+730-5469. Postgiro 10525-4
+Verksamhet: Uppförande av
+kraftvärmeverk. Produktion av elektrisk
+energi o värme
+Aktiekapital: 30 000 000
+Styrelse: Dir Vilgot Lannér (ordf),
+dir Tage Arnell, dir Bengt Löf,
+kommunalråd Gustaf Olsson, dir
+Erik Ternström
+Verkst dir: John Sintorn
+V verkst dir: Lars Netzler
+Etableringsår: 1965.
+
+AROSVERKEN, AB
+
+Pnr 723 50
+
+Västerås, Fältmätarg 9. Tel
+021-11 01 75, 11 01 76. Bankgiro 63-0008.
+Postgiro 177449
+
+Verksamhet: Tillverkar excenter-
+
+pressar
+
+Antal anställda: 60
+Årsomsättning: 5 000 000
+Aktiekapital: 300 000
+Styrelse: Adv Lennart Sparrin
+(ordf), dir Allan Roslund, dir Arne
+Ullsten
+
+Verkst dir: Arne Ullsten
+Etableringsår: 1940.
+
+AROT, AB
+
+Pnr 260 82
+
+Skälderviken, Box 43. Tel
+0431-20910. Bankgiro 672-3480.
+Postgiro 476496-5
+
+Verksamhet: Plasttillverkning av
+kableskydd, kabeldragningsrör,
+el-lister o -rör, salivsugare.
+Specialitet: högmolekylära
+poly-etener
+
+Försäljningskontor
+kabelskydds-produkter: 21136 Malmö, Baltzarsg
+31. Tel 040-9716 70
+Varunamn: Telet, Bonflex
+Antal anställda: 20
+Årsomsättning: 3 000 000
+Aktiekapital: 200 000
+Verkst dir: Civiling Björn
+Nordstrand
+
+Etableringsår: 1958.
+
+ARROS ARVID ROSLOV AB
+
+Pnr 40043
+
+Göteborg 30, Pennygången 84. Fack.
+Tel 031-416400. Bankgiro 33-7270.
+Postgiro 526960
+Verksamhet: Säljer byggnads- o
+skyddsrums material
+Antal anställda: 10
+Årsomsättning: 3 500 000
+Aktiekapital: 5 000
+Verkst dir: Arvid Roslöv
+Etableringsår 1956.
+
+ARSANI, AB
+
+Pnr 212 28
+
+Malmö, Scheeleg 13. Tel
+040-93 63 85. Bankgiro 874-7024.
+Postgiro 247153-9
+
+Verksamhet: Formsprutade
+massartiklar i alla termoplaster.
+Formgivning, egen verktygstillverkning.
+Specialitet: industridetaljer,
+husgeråd o förpackningar
+Antal anställda: 30
+Aktiekapital: 10 000
+Verkst dir: Poul Jensen
+Etableringsår: 1951.
+
+AR-SERVICE I
+SUNDSVALL AB
+
+Pnr 852 33
+
+Sundsvall, Bankg 10. Tel
+060-15 0710. Bankgiro 795-2443.
+Postgiro 693800-5
+
+Verksamhet: Konsulter inom
+administrativ rationalisering såsom
+organisationsplanering,
+systemrationalisering, programering,
+resursdimensionering, lokalplanering m m
+
+Antal anställda: 18
+Årsomsättning: 1200000
+Aktiekapital: 20 000
+Styrelse: Bankdir Börje Carlson
+(ordf), dir Jan Berglund, dir Olof
+Lindbäck, dir Arne Wiklund
+Verkst dir: Arne Wiklund
+Etableringsår: 1967.
+
+ARSTROM AB,
+ATELIER FOLKE
+
+Pnr 18141
+
+Lidingö 1, Skogsv 5. Tel
+08-765 22 05, 765 23 05. Bankgiro
+74-3227. Postgiro 153553
+Verksamhet: Industriell
+formgivning. Specialitet: metall- o
+plastdesign
+
+Aktiekapital: 5 000
+
+Verkst dir: Konstnär Folke Arström
+
+Etableringsår: 1933.
+
+ARTEX-TORGNER AB
+
+Pnr 595 00
+
+Mjölby, Fabriksg 4. Tel
+0142-133 40. Postgiro 74880-6. Tga
+Artextorgner
+
+Verksamhet: Tillverkar Artex
+bil-klädselöverdrag o bilutrustning
+Aktiekapital: 242 000
+Verkst dir: John G Torgner
+Etableringsår: 1931.
+
+ARTMEN AB
+
+Pnr 43138
+
+Mölndal,KrokslättsParkg 22 B. Tel
+031-81 1300, 81 1400, 202105,
+18 60 18. Bankgiro 505-8425.
+Postgiro 627142-3
+
+Verksamhet: Konsulter inom
+marknadskommunikation, grafisk
+formgivning o produktion
+Antal anställda: 13
+Årsomsättning: 1200 000
+Årsomsättning: 600 000
+Aktiekapital: 5000
+Verkst dir: Grafiker Bo Norell
+Etableringsår: 1965.
+
+ARTOS-SVETEMA AB
+
+Pnr 411 19
+
+Göteborg, Esperantoplatsen 1. Tel
+031-115287, 115289. Tga Artos-
+
+41

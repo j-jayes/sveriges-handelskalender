@@ -1,298 +1,298 @@
 BER
-<br/>
-<br/>ningsuppdrag. Levererar all slags
-<br/>sten- o grusmaterial från egna
-<br/>krossanläggningar
-<br/>Antal anställda: 20
-<br/>Årsomsättning: 2000 000
-<br/>Aktiekapital: 35 000
-<br/>Styrelse: Sven Falk (ordf), Bernt
-<br/>Berg, Yngve Olsson
-<br/>Verkst dir: Bernt Berg
-<br/>Kamrer: Yngve Olsson
-<br/>Etableringsår: 1963.
-<br/>
-<br/>BERG OCH NYCANDER AB
-<br/>
-<br/>Pnr 11123
-<br/>
-<br/>Stockholm, Barnhusg 3. Tel
-<br/>08-10 75 65, 23 2500. Bankgiro
-<br/>721-7573. Postgiro 3902-4. Tga
-<br/>Bergs-jern
-<br/>
-<br/>Verksamhet: Agentur o partiaffär i
-<br/>järnmanufaktur. Suffolk, Atco,
-<br/>Qualcast gräsklippningsmaskiner.
-<br/>Fresco vridmaskiner
-<br/>Varunamn: Atco, Fresco, Qualcast,
-<br/>Suffolk
-<br/>
-<br/>Aktiekapital: 50 000
-<br/>Etableringsår: 1928.
-<br/>
-<br/>BERG &amp; STARCK,
-<br/>INGENJÖRSFIRMAN
-<br/>
-<br/>Pnr 761 00
-<br/>
-<br/>Norrtälje, Hantverkareg 21. Box
-<br/>40. Tel 0176-10220, 120 22
-<br/>Verksamhet: Konstruktion,
-<br/>projektering o tillverkning
-<br/>Antal anställda: 16
-<br/>Årsomsättning: 2 250 000
-<br/>Ägare o chefer: Ing Folke Berg,
-<br/>ing Gösta Starck
-<br/>Etableringsår: 1958.
-<br/>
-<br/>BERGS SÄNGKLÄDER AB
-<br/>
-<br/>Pnr 340 14
-<br/>
-<br/>Lagan. Tel 0372-303 70. Bankgiro
-<br/>147-2489. Postgiro 374461-2. Tga
-<br/>Polydun. Telex 4698 BERGS S
-<br/>Verksamhet: Tillverkar täcken,
-<br/>kuddar o sovsäckar
-<br/>Varunamn: Bergs, Polydun
-<br/>Antal anställda: 65
-<br/>Årsomsättning: 12 000 000
-<br/>Aktiekapital: 700 000
-<br/>Verkst dir: Thure Berg
-<br/>Etableringsår: 1951.
-<br/>
-<br/>BERGS TINGSLAGS
-<br/>ELEKTRISKA AB
-<br/>
-<br/>Pnr 84031
-<br/>
-<br/>Åsarna, Box 11. Tel 0687-300 02.
-<br/>Bankgiro 78-1217. Postgiro 73125
-<br/>Verksamhet: Eldistribution inom
-<br/>Bergs, Åsarne, Klövsjö,
-<br/>Vemdalens o Rätans socknar i Jämtlands
-<br/>län samt Haverö socken i
-<br/>Västernorrlands län
-<br/>Antal anställda: 35
-<br/>Årsomsättning: 2 300 000
-<br/>Aktiekapital: 675 500
-<br/>Verkst dir: sten B Olsson
-<br/>Etableringsår: 1914.
-<br/>
-<br/>BERGS TRÄFORÄDLING, AB
-<br/>
-<br/>Pnr 590 61
-<br/>
-<br/>Vretakloster, Box 3. Tel
-<br/>013-60036. Bankgiro 120-2282.
-<br/>Postgiro 11544-4
-<br/>
-<br/>Verksamhet: Tillverkar sågade o
-<br/>hyvlade trävaror, formluckor,
-<br/>snickerier o övrigt byggnadsmaterial
-<br/>Antal anställda: 10
-<br/>Årsomsättning: 1000 000
-<br/>Aktiekapital: 40 000
-<br/>
-<br/>Verkst dir: Disp Erie Gustavsson
-<br/>Etableringsår: 1944.
-<br/>
-<br/>BERG KAFFEIMPORT AB, A
-<br/>
-<br/>Pnr 402 31
-<br/>
-<br/>Göteborg 7, Box 7038. Nordhemsg
-<br/>25. Tel 031-124160
-<br/>Verksamhet: Kafferosteri o
-<br/>försäljning av kaffe till storkök
-<br/>Antal anställda: 12
-<br/>Årsomsättning: 6 000 000
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir: Gunnar Nilsson
-<br/>Etableringsår: 1895.
-<br/>
-<br/>BERG EFTR, MANUFAKTUR
-<br/>AB FILIP
-<br/>
-<br/>Pnr 50108
-<br/>
-<br/>Borås 1, Götag 5. Box 518. Tel
-<br/>033-1136 20. Bankgiro 83-9416.
-<br/>Postgiro 225190-8
-<br/>
-<br/>Verksamhet: Manufakturvaror i
-<br/>parti
-<br/>
-<br/>Aktiekapital: 10 000
-<br/>Verkst dir: Erik Larsson
-<br/>Etableringsår: 1959.
-<br/>
-<br/>BERG MATEMATISK
-<br/>INSTRUMENTFABRIK AB, FR J
-<br/>
-<br/>Pnr 113 57
-<br/>
-<br/>Stockholm, Kungstensg 18. Tel
-<br/>08-30 76 60. Bankgiro 403-1415.
-<br/>Postgiro 1968-7
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>
-<br/>geodetiska instrument o längdmät-
-<br/>
-<br/>ningsinstrument
-<br/>
-<br/>Aktiekapital: 50 000
-<br/>
-<br/>Verkst dir: Civiling Johan Berg
-<br/>
-<br/>Etableringsår: 1850.
-<br/>
-<br/>BERG, AB GÖSTA
-<br/>
-<br/>Pnr 114 49
-<br/>
-<br/>Stockholm, Karlav 62. Tel
-<br/>08-67 97 60. Bankgiro 211-1607.
-<br/>Post-giro 152790-2. Tga Motorberg.
-<br/>Telex 19399 GBERG S
-<br/>Verksamhet: Säljer båtar o
-<br/>motorer
-<br/>
-<br/>Antal anställda: 60
-<br/>Årsomsättning: 13 500 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Gunnar Sundman
-<br/>Etableringsår: 1937.
-<br/>
-<br/>BERG EXPORT-IMPORT AB,
-<br/>GÖSTA
-<br/>
-<br/>Pnr 41135
-<br/>
-<br/>Göteborg, Chalmersg 11. Tel
-<br/>031-11 50 20. Postgiro 427659-8. Tga
-<br/>Coalberg
-<br/>
-<br/>Verksamhet: Import o export av
-<br/>bränslevaror samt import av tunga
-<br/>kemikalier
-<br/>
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 5 000
-<br/>Styrelse: Fru Greta Berg (ordf),
-<br/>fru Solveig Lindahl
-<br/>Etableringsår: 1958.
-<br/>
-<br/>BERG AB, J W
-<br/>
-<br/>Pnr 430 93
-<br/>
-<br/>Hälsö. Tel 031-79 13 00. Tga
-<br/>Hälsö-berg. Telex 2436
-<br/>Verksamhet: Fartygsreparationer,
-<br/>däcksutrustning mm
-<br/>Antal anställda: 70
-<br/>Årsomsättning: 8 000 000
-<br/>Aktiekapital: 200000
-<br/>Verkst dir: Stig Jonsson
-<br/>Etableringsår: 1926.
-<br/>
-<br/>BERGS SMIDE AB, K A
-<br/>
-<br/>Pnr 360 32
-<br/>
-<br/>Gemla. Tel 0470-675 00. Bankgiro
-<br/>667-9419. Postgiro 8800-5.
-<br/>Verksamhet: Tillverkar smidda
-<br/>detaljer i styckevikter 0,1 kg-25,0 kg
-<br/>medelst hejar, stuksmide, press o
-<br/>hammarsmide samt utför även
-<br/>svetsade o bearbetade detaljer.
-<br/>Tillverkar handredskap såsom spett,
-<br/>stenredskap, specialverktyg för
-<br/>byggnadsindustrin o gruvor samt
-<br/>kätting-smide. Specialitet: lyftverktyg
-<br/>Antal anställda: 55
-<br/>Årsomsättning: 4 500 000
-<br/>Aktiekapital: 150 000
-<br/>Verkst dir: Disp Bengt Berg
-<br/>övriga chefer: Prod-chef Kurt
-<br/>Piesack
-<br/>
-<br/>Etableringsår: 1868.
-<br/>
-<br/>BERGH MEKANISKA
-<br/>VERKSTAD AB, K E
-<br/>
-<br/>Pnr 200 29
-<br/>
-<br/>Malmö 29, Box 29017. Tel
-<br/>040-49 17 30. Bankgiro 644-1018.
-<br/>Postgiro 633809-0
-<br/>
-<br/>Verksamhet: Konstruerar o
-<br/>tillverkar maskinutrustning för
-<br/>spannmålssilar o foderfabriker.
-<br/>Legotillverkning av plåtprodukter.
-<br/>Rostfria produkter för
-<br/>livsmedelsindustrin
-<br/>
-<br/>Aktiekapital: 100000
-<br/>Årsomsättning: 3 500000
-<br/>Verkst dir: Kai-Ake Weiffert
-<br/>Etableringsår: 1934.
-<br/>
-<br/>BERG AKTIEBOLAG, OLOF P
-<br/>
-<br/>Pnr 415 05
-<br/>
-<br/>Göteborg, Generalsg 2 A. Tel
-<br/>031-25 0 1 75. Bankgiro 847-9081.
-<br/>Postgiro 526615-0. Tga Bergolof.
-<br/>Telex 206 20 OPBERG S
-<br/>Verksamhet: Säljer rör, kopplingar,
-<br/>armatur, lyfttänger, katodskydd,
-<br/>värmeslingor, pumpar, flänsar
-<br/>Varunamn: Bergolof, Donkin,
-<br/>Galvalum, Megator, Somers,
-<br/>Stanton, Staveley
-<br/>Verkst dir: Olof P Berg
-<br/>Etableringsår: 1959.
-<br/>
-<br/>BERG AB, RICHARD
-<br/>
-<br/>Pnr 100 55
-<br/>
-<br/>Stockholm 10, Valhallav 165. Fack.
-<br/>Tel 08-62 49 50, 62 49 18. Bankgiro
-<br/>101-7151. Postgiro 52072-6.
-<br/>Tga Monstrader. Telex 19025
-<br/>Verksamhet: Maskiner o
-<br/>förnödenheter för cellulosa- o
-<br/>pappersindustrin, högtrycksslang o
-<br/>industriprodukter
-<br/>
-<br/>Avdelningskontor: Göteborg,
-<br/>N Liden 2 A. Tel 031-105148
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Civiling W Robinson
-<br/>Etableringsår: 1919.
-<br/>
-<br/>BERGH &amp; CO, STEN
-<br/>
-<br/>Pnr 232 00
-<br/>
-<br/>Arlöv. Sunnanå. Tel 040-49 11 90.
-<br/>Bankgiro 264-8004. Postgiro
-<br/>1494 27-7
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>sparskär-hållare o hårdmetallhållare för
-<br/>invändig svarvning. Snabbspännklovar
-<br/>o övriga svarvverktyg
-<br/>Antal anställda: 12
-<br/>Årsomsättning: 450 000
-<br/>
-<br/>63
+
+ningsuppdrag. Levererar all slags
+sten- o grusmaterial från egna
+krossanläggningar
+Antal anställda: 20
+Årsomsättning: 2000 000
+Aktiekapital: 35 000
+Styrelse: Sven Falk (ordf), Bernt
+Berg, Yngve Olsson
+Verkst dir: Bernt Berg
+Kamrer: Yngve Olsson
+Etableringsår: 1963.
+
+BERG OCH NYCANDER AB
+
+Pnr 11123
+
+Stockholm, Barnhusg 3. Tel
+08-10 75 65, 23 2500. Bankgiro
+721-7573. Postgiro 3902-4. Tga
+Bergs-jern
+
+Verksamhet: Agentur o partiaffär i
+järnmanufaktur. Suffolk, Atco,
+Qualcast gräsklippningsmaskiner.
+Fresco vridmaskiner
+Varunamn: Atco, Fresco, Qualcast,
+Suffolk
+
+Aktiekapital: 50 000
+Etableringsår: 1928.
+
+BERG &amp; STARCK,
+INGENJÖRSFIRMAN
+
+Pnr 761 00
+
+Norrtälje, Hantverkareg 21. Box
+40. Tel 0176-10220, 120 22
+Verksamhet: Konstruktion,
+projektering o tillverkning
+Antal anställda: 16
+Årsomsättning: 2 250 000
+Ägare o chefer: Ing Folke Berg,
+ing Gösta Starck
+Etableringsår: 1958.
+
+BERGS SÄNGKLÄDER AB
+
+Pnr 340 14
+
+Lagan. Tel 0372-303 70. Bankgiro
+147-2489. Postgiro 374461-2. Tga
+Polydun. Telex 4698 BERGS S
+Verksamhet: Tillverkar täcken,
+kuddar o sovsäckar
+Varunamn: Bergs, Polydun
+Antal anställda: 65
+Årsomsättning: 12 000 000
+Aktiekapital: 700 000
+Verkst dir: Thure Berg
+Etableringsår: 1951.
+
+BERGS TINGSLAGS
+ELEKTRISKA AB
+
+Pnr 84031
+
+Åsarna, Box 11. Tel 0687-300 02.
+Bankgiro 78-1217. Postgiro 73125
+Verksamhet: Eldistribution inom
+Bergs, Åsarne, Klövsjö,
+Vemdalens o Rätans socknar i Jämtlands
+län samt Haverö socken i
+Västernorrlands län
+Antal anställda: 35
+Årsomsättning: 2 300 000
+Aktiekapital: 675 500
+Verkst dir: sten B Olsson
+Etableringsår: 1914.
+
+BERGS TRÄFORÄDLING, AB
+
+Pnr 590 61
+
+Vretakloster, Box 3. Tel
+013-60036. Bankgiro 120-2282.
+Postgiro 11544-4
+
+Verksamhet: Tillverkar sågade o
+hyvlade trävaror, formluckor,
+snickerier o övrigt byggnadsmaterial
+Antal anställda: 10
+Årsomsättning: 1000 000
+Aktiekapital: 40 000
+
+Verkst dir: Disp Erie Gustavsson
+Etableringsår: 1944.
+
+BERG KAFFEIMPORT AB, A
+
+Pnr 402 31
+
+Göteborg 7, Box 7038. Nordhemsg
+25. Tel 031-124160
+Verksamhet: Kafferosteri o
+försäljning av kaffe till storkök
+Antal anställda: 12
+Årsomsättning: 6 000 000
+Aktiekapital: 75 000
+Verkst dir: Gunnar Nilsson
+Etableringsår: 1895.
+
+BERG EFTR, MANUFAKTUR
+AB FILIP
+
+Pnr 50108
+
+Borås 1, Götag 5. Box 518. Tel
+033-1136 20. Bankgiro 83-9416.
+Postgiro 225190-8
+
+Verksamhet: Manufakturvaror i
+parti
+
+Aktiekapital: 10 000
+Verkst dir: Erik Larsson
+Etableringsår: 1959.
+
+BERG MATEMATISK
+INSTRUMENTFABRIK AB, FR J
+
+Pnr 113 57
+
+Stockholm, Kungstensg 18. Tel
+08-30 76 60. Bankgiro 403-1415.
+Postgiro 1968-7
+
+Verksamhet: Tillverkar o säljer
+
+geodetiska instrument o längdmät-
+
+ningsinstrument
+
+Aktiekapital: 50 000
+
+Verkst dir: Civiling Johan Berg
+
+Etableringsår: 1850.
+
+BERG, AB GÖSTA
+
+Pnr 114 49
+
+Stockholm, Karlav 62. Tel
+08-67 97 60. Bankgiro 211-1607.
+Post-giro 152790-2. Tga Motorberg.
+Telex 19399 GBERG S
+Verksamhet: Säljer båtar o
+motorer
+
+Antal anställda: 60
+Årsomsättning: 13 500 000
+Aktiekapital: 100 000
+Verkst dir: Gunnar Sundman
+Etableringsår: 1937.
+
+BERG EXPORT-IMPORT AB,
+GÖSTA
+
+Pnr 41135
+
+Göteborg, Chalmersg 11. Tel
+031-11 50 20. Postgiro 427659-8. Tga
+Coalberg
+
+Verksamhet: Import o export av
+bränslevaror samt import av tunga
+kemikalier
+
+Årsomsättning: 3 000 000
+Aktiekapital: 5 000
+Styrelse: Fru Greta Berg (ordf),
+fru Solveig Lindahl
+Etableringsår: 1958.
+
+BERG AB, J W
+
+Pnr 430 93
+
+Hälsö. Tel 031-79 13 00. Tga
+Hälsö-berg. Telex 2436
+Verksamhet: Fartygsreparationer,
+däcksutrustning mm
+Antal anställda: 70
+Årsomsättning: 8 000 000
+Aktiekapital: 200000
+Verkst dir: Stig Jonsson
+Etableringsår: 1926.
+
+BERGS SMIDE AB, K A
+
+Pnr 360 32
+
+Gemla. Tel 0470-675 00. Bankgiro
+667-9419. Postgiro 8800-5.
+Verksamhet: Tillverkar smidda
+detaljer i styckevikter 0,1 kg-25,0 kg
+medelst hejar, stuksmide, press o
+hammarsmide samt utför även
+svetsade o bearbetade detaljer.
+Tillverkar handredskap såsom spett,
+stenredskap, specialverktyg för
+byggnadsindustrin o gruvor samt
+kätting-smide. Specialitet: lyftverktyg
+Antal anställda: 55
+Årsomsättning: 4 500 000
+Aktiekapital: 150 000
+Verkst dir: Disp Bengt Berg
+övriga chefer: Prod-chef Kurt
+Piesack
+
+Etableringsår: 1868.
+
+BERGH MEKANISKA
+VERKSTAD AB, K E
+
+Pnr 200 29
+
+Malmö 29, Box 29017. Tel
+040-49 17 30. Bankgiro 644-1018.
+Postgiro 633809-0
+
+Verksamhet: Konstruerar o
+tillverkar maskinutrustning för
+spannmålssilar o foderfabriker.
+Legotillverkning av plåtprodukter.
+Rostfria produkter för
+livsmedelsindustrin
+
+Aktiekapital: 100000
+Årsomsättning: 3 500000
+Verkst dir: Kai-Ake Weiffert
+Etableringsår: 1934.
+
+BERG AKTIEBOLAG, OLOF P
+
+Pnr 415 05
+
+Göteborg, Generalsg 2 A. Tel
+031-25 0 1 75. Bankgiro 847-9081.
+Postgiro 526615-0. Tga Bergolof.
+Telex 206 20 OPBERG S
+Verksamhet: Säljer rör, kopplingar,
+armatur, lyfttänger, katodskydd,
+värmeslingor, pumpar, flänsar
+Varunamn: Bergolof, Donkin,
+Galvalum, Megator, Somers,
+Stanton, Staveley
+Verkst dir: Olof P Berg
+Etableringsår: 1959.
+
+BERG AB, RICHARD
+
+Pnr 100 55
+
+Stockholm 10, Valhallav 165. Fack.
+Tel 08-62 49 50, 62 49 18. Bankgiro
+101-7151. Postgiro 52072-6.
+Tga Monstrader. Telex 19025
+Verksamhet: Maskiner o
+förnödenheter för cellulosa- o
+pappersindustrin, högtrycksslang o
+industriprodukter
+
+Avdelningskontor: Göteborg,
+N Liden 2 A. Tel 031-105148
+Aktiekapital: 100 000
+Verkst dir: Civiling W Robinson
+Etableringsår: 1919.
+
+BERGH &amp; CO, STEN
+
+Pnr 232 00
+
+Arlöv. Sunnanå. Tel 040-49 11 90.
+Bankgiro 264-8004. Postgiro
+1494 27-7
+
+Verksamhet: Tillverkar
+sparskär-hållare o hårdmetallhållare för
+invändig svarvning. Snabbspännklovar
+o övriga svarvverktyg
+Antal anställda: 12
+Årsomsättning: 450 000
+
+63

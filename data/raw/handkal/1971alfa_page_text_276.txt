@@ -1,290 +1,290 @@
 HUS
-<br/>
-<br/>Chef kamerala avdelningen:
-<br/>Kamrer Stig Håkansson
-<br/>Etableringsår: 1912
-<br/>Ombildat till aktiebolag 1923.
-<br/>
-<br/>HUSQVARNA BORSTFABRIK,
-<br/>AB
-<br/>
-<br/>Pnr 56101
-<br/>
-<br/>Huskvarna 1, Pack. Tel036-132600.
-<br/>Bankgiro 544-5515. Postgiro
-<br/>5419-7. Tga Borstfabriken.
-<br/>Telex 70006 HUSBOR S
-<br/>Verksamhet: Tillverkning av
-<br/>borstar o plastartiklar inom
-<br/>varuområdena personvård, hem, hushåll,
-<br/>bilvård o fritid samt tillverkning
-<br/>av roterande borstar o maskiner
-<br/>för ytbehandling o plastartiklar för
-<br/>industri o materialhantering
-<br/>Försäljningskontor: Stockholm,
-<br/>Kungsg 3. Tel 08-14 07 80
-<br/>Göteborg, Chalmersg 11. Tel
-<br/>031-13 30 38
-<br/>
-<br/>Malmö, S Tullg 4 A. Tel
-<br/>040-97 55 35
-<br/>
-<br/>Varunamn: Kontur, Kungs,
-<br/>Signatur, Siluett m fi
-<br/>Antal anställda: 330
-<br/>Årsomsättning: 30000000
-<br/>Aktiekapital: 4 500 000
-<br/>Styrelse: Disp Franz Hartmann
-<br/>(ordf), dir Sigurd Ljungcrantz,
-<br/>bruks-disp Bo Risberg, dir Gunnar Olsson
-<br/>Verkst dir: Gunnar Olsson
-<br/>Ekonomiavdelning:
-<br/>Ekonomichef: Olle Odenströmer
-<br/>Inköpschef: Bertil Dahlberg
-<br/>Personalchef: Gunnar Jonsson
-<br/>Sektor plast:
-<br/>
-<br/>Overing: Sven Samuelsson
-<br/>Marknadschef: Sven Johnsson
-<br/>Försäljn-chef: Göran Freed
-<br/>Prod-ing: Birger Bentsen
-<br/>Inköpschef: Sune Rapp
-<br/>Sektor ytbehandling:
-<br/>Overing: Hans Drabe
-<br/>Försäljn-chef: Ulf Nordmalm
-<br/>Inköpschef: Carl-Erik Gustafsson
-<br/>Anläggningsavdelning:
-<br/>Ing: Ingemar Holmqvist
-<br/>Etableringsån 1896
-<br/>Ombildat till aktiebolag 1911.
-<br/>
-<br/>HUSKVARNA
-<br/>BYGGMATERIAL, AB
-<br/>
-<br/>Pnr 56100
-<br/>
-<br/>Huskvarna, Järnvägsg 18. Tel
-<br/>036-13 26 10. Bankgiro 544-5135.
-<br/>Postgiro 367470-2
-<br/>
-<br/>Verksamhet: Säljer allt i
-<br/>byggnadsbranschen
-<br/>Aktiekapital: 80 000
-<br/>Verkst dir: Köpman P L Rydell
-<br/>Etableringsår 1948.
-<br/>
-<br/>HUSKVARNA
-<br/>CEMENT-GJUTERI AB
-<br/>
-<br/>Pnr 56100
-<br/>
-<br/>Huskvarna, Rosendalag 4. Tel
-<br/>036-13 27 70
-<br/>
-<br/>Verksamhet: Tillverkar betongrör
-<br/>av alla slag, trädgårdsplattor m m.
-<br/>Medlem av kontrollrådet för
-<br/>betongrör
-<br/>
-<br/>Aktiekapital: 25 000
-<br/>Firmatecknare: C G Petersson
-<br/>Helägt dotterbolag: Segafabriken i
-<br/>Tenhult AB.
-<br/>
-<br/>HUSKVARNA STÅLPRESS AB
-<br/>
-<br/>se Mustad AB, J.
-<br/>
-<br/>HUSQVARNA
-<br/>VAPEN-FABRIKS AB
-<br/>
-<br/>Pnr 56101
-<br/>
-<br/>Huskvarna 1, Fack. Tel 036-13 25 00.
-<br/>Postgiro 8474-9. Tga
-<br/>Vapenfabriken. Telex 70048
-<br/>Verksamhet: Gjuteri o mek
-<br/>verkstad. Tillverkar symaskiner,
-<br/>elspisar, electronicugnar, kaminer,
-<br/>värmepannor, gräsklippare, tvätt- o
-<br/>diskmaskiner, hushållsartiklar,
-<br/>kyl-o frysskåp, motorcyklar, motorsågar,
-<br/>motordetaljer
-<br/>
-<br/>Försäljningskontor: Göteborg C,
-<br/>Kungsportsavenyen 3. Tel
-<br/>031-170580
-<br/>
-<br/>Jönköping, S Strandg 7. Tel
-<br/>036-1194 90
-<br/>
-<br/>Malmö C, Söderg 13. Tel
-<br/>040-703 80
-<br/>
-<br/>Stockholm C, Brunnsg 6-8. Tel
-<br/>08-22 32 20
-<br/>
-<br/>Sundsvall, Packhusg 6. Tel
-<br/>060-155940
-<br/>
-<br/>Norrköping, Drottningg 38. Tel
-<br/>011-13 40 95
-<br/>
-<br/>Karlstad, Drottningg 18. Tel 054-
-<br/>
-<br/>1502 25
-<br/>
-<br/>Gävle, N Skeppsbron 1. Tel
-<br/>026-12 95 90
-<br/>
-<br/>Skellefteå, S Järnvägsg 50. Tel
-<br/>0910-17150
-<br/>Antal anställda: 4 600
-<br/>Årsomsättning: 440 000 000
-<br/>.Aktiekapital: 40 000 000
-<br/>Styrelse: Adv Sten S:son
-<br/>Ankarcrona (ordf), dir Bo Ehrner, dir
-<br/>Gunnar Ericsson, dir Nils
-<br/>Holgersson, dir Gösta Lewenhaupt, dir
-<br/>Johan Nordenfalk, dir Gösta
-<br/>Rehn-qvist
-<br/>
-<br/>Verkst dir: Gösta Rehnqvist
-<br/>Försäljn-dir Evald Liljegren
-<br/>Tekn dir: Gunnar Brynge
-<br/>Ekonomidir: Stig Guida
-<br/>Inköpschef: Evert Seiving
-<br/>Etableringsår: 1689
-<br/>Ombildat till aktiebolag 1867.
-<br/>Äger Norrahammars Bruk,
-<br/>Norrahammar, AB Ero-Frys, Arvika, AB
-<br/>Höörs Plåt, Höör, Tandsbyns Mek
-<br/>Verkstad, Tandsbyn.
-<br/>
-<br/>HUSTEKNIK, AB
-<br/>
-<br/>Pnr 11136
-<br/>
-<br/>Stockholm, Drottningg 71 D. Tel
-<br/>08-2178 93,217944. Postgiro
-<br/>602954-0
-<br/>
-<br/>Verksamhet: Konsulterande
-<br/>ingenjörsbyrå
-<br/>Antal anställda: 10
-<br/>Aktiekapital: 30 000
-<br/>Verkst dir: Ing Arne Larsson
-<br/>Etableringsår: 1953.
-<br/>
-<br/>HUSUMS SNICKERI AB
-<br/>
-<br/>Pnr 890 35
-<br/>
-<br/>Husum. Tel 0663-10145. Bankgiro
-<br/>76-9325. Postgiro 296096-1
-<br/>Verksamhet: Tillverkar
-<br/>magasinskärror, rundstav, laddkäppar för
-<br/>sprängningsarbeten m m
-<br/>Antal anställda: 5
-<br/>Årsomsättning: 300 000
-<br/>Aktiekapital: 25 000
-<br/>Verkst dir: N Y Gustafsson
-<br/>Etableringsår 1947.
-<br/>
-<br/>HUSVAGNAR, AB
-<br/>
-<br/>Pnr 665 00
-<br/>
-<br/>Kil. Tel 0554-110 50. Bankgiro
-<br/>881-3131. Postgiro 160153-3
-<br/>Verksamhet: Tillverkar o säljer
-<br/>manskaps-, kontors- o
-<br/>förläggningsvagnar, butiks- o skollokaler,
-<br/>barndaghem samt transportabla
-<br/>byggnadsenheter
-<br/>Antal anställda: 180
-<br/>Årsomsättning: 21000 000
-<br/>Aktiekapital: 2 000 000
-<br/>Verkst dir: Göran Ohlson
-<br/>Etableringsår: 1952
-<br/>Ombildat till aktiebolag 1957.
-<br/>
-<br/>HUSVAGN-SVENSSON AB
-<br/>
-<br/>Pnr 53101
-<br/>
-<br/>Lidköping 1, Box 407. Skarag 67.
-<br/>Tel 0510-222 70. Bankgiro
-<br/>346-7024. Postgiro 563599-0
-<br/>Verksamhet: Säljer husvagnar
-<br/>Antal anställda: 20
-<br/>Årsomsättning: 9 000 000
-<br/>Aktiekapital: 25 000
-<br/>Verkst dir. Sven Ake Svensson
-<br/>Etableringsår: 1963.
-<br/>
-<br/>HUVUDSTADENS ÅKERI AB
-<br/>
-<br/>Pnr 117 46
-<br/>
-<br/>Stockholm, Gröndalsv 118-120. Tel
-<br/>08-1901 40. Bankgiro 57-4014.
-<br/>Postgiro 155994
-<br/>
-<br/>Verksamhet: Utför schakt-,
-<br/>sprängnings- o transportarbeten
-<br/>Etableringsår 1938.
-<br/>
-<br/>HUZELLS I MALMÖ AB
-<br/>
-<br/>Pnr 212 24
-<br/>
-<br/>Malmö. Lundav 143. Tel
-<br/>040-93 59 50. Bankgiro 264-2213.
-<br/>Postgiro 431575-0. Telex 32552
-<br/>Verksamhet: Maskiner o verktyg
-<br/>för bil- o gummiverkstäder,
-<br/>automo-biltillbehör o reservdelar engros
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Sten Marcusson-Ståhl
-<br/>Disp: Sten Carlson
-<br/>Etableringsår 1952.
-<br/>
-<br/>HUZELLSI STOCKHOLM AB
-<br/>
-<br/>Pnr 162 26
-<br/>
-<br/>Vällingby, Krossg 26-28. Tel
-<br/>08-89 0310. Telex 10927.
-<br/>Verksamhet: Tillbehör, reservdelar,
-<br/>verktyg o maskiner för
-<br/>bilbranschen
-<br/>
-<br/>Aktiekapital: 150 000
-<br/>Verkst dir: Konsul Sten
-<br/>Marcusson-Ståhl
-<br/>Disp: Sven Berg
-<br/>Etableringsår: 1939.
-<br/>
-<br/>HUZELL AB, AUG
-<br/>
-<br/>Pnr 65103
-<br/>
-<br/>Karlstad 1, Box 77. Tel 054-18 5120.
-<br/>Bankgiro 10-0097. Postgiro 70761.
-<br/>Telex 66039 HUZELLS S.
-<br/>Tga Huzells
-<br/>
-<br/>Verksamhet: Maskiner o verktyg
-<br/>tör bil- o gummiverkstäder,
-<br/>biltillbehör o reservdelar en gros
-<br/>Filialer: 162 26 Vällingby. Huzells
-<br/>i Stockholm AB, Krossg 26-28. Tel
-<br/>08-89 03 10. Telex 10927
-<br/>HUZELLS S
-<br/>
-<br/>212 24 Malmö O. Huzells i Malmö
-<br/>AB, Lundav 143. Tel 040-93 59 50.
-<br/>Telex 32552 huzells s
-<br/>
-<br/>274
+
+Chef kamerala avdelningen:
+Kamrer Stig Håkansson
+Etableringsår: 1912
+Ombildat till aktiebolag 1923.
+
+HUSQVARNA BORSTFABRIK,
+AB
+
+Pnr 56101
+
+Huskvarna 1, Pack. Tel036-132600.
+Bankgiro 544-5515. Postgiro
+5419-7. Tga Borstfabriken.
+Telex 70006 HUSBOR S
+Verksamhet: Tillverkning av
+borstar o plastartiklar inom
+varuområdena personvård, hem, hushåll,
+bilvård o fritid samt tillverkning
+av roterande borstar o maskiner
+för ytbehandling o plastartiklar för
+industri o materialhantering
+Försäljningskontor: Stockholm,
+Kungsg 3. Tel 08-14 07 80
+Göteborg, Chalmersg 11. Tel
+031-13 30 38
+
+Malmö, S Tullg 4 A. Tel
+040-97 55 35
+
+Varunamn: Kontur, Kungs,
+Signatur, Siluett m fi
+Antal anställda: 330
+Årsomsättning: 30000000
+Aktiekapital: 4 500 000
+Styrelse: Disp Franz Hartmann
+(ordf), dir Sigurd Ljungcrantz,
+bruks-disp Bo Risberg, dir Gunnar Olsson
+Verkst dir: Gunnar Olsson
+Ekonomiavdelning:
+Ekonomichef: Olle Odenströmer
+Inköpschef: Bertil Dahlberg
+Personalchef: Gunnar Jonsson
+Sektor plast:
+
+Overing: Sven Samuelsson
+Marknadschef: Sven Johnsson
+Försäljn-chef: Göran Freed
+Prod-ing: Birger Bentsen
+Inköpschef: Sune Rapp
+Sektor ytbehandling:
+Overing: Hans Drabe
+Försäljn-chef: Ulf Nordmalm
+Inköpschef: Carl-Erik Gustafsson
+Anläggningsavdelning:
+Ing: Ingemar Holmqvist
+Etableringsån 1896
+Ombildat till aktiebolag 1911.
+
+HUSKVARNA
+BYGGMATERIAL, AB
+
+Pnr 56100
+
+Huskvarna, Järnvägsg 18. Tel
+036-13 26 10. Bankgiro 544-5135.
+Postgiro 367470-2
+
+Verksamhet: Säljer allt i
+byggnadsbranschen
+Aktiekapital: 80 000
+Verkst dir: Köpman P L Rydell
+Etableringsår 1948.
+
+HUSKVARNA
+CEMENT-GJUTERI AB
+
+Pnr 56100
+
+Huskvarna, Rosendalag 4. Tel
+036-13 27 70
+
+Verksamhet: Tillverkar betongrör
+av alla slag, trädgårdsplattor m m.
+Medlem av kontrollrådet för
+betongrör
+
+Aktiekapital: 25 000
+Firmatecknare: C G Petersson
+Helägt dotterbolag: Segafabriken i
+Tenhult AB.
+
+HUSKVARNA STÅLPRESS AB
+
+se Mustad AB, J.
+
+HUSQVARNA
+VAPEN-FABRIKS AB
+
+Pnr 56101
+
+Huskvarna 1, Fack. Tel 036-13 25 00.
+Postgiro 8474-9. Tga
+Vapenfabriken. Telex 70048
+Verksamhet: Gjuteri o mek
+verkstad. Tillverkar symaskiner,
+elspisar, electronicugnar, kaminer,
+värmepannor, gräsklippare, tvätt- o
+diskmaskiner, hushållsartiklar,
+kyl-o frysskåp, motorcyklar, motorsågar,
+motordetaljer
+
+Försäljningskontor: Göteborg C,
+Kungsportsavenyen 3. Tel
+031-170580
+
+Jönköping, S Strandg 7. Tel
+036-1194 90
+
+Malmö C, Söderg 13. Tel
+040-703 80
+
+Stockholm C, Brunnsg 6-8. Tel
+08-22 32 20
+
+Sundsvall, Packhusg 6. Tel
+060-155940
+
+Norrköping, Drottningg 38. Tel
+011-13 40 95
+
+Karlstad, Drottningg 18. Tel 054-
+
+1502 25
+
+Gävle, N Skeppsbron 1. Tel
+026-12 95 90
+
+Skellefteå, S Järnvägsg 50. Tel
+0910-17150
+Antal anställda: 4 600
+Årsomsättning: 440 000 000
+.Aktiekapital: 40 000 000
+Styrelse: Adv Sten S:son
+Ankarcrona (ordf), dir Bo Ehrner, dir
+Gunnar Ericsson, dir Nils
+Holgersson, dir Gösta Lewenhaupt, dir
+Johan Nordenfalk, dir Gösta
+Rehn-qvist
+
+Verkst dir: Gösta Rehnqvist
+Försäljn-dir Evald Liljegren
+Tekn dir: Gunnar Brynge
+Ekonomidir: Stig Guida
+Inköpschef: Evert Seiving
+Etableringsår: 1689
+Ombildat till aktiebolag 1867.
+Äger Norrahammars Bruk,
+Norrahammar, AB Ero-Frys, Arvika, AB
+Höörs Plåt, Höör, Tandsbyns Mek
+Verkstad, Tandsbyn.
+
+HUSTEKNIK, AB
+
+Pnr 11136
+
+Stockholm, Drottningg 71 D. Tel
+08-2178 93,217944. Postgiro
+602954-0
+
+Verksamhet: Konsulterande
+ingenjörsbyrå
+Antal anställda: 10
+Aktiekapital: 30 000
+Verkst dir: Ing Arne Larsson
+Etableringsår: 1953.
+
+HUSUMS SNICKERI AB
+
+Pnr 890 35
+
+Husum. Tel 0663-10145. Bankgiro
+76-9325. Postgiro 296096-1
+Verksamhet: Tillverkar
+magasinskärror, rundstav, laddkäppar för
+sprängningsarbeten m m
+Antal anställda: 5
+Årsomsättning: 300 000
+Aktiekapital: 25 000
+Verkst dir: N Y Gustafsson
+Etableringsår 1947.
+
+HUSVAGNAR, AB
+
+Pnr 665 00
+
+Kil. Tel 0554-110 50. Bankgiro
+881-3131. Postgiro 160153-3
+Verksamhet: Tillverkar o säljer
+manskaps-, kontors- o
+förläggningsvagnar, butiks- o skollokaler,
+barndaghem samt transportabla
+byggnadsenheter
+Antal anställda: 180
+Årsomsättning: 21000 000
+Aktiekapital: 2 000 000
+Verkst dir: Göran Ohlson
+Etableringsår: 1952
+Ombildat till aktiebolag 1957.
+
+HUSVAGN-SVENSSON AB
+
+Pnr 53101
+
+Lidköping 1, Box 407. Skarag 67.
+Tel 0510-222 70. Bankgiro
+346-7024. Postgiro 563599-0
+Verksamhet: Säljer husvagnar
+Antal anställda: 20
+Årsomsättning: 9 000 000
+Aktiekapital: 25 000
+Verkst dir. Sven Ake Svensson
+Etableringsår: 1963.
+
+HUVUDSTADENS ÅKERI AB
+
+Pnr 117 46
+
+Stockholm, Gröndalsv 118-120. Tel
+08-1901 40. Bankgiro 57-4014.
+Postgiro 155994
+
+Verksamhet: Utför schakt-,
+sprängnings- o transportarbeten
+Etableringsår 1938.
+
+HUZELLS I MALMÖ AB
+
+Pnr 212 24
+
+Malmö. Lundav 143. Tel
+040-93 59 50. Bankgiro 264-2213.
+Postgiro 431575-0. Telex 32552
+Verksamhet: Maskiner o verktyg
+för bil- o gummiverkstäder,
+automo-biltillbehör o reservdelar engros
+Aktiekapital: 100 000
+Verkst dir: Sten Marcusson-Ståhl
+Disp: Sten Carlson
+Etableringsår 1952.
+
+HUZELLSI STOCKHOLM AB
+
+Pnr 162 26
+
+Vällingby, Krossg 26-28. Tel
+08-89 0310. Telex 10927.
+Verksamhet: Tillbehör, reservdelar,
+verktyg o maskiner för
+bilbranschen
+
+Aktiekapital: 150 000
+Verkst dir: Konsul Sten
+Marcusson-Ståhl
+Disp: Sven Berg
+Etableringsår: 1939.
+
+HUZELL AB, AUG
+
+Pnr 65103
+
+Karlstad 1, Box 77. Tel 054-18 5120.
+Bankgiro 10-0097. Postgiro 70761.
+Telex 66039 HUZELLS S.
+Tga Huzells
+
+Verksamhet: Maskiner o verktyg
+tör bil- o gummiverkstäder,
+biltillbehör o reservdelar en gros
+Filialer: 162 26 Vällingby. Huzells
+i Stockholm AB, Krossg 26-28. Tel
+08-89 03 10. Telex 10927
+HUZELLS S
+
+212 24 Malmö O. Huzells i Malmö
+AB, Lundav 143. Tel 040-93 59 50.
+Telex 32552 huzells s
+
+274

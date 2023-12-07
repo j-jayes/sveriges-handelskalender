@@ -1,287 +1,287 @@
 FIB
-<br/>
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Mats Carlgren
-<br/>Etableringsàr: 1944.
-<br/>
-<br/>FERRIT, AB
-<br/>
-<br/>Pnr 610 50
-<br/>
-<br/>Jönåker. Tel 0155-702 82. Bankgiro
-<br/>827-2155. Postgiro 376695-3
-<br/>Verksamhet: Tillverkar
-<br/>dioptersik-ten o kikarfästen
-<br/>Antal anställda: 5
-<br/>Årsomsättning: 260 000
-<br/>Aktiekapital: 25 000
-<br/>Verkst dir: Verner Nilsson
-<br/>Etableringsàr: 1951.
-<br/>
-<br/>FERRO (HOLLAND) AB
-<br/>
-<br/>Pnr 211 24
-<br/>
-<br/>Malmö, Skruvg 6-8. Tel 040-18 08 90.
-<br/>Bankgiro 870-3902. Postgiro
-<br/>149595-1. Tga Pernam.
-<br/>Telex 32455 PERNAM S
-<br/>Verksamhet: Säljer råmaterial o
-<br/>utrustning för emalj, keramik o plasta
-<br/>industrin
-<br/>
-<br/>Årsomsättning: 8 500 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir. Ing Bror österlind
-<br/>Etableringsàr: 1951
-<br/>Dotterbolag till Ferro (Holland’)
-<br/>N V, Rotterdam.
-<br/>
-<br/>FERROLEGERINGAR, AB
-<br/>
-<br/>Pnr 103 41
-<br/>
-<br/>Stockholm 40, Sveav 17. Box
-<br/>40040. Tel 08-23 5130. Bankgiro
-<br/>56-0124. Postgiro 53989.
-<br/>Tga Legeringar. Telex 19122
-<br/>Verksamhet: Tillverkar
-<br/>järnlegeringar för stålverk o gjuterier,
-<br/>pulver för belagda svetselektroder
-<br/>samt utför anodisering av aluminium
-<br/>i Trollhättan
-<br/>
-<br/>Varunamn: Fakal, Ferroeast,
-<br/>Ferro-vest
-<br/>
-<br/>Antal anställda: 550
-<br/>Årsomsättning: 200 000 000
-<br/>Aktiekapital: 16 000 000
-<br/>Styrelse: Civiling Olof Ragnar
-<br/>Drakenberg (ordf), dir Rolf Björklund ,
-<br/>bergsing Sven Olof Berg
-<br/>Verkst dir: Rolf Björklund
-<br/>Försäljn-chef: Rolf Delin
-<br/>Inköpschef: Ing Per-Erik Hellström
-<br/>Etableringsàr: 1913.
-<br/>
-<br/>FERROMATIC MASKIN AB
-<br/>
-<br/>Pnr 724 61
-<br/>
-<br/>Västerås, Jakobsbergsg 3 A. Tel
-<br/>021-18 9100. Bankgiro 550-0541.
-<br/>Postgiro 627195-1. Telex 40663
-<br/>Verksamhet: Maskin- o
-<br/>material-agenturer
-<br/>
-<br/>Varunamn: Bönnhoff, Steinert
-<br/>Aktiekapital: 5000
-<br/>Verkst dir: Ing Walter Koerfer
-<br/>Etableringsàr: 1964.
-<br/>
-<br/>FERROPRODUKTER, AB
-<br/>
-<br/>Pnr 402 72
-<br/>
-<br/>Göteborg 8, Box 8882. Importg
-<br/>19-21, Backadalsmotet. Tel
-<br/>031-52 00 90. Bankgiro 513-6064.
-<br/>Postgiro 43165-0. TgaFerpo.
-<br/>Telex 2079 2 FERPO S
-<br/>Verksamhet: Utför elektrolytisk
-<br/>förzinkning, förnickling,
-<br/>förkrom-ning, kadmiering, oxidering,
-<br/>fosfa-tering, sprutmetalliserlng samt
-<br/>slipning, polering
-<br/>
-<br/>Antal anställda: 60
-<br/>
-<br/>Årsomsättning: 5 000 000
-<br/>Aktiekapital: 400 000
-<br/>Styrelse: Dir Sten Sjöstedt (ordf),
-<br/>dir Göran Löwhagen, adv Love
-<br/>Mannheimer
-<br/>
-<br/>Verkst dir: Civiling Göran
-<br/>Löwhagen
-<br/>
-<br/>Kamrer: Bror Gustafsson
-<br/>Etableringsàr: 1947
-<br/>Företaget tillhör Dickson &amp;
-<br/>Sjöstedt KB, Göteborg.
-<br/>
-<br/>FERROSAN, AB
-<br/>
-<br/>Pnr 201 10
-<br/>
-<br/>Malmö 1, Celsiusg 35. Fack. Tel
-<br/>040-93 66 00. Bankgiro 640-4131.
-<br/>Postgiro 38256-4. Tga Ferrosan.
-<br/>Telex 3101 FERROCO S
-<br/>Verksamhet: Farmaceutiska
-<br/>specialiteter, desinfektionsmedel,
-<br/>veterinärpreparat
-<br/>Antal anställda: 420
-<br/>Årsomsättning: 55 000 000
-<br/>Aktiekapital: 3 000 000
-<br/>Styrelse: Dir John Ryné (ordf),
-<br/>dir Steen Andersen, dir Olle Ryn£
-<br/>Verkst dir: Olle Ryné
-<br/>V verkst dir: Stig Nylén
-<br/>Ekonomidir: Bo Persson
-<br/>Forskningsdir: Nils Sterner
-<br/>Prod-dir: Lars Peters
-<br/>Etableringsàr: 1919
-<br/>Dotterbolag: AB Chemoswed,
-<br/>Ferrosan International AB, AB
-<br/>Tek-nosan. Sanbolagen AB, Kemiska
-<br/>AB Pas, Malmö.
-<br/>
-<br/>FERRO-TRADING, AB
-<br/>
-<br/>Pnr 21137
-<br/>
-<br/>Malmö, Stora Nyg 2. Tel 040-321 90,
-<br/>323 90. Bankgiro 874-8147.
-<br/>Postgiro 246576-3
-<br/>
-<br/>Verksamhet: Eloxerade
-<br/>aluminium-skyltar(även självhäftande), skalor,
-<br/>frontplattor mm för maskiner,
-<br/>apparater, motorer. Plastskyltar.
-<br/>Reklamartiklar
-<br/>Årsomsättning: 400 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Viktor Andersson
-<br/>Etableringsàr: 1946.
-<br/>
-<br/>FERROX AB
-<br/>
-<br/>Pnr 710 60
-<br/>
-<br/>Grythyttan. Tel 0591-14191,14192.
-<br/>Bankgiro 603-4029. Postgiro
-<br/>325468-7. Tga Ferrox
-<br/>Verksamhet: Tillverkar sjunkboxar
-<br/>för stålindustrin. Svetslagar
-<br/>kokiller m m. Säljer lunkerpulver,
-<br/>gjut-pulver o eldfasta massor
-<br/>Varunamn: VALLAK, Termex,
-<br/>Fer-matherm, Panzerit, Reparit
-<br/>Antal anställda: 90
-<br/>Årsomsättning: 7 000 000
-<br/>Aktiekapital: 816 000
-<br/>Styrelse: Dir Artur Lindqvist (ordf),
-<br/>dir Enn Vallak, ing Erik Åkerberg,
-<br/>civilekonom Ingemar Otterling, pol
-<br/>stud Hannes Vallak, dir Bertil
-<br/>Allvin
-<br/>
-<br/>Verkst dir: Bertil Allvin
-<br/>Försäljningsavd: Ing Stig A Persson
-<br/>Etableringsàr: 1953.
-<br/>
-<br/>FERRUM, AB
-<br/>
-<br/>Pnr 111 48
-<br/>
-<br/>Stockholm, Nybrokajen 15. Tel
-<br/>08-23 2130. Postgiro 190135. Telex
-<br/>19016. Tga Ferrumpipe
-<br/>
-<br/>Verksamhet: Säljer rör, järn, stål
-<br/>m m
-<br/>
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: C H Allerman
-<br/>Etableringsàr: 1946.
-<br/>
-<br/>FERRYL AB,
-<br/>
-<br/>ROSTSKYDDSFORETAGET
-<br/>
-<br/>Pnr 21120
-<br/>
-<br/>Malmö. Skeppsbron 3. Tel
-<br/>040-754 70. Bankgiro 64-0210. Postgiro
-<br/>436335. Tga Ferryl
-<br/>Verksamhet: Tillverkar
-<br/>rostskyddsmedel, rengörings- o tätningsmedel
-<br/>Varunamn: Armacit, Cleaning
-<br/>Fluid, Electroclean, Ferrycid,
-<br/>Ferryl, Ferrycoat
-<br/>Etableringsàr: 1955.
-<br/>
-<br/>FE STO PNEUMATIC AB
-<br/>
-<br/>Pnr 200 10
-<br/>
-<br/>Malmö 17, Box 17039. Holmg 11.
-<br/>Tel 040-75190. Bankgiro 640-5864.
-<br/>Postgiro 630183-2. Tga Festo.
-<br/>Telex 32405 FESTO AB S
-<br/>Verksamhet: Säljer enkel- o
-<br/>dubbelverkande tryckluftcylindrar med
-<br/>upp till 2 000 mm slaglängd.
-<br/>Styrventiler med manuell, pneumatisk
-<br/>eller elektrisk impuls.
-<br/>Program-styrningsanordningar. Matningsapparatur för frammatning (även
-<br/>kontinuerlig) av stång- o bandmaterial
-<br/>för t ex svarvning, fräsning,
-<br/>stansning etc. Indexbord med upp till 24
-<br/>delningar. Apparater för rening av
-<br/>tryckluft. Tillbehör o detaljer sår
-<br/>som nipplar, slangar, T-stycken
-<br/>etc. Specialmaskiner för
-<br/>rationalisering
-<br/>
-<br/>Aktiekapital: 500 000
-<br/>Styrelse: Adv Bror-Emil Jeppsson
-<br/>Chef: Ing Egon Svensson
-<br/>Etableringsàr: 1964.
-<br/>
-<br/>FEUK &amp; WILSON AB
-<br/>
-<br/>Pnr 114 31
-<br/>
-<br/>Stockholm, Karlav 10. Tel
-<br/>08-23 10 80. Bankgiro 238-7090.
-<br/>Postgiro 2518-9. Tga Feukson
-<br/>Verksamhet: Säljer snickeri-,
-<br/>inrednings- o byggnadsmaterial
-<br/>Antal anställda: 8
-<br/>Årsomsättning: 1600 000
-<br/>Aktiekapital: 120 000
-<br/>Etableringsàr: 1925
-<br/>Ombildat till aktiebolag 1930.
-<br/>
-<br/>F G MÖBLER, AB
-<br/>
-<br/>Pnr 523 00
-<br/>
-<br/>Ulricehamn, Boråsv 17. Tel
-<br/>0321-13107. Bankgiro 53-2721.
-<br/>Postgiro 372859
-<br/>
-<br/>Verksamhet: Tillverkar alla slags
-<br/>inredningar
-<br/>Antal anställda: 5
-<br/>Årsomsättning: 250 000
-<br/>Aktiekapital: 24 000
-<br/>Verkst dir: Låge Gustavsson
-<br/>Etableringsàr: 1950.
-<br/>
-<br/>FIBERDUK, AB
-<br/>
-<br/>Pnr 27100
-<br/>
-<br/>Ystad, Exercisg. Tel 0411-13800.
-<br/>Bankgiro 67-0335. Postgiro 496460.
-<br/>Tga Fiberduk.
-<br/>Telex 3146 PER SO EN S
-<br/>Verksamhet: Tillverkar o säljer
-<br/>fiberduk (non-woven) såsom
-<br/>konfektionsmellanlägg, mattunderlägg.
-<br/>
-<br/>185
+
+Aktiekapital: 100 000
+Verkst dir: Mats Carlgren
+Etableringsàr: 1944.
+
+FERRIT, AB
+
+Pnr 610 50
+
+Jönåker. Tel 0155-702 82. Bankgiro
+827-2155. Postgiro 376695-3
+Verksamhet: Tillverkar
+dioptersik-ten o kikarfästen
+Antal anställda: 5
+Årsomsättning: 260 000
+Aktiekapital: 25 000
+Verkst dir: Verner Nilsson
+Etableringsàr: 1951.
+
+FERRO (HOLLAND) AB
+
+Pnr 211 24
+
+Malmö, Skruvg 6-8. Tel 040-18 08 90.
+Bankgiro 870-3902. Postgiro
+149595-1. Tga Pernam.
+Telex 32455 PERNAM S
+Verksamhet: Säljer råmaterial o
+utrustning för emalj, keramik o plasta
+industrin
+
+Årsomsättning: 8 500 000
+Aktiekapital: 5 000
+Verkst dir. Ing Bror österlind
+Etableringsàr: 1951
+Dotterbolag till Ferro (Holland’)
+N V, Rotterdam.
+
+FERROLEGERINGAR, AB
+
+Pnr 103 41
+
+Stockholm 40, Sveav 17. Box
+40040. Tel 08-23 5130. Bankgiro
+56-0124. Postgiro 53989.
+Tga Legeringar. Telex 19122
+Verksamhet: Tillverkar
+järnlegeringar för stålverk o gjuterier,
+pulver för belagda svetselektroder
+samt utför anodisering av aluminium
+i Trollhättan
+
+Varunamn: Fakal, Ferroeast,
+Ferro-vest
+
+Antal anställda: 550
+Årsomsättning: 200 000 000
+Aktiekapital: 16 000 000
+Styrelse: Civiling Olof Ragnar
+Drakenberg (ordf), dir Rolf Björklund ,
+bergsing Sven Olof Berg
+Verkst dir: Rolf Björklund
+Försäljn-chef: Rolf Delin
+Inköpschef: Ing Per-Erik Hellström
+Etableringsàr: 1913.
+
+FERROMATIC MASKIN AB
+
+Pnr 724 61
+
+Västerås, Jakobsbergsg 3 A. Tel
+021-18 9100. Bankgiro 550-0541.
+Postgiro 627195-1. Telex 40663
+Verksamhet: Maskin- o
+material-agenturer
+
+Varunamn: Bönnhoff, Steinert
+Aktiekapital: 5000
+Verkst dir: Ing Walter Koerfer
+Etableringsàr: 1964.
+
+FERROPRODUKTER, AB
+
+Pnr 402 72
+
+Göteborg 8, Box 8882. Importg
+19-21, Backadalsmotet. Tel
+031-52 00 90. Bankgiro 513-6064.
+Postgiro 43165-0. TgaFerpo.
+Telex 2079 2 FERPO S
+Verksamhet: Utför elektrolytisk
+förzinkning, förnickling,
+förkrom-ning, kadmiering, oxidering,
+fosfa-tering, sprutmetalliserlng samt
+slipning, polering
+
+Antal anställda: 60
+
+Årsomsättning: 5 000 000
+Aktiekapital: 400 000
+Styrelse: Dir Sten Sjöstedt (ordf),
+dir Göran Löwhagen, adv Love
+Mannheimer
+
+Verkst dir: Civiling Göran
+Löwhagen
+
+Kamrer: Bror Gustafsson
+Etableringsàr: 1947
+Företaget tillhör Dickson &amp;
+Sjöstedt KB, Göteborg.
+
+FERROSAN, AB
+
+Pnr 201 10
+
+Malmö 1, Celsiusg 35. Fack. Tel
+040-93 66 00. Bankgiro 640-4131.
+Postgiro 38256-4. Tga Ferrosan.
+Telex 3101 FERROCO S
+Verksamhet: Farmaceutiska
+specialiteter, desinfektionsmedel,
+veterinärpreparat
+Antal anställda: 420
+Årsomsättning: 55 000 000
+Aktiekapital: 3 000 000
+Styrelse: Dir John Ryné (ordf),
+dir Steen Andersen, dir Olle Ryn£
+Verkst dir: Olle Ryné
+V verkst dir: Stig Nylén
+Ekonomidir: Bo Persson
+Forskningsdir: Nils Sterner
+Prod-dir: Lars Peters
+Etableringsàr: 1919
+Dotterbolag: AB Chemoswed,
+Ferrosan International AB, AB
+Tek-nosan. Sanbolagen AB, Kemiska
+AB Pas, Malmö.
+
+FERRO-TRADING, AB
+
+Pnr 21137
+
+Malmö, Stora Nyg 2. Tel 040-321 90,
+323 90. Bankgiro 874-8147.
+Postgiro 246576-3
+
+Verksamhet: Eloxerade
+aluminium-skyltar(även självhäftande), skalor,
+frontplattor mm för maskiner,
+apparater, motorer. Plastskyltar.
+Reklamartiklar
+Årsomsättning: 400 000
+Aktiekapital: 5 000
+Verkst dir: Viktor Andersson
+Etableringsàr: 1946.
+
+FERROX AB
+
+Pnr 710 60
+
+Grythyttan. Tel 0591-14191,14192.
+Bankgiro 603-4029. Postgiro
+325468-7. Tga Ferrox
+Verksamhet: Tillverkar sjunkboxar
+för stålindustrin. Svetslagar
+kokiller m m. Säljer lunkerpulver,
+gjut-pulver o eldfasta massor
+Varunamn: VALLAK, Termex,
+Fer-matherm, Panzerit, Reparit
+Antal anställda: 90
+Årsomsättning: 7 000 000
+Aktiekapital: 816 000
+Styrelse: Dir Artur Lindqvist (ordf),
+dir Enn Vallak, ing Erik Åkerberg,
+civilekonom Ingemar Otterling, pol
+stud Hannes Vallak, dir Bertil
+Allvin
+
+Verkst dir: Bertil Allvin
+Försäljningsavd: Ing Stig A Persson
+Etableringsàr: 1953.
+
+FERRUM, AB
+
+Pnr 111 48
+
+Stockholm, Nybrokajen 15. Tel
+08-23 2130. Postgiro 190135. Telex
+19016. Tga Ferrumpipe
+
+Verksamhet: Säljer rör, järn, stål
+m m
+
+Aktiekapital: 5 000
+Verkst dir: C H Allerman
+Etableringsàr: 1946.
+
+FERRYL AB,
+
+ROSTSKYDDSFORETAGET
+
+Pnr 21120
+
+Malmö. Skeppsbron 3. Tel
+040-754 70. Bankgiro 64-0210. Postgiro
+436335. Tga Ferryl
+Verksamhet: Tillverkar
+rostskyddsmedel, rengörings- o tätningsmedel
+Varunamn: Armacit, Cleaning
+Fluid, Electroclean, Ferrycid,
+Ferryl, Ferrycoat
+Etableringsàr: 1955.
+
+FE STO PNEUMATIC AB
+
+Pnr 200 10
+
+Malmö 17, Box 17039. Holmg 11.
+Tel 040-75190. Bankgiro 640-5864.
+Postgiro 630183-2. Tga Festo.
+Telex 32405 FESTO AB S
+Verksamhet: Säljer enkel- o
+dubbelverkande tryckluftcylindrar med
+upp till 2 000 mm slaglängd.
+Styrventiler med manuell, pneumatisk
+eller elektrisk impuls.
+Program-styrningsanordningar. Matningsapparatur för frammatning (även
+kontinuerlig) av stång- o bandmaterial
+för t ex svarvning, fräsning,
+stansning etc. Indexbord med upp till 24
+delningar. Apparater för rening av
+tryckluft. Tillbehör o detaljer sår
+som nipplar, slangar, T-stycken
+etc. Specialmaskiner för
+rationalisering
+
+Aktiekapital: 500 000
+Styrelse: Adv Bror-Emil Jeppsson
+Chef: Ing Egon Svensson
+Etableringsàr: 1964.
+
+FEUK &amp; WILSON AB
+
+Pnr 114 31
+
+Stockholm, Karlav 10. Tel
+08-23 10 80. Bankgiro 238-7090.
+Postgiro 2518-9. Tga Feukson
+Verksamhet: Säljer snickeri-,
+inrednings- o byggnadsmaterial
+Antal anställda: 8
+Årsomsättning: 1600 000
+Aktiekapital: 120 000
+Etableringsàr: 1925
+Ombildat till aktiebolag 1930.
+
+F G MÖBLER, AB
+
+Pnr 523 00
+
+Ulricehamn, Boråsv 17. Tel
+0321-13107. Bankgiro 53-2721.
+Postgiro 372859
+
+Verksamhet: Tillverkar alla slags
+inredningar
+Antal anställda: 5
+Årsomsättning: 250 000
+Aktiekapital: 24 000
+Verkst dir: Låge Gustavsson
+Etableringsàr: 1950.
+
+FIBERDUK, AB
+
+Pnr 27100
+
+Ystad, Exercisg. Tel 0411-13800.
+Bankgiro 67-0335. Postgiro 496460.
+Tga Fiberduk.
+Telex 3146 PER SO EN S
+Verksamhet: Tillverkar o säljer
+fiberduk (non-woven) såsom
+konfektionsmellanlägg, mattunderlägg.
+
+185

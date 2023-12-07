@@ -1,283 +1,283 @@
 FEN
-<br/>
-<br/>FAXE AB, G C
-<br/>
-<br/>Pnr 201 10
-<br/>
-<br/>Malmö 1, Pack. Larocheg 4. Tel
-<br/>040-70860. Bankgiro 640-1657.
-<br/>Postgiro 39090-6. Tga Faxius.
-<br/>Telex 32504
-<br/>
-<br/>Verksamhet: Försäljning av gaser.
-<br/>Kommissionär för Alfax AB, Malmö
-<br/>Aktiekapital: 1000 000
-<br/>Verkst dir: J Faxe
-<br/>Etableringsår: 1906.
-<br/>
-<br/>FCB FOOTE, CONE &amp;
-<br/>BELDING AB
-<br/>
-<br/>Pnr 105 62
-<br/>
-<br/>Stockholm, Kungsg 5. Tel
-<br/>08-24 02 40. Bankgiro 72-4987.
-<br/>Postgiro 154852-8. Tga Effceebee.
-<br/>Telex 10736 FCB S
-<br/>Verksamhet: Nominerad
-<br/>annonsförmedlare
-<br/>
-<br/>Avdelningskontor: 21134 Malmö,
-<br/>Söderg 12. Tel 040-762 10. Telex
-<br/>32562 FCB S. Tga Effceebee
-<br/>Aktiekapital: 1250 000
-<br/>Verkst dir: Christian Preisler
-<br/>Etableringsår: 1938.
-<br/>
-<br/>F.C.F. SCANDINAVIA AB
-<br/>
-<br/>Pnr 125 39
-<br/>
-<br/>Älvsjö, Stamg 5. Tel 08-9189 03.
-<br/>Bankgiro 47-8653. Postgiro 453145.
-<br/>Tga Simmonds
-<br/>
-<br/>Verksamhet: Säljer muttrar, olje-,
-<br/>luft- o bränslefilter m m
-<br/>Aktiekapital: 250 000
-<br/>Verkst dir: E Thrane
-<br/>Etableringsår: 1959.
-<br/>
-<br/>FEDERATIV, TRYCKERI AB
-<br/>
-<br/>Pnr 113 50
-<br/>
-<br/>Stockholm, Sveav 98. Tel
-<br/>08-34 35 14, 34 35 16. Bankgiro
-<br/>730-4413. Postgiro 1485-2
-<br/>Verksamhet: Civil- o
-<br/>tidningstryckeri. Utger tidningen Arbetaren
-<br/>Antal anställda: 55
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 300 000
-<br/>Verkst din Yngve Carlsson
-<br/>Etableringsår: 1921.
-<br/>
-<br/>FEGENS SÅGVERKS AB
-<br/>
-<br/>Pnr 310 62
-<br/>
-<br/>Fegen. Tel 0346-610 80,61128.
-<br/>Bankgiro 546-63625. Postgiro
-<br/>324655-0
-<br/>
-<br/>Verksamhet: Plank, bräder,
-<br/>spar-rar, pålar o långtimmer
-<br/>Antal anställda: 10
-<br/>Årsomsättning: 1800 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Anders Andersson
-<br/>Etableringsår: 1961.
-<br/>
-<br/>FEINGOLD TERMOMETER.
-<br/>FABRIK AB, I
-<br/>
-<br/>Pnr 63107
-<br/>
-<br/>Eskilstuna 1, Box 554. Rinmansg
-<br/>7. Tel 016-13 7 7 25. Bankgiro
-<br/>369-3686. Postgiro 324811-9. TgalFT
-<br/>Verksamhet: Tillverkar
-<br/>termometrar o maskintillverkade
-<br/>glasinstrument, pressade o automatsvarvade
-<br/>metalldelar
-<br/>Antal anställda: 50
-<br/>Årsomsättning: 3 000 000
-<br/>
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Fabr I Feingold
-<br/>Etableringsår: 1959.
-<br/>
-<br/>FEINSTEIN REVISIONSBYRÅ
-<br/>AB, STEN ERIK
-<br/>
-<br/>Pnr 114 35
-<br/>
-<br/>Stockholm, Riddarg 10. Tel
-<br/>08-23 19 55. Postgiro 56829
-<br/>Verksamhet: Revisionsbyrå
-<br/>Antal anställda: 12
-<br/>Årsomsättning: 1000 000
-<br/>Aktiekapital: 25000
-<br/>Verkst dir: Aukt revisor Sten
-<br/>Erik Feinstein
-<br/>Etableringsår 1945.
-<br/>
-<br/>FEJMERT PATENT, AB
-<br/>
-<br/>Pnr 61101
-<br/>
-<br/>Nyköping 1, Box 110. Bergshammar.
-<br/>Tel 0155-582 00. Postgiro 176555-1.
-<br/>Tga Fejmert
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>Original Fejmert Aktivatorer,
-<br/>blandningsmaskiner för betong,
-<br/>murbruk, asfalt, glastillverkning,
-<br/>gjuterisand m m, stationära o
-<br/>transportabla uppfordringsverk
-<br/>Dotterbolag: Oskarshamn.
-<br/>Fejmert-Maskiner AB. Tel 0491-150 25
-<br/>Antal anställda: 50
-<br/>Årsomsättning: 6 000 000
-<br/>Aktiekapital: 600 000
-<br/>Styrelse: Civiling E v Fejmert,
-<br/>disp Göran Andersson, revisor
-<br/>Birger Bergqvist
-<br/>Verkst dir: Göran Andersson
-<br/>Etableringsår: 1940.
-<br/>
-<br/>FELIX, AB
-<br/>
-<br/>Pnr 24100
-<br/>
-<br/>Eslöv, Ellingev 14. Box 46. Tel
-<br/>0413-13 1 00. Bankgiro 65-1620.
-<br/>Postgiro 173325. Tga
-<br/>Felixkon-server. Telex 3392
-<br/>Verksamhet: Livsmedelsfabriker i
-<br/>Eslöv, Fågelmara, Simrishamn o
-<br/>Ystad. Fjäderfäslakteri i Gärsnäs.
-<br/>Tillverkar djupfrysta o
-<br/>konserverade livsmedel
-<br/>Varunamn: Felix, Reymersholm
-<br/>Antal anställda: 2 000
-<br/>Årsomsättning: 272 000 000
-<br/>Aktiekapital: 15 000 000
-<br/>Verkst dir: Sven O Månsson
-<br/>Etableringsår: 1940
-<br/>Sedan 1964 helägt dotterbolag i
-<br/>Cardo-Koncernen.
-<br/>
-<br/>FELIXON AB, PAUL
-<br/>
-<br/>Pnr 57201
-<br/>
-<br/>Oskarshamn 1, Hantverksg 22. Box
-<br/>35. Tel 0491-109 90. Bankgiro
-<br/>85-6474. Postgiro 15172. Tga Felixon
-<br/>Verksamhet: Tillverkar damblusar.
-<br/>Fixon skjortateljé
-<br/>Antal anställda: 50
-<br/>Årsomsättning: 1500 000
-<br/>Aktiekapital: 300 000
-<br/>Verkst dir: Paul Felixon
-<br/>Etableringsår: 1931.
-<br/>
-<br/>FELLINGSBRO
-<br/>CEMENT-VARUFABRIK, AB
-<br/>
-<br/>Pnr 71041
-<br/>
-<br/>Fellingsbro, Box 121. Tel
-<br/>0589-20156, 204 56. Bankgiro81-8616.
-<br/>Postgiro 95354
-<br/>
-<br/>Verksamhet: Tillverkar betongrör
-<br/>Antal anställda: 32
-<br/>
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir Gunnar Johansson
-<br/>Etableringsår: 1926.
-<br/>
-<br/>FEMO-VERKEN, AB
-<br/>
-<br/>Pnr 510 47
-<br/>
-<br/>Fristad. Box 12. Tel 033-603 16,
-<br/>607 16. Bankgiro 84-4825.
-<br/>Postgiro 241720. Tga Femoverken
-<br/>
-<br/>VERKTYG, BRANDSPRUTOR
-<br/>SMÖRJ KANNOR och ELEKTRISK
-<br/>BELYSNINGSARMATUR
-<br/>
-<br/>Varunamn: Femo
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir Erik Nilsson
-<br/>Etableringsår: 1943.
-<br/>
-<br/>FENDERBOLAGEN AB
-<br/>
-<br/>Pnr 141 21
-<br/>
-<br/>Huddinge 1, Box 1031. Lillerudsv.
-<br/>Tel 08-757 43 79, 757 66 96.
-<br/>Bankgiro 19-6087. Postgiro 129330. Tga
-<br/>Fenderbol
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>"Cord-kappfender". Gummifendrar för
-<br/>kajer o fartyg
-<br/>
-<br/>Varunamn: Cordkappfender
-<br/>Årsomsättning: 800 000
-<br/>Aktiekapital: 5 000
-<br/>Styrelse: Dir Erie Westerberg
-<br/>(ordf), verkmäst Verner Westerberg
-<br/>Verkst dir: Erie Westerberg
-<br/>Etableringsår: 1952.
-<br/>
-<br/>FENGERSFORS BRUKS NYA
-<br/>AB
-<br/>
-<br/>Pnr 660 20
-<br/>
-<br/>Fengersfors. Tel 0532-23100.
-<br/>Bankgiro 632-2192. Postgiro 242915-7.
-<br/>Tga Fengersfors. Telex 5319
-<br/>Verksamhet: Tillverkar finpapper
-<br/>o MG, affischpapper
-<br/>Antal anställda: 70
-<br/>Aktiekapital: 100 000.
-<br/>
-<br/>FENIX EXPRESS AB
-<br/>
-<br/>Pnr 101 21
-<br/>
-<br/>Stockholm 1, Birger Jarlsg 62. Box
-<br/>87. Tel 08-10 55 69, 20 55 69.
-<br/>Bankgiro 167-4399. Postgiro 55295-0.
-<br/>Tga Fenixexpress. Telex 1468
-<br/>Verksamhet: In o utrikes
-<br/>möbeltransporter, kontorsflyttningar
-<br/>Antal anställda: 26
-<br/>Årsomsättning: 850 000
-<br/>Aktiekapital: 6 000
-<br/>Verkst dir: Gösta Hörgren
-<br/>Etableringsår: 1917.
-<br/>
-<br/>FENNIA FÄRG AB
-<br/>
-<br/>Pnr 13103
-<br/>
-<br/>Nacka 3, Saltsjö Järla
-<br/>Industricentrum. Fack. Tel 08-716 9260.
-<br/>Bankgiro 36-4017. Postgiro 695930-8.
-<br/>Telex 10113. Tga Fenniacomp
-<br/>Verksamhet: Säljer färger
-<br/>Kontor o lager Nacka,
-<br/>Saltsjö-Järla Industricentrum
-<br/>Varunamn: EPIREX
-<br/>Aktiekapital: 240 000
-<br/>Verkst din Lars Malmström
-<br/>Etableringsår: 1967.
-<br/>
-<br/>FENOM, AB
-<br/>
-<br/>Pnr 411 08
-<br/>
-<br/>Göteborg, stora Nyg 15. Tel 031-
-<br/>
-<br/>183
+
+FAXE AB, G C
+
+Pnr 201 10
+
+Malmö 1, Pack. Larocheg 4. Tel
+040-70860. Bankgiro 640-1657.
+Postgiro 39090-6. Tga Faxius.
+Telex 32504
+
+Verksamhet: Försäljning av gaser.
+Kommissionär för Alfax AB, Malmö
+Aktiekapital: 1000 000
+Verkst dir: J Faxe
+Etableringsår: 1906.
+
+FCB FOOTE, CONE &amp;
+BELDING AB
+
+Pnr 105 62
+
+Stockholm, Kungsg 5. Tel
+08-24 02 40. Bankgiro 72-4987.
+Postgiro 154852-8. Tga Effceebee.
+Telex 10736 FCB S
+Verksamhet: Nominerad
+annonsförmedlare
+
+Avdelningskontor: 21134 Malmö,
+Söderg 12. Tel 040-762 10. Telex
+32562 FCB S. Tga Effceebee
+Aktiekapital: 1250 000
+Verkst dir: Christian Preisler
+Etableringsår: 1938.
+
+F.C.F. SCANDINAVIA AB
+
+Pnr 125 39
+
+Älvsjö, Stamg 5. Tel 08-9189 03.
+Bankgiro 47-8653. Postgiro 453145.
+Tga Simmonds
+
+Verksamhet: Säljer muttrar, olje-,
+luft- o bränslefilter m m
+Aktiekapital: 250 000
+Verkst dir: E Thrane
+Etableringsår: 1959.
+
+FEDERATIV, TRYCKERI AB
+
+Pnr 113 50
+
+Stockholm, Sveav 98. Tel
+08-34 35 14, 34 35 16. Bankgiro
+730-4413. Postgiro 1485-2
+Verksamhet: Civil- o
+tidningstryckeri. Utger tidningen Arbetaren
+Antal anställda: 55
+Årsomsättning: 3 000 000
+Aktiekapital: 300 000
+Verkst din Yngve Carlsson
+Etableringsår: 1921.
+
+FEGENS SÅGVERKS AB
+
+Pnr 310 62
+
+Fegen. Tel 0346-610 80,61128.
+Bankgiro 546-63625. Postgiro
+324655-0
+
+Verksamhet: Plank, bräder,
+spar-rar, pålar o långtimmer
+Antal anställda: 10
+Årsomsättning: 1800 000
+Aktiekapital: 100 000
+Verkst dir: Anders Andersson
+Etableringsår: 1961.
+
+FEINGOLD TERMOMETER.
+FABRIK AB, I
+
+Pnr 63107
+
+Eskilstuna 1, Box 554. Rinmansg
+7. Tel 016-13 7 7 25. Bankgiro
+369-3686. Postgiro 324811-9. TgalFT
+Verksamhet: Tillverkar
+termometrar o maskintillverkade
+glasinstrument, pressade o automatsvarvade
+metalldelar
+Antal anställda: 50
+Årsomsättning: 3 000 000
+
+Aktiekapital: 100 000
+Verkst dir: Fabr I Feingold
+Etableringsår: 1959.
+
+FEINSTEIN REVISIONSBYRÅ
+AB, STEN ERIK
+
+Pnr 114 35
+
+Stockholm, Riddarg 10. Tel
+08-23 19 55. Postgiro 56829
+Verksamhet: Revisionsbyrå
+Antal anställda: 12
+Årsomsättning: 1000 000
+Aktiekapital: 25000
+Verkst dir: Aukt revisor Sten
+Erik Feinstein
+Etableringsår 1945.
+
+FEJMERT PATENT, AB
+
+Pnr 61101
+
+Nyköping 1, Box 110. Bergshammar.
+Tel 0155-582 00. Postgiro 176555-1.
+Tga Fejmert
+
+Verksamhet: Tillverkar o säljer
+Original Fejmert Aktivatorer,
+blandningsmaskiner för betong,
+murbruk, asfalt, glastillverkning,
+gjuterisand m m, stationära o
+transportabla uppfordringsverk
+Dotterbolag: Oskarshamn.
+Fejmert-Maskiner AB. Tel 0491-150 25
+Antal anställda: 50
+Årsomsättning: 6 000 000
+Aktiekapital: 600 000
+Styrelse: Civiling E v Fejmert,
+disp Göran Andersson, revisor
+Birger Bergqvist
+Verkst dir: Göran Andersson
+Etableringsår: 1940.
+
+FELIX, AB
+
+Pnr 24100
+
+Eslöv, Ellingev 14. Box 46. Tel
+0413-13 1 00. Bankgiro 65-1620.
+Postgiro 173325. Tga
+Felixkon-server. Telex 3392
+Verksamhet: Livsmedelsfabriker i
+Eslöv, Fågelmara, Simrishamn o
+Ystad. Fjäderfäslakteri i Gärsnäs.
+Tillverkar djupfrysta o
+konserverade livsmedel
+Varunamn: Felix, Reymersholm
+Antal anställda: 2 000
+Årsomsättning: 272 000 000
+Aktiekapital: 15 000 000
+Verkst dir: Sven O Månsson
+Etableringsår: 1940
+Sedan 1964 helägt dotterbolag i
+Cardo-Koncernen.
+
+FELIXON AB, PAUL
+
+Pnr 57201
+
+Oskarshamn 1, Hantverksg 22. Box
+35. Tel 0491-109 90. Bankgiro
+85-6474. Postgiro 15172. Tga Felixon
+Verksamhet: Tillverkar damblusar.
+Fixon skjortateljé
+Antal anställda: 50
+Årsomsättning: 1500 000
+Aktiekapital: 300 000
+Verkst dir: Paul Felixon
+Etableringsår: 1931.
+
+FELLINGSBRO
+CEMENT-VARUFABRIK, AB
+
+Pnr 71041
+
+Fellingsbro, Box 121. Tel
+0589-20156, 204 56. Bankgiro81-8616.
+Postgiro 95354
+
+Verksamhet: Tillverkar betongrör
+Antal anställda: 32
+
+Aktiekapital: 75 000
+Verkst dir Gunnar Johansson
+Etableringsår: 1926.
+
+FEMO-VERKEN, AB
+
+Pnr 510 47
+
+Fristad. Box 12. Tel 033-603 16,
+607 16. Bankgiro 84-4825.
+Postgiro 241720. Tga Femoverken
+
+VERKTYG, BRANDSPRUTOR
+SMÖRJ KANNOR och ELEKTRISK
+BELYSNINGSARMATUR
+
+Varunamn: Femo
+Aktiekapital: 75 000
+Verkst dir Erik Nilsson
+Etableringsår: 1943.
+
+FENDERBOLAGEN AB
+
+Pnr 141 21
+
+Huddinge 1, Box 1031. Lillerudsv.
+Tel 08-757 43 79, 757 66 96.
+Bankgiro 19-6087. Postgiro 129330. Tga
+Fenderbol
+
+Verksamhet: Tillverkar
+"Cord-kappfender". Gummifendrar för
+kajer o fartyg
+
+Varunamn: Cordkappfender
+Årsomsättning: 800 000
+Aktiekapital: 5 000
+Styrelse: Dir Erie Westerberg
+(ordf), verkmäst Verner Westerberg
+Verkst dir: Erie Westerberg
+Etableringsår: 1952.
+
+FENGERSFORS BRUKS NYA
+AB
+
+Pnr 660 20
+
+Fengersfors. Tel 0532-23100.
+Bankgiro 632-2192. Postgiro 242915-7.
+Tga Fengersfors. Telex 5319
+Verksamhet: Tillverkar finpapper
+o MG, affischpapper
+Antal anställda: 70
+Aktiekapital: 100 000.
+
+FENIX EXPRESS AB
+
+Pnr 101 21
+
+Stockholm 1, Birger Jarlsg 62. Box
+87. Tel 08-10 55 69, 20 55 69.
+Bankgiro 167-4399. Postgiro 55295-0.
+Tga Fenixexpress. Telex 1468
+Verksamhet: In o utrikes
+möbeltransporter, kontorsflyttningar
+Antal anställda: 26
+Årsomsättning: 850 000
+Aktiekapital: 6 000
+Verkst dir: Gösta Hörgren
+Etableringsår: 1917.
+
+FENNIA FÄRG AB
+
+Pnr 13103
+
+Nacka 3, Saltsjö Järla
+Industricentrum. Fack. Tel 08-716 9260.
+Bankgiro 36-4017. Postgiro 695930-8.
+Telex 10113. Tga Fenniacomp
+Verksamhet: Säljer färger
+Kontor o lager Nacka,
+Saltsjö-Järla Industricentrum
+Varunamn: EPIREX
+Aktiekapital: 240 000
+Verkst din Lars Malmström
+Etableringsår: 1967.
+
+FENOM, AB
+
+Pnr 411 08
+
+Göteborg, stora Nyg 15. Tel 031-
+
+183

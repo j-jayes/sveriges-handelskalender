@@ -1,287 +1,287 @@
 PRO
-<br/>
-<br/>PRINT.PAK AB
-<br/>
-<br/>Pnr 213 64
-<br/>
-<br/>Malmö SO, Bariumg 2. Tel
-<br/>040-94 37 50,94 37 51. B ankgiro 64-1661.
-<br/>Postgiro 149112
-<br/>
-<br/>Veiksamhet: Tillverkar emballage
-<br/>samt etiketter o omslag
-<br/>Antal anställda: 16
-<br/>Årsomsättning: 1000000
-<br/>Aktiekapital: 60 000
-<br/>Verkst dir. K A Helgstrand
-<br/>Etableringsàr: 1881.
-<br/>
-<br/>PRIPP-BRYGGERIERNA AB
-<br/>
-<br/>Pnr 16186
-<br/>
-<br/>Bromma, Voltav 29. Tel 08-98 15 00.
-<br/>Bankgiro 700-1613. Postgiro
-<br/>2409-1. Tga Prippsab.
-<br/>Telex 17476 PRIPP AB S
-<br/>Verksamhet: Tillverkar malt,
-<br/>maltdrycker o läskedrycker samt
-<br/>mineralvatten, stilldrinks o juicer.
-<br/>Vidare tillverkas konserverade
-<br/>livsmedel vid dotterföretaget
-<br/>Abba-Fyrtornet AB. Tillverkning o
-<br/>försäljning av kemikalier o
-<br/>laboratorieutrustning sker dessutom genom
-<br/>dotterföretagen Kebo AB o AB
-<br/>Rudolph Grave
-<br/>
-<br/>Antal anställda: 5 657 (koncernen)
-<br/>Årsomsättning: 980 000 000
-<br/>(koncernen)
-<br/>
-<br/>Aktiekapital: 177 700 000
-<br/>Koncernchef: Dir Nils Holgerson.
-<br/>
-<br/>PRISMA KONFEKTIONS AB
-<br/>
-<br/>Pnr 44100
-<br/>
-<br/>Alingsås, Kungegårdsg. Tel
-<br/>0322-130 74.Bankgiro 43-6637.Postgiro
-<br/>449770
-<br/>
-<br/>Verksamhet: Tillverkar herrockar
-<br/>Antal anställda: 25
-<br/>Årsomsättning: 1000 000
-<br/>Aktiekapital: 15 000
-<br/>Verkst dir: Olle Andersson
-<br/>Etableringsàr: 1958.
-<br/>
-<br/>PRIVABI BYGGSERVICE
-<br/>
-<br/>Pnr 250 10
-<br/>
-<br/>Helsingborg 10, Box 10050. Tel
-<br/>042-12 23 00. Postgiro 88790-1
-<br/>Verksamhet: Konsulenter för
-<br/>taktäcknings- o isoleringsarbeten
-<br/>Chef: Gunnar Bengtsson
-<br/>Etableringsàr: 1945.
-<br/>
-<br/>PR-KONTORET AB
-<br/>
-<br/>Pnr 211 36
-<br/>
-<br/>Malmö, Baltzarsg 25. Tel
-<br/>040-97 61 70, 97 62 10. Bankgiro 35-5057
-<br/>Verksamhet: PR-konsultation
-<br/>Antal anställda: 3
-<br/>Årsomsättning: 260 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Lennart Hedberg
-<br/>Etableringsàr: 1966.
-<br/>
-<br/>PR-MEDIA AB
-<br/>
-<br/>Pnr 11144
-<br/>
-<br/>Stockholm, Jakobsbergsg 7. Tel
-<br/>08-14 27 50. Bankgiro 486-5200.
-<br/>Postgiro 605136-1
-<br/>Verksamhet: Konsulter inom PR
-<br/>o information intern o extern
-<br/>Antal anstäUda: 5
-<br/>Årsomsättning: 400 000
-<br/>Aktiekapital: 5 000
-<br/>Veikst dir: Lennart von Arnold
-<br/>Etableringsàr: 1965.
-<br/>
-<br/>PRODUCTIA, AB
-<br/>
-<br/>Pnr 11647
-<br/>
-<br/>Stockholm, Sankt Paulsg 1. Tel
-<br/>08-44 99 90. Bankgiro 569-8634.
-<br/>Postgiro 254057-3. Tga Productia
-<br/>Verksamhet: Tillverkar o säljer
-<br/>tunnputs, golvhärdningsmedel m m
-<br/>Antal anställda: 18
-<br/>Årsomsättning: 3 500 000
-<br/>Aktiekapital: 150 000
-<br/>Verkst dir: Civiling Frans M Leng
-<br/>Etableringsàr: 1944.
-<br/>
-<br/>PRODUKTIONSKONSULT 1
-<br/>STOCKHOLM AB
-<br/>
-<br/>Pnr 163 54
-<br/>
-<br/>Spånga, Stjärnfallsv 29. Tel
-<br/>08-3607 07. Bankgiro 670-0272.
-<br/>Postgiro 552809-6. Tga Pisaprod
-<br/>Verksamhet: Konsultering o
-<br/>utveckling av metoder o tillbehör för
-<br/>elektrodframställning o
-<br/>gnistbearbet-ning
-<br/>
-<br/>Aktiekapital: 10 000
-<br/>Verkst dir: Ing Börje Ramsbro
-<br/>Etableringsàr: 1967.
-<br/>
-<br/>PRODUKTIONSMATERIEL, AB
-<br/>
-<br/>Pnr 113 40
-<br/>
-<br/>Stockholm, Rörstrandsg 34. Tel
-<br/>08-24 04 30. Bankgiro 168-1030.
-<br/>Postgiro 502480-7. Tga
-<br/>Prodma-comp. Telex 17842 PRODMA S
-<br/>Verksamhet: Specialföretag för
-<br/>instrument, maskiner, apparater för
-<br/>industri, teknik o forskning. Export,
-<br/>import o tillverkning
-<br/>Varunamn: Moly, Piab, Rocol, ASV
-<br/>Aktiekapital: 50 000
-<br/>Styrelse: Dir Per Axel Ljung (ordf),
-<br/>dir Olov Ahl
-<br/>Dir: Olov Ahl
-<br/>Etableringsàr. 1938
-<br/>Ombildat 1953.
-<br/>
-<br/>PRODUKTIONS-SERVICE APS,
-<br/>AB
-<br/>
-<br/>Pnr 162 27
-<br/>
-<br/>VäUingby, Grimstag 164. Tel
-<br/>08-38 96 10, 38 26 10. Bankgiro
-<br/>577-4641. Postgiro 508603-8
-<br/>Verksamhet: Tillverkar grafiska
-<br/>maskiner såsom
-<br/>perforeringsmaskiner
-<br/>
-<br/>Varunamn: APS
-<br/>Antal anstäUda: 15
-<br/>Årsomsättning: 850 000
-<br/>Aktiekapital: 300 000
-<br/>Styrelse: Ing Kurt Wolf, ing Gösta
-<br/>Forsman, ing Arnold Martinsson,
-<br/>ing Erik Wååg (suppl)
-<br/>Verkst dir: Kurt Wolf
-<br/>Verkstadschef: Arnold Martinsson
-<br/>Inköpschef: Gösta Forsman
-<br/>Etableringsàr: 1954
-<br/>Dotterbolag: AB Verktygs-Service
-<br/>APS.
-<br/>
-<br/>PRODUKTOR,
-<br/>EXPLOATERINGS AB
-<br/>
-<br/>Pnr 34100
-<br/>
-<br/>Ljungby, Karlsrov. Box 67. Tel
-<br/>0372-125 60. Bankgiro 147-2083.
-<br/>Postgiro 84743-4. Tga Produktor
-<br/>Veiksamhet: Byggnadsrörelse,
-<br/>betongtillverkning,
-<br/>grusexploatering
-<br/>
-<br/>Antal anstäUda: 162
-<br/>Årsomsättning: 15 000 000
-<br/>
-<br/>Aktiekapital: 100 000
-<br/>
-<br/>Styrelse: Dir Erie Hyttfors (ordf),
-<br/>dir Oscar Hyttfors
-<br/>Veikst dir. Erie Hyttfors
-<br/>Aibetschef: Henry Axelsson
-<br/>Kamrer: John Göransson
-<br/>Etableringsàr: 1942.
-<br/>
-<br/>PROFIL REKLAM &amp;
-<br/>ANNONS-BYRÅ AB
-<br/>
-<br/>Pnr 46101
-<br/>
-<br/>Trollhättan 1, Drottningg 15. Box
-<br/>203. Tel 0520-314 90, 329 17
-<br/>Verksamhet Annonskampanjer,
-<br/>direktreklam, tecknings- o fotoateljé
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Nils Håkansson
-<br/>Etableringsàr: 1961.
-<br/>
-<br/>PROFILA, AB
-<br/>
-<br/>Pnr 16120
-<br/>
-<br/>Bromma 20, Box 20106. Bällstav 6.
-<br/>Tel 08-98 12 60. Bankgiro 161-2696.
-<br/>Postgiro 557938-8. Tga
-<br/>Profilmaskin. Telex 17040 PROFILA S
-<br/>Verksamhet: Generalagent för
-<br/>sovjetiska verktygsmaskiner o verktyg
-<br/>Etableringsàr: 1965
-<br/>Äges av Alfa-Laval AB.
-<br/>
-<br/>PROFOTO PROFESSIONELL
-<br/>FOTOELEKTRONIK AB
-<br/>
-<br/>Pnr 112 44
-<br/>
-<br/>Stockholm, Nicanderv 2. Tel
-<br/>08-5454 59,54 54 57. Bankgiro82-4577.
-<br/>Postgiro 693311
-<br/>Verksamhet Tillverkar o säljer
-<br/>elektronblixtaggregatet Pro-l
-<br/>Antal anställda: 5
-<br/>Årsomsättning: 500 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Eckhard Heine
-<br/>Etableringsàr: 1968.
-<br/>
-<br/>PROGRESS
-<br/>RATIONALISERINGS AB
-<br/>
-<br/>Pnr 171 54
-<br/>
-<br/>Solna, Albyg 109. Tel 08-28 94 50.
-<br/>Bankgiro 47-7405. Postgiro 694075
-<br/>Verksamhet: Databehandling,
-<br/>programmering, systemuppläggning,
-<br/>kontorsrationalisering, hålkorts- ö
-<br/>hålremsst ans ning
-<br/>Antal anstäUda: 6
-<br/>Årsomsättning: 800 000
-<br/>Aktiekapital: 40 000
-<br/>Styrelse: Disp Kristian Bohm
-<br/>(ordf), dir Hans Wenger
-<br/>Verkst dir: Ing Hans Wenger
-<br/>Etableringsàr: 1967.
-<br/>
-<br/>PROJECTOR, BYGGNADS AB
-<br/>
-<br/>Pnr 115 26
-<br/>
-<br/>Stockholm, Banérg 71. Tel
-<br/>08-60 6652, 60 66 62. Bankgiro
-<br/>160-4800. Postgiro 251416-4
-<br/>Verksamhet: Uppför kontors-,
-<br/>bo-stads- o industribyggnader
-<br/>Antal anstäUda: 100
-<br/>Årsomsättning: 10 000 000
-<br/>Aktiekapital: 300 000
-<br/>Veikst dir Civiling Ingemar
-<br/>Hansson
-<br/>
-<br/>Etableringsàr: 1945.
-<br/>
-<br/>PROJEKTANALYS AB
-<br/>
-<br/>Pnr 200 22
-<br/>
-<br/>Malmö 3, Grang 2. Box 3018. Tel
-<br/>040-18 07 50. Bankgiro 232-6676.
-<br/>Postgiro 405270-0
-<br/>
-<br/>507
+
+PRINT.PAK AB
+
+Pnr 213 64
+
+Malmö SO, Bariumg 2. Tel
+040-94 37 50,94 37 51. B ankgiro 64-1661.
+Postgiro 149112
+
+Veiksamhet: Tillverkar emballage
+samt etiketter o omslag
+Antal anställda: 16
+Årsomsättning: 1000000
+Aktiekapital: 60 000
+Verkst dir. K A Helgstrand
+Etableringsàr: 1881.
+
+PRIPP-BRYGGERIERNA AB
+
+Pnr 16186
+
+Bromma, Voltav 29. Tel 08-98 15 00.
+Bankgiro 700-1613. Postgiro
+2409-1. Tga Prippsab.
+Telex 17476 PRIPP AB S
+Verksamhet: Tillverkar malt,
+maltdrycker o läskedrycker samt
+mineralvatten, stilldrinks o juicer.
+Vidare tillverkas konserverade
+livsmedel vid dotterföretaget
+Abba-Fyrtornet AB. Tillverkning o
+försäljning av kemikalier o
+laboratorieutrustning sker dessutom genom
+dotterföretagen Kebo AB o AB
+Rudolph Grave
+
+Antal anställda: 5 657 (koncernen)
+Årsomsättning: 980 000 000
+(koncernen)
+
+Aktiekapital: 177 700 000
+Koncernchef: Dir Nils Holgerson.
+
+PRISMA KONFEKTIONS AB
+
+Pnr 44100
+
+Alingsås, Kungegårdsg. Tel
+0322-130 74.Bankgiro 43-6637.Postgiro
+449770
+
+Verksamhet: Tillverkar herrockar
+Antal anställda: 25
+Årsomsättning: 1000 000
+Aktiekapital: 15 000
+Verkst dir: Olle Andersson
+Etableringsàr: 1958.
+
+PRIVABI BYGGSERVICE
+
+Pnr 250 10
+
+Helsingborg 10, Box 10050. Tel
+042-12 23 00. Postgiro 88790-1
+Verksamhet: Konsulenter för
+taktäcknings- o isoleringsarbeten
+Chef: Gunnar Bengtsson
+Etableringsàr: 1945.
+
+PR-KONTORET AB
+
+Pnr 211 36
+
+Malmö, Baltzarsg 25. Tel
+040-97 61 70, 97 62 10. Bankgiro 35-5057
+Verksamhet: PR-konsultation
+Antal anställda: 3
+Årsomsättning: 260 000
+Aktiekapital: 5 000
+Verkst dir: Lennart Hedberg
+Etableringsàr: 1966.
+
+PR-MEDIA AB
+
+Pnr 11144
+
+Stockholm, Jakobsbergsg 7. Tel
+08-14 27 50. Bankgiro 486-5200.
+Postgiro 605136-1
+Verksamhet: Konsulter inom PR
+o information intern o extern
+Antal anstäUda: 5
+Årsomsättning: 400 000
+Aktiekapital: 5 000
+Veikst dir: Lennart von Arnold
+Etableringsàr: 1965.
+
+PRODUCTIA, AB
+
+Pnr 11647
+
+Stockholm, Sankt Paulsg 1. Tel
+08-44 99 90. Bankgiro 569-8634.
+Postgiro 254057-3. Tga Productia
+Verksamhet: Tillverkar o säljer
+tunnputs, golvhärdningsmedel m m
+Antal anställda: 18
+Årsomsättning: 3 500 000
+Aktiekapital: 150 000
+Verkst dir: Civiling Frans M Leng
+Etableringsàr: 1944.
+
+PRODUKTIONSKONSULT 1
+STOCKHOLM AB
+
+Pnr 163 54
+
+Spånga, Stjärnfallsv 29. Tel
+08-3607 07. Bankgiro 670-0272.
+Postgiro 552809-6. Tga Pisaprod
+Verksamhet: Konsultering o
+utveckling av metoder o tillbehör för
+elektrodframställning o
+gnistbearbet-ning
+
+Aktiekapital: 10 000
+Verkst dir: Ing Börje Ramsbro
+Etableringsàr: 1967.
+
+PRODUKTIONSMATERIEL, AB
+
+Pnr 113 40
+
+Stockholm, Rörstrandsg 34. Tel
+08-24 04 30. Bankgiro 168-1030.
+Postgiro 502480-7. Tga
+Prodma-comp. Telex 17842 PRODMA S
+Verksamhet: Specialföretag för
+instrument, maskiner, apparater för
+industri, teknik o forskning. Export,
+import o tillverkning
+Varunamn: Moly, Piab, Rocol, ASV
+Aktiekapital: 50 000
+Styrelse: Dir Per Axel Ljung (ordf),
+dir Olov Ahl
+Dir: Olov Ahl
+Etableringsàr. 1938
+Ombildat 1953.
+
+PRODUKTIONS-SERVICE APS,
+AB
+
+Pnr 162 27
+
+VäUingby, Grimstag 164. Tel
+08-38 96 10, 38 26 10. Bankgiro
+577-4641. Postgiro 508603-8
+Verksamhet: Tillverkar grafiska
+maskiner såsom
+perforeringsmaskiner
+
+Varunamn: APS
+Antal anstäUda: 15
+Årsomsättning: 850 000
+Aktiekapital: 300 000
+Styrelse: Ing Kurt Wolf, ing Gösta
+Forsman, ing Arnold Martinsson,
+ing Erik Wååg (suppl)
+Verkst dir: Kurt Wolf
+Verkstadschef: Arnold Martinsson
+Inköpschef: Gösta Forsman
+Etableringsàr: 1954
+Dotterbolag: AB Verktygs-Service
+APS.
+
+PRODUKTOR,
+EXPLOATERINGS AB
+
+Pnr 34100
+
+Ljungby, Karlsrov. Box 67. Tel
+0372-125 60. Bankgiro 147-2083.
+Postgiro 84743-4. Tga Produktor
+Veiksamhet: Byggnadsrörelse,
+betongtillverkning,
+grusexploatering
+
+Antal anstäUda: 162
+Årsomsättning: 15 000 000
+
+Aktiekapital: 100 000
+
+Styrelse: Dir Erie Hyttfors (ordf),
+dir Oscar Hyttfors
+Veikst dir. Erie Hyttfors
+Aibetschef: Henry Axelsson
+Kamrer: John Göransson
+Etableringsàr: 1942.
+
+PROFIL REKLAM &amp;
+ANNONS-BYRÅ AB
+
+Pnr 46101
+
+Trollhättan 1, Drottningg 15. Box
+203. Tel 0520-314 90, 329 17
+Verksamhet Annonskampanjer,
+direktreklam, tecknings- o fotoateljé
+Aktiekapital: 5 000
+Verkst dir: Nils Håkansson
+Etableringsàr: 1961.
+
+PROFILA, AB
+
+Pnr 16120
+
+Bromma 20, Box 20106. Bällstav 6.
+Tel 08-98 12 60. Bankgiro 161-2696.
+Postgiro 557938-8. Tga
+Profilmaskin. Telex 17040 PROFILA S
+Verksamhet: Generalagent för
+sovjetiska verktygsmaskiner o verktyg
+Etableringsàr: 1965
+Äges av Alfa-Laval AB.
+
+PROFOTO PROFESSIONELL
+FOTOELEKTRONIK AB
+
+Pnr 112 44
+
+Stockholm, Nicanderv 2. Tel
+08-5454 59,54 54 57. Bankgiro82-4577.
+Postgiro 693311
+Verksamhet Tillverkar o säljer
+elektronblixtaggregatet Pro-l
+Antal anställda: 5
+Årsomsättning: 500 000
+Aktiekapital: 5 000
+Verkst dir: Eckhard Heine
+Etableringsàr: 1968.
+
+PROGRESS
+RATIONALISERINGS AB
+
+Pnr 171 54
+
+Solna, Albyg 109. Tel 08-28 94 50.
+Bankgiro 47-7405. Postgiro 694075
+Verksamhet: Databehandling,
+programmering, systemuppläggning,
+kontorsrationalisering, hålkorts- ö
+hålremsst ans ning
+Antal anstäUda: 6
+Årsomsättning: 800 000
+Aktiekapital: 40 000
+Styrelse: Disp Kristian Bohm
+(ordf), dir Hans Wenger
+Verkst dir: Ing Hans Wenger
+Etableringsàr: 1967.
+
+PROJECTOR, BYGGNADS AB
+
+Pnr 115 26
+
+Stockholm, Banérg 71. Tel
+08-60 6652, 60 66 62. Bankgiro
+160-4800. Postgiro 251416-4
+Verksamhet: Uppför kontors-,
+bo-stads- o industribyggnader
+Antal anstäUda: 100
+Årsomsättning: 10 000 000
+Aktiekapital: 300 000
+Veikst dir Civiling Ingemar
+Hansson
+
+Etableringsàr: 1945.
+
+PROJEKTANALYS AB
+
+Pnr 200 22
+
+Malmö 3, Grang 2. Box 3018. Tel
+040-18 07 50. Bankgiro 232-6676.
+Postgiro 405270-0
+
+507

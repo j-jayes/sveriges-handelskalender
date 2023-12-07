@@ -1,286 +1,286 @@
 VAL
-<br/>
-<br/>30 44 93,30 4 4 99. Bankgiro 72-4512.
-<br/>Postgiro 2036
-<br/>
-<br/>Verksamhet Säljer vävplast för
-<br/>bil, båt, buss samt möbelspik
-<br/>Antal anställda: 3
-<br/>Aktiekapital: 75000
-<br/>Verkst dir: Hans Wahlström
-<br/>Etableringsår: 1897.
-<br/>
-<br/>WAHLSTRÖM AB, BERNT
-<br/>
-<br/>Pnr 11156
-<br/>
-<br/>Stockholm, Kungsg 27. Tel
-<br/>08-213744, 213798. Bankgiro
-<br/>721-8084. Postgiro 604201-4. Tga
-<br/>Wahlstrab
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>torkställningar o ylletorkar. Säljer från
-<br/>lager luftfilter, stålull, diskbollar
-<br/>o självhäftande filtrondeller.
-<br/>Agenturförsäljning av bränsle-, olje- o
-<br/>luftfilter samt filt för industri- o
-<br/>dekorationsändamål
-<br/>Varunamn: Letta, Olle
-<br/>Aktiekapital: 25 000
-<br/>Verkst dir: Bernt Wahlström
-<br/>Etableringsår: 1954
-<br/>Ombildat till aktiebolag 1955.
-<br/>
-<br/>WAHLSTRÖM &amp; CO AB, N
-<br/>
-<br/>Pnr 104 30
-<br/>
-<br/>Stockholm 45, Hådmansg 77. Box
-<br/>45060. Tel 08-3019 03, 3150 05.
-<br/>Bankgiro 72-8764. Postgiro 2702
-<br/>Verksamhet: Säljer papper engros,
-<br/>handduksskåp, korgar, hållare o
-<br/>ställ för papper
-<br/>Årsomsättning: 1000 000
-<br/>Aktiekapital: 10 000
-<br/>Verkst dir: Hans Lindblom
-<br/>Etableringsår 1940.
-<br/>
-<br/>WAHLSTRÖM AB, STIG
-<br/>
-<br/>Pnr 123 21
-<br/>
-<br/>Farsta 1, Mårbackag 27. Box 52.
-<br/>Tel 08-94 03 00. Bankgiro
-<br/>578-2024. Postgiro 356906-8. Tga
-<br/>Ess-wecontrol. Telex 10016
-<br/>Verksamhet: Tillverkar elektrisk,
-<br/>hydraulisk o pneumatisk automatik
-<br/>Antal anställda: 70
-<br/>Årsomsättning: 20 000 000
-<br/>Aktiekapital: 600 000
-<br/>Verkst dir: Ing Stig Wahlström
-<br/>Etableringsår: 1951.
-<br/>
-<br/>WALTERS TEXTILAGENTUR
-<br/>AB
-<br/>
-<br/>Pnr 400 15
-<br/>
-<br/>Göteborg 53, Box 53129.
-<br/>Kungs-portsavenyn 1. Tel 031-17 26 50.
-<br/>Bankgiro 362-6488. Postgiro
-<br/>624542-7. Tga Kuwait. Telex 2220
-<br/>Verksamhet: Agentur för textilvaror
-<br/>(bomull, siden, rayon, ull)
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Werner Hanisch
-<br/>Etableringsår: 1961.
-<br/>
-<br/>VALV &amp; MASKIN
-<br/>UTHYRNINGS AB
-<br/>
-<br/>Pnr 78100
-<br/>
-<br/>Borlänge. Gjutarg 4. Tel
-<br/>0243-250 30. Bankgiro 794-5181.
-<br/>Postgiro 396986-2
-<br/>
-<br/>Verksamhet Monterar o hyr ut
-<br/>byggnadsställningar. Utvändiga
-<br/>putsrenoveringar. Hyr ut
-<br/>byggma-skiner. Tillverkar, hyr ut o säljer
-<br/>personalvagnar o prefabbyggnader.
-<br/>Säljer förädlad sand
-<br/>
-<br/>Filialer: 14102 Huddinge, Box
-<br/>2044. Tel 08-774 03 50
-<br/>750 02 Uppsala, Box 2054. Tel
-<br/>018-10 03 55
-<br/>
-<br/>722 31 Västerås, Hökåsen. Tel
-<br/>021-243 50
-<br/>
-<br/>702 27 Örebro, Vattenverksg 7.
-<br/>Tel 019-13 47 00, 18 57 00
-<br/>Varunamn: Wemas
-<br/>Antal anställda: 150
-<br/>Årsomsättning: 13 000 000
-<br/>Aktiekapital: 160 000
-<br/>Verkst dir Axel Nygårds
-<br/>Etableringsår: 1960.
-<br/>
-<br/>VALÅS MEKANISKA
-<br/>VERKSTADS AB
-<br/>
-<br/>Pnr 45010
-<br/>
-<br/>Ljungskile. Tel 0522-208 64.
-<br/>Postgiro 122252
-<br/>
-<br/>Verksamhet: Utför verktygs-,
-<br/>fin-mekanisk o instrumenttillverkning
-<br/>Aktiekapital: 10 000
-<br/>Verkst dir: L Pettersson
-<br/>Etableringsår: 1956.
-<br/>
-<br/>VALORKLICHÉ AB
-<br/>
-<br/>Pnr 16110
-<br/>
-<br/>Bromma 10, Ulvsundav 189. Fack.
-<br/>Tel 08-29 63 00, 29 79 00.
-<br/>Bankgiro 390-9272. Postgiro 704780-6
-<br/>Verksamhet: Tillverkar klichéer
-<br/>Antal anställda: 13
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Sture Jansson
-<br/>Etableringsår: 1964.
-<br/>
-<br/>VAMO AB
-<br/>
-<br/>Pnr 53010
-<br/>
-<br/>Vedum, Larv. Tel 0512-420 13.
-<br/>Bankgiro 193-5675. Postgiro
-<br/>131822-9
-<br/>
-<br/>Verksamhet: Tillverkar harvar,
-<br/>vältar, skyffelkärror, pumpar mm
-<br/>Antal anställda: 18
-<br/>Årsomsättning: 1500000
-<br/>Aktiekapital: 5 000
-<br/>Veikst dir Ingemar Jakobsson
-<br/>Etableringsår: 1957.
-<br/>
-<br/>WANCO AB
-<br/>
-<br/>Pnr 117 37
-<br/>
-<br/>Stockholm, Bergsundsg 25. Tel
-<br/>08-68 10 60. Bankgiro 730-2185.
-<br/>Postgiro 255106-7. Tgalngwanco
-<br/>Verksamhet: Ingenjörsfirma o
-<br/>maskinaffär
-<br/>Aktiekapital: 21600
-<br/>Verkst dir: Sture Berg
-<br/>Etableringsår: 1946.
-<br/>
-<br/>WÄNGEL AB, G A
-<br/>
-<br/>Pnr 212 16
-<br/>
-<br/>Malmö O, O Farmv 18. Tel
-<br/>040-93 6105. Bankgiro 640-3984.
-<br/>Postgiro 37602-0. Tga Gawe
-<br/>Verksamhet: Färgeri för trikåväv,
-<br/>garn o strumpor. Kem tvätt
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Civilekonom R Jarby
-<br/>Etableringsår: 1904.
-<br/>
-<br/>WANGSON INGENJORSBYRÅ
-<br/>AB, VANG
-<br/>
-<br/>Pnr 701 03
-<br/>
-<br/>Örebro 1, Västra g 8. Box 99. Tel
-<br/>019-1197 75. Bankgiro 281-7864.
-<br/>Postgiro 372357-4
-<br/>
-<br/>Verksamhet: Teknisk konsult inom
-<br/>värme, ventilation o sanitet
-<br/>Avdelningskontor. 542 00 Mariestad,
-<br/>Kyrkog 4. Tel 0501-135 01
-<br/>Antal anställda: 25
-<br/>Aktiekapital: 90 000
-<br/>Verkst dir: Ing Vang Wangson
-<br/>Etableringsår: 1950.
-<br/>
-<br/>VANSBRO PARTI- &amp;
-<br/>AGENTURAFFÄR
-<br/>
-<br/>Pnr 780 50
-<br/>
-<br/>Vansbro, Box 33. Tel 0281-100 86,
-<br/>10211. Bankgiro 79-8937. Postgiro
-<br/>7678
-<br/>
-<br/>Verksamhet: Tillverkar o
-<br/>ensam-försäljer Sjuls o Toppsy
-<br/>skurapparater, käppar, moppar, rullar o stativ
-<br/>Varunamn: Sjuls, Toppsy
-<br/>Antal anställda: 12
-<br/>Chef: Fru Henny Westman
-<br/>Etableringsår: 1923.
-<br/>
-<br/>VANSBRO SILKETRYCK
-<br/>
-<br/>Pnr 780 50
-<br/>
-<br/>Vansbro. Tel 0281-10177, 103 44.
-<br/>Bankgiro 79-8961. Postgiro 98821
-<br/>Verksamhet: Tillverkar
-<br/>dekalkoma-nier alla sorter. Skyltar,
-<br/>reklamalster. Utför färgtryck på plast,
-<br/>metall, kartong etc
-<br/>Antal anställda: 9
-<br/>Ägare o chef: Fabr Börje Hedberg
-<br/>Etableringsår: 1946.
-<br/>
-<br/>VANSITO, AB
-<br/>
-<br/>Pnr 582 24
-<br/>
-<br/>Linköping, Bokhållareg 2 B. Tel
-<br/>013-14 62 45. Bankgiro 607-9818.
-<br/>Postgiro 262816-2. Tga Vansito
-<br/>Verksamhet: Finförädlade
-<br/>pappersvaror, dekorationer speciellt för
-<br/>jul- o påskhögtider. Export o import
-<br/>Varunamn: Mr Strong, Vansito,
-<br/>Ängla
-<br/>
-<br/>Aktiekapital: 25 000
-<br/>Verkst dir: Allan Rundquist
-<br/>Dir-ass: Jan-Christer Rundquist
-<br/>Etableringsår: 1942.
-<br/>
-<br/>VAPEN-DEPÖTEN. AB
-<br/>
-<br/>Pnr 79101
-<br/>
-<br/>Falun 1, Bergmästareg 19. Box
-<br/>133. Tel 023-220 40. Bankgiro
-<br/>792-7023. Postgiro 21185-4. Tga
-<br/>Vapendepoten
-<br/>
-<br/>Verksamhet: Säljer vapen,
-<br/>ammunition, jakt- o fiskredskap i parti o
-<br/>minut. Vapenreparationer
-<br/>Antal anställda: 15
-<br/>Aktiekapital: 315 000
-<br/>Verkst dir: Nils Petterson
-<br/>Etableringsår: 1912.
-<br/>
-<br/>WAPLANS MEKANISKA
-<br/>VERKSTADS AB
-<br/>
-<br/>Pnr 830 45
-<br/>
-<br/>Vaplan. Tel 0640-203 50.
-<br/>Bankgiro 370-4236. Postgiro 95555-9.
-<br/>Tga Vaplanverken, Nälden.
-<br/>Telex 6576
-<br/>
-<br/>Verksamhet: Barkningstrummor,
-<br/>barkningsapparater, barkpressar,
-<br/>barkslamfilter, barkslampumpar,
-<br/>band- o remtransportörer,
-<br/>virkes-transportbanor, järn- o
-<br/>stålkonstruktioner
-<br/>Antal anställda: 110
-<br/>Årsomsättning: 7 000 000
-<br/>
-<br/>678
+
+30 44 93,30 4 4 99. Bankgiro 72-4512.
+Postgiro 2036
+
+Verksamhet Säljer vävplast för
+bil, båt, buss samt möbelspik
+Antal anställda: 3
+Aktiekapital: 75000
+Verkst dir: Hans Wahlström
+Etableringsår: 1897.
+
+WAHLSTRÖM AB, BERNT
+
+Pnr 11156
+
+Stockholm, Kungsg 27. Tel
+08-213744, 213798. Bankgiro
+721-8084. Postgiro 604201-4. Tga
+Wahlstrab
+
+Verksamhet: Tillverkar
+torkställningar o ylletorkar. Säljer från
+lager luftfilter, stålull, diskbollar
+o självhäftande filtrondeller.
+Agenturförsäljning av bränsle-, olje- o
+luftfilter samt filt för industri- o
+dekorationsändamål
+Varunamn: Letta, Olle
+Aktiekapital: 25 000
+Verkst dir: Bernt Wahlström
+Etableringsår: 1954
+Ombildat till aktiebolag 1955.
+
+WAHLSTRÖM &amp; CO AB, N
+
+Pnr 104 30
+
+Stockholm 45, Hådmansg 77. Box
+45060. Tel 08-3019 03, 3150 05.
+Bankgiro 72-8764. Postgiro 2702
+Verksamhet: Säljer papper engros,
+handduksskåp, korgar, hållare o
+ställ för papper
+Årsomsättning: 1000 000
+Aktiekapital: 10 000
+Verkst dir: Hans Lindblom
+Etableringsår 1940.
+
+WAHLSTRÖM AB, STIG
+
+Pnr 123 21
+
+Farsta 1, Mårbackag 27. Box 52.
+Tel 08-94 03 00. Bankgiro
+578-2024. Postgiro 356906-8. Tga
+Ess-wecontrol. Telex 10016
+Verksamhet: Tillverkar elektrisk,
+hydraulisk o pneumatisk automatik
+Antal anställda: 70
+Årsomsättning: 20 000 000
+Aktiekapital: 600 000
+Verkst dir: Ing Stig Wahlström
+Etableringsår: 1951.
+
+WALTERS TEXTILAGENTUR
+AB
+
+Pnr 400 15
+
+Göteborg 53, Box 53129.
+Kungs-portsavenyn 1. Tel 031-17 26 50.
+Bankgiro 362-6488. Postgiro
+624542-7. Tga Kuwait. Telex 2220
+Verksamhet: Agentur för textilvaror
+(bomull, siden, rayon, ull)
+Aktiekapital: 5 000
+Verkst dir: Werner Hanisch
+Etableringsår: 1961.
+
+VALV &amp; MASKIN
+UTHYRNINGS AB
+
+Pnr 78100
+
+Borlänge. Gjutarg 4. Tel
+0243-250 30. Bankgiro 794-5181.
+Postgiro 396986-2
+
+Verksamhet Monterar o hyr ut
+byggnadsställningar. Utvändiga
+putsrenoveringar. Hyr ut
+byggma-skiner. Tillverkar, hyr ut o säljer
+personalvagnar o prefabbyggnader.
+Säljer förädlad sand
+
+Filialer: 14102 Huddinge, Box
+2044. Tel 08-774 03 50
+750 02 Uppsala, Box 2054. Tel
+018-10 03 55
+
+722 31 Västerås, Hökåsen. Tel
+021-243 50
+
+702 27 Örebro, Vattenverksg 7.
+Tel 019-13 47 00, 18 57 00
+Varunamn: Wemas
+Antal anställda: 150
+Årsomsättning: 13 000 000
+Aktiekapital: 160 000
+Verkst dir Axel Nygårds
+Etableringsår: 1960.
+
+VALÅS MEKANISKA
+VERKSTADS AB
+
+Pnr 45010
+
+Ljungskile. Tel 0522-208 64.
+Postgiro 122252
+
+Verksamhet: Utför verktygs-,
+fin-mekanisk o instrumenttillverkning
+Aktiekapital: 10 000
+Verkst dir: L Pettersson
+Etableringsår: 1956.
+
+VALORKLICHÉ AB
+
+Pnr 16110
+
+Bromma 10, Ulvsundav 189. Fack.
+Tel 08-29 63 00, 29 79 00.
+Bankgiro 390-9272. Postgiro 704780-6
+Verksamhet: Tillverkar klichéer
+Antal anställda: 13
+Aktiekapital: 50 000
+Verkst dir: Sture Jansson
+Etableringsår: 1964.
+
+VAMO AB
+
+Pnr 53010
+
+Vedum, Larv. Tel 0512-420 13.
+Bankgiro 193-5675. Postgiro
+131822-9
+
+Verksamhet: Tillverkar harvar,
+vältar, skyffelkärror, pumpar mm
+Antal anställda: 18
+Årsomsättning: 1500000
+Aktiekapital: 5 000
+Veikst dir Ingemar Jakobsson
+Etableringsår: 1957.
+
+WANCO AB
+
+Pnr 117 37
+
+Stockholm, Bergsundsg 25. Tel
+08-68 10 60. Bankgiro 730-2185.
+Postgiro 255106-7. Tgalngwanco
+Verksamhet: Ingenjörsfirma o
+maskinaffär
+Aktiekapital: 21600
+Verkst dir: Sture Berg
+Etableringsår: 1946.
+
+WÄNGEL AB, G A
+
+Pnr 212 16
+
+Malmö O, O Farmv 18. Tel
+040-93 6105. Bankgiro 640-3984.
+Postgiro 37602-0. Tga Gawe
+Verksamhet: Färgeri för trikåväv,
+garn o strumpor. Kem tvätt
+Aktiekapital: 50 000
+Verkst dir: Civilekonom R Jarby
+Etableringsår: 1904.
+
+WANGSON INGENJORSBYRÅ
+AB, VANG
+
+Pnr 701 03
+
+Örebro 1, Västra g 8. Box 99. Tel
+019-1197 75. Bankgiro 281-7864.
+Postgiro 372357-4
+
+Verksamhet: Teknisk konsult inom
+värme, ventilation o sanitet
+Avdelningskontor. 542 00 Mariestad,
+Kyrkog 4. Tel 0501-135 01
+Antal anställda: 25
+Aktiekapital: 90 000
+Verkst dir: Ing Vang Wangson
+Etableringsår: 1950.
+
+VANSBRO PARTI- &amp;
+AGENTURAFFÄR
+
+Pnr 780 50
+
+Vansbro, Box 33. Tel 0281-100 86,
+10211. Bankgiro 79-8937. Postgiro
+7678
+
+Verksamhet: Tillverkar o
+ensam-försäljer Sjuls o Toppsy
+skurapparater, käppar, moppar, rullar o stativ
+Varunamn: Sjuls, Toppsy
+Antal anställda: 12
+Chef: Fru Henny Westman
+Etableringsår: 1923.
+
+VANSBRO SILKETRYCK
+
+Pnr 780 50
+
+Vansbro. Tel 0281-10177, 103 44.
+Bankgiro 79-8961. Postgiro 98821
+Verksamhet: Tillverkar
+dekalkoma-nier alla sorter. Skyltar,
+reklamalster. Utför färgtryck på plast,
+metall, kartong etc
+Antal anställda: 9
+Ägare o chef: Fabr Börje Hedberg
+Etableringsår: 1946.
+
+VANSITO, AB
+
+Pnr 582 24
+
+Linköping, Bokhållareg 2 B. Tel
+013-14 62 45. Bankgiro 607-9818.
+Postgiro 262816-2. Tga Vansito
+Verksamhet: Finförädlade
+pappersvaror, dekorationer speciellt för
+jul- o påskhögtider. Export o import
+Varunamn: Mr Strong, Vansito,
+Ängla
+
+Aktiekapital: 25 000
+Verkst dir: Allan Rundquist
+Dir-ass: Jan-Christer Rundquist
+Etableringsår: 1942.
+
+VAPEN-DEPÖTEN. AB
+
+Pnr 79101
+
+Falun 1, Bergmästareg 19. Box
+133. Tel 023-220 40. Bankgiro
+792-7023. Postgiro 21185-4. Tga
+Vapendepoten
+
+Verksamhet: Säljer vapen,
+ammunition, jakt- o fiskredskap i parti o
+minut. Vapenreparationer
+Antal anställda: 15
+Aktiekapital: 315 000
+Verkst dir: Nils Petterson
+Etableringsår: 1912.
+
+WAPLANS MEKANISKA
+VERKSTADS AB
+
+Pnr 830 45
+
+Vaplan. Tel 0640-203 50.
+Bankgiro 370-4236. Postgiro 95555-9.
+Tga Vaplanverken, Nälden.
+Telex 6576
+
+Verksamhet: Barkningstrummor,
+barkningsapparater, barkpressar,
+barkslamfilter, barkslampumpar,
+band- o remtransportörer,
+virkes-transportbanor, järn- o
+stålkonstruktioner
+Antal anställda: 110
+Årsomsättning: 7 000 000
+
+678

@@ -1,290 +1,290 @@
 STO
-<br/>
-<br/>förvaringsetuier o skyltställ
-<br/>Varunamn: Design Philipp
-<br/>Chef: Ernst Wolf
-<br/>Etableringsår: 1936.
-<br/>
-<br/>STOCKHOLMS FARTYGS.
-<br/>SERVICE, AB
-<br/>
-<br/>Pnr 100 56
-<br/>
-<br/>Stockholm, Stockholms Frihamn.
-<br/>Tel 08-67 36 16. Bankgiro 72-8053.
-<br/>Postgiro 556573. Tga Stofartserv
-<br/>Verksamhet: Underhålls- samt
-<br/>diverse arbeten å fartyg. Oljeservice,
-<br/>slammsugnihg, tankrengöring
-<br/>Antal anställda: 40
-<br/>Aktiekapital: 30 000
-<br/>Verkst dir: Sven O Andersson
-<br/>Etableringsår: 1947
-<br/>Ombildat till aktiebolag 1957.
-<br/>
-<br/>STOCKHOLMS FJÄDER.
-<br/>FABRIK, KB
-<br/>
-<br/>Pnr 113 53
-<br/>
-<br/>Stockholm, Tuleg 15. Tel
-<br/>08-32 48 50. Bankgiro 670-0256.
-<br/>Postgiro 52809-1. Tga Fjäderwal
-<br/>Verksamhet: Tillverkar
-<br/>spiralfjädrar o plattfjädrar
-<br/>Chef: Fabr Göran Andersen
-<br/>Etableringsår: 1915.
-<br/>
-<br/>STOCKHOLMS
-<br/>FLAGG-FABRIK AB
-<br/>
-<br/>Pnr 11438
-<br/>
-<br/>Stockholm, Grev Tureg 35. Tel
-<br/>08-23 27 25. Bankgiro 726-5853.
-<br/>Postgiro 50620-4
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>flaggor, fanor med tillbehör
-<br/>Aktiekapital: 15 000
-<br/>Verkst dir: Ch Lagerfeldt
-<br/>Etableringsår: 1882.
-<br/>
-<br/>STOCKHOLMS FRIHAMNS AB
-<br/>
-<br/>Pnr 115 28
-<br/>
-<br/>Stockholm, Sandhamnsg 57. Tel
-<br/>08-63 55 00. Bankgiro 700-1621.
-<br/>Post-giro 508-2. Tga Capitalport
-<br/>Verksamhet: Hamn- o
-<br/>magasinsrörelse
-<br/>
-<br/>Antal anställda: 250
-<br/>Årsomsättning: 16 800 000
-<br/>Aktiekapital: 500 000
-<br/>Verkst dir: A Nordström
-<br/>Etableringsår: 1919.
-<br/>
-<br/>STOCKHOLMS FÖRENADE
-<br/>STUVERI AB
-<br/>
-<br/>Pnr 104 65
-<br/>
-<br/>Stockholm 15, Box 15055.
-<br/>Södermalmstorg 2. Tel 08-44 09 40.
-<br/>Bankgiro 568-9468. Postgiro 53570-8.
-<br/>Tga Remember
-<br/>Verksamhet: Skeppsstuveri
-<br/>Antal anställda: 216
-<br/>Aktiekapital: 400 000
-<br/>Verkst dir: Ivar Söderström.
-<br/>
-<br/>STOCKHOLMS FÖRENADE
-<br/>STÄD AB
-<br/>
-<br/>Pnr 112 27
-<br/>
-<br/>Stockholm, Kungsg 84. Tel
-<br/>08-54 18 95. Bankgiro 578-0309.
-<br/>Postgiro 352838-7
-<br/>
-<br/>Verksamhet: Städning,
-<br/>fönsterputs-ning på entreprenad.
-<br/>Specialstädning, matt- o textilvård
-<br/>Antal anställda: 500
-<br/>Årsomsättning: 6 500 000
-<br/>
-<br/>Aktiekapital: 30 000
-<br/>Styrelseordf: Dir Rune Wästerlund
-<br/>Verkst dir: Erik Källberg
-<br/>Etableringsår: 1960.
-<br/>
-<br/>STOCKHOLMS GALVA.
-<br/>NISERINGSFABRIK AB
-<br/>
-<br/>Pnr 172 39
-<br/>
-<br/>Sundbyberg, Albyg 125. Tel
-<br/>08-28 92 35. Postgiro 3703-6. Tga
-<br/>Galvanus. Telex 17499
-<br/>Aktiekapital: 2 400 000
-<br/>Styrelse: Bankdir Göte Engfors
-<br/>(ordf), fru Siri Collett,fru Ulla
-<br/>Col-lett-Larson, dir Ulf Collett, dir
-<br/>Gustaf Sundberg, adv Bengt Cederquist
-<br/>Verkst dir: Ulf Collett
-<br/>Etableringsår: 1895
-<br/>Ombildat till aktiebolag 1939.
-<br/>Moderbolag till Gävle
-<br/>Galvanise-ringsfabrik AB o Göteborgs
-<br/>Gal-vaniseringsfabrik AB.
-<br/>
-<br/>STOCKHOLMS GRAVYR.
-<br/>ANSTALT, AB
-<br/>
-<br/>Pnr 11120
-<br/>
-<br/>Stockholm, Gamla Brog 29. Tel
-<br/>08-113910, 204269
-<br/>
-<br/>Veiksamhet: Gravyrarbeten, skyltar,
-<br/>stämplar
-<br/>
-<br/>Aktiekapital: 30 000
-<br/>Verkst dir: V Mattérn
-<br/>Etableringsår: 1940.
-<br/>
-<br/>STOCKHOLMS GUMMI.
-<br/>INDUSTRI AB
-<br/>
-<br/>se Ulvex AB.
-<br/>
-<br/>STOCKHOLMS INDUSTRI.
-<br/>FLÄKT, AB
-<br/>
-<br/>Pnr 13102
-<br/>
-<br/>Nacka 2, Värmdöv 86. Box 237. Tel
-<br/>08-405005, 405040. Bankgiro
-<br/>173-2114. Postgiro 506372-2
-<br/>Verksamhet: Tillverkar ventilar
-<br/>tionsmaterial
-<br/>Aktiekapital: 20000
-<br/>Verkst dir: Gunnar Felldin
-<br/>Etableringsår: 1953
-<br/>Ombildat till aktiebolag 1960.
-<br/>
-<br/>STOCKHOLMS JÄRNVARU AB
-<br/>
-<br/>Pnr 113 30
-<br/>
-<br/>Stockholm, Hudiksvallsg 8. Tel
-<br/>08-23 42 40. Bankgiro 729-2253.
-<br/>Postgiro 56404-7. Tga Essjibe
-<br/>Verksamhet: Grosshandel med
-<br/>järnmanufaktur, byggnadsvaror,
-<br/>husgeråd o verktyg
-<br/>Aktiekapital: 360 000
-<br/>Verkst dir: Ake Bertilson
-<br/>Etableringsår: 1933.
-<br/>
-<br/>STOCKHOLMS KLICHÉ AB
-<br/>
-<br/>Pnr 113 30
-<br/>
-<br/>Stockholm, Hudiksvallsg 6. Tel
-<br/>08-34 94 85. Bankgiro 722-5261.
-<br/>Postgiro 605950-5
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>klichéer
-<br/>
-<br/>Antal anstäUda: 10
-<br/>Årsomsättning: 1000 000
-<br/>Aktiekapital: 50 000
-<br/>Styrelse: Adv Erie Lindé (ordf), dir
-<br/>Remy A Ek, kemigraf Bo
-<br/>Helgesson, kemigraf Georg Wennström
-<br/>Verkst dir: Remy A Ek
-<br/>Etableringsår: 1959.
-<br/>
-<br/>STOCKHOLMS
-<br/>KÖLA-FABRIK, AB
-<br/>
-<br/>Pnr 11130
-<br/>
-<br/>Stockholm, Skeppsbron 16. Tel
-<br/>08-214750. Postgiro 52825. Tga
-<br/>Paradkola
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>konfektyre r
-<br/>
-<br/>Fabrik: Sundbyberg, Stationsg 6.
-<br/>Tel 08-28 20 58
-<br/>Antal anstäUda: 25
-<br/>Aktiekapital: 500 000
-<br/>Verkst dir: Oscar Fried
-<br/>Etableringsår: 1931.
-<br/>
-<br/>STOCKHOLMS KOPIERINGS.
-<br/>ANSTALT TORVALD HULT AB
-<br/>
-<br/>Pnr 11151
-<br/>
-<br/>Stockholm, Drottningg 31. Tel
-<br/>08-1418 95, 11 10 92. Bankgiro
-<br/>56-0627. Postgiro 3669-9. Tga
-<br/>Hult-kopior
-<br/>
-<br/>Verksamhet: Ljuskopiering
-<br/>Antal anstäUda: 10
-<br/>Aktiekapital: 30 000
-<br/>Styrelseordf: Dir Sylvi Hult
-<br/>Verkst dir: Sylvi Hult
-<br/>Etableringsår: 1905.
-<br/>
-<br/>STOCKHOLMS KRAV
-<br/>ATT-FABRIK, AB
-<br/>
-<br/>Pnr 104 30
-<br/>
-<br/>Stockholm 45, Drottningg 110. Box
-<br/>45086. Tel 08-30 60 16. Bankgiro
-<br/>72-8788. Postgiro 452200. Tga
-<br/>Cordon-bleu
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>slipsar,but-terflies o rosetter
-<br/>Antal anställda: 20
-<br/>Årsomsättning: 1350 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Bertil Weitz
-<br/>Etableringsår: 1950.
-<br/>
-<br/>STOCKHOLMS LJUSKOPIERING
-<br/>AB
-<br/>
-<br/>Pnr 12173
-<br/>
-<br/>Johanneshov, Importörv 23. Tel
-<br/>08-91 92 80. Bankgiro 744-4045.
-<br/>Postgiro 657154-1
-<br/>Årsomsättning: 140000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Ing Jonas Englund
-<br/>Etableringsår: 1962.
-<br/>
-<br/>STOCKHOLMS LÄDER AB
-<br/>
-<br/>Pnr 10462
-<br/>
-<br/>Stockholm 17, Box 17003. Ringv
-<br/>21 B. Tel 08-6947 47, 847600.
-<br/>Bankgiro 576-8759. Postgiro 3486-8
-<br/>Verksamhet: Säljer läder o lim
-<br/>engros
-<br/>
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Gunnar Wenzen
-<br/>Etableringsår: 1930.
-<br/>
-<br/>STOCKHOLMS METALLDUKS.
-<br/>AGENTUR ÄKE BROMAN
-<br/>
-<br/>Pnr 121 63
-<br/>
-<br/>Johanneshov, Rügenv 8. Tel 08-
-<br/>
-<br/>4902 83. Bankgiro 117-9639.
-<br/>Postgiro 151314-2
-<br/>
-<br/>Verksamhet: Säljer järn- o
-<br/>metallduk, galler, sållduk, stängselduk
-<br/>o perforerad plåt
-<br/>Årsomsättning: 200 000
-<br/>Chef: Ing Ake Broman
-<br/>Etableringsår: 1966.
-<br/>
-<br/>587
+
+förvaringsetuier o skyltställ
+Varunamn: Design Philipp
+Chef: Ernst Wolf
+Etableringsår: 1936.
+
+STOCKHOLMS FARTYGS.
+SERVICE, AB
+
+Pnr 100 56
+
+Stockholm, Stockholms Frihamn.
+Tel 08-67 36 16. Bankgiro 72-8053.
+Postgiro 556573. Tga Stofartserv
+Verksamhet: Underhålls- samt
+diverse arbeten å fartyg. Oljeservice,
+slammsugnihg, tankrengöring
+Antal anställda: 40
+Aktiekapital: 30 000
+Verkst dir: Sven O Andersson
+Etableringsår: 1947
+Ombildat till aktiebolag 1957.
+
+STOCKHOLMS FJÄDER.
+FABRIK, KB
+
+Pnr 113 53
+
+Stockholm, Tuleg 15. Tel
+08-32 48 50. Bankgiro 670-0256.
+Postgiro 52809-1. Tga Fjäderwal
+Verksamhet: Tillverkar
+spiralfjädrar o plattfjädrar
+Chef: Fabr Göran Andersen
+Etableringsår: 1915.
+
+STOCKHOLMS
+FLAGG-FABRIK AB
+
+Pnr 11438
+
+Stockholm, Grev Tureg 35. Tel
+08-23 27 25. Bankgiro 726-5853.
+Postgiro 50620-4
+
+Verksamhet: Tillverkar o säljer
+flaggor, fanor med tillbehör
+Aktiekapital: 15 000
+Verkst dir: Ch Lagerfeldt
+Etableringsår: 1882.
+
+STOCKHOLMS FRIHAMNS AB
+
+Pnr 115 28
+
+Stockholm, Sandhamnsg 57. Tel
+08-63 55 00. Bankgiro 700-1621.
+Post-giro 508-2. Tga Capitalport
+Verksamhet: Hamn- o
+magasinsrörelse
+
+Antal anställda: 250
+Årsomsättning: 16 800 000
+Aktiekapital: 500 000
+Verkst dir: A Nordström
+Etableringsår: 1919.
+
+STOCKHOLMS FÖRENADE
+STUVERI AB
+
+Pnr 104 65
+
+Stockholm 15, Box 15055.
+Södermalmstorg 2. Tel 08-44 09 40.
+Bankgiro 568-9468. Postgiro 53570-8.
+Tga Remember
+Verksamhet: Skeppsstuveri
+Antal anställda: 216
+Aktiekapital: 400 000
+Verkst dir: Ivar Söderström.
+
+STOCKHOLMS FÖRENADE
+STÄD AB
+
+Pnr 112 27
+
+Stockholm, Kungsg 84. Tel
+08-54 18 95. Bankgiro 578-0309.
+Postgiro 352838-7
+
+Verksamhet: Städning,
+fönsterputs-ning på entreprenad.
+Specialstädning, matt- o textilvård
+Antal anställda: 500
+Årsomsättning: 6 500 000
+
+Aktiekapital: 30 000
+Styrelseordf: Dir Rune Wästerlund
+Verkst dir: Erik Källberg
+Etableringsår: 1960.
+
+STOCKHOLMS GALVA.
+NISERINGSFABRIK AB
+
+Pnr 172 39
+
+Sundbyberg, Albyg 125. Tel
+08-28 92 35. Postgiro 3703-6. Tga
+Galvanus. Telex 17499
+Aktiekapital: 2 400 000
+Styrelse: Bankdir Göte Engfors
+(ordf), fru Siri Collett,fru Ulla
+Col-lett-Larson, dir Ulf Collett, dir
+Gustaf Sundberg, adv Bengt Cederquist
+Verkst dir: Ulf Collett
+Etableringsår: 1895
+Ombildat till aktiebolag 1939.
+Moderbolag till Gävle
+Galvanise-ringsfabrik AB o Göteborgs
+Gal-vaniseringsfabrik AB.
+
+STOCKHOLMS GRAVYR.
+ANSTALT, AB
+
+Pnr 11120
+
+Stockholm, Gamla Brog 29. Tel
+08-113910, 204269
+
+Veiksamhet: Gravyrarbeten, skyltar,
+stämplar
+
+Aktiekapital: 30 000
+Verkst dir: V Mattérn
+Etableringsår: 1940.
+
+STOCKHOLMS GUMMI.
+INDUSTRI AB
+
+se Ulvex AB.
+
+STOCKHOLMS INDUSTRI.
+FLÄKT, AB
+
+Pnr 13102
+
+Nacka 2, Värmdöv 86. Box 237. Tel
+08-405005, 405040. Bankgiro
+173-2114. Postgiro 506372-2
+Verksamhet: Tillverkar ventilar
+tionsmaterial
+Aktiekapital: 20000
+Verkst dir: Gunnar Felldin
+Etableringsår: 1953
+Ombildat till aktiebolag 1960.
+
+STOCKHOLMS JÄRNVARU AB
+
+Pnr 113 30
+
+Stockholm, Hudiksvallsg 8. Tel
+08-23 42 40. Bankgiro 729-2253.
+Postgiro 56404-7. Tga Essjibe
+Verksamhet: Grosshandel med
+järnmanufaktur, byggnadsvaror,
+husgeråd o verktyg
+Aktiekapital: 360 000
+Verkst dir: Ake Bertilson
+Etableringsår: 1933.
+
+STOCKHOLMS KLICHÉ AB
+
+Pnr 113 30
+
+Stockholm, Hudiksvallsg 6. Tel
+08-34 94 85. Bankgiro 722-5261.
+Postgiro 605950-5
+
+Verksamhet: Tillverkar o säljer
+klichéer
+
+Antal anstäUda: 10
+Årsomsättning: 1000 000
+Aktiekapital: 50 000
+Styrelse: Adv Erie Lindé (ordf), dir
+Remy A Ek, kemigraf Bo
+Helgesson, kemigraf Georg Wennström
+Verkst dir: Remy A Ek
+Etableringsår: 1959.
+
+STOCKHOLMS
+KÖLA-FABRIK, AB
+
+Pnr 11130
+
+Stockholm, Skeppsbron 16. Tel
+08-214750. Postgiro 52825. Tga
+Paradkola
+
+Verksamhet: Tillverkar
+konfektyre r
+
+Fabrik: Sundbyberg, Stationsg 6.
+Tel 08-28 20 58
+Antal anstäUda: 25
+Aktiekapital: 500 000
+Verkst dir: Oscar Fried
+Etableringsår: 1931.
+
+STOCKHOLMS KOPIERINGS.
+ANSTALT TORVALD HULT AB
+
+Pnr 11151
+
+Stockholm, Drottningg 31. Tel
+08-1418 95, 11 10 92. Bankgiro
+56-0627. Postgiro 3669-9. Tga
+Hult-kopior
+
+Verksamhet: Ljuskopiering
+Antal anstäUda: 10
+Aktiekapital: 30 000
+Styrelseordf: Dir Sylvi Hult
+Verkst dir: Sylvi Hult
+Etableringsår: 1905.
+
+STOCKHOLMS KRAV
+ATT-FABRIK, AB
+
+Pnr 104 30
+
+Stockholm 45, Drottningg 110. Box
+45086. Tel 08-30 60 16. Bankgiro
+72-8788. Postgiro 452200. Tga
+Cordon-bleu
+
+Verksamhet: Tillverkar
+slipsar,but-terflies o rosetter
+Antal anställda: 20
+Årsomsättning: 1350 000
+Aktiekapital: 50 000
+Verkst dir: Bertil Weitz
+Etableringsår: 1950.
+
+STOCKHOLMS LJUSKOPIERING
+AB
+
+Pnr 12173
+
+Johanneshov, Importörv 23. Tel
+08-91 92 80. Bankgiro 744-4045.
+Postgiro 657154-1
+Årsomsättning: 140000
+Aktiekapital: 5 000
+Verkst dir: Ing Jonas Englund
+Etableringsår: 1962.
+
+STOCKHOLMS LÄDER AB
+
+Pnr 10462
+
+Stockholm 17, Box 17003. Ringv
+21 B. Tel 08-6947 47, 847600.
+Bankgiro 576-8759. Postgiro 3486-8
+Verksamhet: Säljer läder o lim
+engros
+
+Aktiekapital: 50 000
+Verkst dir: Gunnar Wenzen
+Etableringsår: 1930.
+
+STOCKHOLMS METALLDUKS.
+AGENTUR ÄKE BROMAN
+
+Pnr 121 63
+
+Johanneshov, Rügenv 8. Tel 08-
+
+4902 83. Bankgiro 117-9639.
+Postgiro 151314-2
+
+Verksamhet: Säljer järn- o
+metallduk, galler, sållduk, stängselduk
+o perforerad plåt
+Årsomsättning: 200 000
+Chef: Ing Ake Broman
+Etableringsår: 1966.
+
+587

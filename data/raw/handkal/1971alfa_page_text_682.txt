@@ -1,299 +1,299 @@
 VAR
-<br/>
-<br/>Verksamhet; Generalagent i
-<br/>Sverige för SABB diesel
-<br/>Varunamn: SABB diesel
-<br/>Aktiekapital: 10 000
-<br/>Verkst dir: Ing Gösta Warlin
-<br/>Etableringsàr: 1957.
-<br/>
-<br/>VARMFORZINKNING, AB
-<br/>
-<br/>Pnr 330 23
-<br/>
-<br/>Smålandsstenar, Box 159. Tel
-<br/>0371-314 20. Bankgiro 42-7653. Postgiro
-<br/>340830
-<br/>
-<br/>Verksamhet: Varmförzinkning av
-<br/>järn- o stålkonstruktioner.
-<br/>Tillverkning av grundbultar o
-<br/>belysningsstolpar
-<br/>
-<br/>Antal anställda: 30
-<br/>Aktiekapital: 200 000
-<br/>Firmatecknare: Pabr Hans
-<br/>Weland-son, fabr A Ekström
-<br/>Etableringsàr: 1959.
-<br/>
-<br/>WARNER ELECTRIC AB
-<br/>
-<br/>Pnr 127 02
-<br/>
-<br/>Skärholmen 2, Lilla Sällskapets v
-<br/>86. Box 2086. Tel 08-88 95 25.
-<br/>Bankgiro 74-9702. Postgiro 156380.
-<br/>Tga Warbrake. Telex 17735
-<br/>Verksamhet: Säljer
-<br/>elektromagnetiska kopplingar o bromsar,
-<br/>kul-mutterskruvar samt elkontroller för
-<br/>dessa
-<br/>
-<br/>Varunamn: Beaver, Warner
-<br/>Aktiekapital: 100 000
-<br/>Styrelse: Bankdir Rolf Tjernström
-<br/>(ordf), mr Paul de Belay, ing Nils
-<br/>Besterman
-<br/>
-<br/>Verkst dir: Ing Nils Besterman
-<br/>Etableringsàr: 1965
-<br/>Dotterbolag till Warner Electric
-<br/>Brake &amp; Clutch Company, Beloit,
-<br/>Wisconsin, USA.
-<br/>
-<br/>WARNER-SERGEL FILM AB
-<br/>
-<br/>Pnr 11183
-<br/>
-<br/>Stockholm 1, Kungsg 44. Box 1326.
-<br/>Tel 08-23 0740. Bankgiro
-<br/>722-4983. Postgiro 705620-3. Tga
-<br/>Warne rsergel
-<br/>
-<br/>Verksamhet: Filmuthyrning
-<br/>Antal anställda: 18
-<br/>Årsomsättning: 3 841000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Bernt Larsson
-<br/>Etableringsàr: 1964.
-<br/>
-<br/>VARNAS-FURETAG EN AB
-<br/>
-<br/>Pnr 730 40
-<br/>
-<br/>Kolbäck, Sörstafors Bruk. Tel
-<br/>0220-404 60
-<br/>
-<br/>Verksamhet: Tillverkar lätt- o
-<br/>tungmetallgjutgods i Kolbäck
-<br/>(Kolbäck Metall) o Eskilstuna
-<br/>(Bröd Söderberg) samt
-<br/>gråjärns-gjutgods i Tierp (Tierps Järnbruk)
-<br/>Antal anställda: 450
-<br/>Årsomsättning: 40 000 000
-<br/>Aktiekapital: 2 500 000
-<br/>Verkst dir: Allan Vamäs.
-<br/>Tekn chef: Uno Heldert
-<br/>Försäljn-chef: Emil Steinbrecher
-<br/>Ekonomichef: Gustaf Eriksson
-<br/>Inköpschef: Lars Malm
-<br/>Utveckling: Christer Varnäs.
-<br/>
-<br/>VARUHANTERING I
-<br/>GOT E BORG AB
-<br/>
-<br/>Pnr 422 46
-<br/>
-<br/>Hisings Backa, Backadalsmotet.
-<br/>Tel 031-521943, 521944. Bank-
-<br/>
-<br/>giro 513-6585. Postgiro 44441-4
-<br/>
-<br/>Verksamhet: Lastpallar, pallkragar,
-<br/>
-<br/>emballage
-<br/>
-<br/>Antal anställda: 12
-<br/>
-<br/>Aktiekapital: 5 000
-<br/>
-<br/>Verkst din Rune Johansson
-<br/>
-<br/>Etableringsàr: 1963.
-<br/>
-<br/>VARUHUS
-<br/>
-<br/>se resp namn.
-<br/>
-<br/>VASA REGISTER AB
-<br/>
-<br/>Pnr 17172
-<br/>
-<br/>Solna, Björnstigen 16. Tel
-<br/>08-85 88 10, 85 88 11. Bankgiro
-<br/>11-5831. Postgiro 706969
-<br/>Verksamhet: Databehandling,
-<br/>system, programmering
-<br/>Antal anställda: 15
-<br/>Aktiekapital: 12 000
-<br/>Verkst dir: Evangelos Alamanos
-<br/>Etableringsàr: 1964.
-<br/>
-<br/>VASA RESEFFEKT AB
-<br/>
-<br/>Pnr 412 53
-<br/>
-<br/>Göteborg S, Vadmansg 7. Tel
-<br/>031-20 85 98. Bankgiro 362-6538.
-<br/>Postgiro 40664-5
-<br/>
-<br/>Verksamhet: Specialväskor för fo
-<br/>toutrustningar o instrument
-<br/>Antal anställda: 14
-<br/>Årsomsättning: 700 000
-<br/>Aktiekapital: 20 000
-<br/>Verkst din Stig Johansson
-<br/>Etableringsàr: 1923
-<br/>Ombildat till aktiebolag 1928.
-<br/>
-<br/>WASA STÄNGSEL AB
-<br/>
-<br/>Pnr 424 35
-<br/>
-<br/>Angered, Bredfjällsg 20. Tel
-<br/>031-30 12 60. Bankgiro 631-9404.
-<br/>Postgiro 47770-3
-<br/>
-<br/>Verksamhet Leverans o
-<br/>uppsättning av stängselnät
-<br/>Antal anställda: 15
-<br/>Årsomsättning: 625 000
-<br/>Aktiekapital; 30 000
-<br/>Verkst dir. Benny Rosenblom
-<br/>Etableringsàr: 1969.
-<br/>
-<br/>VASA TRIKÄ AB
-<br/>
-<br/>Pnr 51048
-<br/>
-<br/>Borgstena, Box 28. Tel 033-63109.
-<br/>Bankgiro 531-1568. Postgiro
-<br/>136544-4
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>trikåunder-kläder i dam, herr o goss, yttertrikå
-<br/>för damer o herrar, fritidströjor
-<br/>Antal anställda: 45
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 45 000
-<br/>Styrelse: Anders Andersson (ordf),
-<br/>Sture Andersson, Ann-Britt
-<br/>Andersson
-<br/>
-<br/>Verkst dir: Sture Andersson
-<br/>Etableringsàr: 1947.
-<br/>
-<br/>WASA TRYCKKNAPPAR AB
-<br/>
-<br/>Pnr 70105
-<br/>
-<br/>Örebro 1, Box 336. Tel 019-912-70.
-<br/>Bankgiro 463-1420. Postgiro
-<br/>122608-3
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>tryckknappar, nitar, skoringar o spännen
-<br/>Antal anställda: 35
-<br/>Årsomsättning: 5 000 000
-<br/>Aktiekapital; 40 000
-<br/>
-<br/>Veikst dir: Gösta Carlsson
-<br/>Etableringsån 1944
-<br/>Ombildat till aktiebolag 1965.
-<br/>
-<br/>WASABOLAGET AB
-<br/>
-<br/>Pnr 115 28
-<br/>
-<br/>Stockholm, Sandhamnsg 39. Tel
-<br/>08-67 97 00. Postgiro 1703-8. Tga
-<br/>Wasaservice
-<br/>
-<br/>Verksamhet: Utför
-<br/>fönsterputsning-ar o städningar. Uthyr stegar o
-<br/>byggnadsställningar av lättmetall
-<br/>Aktiekapital: 200 000
-<br/>Verkst dir: Disp Evert Philipson
-<br/>V verkst dir Gunnar Philipson
-<br/>Etableringsàr: 1896
-<br/>Ombildat till aktiebolag 1940.
-<br/>
-<br/>WASABRÖD AB
-<br/>
-<br/>Pnr 682 82
-<br/>
-<br/>Filipstad. Tel 0590-125 00. Telex
-<br/>5669. Tga Wasabread
-<br/>Verksamhet: Tillverkar o säljer
-<br/>knäckebröd o andra
-<br/>livsmedelsprodukter
-<br/>
-<br/>Filialfabriker 580 06 Linköping 6,
-<br/>Box 6062. Tel 013-14 17 90.
-<br/>Platschef: övering S Bressler
-<br/>780 20 Stora Tuna, Box 10. Tel
-<br/>0243-333 30. Platschef: fabrikschef
-<br/>P Cadefors
-<br/>
-<br/>Försäljningskontor 16111 Bromma
-<br/>11, Fack. Tel 08-26 26 60.
-<br/>Platschef: disp H Hedfors
-<br/>682 82 Filipstad. Tel 0590-125 00
-<br/>415 05 Göteborg, von Utfallsg 13.
-<br/>Tel 031-26 21 60. Platschef:
-<br/>distriktschef Stig Gunneling
-<br/>794 00 Orsa, Box 7. Tel
-<br/>0250-41317
-<br/>
-<br/>78020 Stora Tuna, Box 10. Tel
-<br/>0243-333 30
-<br/>
-<br/>753 23 Uppsala, Björkg 61-63. Tel
-<br/>018-1212 20
-<br/>
-<br/>Årsomsättning: 193 000 000
-<br/>Verkst dir Finn Madison
-<br/>Etableringsàr: 1919.
-<br/>
-<br/>VASALAMPAN, AB
-<br/>
-<br/>Pnr 12107
-<br/>
-<br/>Johanneshov 7, Bränning ev 22.
-<br/>Fack. Tel 08-9100 60. Bankgiro
-<br/>47-8670. Postgiro 1781
-<br/>Verksamhet: Säljer glödlampor,
-<br/>lysrör etc
-<br/>Varunamn: Vasa
-<br/>Aktiekapital : 100000
-<br/>Styrelse: Adv Nils Frodell (ordf),
-<br/>dir K G Rennerfelt, ing G Widén
-<br/>Verkst dir: KG Rennerfelt
-<br/>Etableringsàr: 1925.
-<br/>
-<br/>VASON PRINT
-<br/>
-<br/>Pnr 21137
-<br/>
-<br/>Malmö, Stora Nyg 2. Tel
-<br/>040-32190, 323 93. Bankgiro 403-5580.
-<br/>Postgiro 539642-9
-<br/>Verksamhet Utför tryck på papper,
-<br/>plast o metall
-<br/>
-<br/>Chef: Civilekonom Viktor
-<br/>Andersson
-<br/>
-<br/>Etableringsàr 1970.
-<br/>
-<br/>WASO-VERKEN AB
-<br/>
-<br/>Pnr 445 00
-<br/>
-<br/>Bohus. Tel 031-98 05 10. Bankgiro
-<br/>337-5433. Postgiro 520345-0. Tga
-<br/>Wasoverken. Telex 20679
-<br/>Verksamhet: Tillverkar o säljer
-<br/>stöldlås för bilar, låsbara bensin-
-<br/>
-<br/>680
+
+Verksamhet; Generalagent i
+Sverige för SABB diesel
+Varunamn: SABB diesel
+Aktiekapital: 10 000
+Verkst dir: Ing Gösta Warlin
+Etableringsàr: 1957.
+
+VARMFORZINKNING, AB
+
+Pnr 330 23
+
+Smålandsstenar, Box 159. Tel
+0371-314 20. Bankgiro 42-7653. Postgiro
+340830
+
+Verksamhet: Varmförzinkning av
+järn- o stålkonstruktioner.
+Tillverkning av grundbultar o
+belysningsstolpar
+
+Antal anställda: 30
+Aktiekapital: 200 000
+Firmatecknare: Pabr Hans
+Weland-son, fabr A Ekström
+Etableringsàr: 1959.
+
+WARNER ELECTRIC AB
+
+Pnr 127 02
+
+Skärholmen 2, Lilla Sällskapets v
+86. Box 2086. Tel 08-88 95 25.
+Bankgiro 74-9702. Postgiro 156380.
+Tga Warbrake. Telex 17735
+Verksamhet: Säljer
+elektromagnetiska kopplingar o bromsar,
+kul-mutterskruvar samt elkontroller för
+dessa
+
+Varunamn: Beaver, Warner
+Aktiekapital: 100 000
+Styrelse: Bankdir Rolf Tjernström
+(ordf), mr Paul de Belay, ing Nils
+Besterman
+
+Verkst dir: Ing Nils Besterman
+Etableringsàr: 1965
+Dotterbolag till Warner Electric
+Brake &amp; Clutch Company, Beloit,
+Wisconsin, USA.
+
+WARNER-SERGEL FILM AB
+
+Pnr 11183
+
+Stockholm 1, Kungsg 44. Box 1326.
+Tel 08-23 0740. Bankgiro
+722-4983. Postgiro 705620-3. Tga
+Warne rsergel
+
+Verksamhet: Filmuthyrning
+Antal anställda: 18
+Årsomsättning: 3 841000
+Aktiekapital: 5 000
+Verkst dir: Bernt Larsson
+Etableringsàr: 1964.
+
+VARNAS-FURETAG EN AB
+
+Pnr 730 40
+
+Kolbäck, Sörstafors Bruk. Tel
+0220-404 60
+
+Verksamhet: Tillverkar lätt- o
+tungmetallgjutgods i Kolbäck
+(Kolbäck Metall) o Eskilstuna
+(Bröd Söderberg) samt
+gråjärns-gjutgods i Tierp (Tierps Järnbruk)
+Antal anställda: 450
+Årsomsättning: 40 000 000
+Aktiekapital: 2 500 000
+Verkst dir: Allan Vamäs.
+Tekn chef: Uno Heldert
+Försäljn-chef: Emil Steinbrecher
+Ekonomichef: Gustaf Eriksson
+Inköpschef: Lars Malm
+Utveckling: Christer Varnäs.
+
+VARUHANTERING I
+GOT E BORG AB
+
+Pnr 422 46
+
+Hisings Backa, Backadalsmotet.
+Tel 031-521943, 521944. Bank-
+
+giro 513-6585. Postgiro 44441-4
+
+Verksamhet: Lastpallar, pallkragar,
+
+emballage
+
+Antal anställda: 12
+
+Aktiekapital: 5 000
+
+Verkst din Rune Johansson
+
+Etableringsàr: 1963.
+
+VARUHUS
+
+se resp namn.
+
+VASA REGISTER AB
+
+Pnr 17172
+
+Solna, Björnstigen 16. Tel
+08-85 88 10, 85 88 11. Bankgiro
+11-5831. Postgiro 706969
+Verksamhet: Databehandling,
+system, programmering
+Antal anställda: 15
+Aktiekapital: 12 000
+Verkst dir: Evangelos Alamanos
+Etableringsàr: 1964.
+
+VASA RESEFFEKT AB
+
+Pnr 412 53
+
+Göteborg S, Vadmansg 7. Tel
+031-20 85 98. Bankgiro 362-6538.
+Postgiro 40664-5
+
+Verksamhet: Specialväskor för fo
+toutrustningar o instrument
+Antal anställda: 14
+Årsomsättning: 700 000
+Aktiekapital: 20 000
+Verkst din Stig Johansson
+Etableringsàr: 1923
+Ombildat till aktiebolag 1928.
+
+WASA STÄNGSEL AB
+
+Pnr 424 35
+
+Angered, Bredfjällsg 20. Tel
+031-30 12 60. Bankgiro 631-9404.
+Postgiro 47770-3
+
+Verksamhet Leverans o
+uppsättning av stängselnät
+Antal anställda: 15
+Årsomsättning: 625 000
+Aktiekapital; 30 000
+Verkst dir. Benny Rosenblom
+Etableringsàr: 1969.
+
+VASA TRIKÄ AB
+
+Pnr 51048
+
+Borgstena, Box 28. Tel 033-63109.
+Bankgiro 531-1568. Postgiro
+136544-4
+
+Verksamhet: Tillverkar
+trikåunder-kläder i dam, herr o goss, yttertrikå
+för damer o herrar, fritidströjor
+Antal anställda: 45
+Årsomsättning: 3 000 000
+Aktiekapital: 45 000
+Styrelse: Anders Andersson (ordf),
+Sture Andersson, Ann-Britt
+Andersson
+
+Verkst dir: Sture Andersson
+Etableringsàr: 1947.
+
+WASA TRYCKKNAPPAR AB
+
+Pnr 70105
+
+Örebro 1, Box 336. Tel 019-912-70.
+Bankgiro 463-1420. Postgiro
+122608-3
+
+Verksamhet: Tillverkar
+tryckknappar, nitar, skoringar o spännen
+Antal anställda: 35
+Årsomsättning: 5 000 000
+Aktiekapital; 40 000
+
+Veikst dir: Gösta Carlsson
+Etableringsån 1944
+Ombildat till aktiebolag 1965.
+
+WASABOLAGET AB
+
+Pnr 115 28
+
+Stockholm, Sandhamnsg 39. Tel
+08-67 97 00. Postgiro 1703-8. Tga
+Wasaservice
+
+Verksamhet: Utför
+fönsterputsning-ar o städningar. Uthyr stegar o
+byggnadsställningar av lättmetall
+Aktiekapital: 200 000
+Verkst dir: Disp Evert Philipson
+V verkst dir Gunnar Philipson
+Etableringsàr: 1896
+Ombildat till aktiebolag 1940.
+
+WASABRÖD AB
+
+Pnr 682 82
+
+Filipstad. Tel 0590-125 00. Telex
+5669. Tga Wasabread
+Verksamhet: Tillverkar o säljer
+knäckebröd o andra
+livsmedelsprodukter
+
+Filialfabriker 580 06 Linköping 6,
+Box 6062. Tel 013-14 17 90.
+Platschef: övering S Bressler
+780 20 Stora Tuna, Box 10. Tel
+0243-333 30. Platschef: fabrikschef
+P Cadefors
+
+Försäljningskontor 16111 Bromma
+11, Fack. Tel 08-26 26 60.
+Platschef: disp H Hedfors
+682 82 Filipstad. Tel 0590-125 00
+415 05 Göteborg, von Utfallsg 13.
+Tel 031-26 21 60. Platschef:
+distriktschef Stig Gunneling
+794 00 Orsa, Box 7. Tel
+0250-41317
+
+78020 Stora Tuna, Box 10. Tel
+0243-333 30
+
+753 23 Uppsala, Björkg 61-63. Tel
+018-1212 20
+
+Årsomsättning: 193 000 000
+Verkst dir Finn Madison
+Etableringsàr: 1919.
+
+VASALAMPAN, AB
+
+Pnr 12107
+
+Johanneshov 7, Bränning ev 22.
+Fack. Tel 08-9100 60. Bankgiro
+47-8670. Postgiro 1781
+Verksamhet: Säljer glödlampor,
+lysrör etc
+Varunamn: Vasa
+Aktiekapital : 100000
+Styrelse: Adv Nils Frodell (ordf),
+dir K G Rennerfelt, ing G Widén
+Verkst dir: KG Rennerfelt
+Etableringsàr: 1925.
+
+VASON PRINT
+
+Pnr 21137
+
+Malmö, Stora Nyg 2. Tel
+040-32190, 323 93. Bankgiro 403-5580.
+Postgiro 539642-9
+Verksamhet Utför tryck på papper,
+plast o metall
+
+Chef: Civilekonom Viktor
+Andersson
+
+Etableringsàr 1970.
+
+WASO-VERKEN AB
+
+Pnr 445 00
+
+Bohus. Tel 031-98 05 10. Bankgiro
+337-5433. Postgiro 520345-0. Tga
+Wasoverken. Telex 20679
+Verksamhet: Tillverkar o säljer
+stöldlås för bilar, låsbara bensin-
+
+680

@@ -1,294 +1,294 @@
 BIL
-<br/>
-<br/>BIL &amp; BUSS I HUDIKSVALL AB
-<br/>
-<br/>Pnr 824 00
-<br/>
-<br/>Hudiksvall, Södra v 13. Tel
-<br/>0650-155 50
-<br/>
-<br/>Verksamhet: Bilar, reservdelar,
-<br/>bilverkstäder, gummi verkstad
-<br/>Antal anställda: 132
-<br/>Årsomsättning: 22 669 000
-<br/>Aktiekapital: 3 900 000
-<br/>Verkst dir: Gösta Lindqvist
-<br/>Etableringsår: 1933.
-<br/>
-<br/>BIL &amp; BUSS I LUDVIKA AB
-<br/>
-<br/>Pnr 77100
-<br/>
-<br/>Ludvika, Grängesbergs v. Tel
-<br/>0240-139 30
-<br/>
-<br/>Verksamhet: Bilar, reservdelar,
-<br/>bilverkstad, lackeringsverkstad
-<br/>Antal anställda: 54
-<br/>Årsomsättning: 10 781000
-<br/>Aktiekapital: 400 000
-<br/>Verkst dir: Gösta Lindqvist
-<br/>Etableringsår: 1952.
-<br/>
-<br/>BIL &amp; BUSS I ORSA AB
-<br/>
-<br/>Pnr 794 00
-<br/>
-<br/>Orsa, Box 28. Tel 0250-409 10
-<br/>Verksamhet: Bilar, reservdelar o
-<br/>bilverkstad
-<br/>Antal anställda: 68
-<br/>Årsomsättning: 15 580 000
-<br/>Aktiekapital: 250 000
-<br/>Verkst dir: Gösta Lindqvist
-<br/>Etableringsår: 1952.
-<br/>
-<br/>BIL &amp; BUSS I SUNDSVALL AB
-<br/>
-<br/>Pnr 852 34
-<br/>
-<br/>Sundsvall, Pabriksg 20. Tel
-<br/>060-15 73 70
-<br/>
-<br/>Verksamhet: Bilar, reservdelar,
-<br/>bilverkstad
-<br/>Antal anställda: 109
-<br/>Årsomsättning: 29452 000
-<br/>Aktiekapital: 2 600 000
-<br/>Verkst dir: Gösta Lindqvist
-<br/>Etableringsår: 1947.
-<br/>
-<br/>BIL &amp; TRAKTOR
-<br/>
-<br/>Pnr 54100
-<br/>
-<br/>Skövde, Mariestadsv 86. Tel
-<br/>0500-180 15. Bankgiro 210-3216.
-<br/>Postgiro 417011-4
-<br/>
-<br/>Veiksamhet: Säljer
-<br/>lantbruksmaskiner, traktorer o träskor
-<br/>Antal anställda: 15
-<br/>Årsomsättning: 4 000 000
-<br/>Chef: Dir Gunnar Karlén.
-<br/>
-<br/>BIL &amp; TRUCK, AB
-<br/>
-<br/>Pnr 40110
-<br/>
-<br/>Göteborg 1, Odinsplatsen 9. Pack
-<br/>1517. Tel 031-8004 00. Tga
-<br/>Bil-truck
-<br/>
-<br/>Verksamhet: Säljer personbilar,
-<br/>lastbilar, reservdelar
-<br/>Antal anstäUda: 740
-<br/>Årsomsättning: 163 000 000
-<br/>Aktiekapital: 4 750 000
-<br/>Verkst dir: Bertil Hälleby
-<br/>Etableringsår: 1930.
-<br/>
-<br/>BIL &amp; TRUCK
-<br/>ÖRNSKÖLDSVIK AB
-<br/>
-<br/>Pnr 89101
-<br/>
-<br/>107 50. Bankgiro 626-9039. Postgiro
-<br/>207898-8. Telex 6042 BOT AB S
-<br/>Verksamhet: Återförsäljare för AB
-<br/>Volvo, Göteborg
-<br/>Antal anstäUda: 83
-<br/>
-<br/>Årsomsättning: 19 500 000
-<br/>Aktiekapital: 500 000
-<br/>Verkst dir: Sven Johansson
-<br/>Etableringsår: 1959.
-<br/>
-<br/>BILDEVE I ALVESTA AB
-<br/>
-<br/>Pnr 342 00
-<br/>
-<br/>Alvesta, Pabriksg 13. Tel
-<br/>0472-118 20
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>Deves hydrauliska hissar o lyftare
-<br/>Varunamn: Deves
-<br/>Antal anstäUda: 85
-<br/>Årsomsättning: 11000 000
-<br/>Aktiekapital: 150 000
-<br/>Verkst dir: Fabr Algot Viebke
-<br/>Etableringsår: 1956.
-<br/>
-<br/>BILDEVE I HELSINGBORG AB
-<br/>
-<br/>Pnr 25102
-<br/>
-<br/>Helsingborg 1, Box 28. Carl Krooksg
-<br/>30. Tel 042-18 0 0 00. Bankgiro
-<br/>652-9887. Postgiro 160167-3
-<br/>Verksamhet: Bilförsäljning. Volvo
-<br/>personbilar o lastbilar.
-<br/>Bilverk-stader o bensinstationer
-<br/>Avdelningskontor: Höganäs,
-<br/>Triangelplatsen. Tel 042-423 20
-<br/>Antal asntäUda: 201
-<br/>Årsomsättning: 41923 000
-<br/>Aktiekapital: 1000 000
-<br/>Verkst dir: K E Ossian Falkengren
-<br/>Etableringsår: 1943.
-<br/>
-<br/>BILDEVE I
-<br/>MUNKALJUNGBY AB
-<br/>
-<br/>Pnr 260 80
-<br/>
-<br/>Munkaljungby, Box 25. Tel
-<br/>0431-307 30. Bankgiro 672-2086.
-<br/>Postgiro 167394-6
-<br/>
-<br/>Verksamhet: Tillverkar hisskorgar,
-<br/>hydrauliska lyftredskap,
-<br/>betongformar samt plåt- o
-<br/>järnkonstruktioner
-<br/>
-<br/>Antal anstäUda: 47
-<br/>Årsomsättning: 2 000 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Nils Viebke
-<br/>Etableringsår: 1930.
-<br/>
-<br/>BILDEVE I STOCKHOLM AB
-<br/>
-<br/>Pnr 11447
-<br/>
-<br/>Stockholm, Linnég 17. Tel
-<br/>08-67 00 60. Bankgiro 56-4527.
-<br/>Postgiro 193911. Tga Bildeve
-<br/>Verksamhet: Säljer Deves
-<br/>hydrauliska hissar, lyftare o kolvringar
-<br/>samt bilservicelyftare
-<br/>Varunamn: Deves
-<br/>Antal anstäUda: 40
-<br/>Årsomsättning: 6 000 000
-<br/>Aktiekapital: 300 000
-<br/>Verkst dir: Algot L Viebke
-<br/>Etableringsår: 1943.
-<br/>
-<br/>BILFRAKT BJUV EK FOREN
-<br/>
-<br/>Pnr 267 00
-<br/>
-<br/>Bjuv. Tel 042-789 30. Bankgiro
-<br/>671-4281. Postgiro 518303-3
-<br/>Verksamhet: Inrikes
-<br/>transportförmedling
-<br/>
-<br/>Antal anstäUda: 7
-<br/>Årsomsättning: 9 500 000
-<br/>Chef: Göthe Persson
-<br/>Etableringsår: 1959.
-<br/>
-<br/>BILFÖRSÄLJNINGS AB,
-<br/>BILFORSÄLJNINGSFIRMAN
-<br/>
-<br/>se resp namn.
-<br/>
-<br/>BILHALLEN I MALMÖ AB
-<br/>
-<br/>Pnr 217 58
-<br/>
-<br/>Malmö, Tessins v 2. Tel
-<br/>040-9155 52. Bankgiro 884-0530.
-<br/>Postgiro 435980-8
-<br/>
-<br/>Verksamhet: Auktoriserad
-<br/>återförsäljare för Toyota person- o
-<br/>lastfordon samt service
-<br/>Antal anstäUda: 5
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 100 000
-<br/>Styrelse: Dir Waldemar Persson,
-<br/>försäljn-chef Bertil Silfverberg,
-<br/>ekonomichef Kjell Grahn
-<br/>Verkst dir: Waldemar Persson
-<br/>Försäljn-chef: Bertil Silfverberg
-<br/>Ekonomichef: Kjell Grahn.
-<br/>
-<br/>BILIA, AB
-<br/>
-<br/>Pnr 113 84
-<br/>
-<br/>Stockholm 6, Box 6603. Hälsingeg
-<br/>43. Tel 08-34 06 00. Bankgiro
-<br/>581-0007. Postgiro 1310-2
-<br/>Verksamhet: Auktoriserad
-<br/>Volvoservice, reservdelar, tillbehör.
-<br/>Säljer nya Volvo o begagnade bilar
-<br/>Antal anstäUda: 740
-<br/>Årsomsättning: 180 000 000
-<br/>Aktiekapital: 5 000 000
-<br/>Verkst dir: Bengt Hagman
-<br/>Etableringsår: 1968
-<br/>Representant för AB Volvo, Göteborg.
-<br/>
-<br/>BILINDUSTRI I BLIDSBERG AB
-<br/>
-<br/>Pnr 520 24
-<br/>
-<br/>Blidsberg, Box 58. Tel 0321-312 20,
-<br/>312 21, 312 22. Bankgiro 580-4604.
-<br/>Postgiro 712920-8. Tga
-<br/>Blidsbergs-tipp
-<br/>
-<br/>Verksamhet: Tillverkar utrustningar
-<br/>för lastbilar o släpvagnar,
-<br/>huvudsakligen tippar o flak. Monterar
-<br/>olika utrustningsdetaljer på
-<br/>lastfordon
-<br/>
-<br/>Försälj ningskontor:
-<br/>
-<br/>Danmark: Auge Jensen Ingeniör- og
-<br/>Händelsvirkomhed. Jernbaneallé
-<br/>24. Espergaerde. Tel 03-216844
-<br/>Norge: Planesystemer A/S. Boks
-<br/>45, N 2001 Lilleström. Tel
-<br/>02-714120
-<br/>
-<br/>Varunamn: Blidsbergstippen, Bili
-<br/>Antal anställda: 70
-<br/>Årsomsättning: 4 500000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Göte Håkanson
-<br/>Försäljn-chef: Harald Dahlälv
-<br/>Inköpschef: Olof Andersson
-<br/>Etableringsår: 1938.
-<br/>
-<br/>BILKOMPANIET I NÄSSJü,AB
-<br/>
-<br/>Pnr 57100
-<br/>
-<br/>Nässjö, Ràdhusg 47 . Tel
-<br/>0380-130 20. Tga Bilkompaniet
-<br/>Verksamhet: Auktoriserad G M
-<br/>försäljare
-<br/>
-<br/>FUialer: Eksjö, Sävsjö, Tranås
-<br/>Antal anställda: 75
-<br/>Aktiekapital: 150 000
-<br/>Verkst dir: Torbjörn Sundberg
-<br/>
-<br/>BILLBORG REKLAMKONSULT,
-<br/>G
-<br/>
-<br/>Pnr 415 14
-<br/>
-<br/>Göteborg, Britts ömmar g 3. Tel
-<br/>031-46 65 24. Postgiro 722835-6
-<br/>Verksamhet: Annonsbyrå med
-<br/>fullständig annonsbyråservice
-<br/>Verkst dir: Gunnar Billborg
-<br/>Etableringsår: 1962.
-<br/>
-<br/>73
+
+BIL &amp; BUSS I HUDIKSVALL AB
+
+Pnr 824 00
+
+Hudiksvall, Södra v 13. Tel
+0650-155 50
+
+Verksamhet: Bilar, reservdelar,
+bilverkstäder, gummi verkstad
+Antal anställda: 132
+Årsomsättning: 22 669 000
+Aktiekapital: 3 900 000
+Verkst dir: Gösta Lindqvist
+Etableringsår: 1933.
+
+BIL &amp; BUSS I LUDVIKA AB
+
+Pnr 77100
+
+Ludvika, Grängesbergs v. Tel
+0240-139 30
+
+Verksamhet: Bilar, reservdelar,
+bilverkstad, lackeringsverkstad
+Antal anställda: 54
+Årsomsättning: 10 781000
+Aktiekapital: 400 000
+Verkst dir: Gösta Lindqvist
+Etableringsår: 1952.
+
+BIL &amp; BUSS I ORSA AB
+
+Pnr 794 00
+
+Orsa, Box 28. Tel 0250-409 10
+Verksamhet: Bilar, reservdelar o
+bilverkstad
+Antal anställda: 68
+Årsomsättning: 15 580 000
+Aktiekapital: 250 000
+Verkst dir: Gösta Lindqvist
+Etableringsår: 1952.
+
+BIL &amp; BUSS I SUNDSVALL AB
+
+Pnr 852 34
+
+Sundsvall, Pabriksg 20. Tel
+060-15 73 70
+
+Verksamhet: Bilar, reservdelar,
+bilverkstad
+Antal anställda: 109
+Årsomsättning: 29452 000
+Aktiekapital: 2 600 000
+Verkst dir: Gösta Lindqvist
+Etableringsår: 1947.
+
+BIL &amp; TRAKTOR
+
+Pnr 54100
+
+Skövde, Mariestadsv 86. Tel
+0500-180 15. Bankgiro 210-3216.
+Postgiro 417011-4
+
+Veiksamhet: Säljer
+lantbruksmaskiner, traktorer o träskor
+Antal anställda: 15
+Årsomsättning: 4 000 000
+Chef: Dir Gunnar Karlén.
+
+BIL &amp; TRUCK, AB
+
+Pnr 40110
+
+Göteborg 1, Odinsplatsen 9. Pack
+1517. Tel 031-8004 00. Tga
+Bil-truck
+
+Verksamhet: Säljer personbilar,
+lastbilar, reservdelar
+Antal anstäUda: 740
+Årsomsättning: 163 000 000
+Aktiekapital: 4 750 000
+Verkst dir: Bertil Hälleby
+Etableringsår: 1930.
+
+BIL &amp; TRUCK
+ÖRNSKÖLDSVIK AB
+
+Pnr 89101
+
+107 50. Bankgiro 626-9039. Postgiro
+207898-8. Telex 6042 BOT AB S
+Verksamhet: Återförsäljare för AB
+Volvo, Göteborg
+Antal anstäUda: 83
+
+Årsomsättning: 19 500 000
+Aktiekapital: 500 000
+Verkst dir: Sven Johansson
+Etableringsår: 1959.
+
+BILDEVE I ALVESTA AB
+
+Pnr 342 00
+
+Alvesta, Pabriksg 13. Tel
+0472-118 20
+
+Verksamhet: Tillverkar o säljer
+Deves hydrauliska hissar o lyftare
+Varunamn: Deves
+Antal anstäUda: 85
+Årsomsättning: 11000 000
+Aktiekapital: 150 000
+Verkst dir: Fabr Algot Viebke
+Etableringsår: 1956.
+
+BILDEVE I HELSINGBORG AB
+
+Pnr 25102
+
+Helsingborg 1, Box 28. Carl Krooksg
+30. Tel 042-18 0 0 00. Bankgiro
+652-9887. Postgiro 160167-3
+Verksamhet: Bilförsäljning. Volvo
+personbilar o lastbilar.
+Bilverk-stader o bensinstationer
+Avdelningskontor: Höganäs,
+Triangelplatsen. Tel 042-423 20
+Antal asntäUda: 201
+Årsomsättning: 41923 000
+Aktiekapital: 1000 000
+Verkst dir: K E Ossian Falkengren
+Etableringsår: 1943.
+
+BILDEVE I
+MUNKALJUNGBY AB
+
+Pnr 260 80
+
+Munkaljungby, Box 25. Tel
+0431-307 30. Bankgiro 672-2086.
+Postgiro 167394-6
+
+Verksamhet: Tillverkar hisskorgar,
+hydrauliska lyftredskap,
+betongformar samt plåt- o
+järnkonstruktioner
+
+Antal anstäUda: 47
+Årsomsättning: 2 000 000
+Aktiekapital: 100 000
+Verkst dir: Nils Viebke
+Etableringsår: 1930.
+
+BILDEVE I STOCKHOLM AB
+
+Pnr 11447
+
+Stockholm, Linnég 17. Tel
+08-67 00 60. Bankgiro 56-4527.
+Postgiro 193911. Tga Bildeve
+Verksamhet: Säljer Deves
+hydrauliska hissar, lyftare o kolvringar
+samt bilservicelyftare
+Varunamn: Deves
+Antal anstäUda: 40
+Årsomsättning: 6 000 000
+Aktiekapital: 300 000
+Verkst dir: Algot L Viebke
+Etableringsår: 1943.
+
+BILFRAKT BJUV EK FOREN
+
+Pnr 267 00
+
+Bjuv. Tel 042-789 30. Bankgiro
+671-4281. Postgiro 518303-3
+Verksamhet: Inrikes
+transportförmedling
+
+Antal anstäUda: 7
+Årsomsättning: 9 500 000
+Chef: Göthe Persson
+Etableringsår: 1959.
+
+BILFÖRSÄLJNINGS AB,
+BILFORSÄLJNINGSFIRMAN
+
+se resp namn.
+
+BILHALLEN I MALMÖ AB
+
+Pnr 217 58
+
+Malmö, Tessins v 2. Tel
+040-9155 52. Bankgiro 884-0530.
+Postgiro 435980-8
+
+Verksamhet: Auktoriserad
+återförsäljare för Toyota person- o
+lastfordon samt service
+Antal anstäUda: 5
+Årsomsättning: 3 000 000
+Aktiekapital: 100 000
+Styrelse: Dir Waldemar Persson,
+försäljn-chef Bertil Silfverberg,
+ekonomichef Kjell Grahn
+Verkst dir: Waldemar Persson
+Försäljn-chef: Bertil Silfverberg
+Ekonomichef: Kjell Grahn.
+
+BILIA, AB
+
+Pnr 113 84
+
+Stockholm 6, Box 6603. Hälsingeg
+43. Tel 08-34 06 00. Bankgiro
+581-0007. Postgiro 1310-2
+Verksamhet: Auktoriserad
+Volvoservice, reservdelar, tillbehör.
+Säljer nya Volvo o begagnade bilar
+Antal anstäUda: 740
+Årsomsättning: 180 000 000
+Aktiekapital: 5 000 000
+Verkst dir: Bengt Hagman
+Etableringsår: 1968
+Representant för AB Volvo, Göteborg.
+
+BILINDUSTRI I BLIDSBERG AB
+
+Pnr 520 24
+
+Blidsberg, Box 58. Tel 0321-312 20,
+312 21, 312 22. Bankgiro 580-4604.
+Postgiro 712920-8. Tga
+Blidsbergs-tipp
+
+Verksamhet: Tillverkar utrustningar
+för lastbilar o släpvagnar,
+huvudsakligen tippar o flak. Monterar
+olika utrustningsdetaljer på
+lastfordon
+
+Försälj ningskontor:
+
+Danmark: Auge Jensen Ingeniör- og
+Händelsvirkomhed. Jernbaneallé
+24. Espergaerde. Tel 03-216844
+Norge: Planesystemer A/S. Boks
+45, N 2001 Lilleström. Tel
+02-714120
+
+Varunamn: Blidsbergstippen, Bili
+Antal anställda: 70
+Årsomsättning: 4 500000
+Aktiekapital: 50 000
+Verkst dir: Göte Håkanson
+Försäljn-chef: Harald Dahlälv
+Inköpschef: Olof Andersson
+Etableringsår: 1938.
+
+BILKOMPANIET I NÄSSJü,AB
+
+Pnr 57100
+
+Nässjö, Ràdhusg 47 . Tel
+0380-130 20. Tga Bilkompaniet
+Verksamhet: Auktoriserad G M
+försäljare
+
+FUialer: Eksjö, Sävsjö, Tranås
+Antal anställda: 75
+Aktiekapital: 150 000
+Verkst dir: Torbjörn Sundberg
+
+BILLBORG REKLAMKONSULT,
+G
+
+Pnr 415 14
+
+Göteborg, Britts ömmar g 3. Tel
+031-46 65 24. Postgiro 722835-6
+Verksamhet: Annonsbyrå med
+fullständig annonsbyråservice
+Verkst dir: Gunnar Billborg
+Etableringsår: 1962.
+
+73

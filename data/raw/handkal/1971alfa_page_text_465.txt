@@ -1,283 +1,283 @@
 NOR
-<br/>
-<br/>Aktiekapital: 60000
-<br/>Verkst dir: J-A Jonson
-<br/>Etableringsår: 1960.
-<br/>
-<br/>NORRLANDS HÄNDELS.
-<br/>JÄRN AB
-<br/>
-<br/>Pnr 95101
-<br/>
-<br/>Luleå l,Brageg2. Box4.Tel
-<br/>0920-108 15. Bankgiro 75-2449. Postgiro
-<br/>482270
-<br/>
-<br/>Verksamhet: Säljer järn o stål.
-<br/>Varmförzinkning i egen anläggning
-<br/>Antal anställda: 33
-<br/>Årsomsättning: 21 000 000
-<br/>Aktiekapital: 500 000
-<br/>Verkst dir: Sven Hagman
-<br/>Etableringsår: 1956.
-<br/>
-<br/>NORRLANDS HEMSLÖJD, AB
-<br/>
-<br/>Pnr 112 46
-<br/>
-<br/>Stockholm, Pridhemsg 60. Tel
-<br/>08-52 26 46, 53 2636. Bankgiro
-<br/>56-7048. Postgiro 270350
-<br/>Verksamhet: Engrosförsäljning o
-<br/>agenturrörelse med hemslöjd,
-<br/>presentartiklar, korgar o textilier
-<br/>Verkst dir: Paul Bjuhr
-<br/>Etableringsår: 1941.
-<br/>
-<br/>NORRLANDS SKOGSÄGARES
-<br/>CELLULOSA AB
-<br/>
-<br/>Pnr 87200
-<br/>
-<br/>Kramfors. Tel 0612-124 50.
-<br/>Postgiro 8540-7. Tga Farmpulp.
-<br/>Telex 71240
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>sulfatmassa (barr- o lövved), sulfitmassa,
-<br/>kraftpapper, finpapper, kemiska
-<br/>produkter o sågade trävaror.
-<br/>Sulfatfab-riker i Dynas, Köpmanholmen o
-<br/>Väja, sulfitfabriker i Hörnefors,
-<br/>Krokom o Vallvik, pappersbruk i
-<br/>Väja o Hörnefors, sågverk i
-<br/>Krokom, Köpmanholmen o Väja
-<br/>Försäljning:
-<br/>
-<br/>Massa, kraftpapper o trävaror;
-<br/>Kramfors. Ttel 0612-124 50. Telex
-<br/>71240. Tga Farmpulp. Chef: Dir
-<br/>Alf Lindgren
-<br/>
-<br/>Ncb Papper AB: Stockholm. Tel
-<br/>08-23 24 80. Tga Bothnia. Telex 10397.
-<br/>Chef: Dir Frank Skarborg
-<br/>Malmö. Tel 040-18 03 40
-<br/>Göteborg. Tel 031-42 00 15
-<br/>Hörnefors. Tel 0930-209 00
-<br/>Varunamn: Dynapak
-<br/>Aktiekapital: 32 000 000
-<br/>Styrelse: Hemmansäg Alfons
-<br/>Berglund (ordf), dir Gösta Hallmans,
-<br/>jur dr Gunnar Hedlund, hemmansäg
-<br/>Alf Järmens, hemmansäg Anders
-<br/>Hedberg, hemmansäg Adil
-<br/>Johansson, riksdagsman Axel Wikberg,
-<br/>fabriksarb Verner Ågren (repr för
-<br/>de anställda)
-<br/>
-<br/>Verkst dir: Jur dr Gunnar Hedlund
-<br/>V verkst dir:r: Berndt Orefors,
-<br/>Gösta Hallmans, Tage Lundén
-<br/>Platschefer: Dir Tage Lundén,
-<br/>Köpmanholmen, övering Folke
-<br/>Brunstedt, Hörnefors, dir Evert Nilsson,
-<br/>Väja, övering Hans Fastén,
-<br/>Krokom. övering Per Svanberg, Vallvik
-<br/>Etableringsår: 1959.
-<br/>
-<br/>NORRLANDS SLIPINDUSTRI,
-<br/>AB
-<br/>
-<br/>Pnr 852 43
-<br/>
-<br/>Sundsvall, Ostermov 35. Tel
-<br/>060-1104 44. Bankgiro 18-0471.
-<br/>Post-giro 70999-8
-<br/>
-<br/>Verksamhet: Slipning av
-<br/>eggverktyg för cellulosa- o mekaniska
-<br/>industrin
-<br/>
-<br/>Antal anställda: 14
-<br/>Aktiekapital: 20 000
-<br/>Ägare o chefer: Alvar Haglund,
-<br/>Harry Widmark
-<br/>Etableringsår: 1963.
-<br/>
-<br/>NORRLANDS
-<br/>VADD-FABRIK, AB
-<br/>
-<br/>Pnr 81028
-<br/>
-<br/>Järbo, Norrlandsg 4. Fack 29. Tel
-<br/>0290-700 19. Bankgiro 78-7621.
-<br/>Postgiro 80088
-<br/>
-<br/>Verksamhet: Tillverkar sängkläder,
-<br/>all slags vadd o tätningslister
-<br/>Antal anställda: 10
-<br/>Årsomsättning: 500 000
-<br/>Aktiekapital: 25 000
-<br/>Verkst dir: Rune Berggren
-<br/>Etableringsår: 1900.
-<br/>
-<br/>NORRLANDSBILD AB
-<br/>
-<br/>Pnr 85106
-<br/>
-<br/>Sundsvall 1, Köpmang 16. Box 404.
-<br/>Tel 060-15 05 05. Bankgiro 18-0210.
-<br/>Postgiro 165202
-<br/>
-<br/>Verksamhet: Reportage o
-<br/>industrifoto, ljus- o fotokopieringar.
-<br/>Meterförstoringar, arkivfoto, offsettryck
-<br/>Antal anställda: 10
-<br/>Årsomsättning: 650 000
-<br/>Aktiekapital: 15 000
-<br/>Verkst dir: T Persson.
-<br/>
-<br/>NORRLANDSHUS, AB
-<br/>
-<br/>Pnr 840 60
-<br/>
-<br/>Bräcke. Tel 0693-105 40. Bankgiro
-<br/>778-9092. Postgiro 287656-3
-<br/>Verksamhet: Monteringsfärdiga
-<br/>segmenthus
-<br/>
-<br/>Årsomsättning: 17 000 000
-<br/>Aktiekapital: 105 000
-<br/>Verkst dir: Rudolf Strand
-<br/>Etableringsår: 1939.
-<br/>
-<br/>NORRLANDSVAGNAR AB
-<br/>
-<br/>Pnr 930 21
-<br/>
-<br/>Bygdsiljum, Box 106. Tel 0914-
-<br/>
-<br/>20210. Bankgiro 204-0434.
-<br/>Postgiro 518034-4
-<br/>
-<br/>Verksamhet: Tillverkar husvagnar
-<br/>o lätta transportabla raststugor,
-<br/>personal- o förläggningsvagnar
-<br/>Antal anställda: 30
-<br/>Årsomsättning: 4 500 000
-<br/>Ägare o chef: Frans Sörensen
-<br/>Etableringsår: 1961.
-<br/>
-<br/>NORRLJUS, AB
-<br/>
-<br/>Pnr 820 60
-<br/>
-<br/>Delsbo, Fredriksfors. Tel
-<br/>0653-230 33, 23055. Bankgiro 785-9085.
-<br/>Postgiro 580570-0. Tga Norrljus
-<br/>Verksamhet: Tillverkar o säljer ljus
-<br/>av alla slag
-<br/>Varunamn: Norrljus
-<br/>Antal anställda: 100
-<br/>Årsomsättning: 9 000 000
-<br/>Aktiekapital: 5 000
-<br/>Styrelse: Dir Ebbe Christensson,
-<br/>dir Dick Reuterskiöld
-<br/>Chef: Disp Bertil Swenson
-<br/>Etableringsår: 1955.
-<br/>
-<br/>NORRLÄNDSKA BETONG- och
-<br/>STENINDUSTRI AB
-<br/>
-<br/>Pnr 840 76
-<br/>
-<br/>Stugun. Tel 0695-10035, 10065.
-<br/>Bankgiro 37-0435. Postgiro 95380
-<br/>Verksamhet: Levererar betong- o
-<br/>vägbeläggningsmaterial
-<br/>Aktiekapital: 500 000
-<br/>Verkst din Sven Jansson
-<br/>Etableringsår: 1946.
-<br/>
-<br/>NORRLÄNDSKA REPRODUK.
-<br/>TIONSANSTALTEN, AB
-<br/>
-<br/>Pnr 90103
-<br/>
-<br/>Umeå 1, Storg 18. Box 150. Tel
-<br/>090-1169 95. Bankgiro 461540
-<br/>Verksamhet: Utför ljuskopiering,
-<br/>kontaktkopiering, skaländringar,
-<br/>cronaflexkopior, teknokopior,
-<br/>arkiv-o mikrofotografering, bildkort,
-<br/>fotostat-o el-statkopior,
-<br/>elektrostencil-er, duplicering, kontors- o
-<br/>snabboffset, boktryck, folieprägling
-<br/>Avdelningskontor: Umeå, Kungsg
-<br/>119. Tel 090-1159 95
-<br/>Antal anställda: 13
-<br/>Verkst din David Andersson
-<br/>Etableringsår: 1950.
-<br/>
-<br/>NORRLÄNDSKA SOCIALDEMO.
-<br/>KRATEN, TRYCKERI-AB
-<br/>
-<br/>Pnr 961 01
-<br/>
-<br/>Boden 1, Fabriks g 6. Box 182. Tel
-<br/>0921-136 20. Bankgiro 600-7934.
-<br/>Postgiro 60093-2.
-<br/>Tga Norrländskan. Telex 8301
-<br/>Verksamhet: Tidningsutgivning
-<br/>Antal anställda: 178
-<br/>Årsomsättning: 15 000 000
-<br/>Aktiekapital: 600 000
-<br/>Verkst dir: Harald Johansson
-<br/>Chefred: Lars Fagerström
-<br/>Etableringsår: 1918.
-<br/>
-<br/>NORRLÄNDSKA VERKTYGS.
-<br/>FABRIKEN
-<br/>
-<br/>Pnr 830 70
-<br/>
-<br/>Hammerdal. Tel 0644-105 45.
-<br/>Bankgiro 77-9348. Postgiro 160430
-<br/>Verksamhet:Tillverkar NOVA elektr
-<br/>svetsaggregat o svetsutrustningar
-<br/>Ägare o chef: Lars Erie Nilsson
-<br/>Etableringsån 1956.
-<br/>
-<br/>NORRMALMS GJUTERI &amp; MEK
-<br/>VERKSTAD, AB
-<br/>
-<br/>Pnr 502 39
-<br/>
-<br/>Borås, Stenbocksg 18. Tel
-<br/>033-11 17 75. Bankgiro 531-2725.
-<br/>Postgiro 28577-3
-<br/>
-<br/>Verksamhet: Sprutverktyg för plast.
-<br/>Valsar. Kugghjul
-<br/>Antal anställda: 15
-<br/>Årsomsättning: 700 000
-<br/>Verkst dir: L O Larson
-<br/>Etableringsån 1901.
-<br/>
-<br/>NORRMALMS LIVSMEDELS AB
-<br/>
-<br/>Pnr 11384
-<br/>
-<br/>Stockholm 6, Box 6602. Karlbergs v
-<br/>77-81. Tel 08-34 05 40, 34 06 40.
-<br/>Bankgiro 726-1274. Postgiro 460-6.
-<br/>Tga Norrmalmbolaget. Telex 10589
-<br/>Verksamhet: Livsmedelsindustri
-<br/>Antal anställda: 200
-<br/>Årsomsättning: 108 000 000
-<br/>Aktiekapital: 4 000 000
-<br/>Verkst dir. Sten Pagmar
-<br/>Etableringsår: 1895.
-<br/>
-<br/>463
+
+Aktiekapital: 60000
+Verkst dir: J-A Jonson
+Etableringsår: 1960.
+
+NORRLANDS HÄNDELS.
+JÄRN AB
+
+Pnr 95101
+
+Luleå l,Brageg2. Box4.Tel
+0920-108 15. Bankgiro 75-2449. Postgiro
+482270
+
+Verksamhet: Säljer järn o stål.
+Varmförzinkning i egen anläggning
+Antal anställda: 33
+Årsomsättning: 21 000 000
+Aktiekapital: 500 000
+Verkst dir: Sven Hagman
+Etableringsår: 1956.
+
+NORRLANDS HEMSLÖJD, AB
+
+Pnr 112 46
+
+Stockholm, Pridhemsg 60. Tel
+08-52 26 46, 53 2636. Bankgiro
+56-7048. Postgiro 270350
+Verksamhet: Engrosförsäljning o
+agenturrörelse med hemslöjd,
+presentartiklar, korgar o textilier
+Verkst dir: Paul Bjuhr
+Etableringsår: 1941.
+
+NORRLANDS SKOGSÄGARES
+CELLULOSA AB
+
+Pnr 87200
+
+Kramfors. Tel 0612-124 50.
+Postgiro 8540-7. Tga Farmpulp.
+Telex 71240
+
+Verksamhet: Tillverkar
+sulfatmassa (barr- o lövved), sulfitmassa,
+kraftpapper, finpapper, kemiska
+produkter o sågade trävaror.
+Sulfatfab-riker i Dynas, Köpmanholmen o
+Väja, sulfitfabriker i Hörnefors,
+Krokom o Vallvik, pappersbruk i
+Väja o Hörnefors, sågverk i
+Krokom, Köpmanholmen o Väja
+Försäljning:
+
+Massa, kraftpapper o trävaror;
+Kramfors. Ttel 0612-124 50. Telex
+71240. Tga Farmpulp. Chef: Dir
+Alf Lindgren
+
+Ncb Papper AB: Stockholm. Tel
+08-23 24 80. Tga Bothnia. Telex 10397.
+Chef: Dir Frank Skarborg
+Malmö. Tel 040-18 03 40
+Göteborg. Tel 031-42 00 15
+Hörnefors. Tel 0930-209 00
+Varunamn: Dynapak
+Aktiekapital: 32 000 000
+Styrelse: Hemmansäg Alfons
+Berglund (ordf), dir Gösta Hallmans,
+jur dr Gunnar Hedlund, hemmansäg
+Alf Järmens, hemmansäg Anders
+Hedberg, hemmansäg Adil
+Johansson, riksdagsman Axel Wikberg,
+fabriksarb Verner Ågren (repr för
+de anställda)
+
+Verkst dir: Jur dr Gunnar Hedlund
+V verkst dir:r: Berndt Orefors,
+Gösta Hallmans, Tage Lundén
+Platschefer: Dir Tage Lundén,
+Köpmanholmen, övering Folke
+Brunstedt, Hörnefors, dir Evert Nilsson,
+Väja, övering Hans Fastén,
+Krokom. övering Per Svanberg, Vallvik
+Etableringsår: 1959.
+
+NORRLANDS SLIPINDUSTRI,
+AB
+
+Pnr 852 43
+
+Sundsvall, Ostermov 35. Tel
+060-1104 44. Bankgiro 18-0471.
+Post-giro 70999-8
+
+Verksamhet: Slipning av
+eggverktyg för cellulosa- o mekaniska
+industrin
+
+Antal anställda: 14
+Aktiekapital: 20 000
+Ägare o chefer: Alvar Haglund,
+Harry Widmark
+Etableringsår: 1963.
+
+NORRLANDS
+VADD-FABRIK, AB
+
+Pnr 81028
+
+Järbo, Norrlandsg 4. Fack 29. Tel
+0290-700 19. Bankgiro 78-7621.
+Postgiro 80088
+
+Verksamhet: Tillverkar sängkläder,
+all slags vadd o tätningslister
+Antal anställda: 10
+Årsomsättning: 500 000
+Aktiekapital: 25 000
+Verkst dir: Rune Berggren
+Etableringsår: 1900.
+
+NORRLANDSBILD AB
+
+Pnr 85106
+
+Sundsvall 1, Köpmang 16. Box 404.
+Tel 060-15 05 05. Bankgiro 18-0210.
+Postgiro 165202
+
+Verksamhet: Reportage o
+industrifoto, ljus- o fotokopieringar.
+Meterförstoringar, arkivfoto, offsettryck
+Antal anställda: 10
+Årsomsättning: 650 000
+Aktiekapital: 15 000
+Verkst dir: T Persson.
+
+NORRLANDSHUS, AB
+
+Pnr 840 60
+
+Bräcke. Tel 0693-105 40. Bankgiro
+778-9092. Postgiro 287656-3
+Verksamhet: Monteringsfärdiga
+segmenthus
+
+Årsomsättning: 17 000 000
+Aktiekapital: 105 000
+Verkst dir: Rudolf Strand
+Etableringsår: 1939.
+
+NORRLANDSVAGNAR AB
+
+Pnr 930 21
+
+Bygdsiljum, Box 106. Tel 0914-
+
+20210. Bankgiro 204-0434.
+Postgiro 518034-4
+
+Verksamhet: Tillverkar husvagnar
+o lätta transportabla raststugor,
+personal- o förläggningsvagnar
+Antal anställda: 30
+Årsomsättning: 4 500 000
+Ägare o chef: Frans Sörensen
+Etableringsår: 1961.
+
+NORRLJUS, AB
+
+Pnr 820 60
+
+Delsbo, Fredriksfors. Tel
+0653-230 33, 23055. Bankgiro 785-9085.
+Postgiro 580570-0. Tga Norrljus
+Verksamhet: Tillverkar o säljer ljus
+av alla slag
+Varunamn: Norrljus
+Antal anställda: 100
+Årsomsättning: 9 000 000
+Aktiekapital: 5 000
+Styrelse: Dir Ebbe Christensson,
+dir Dick Reuterskiöld
+Chef: Disp Bertil Swenson
+Etableringsår: 1955.
+
+NORRLÄNDSKA BETONG- och
+STENINDUSTRI AB
+
+Pnr 840 76
+
+Stugun. Tel 0695-10035, 10065.
+Bankgiro 37-0435. Postgiro 95380
+Verksamhet: Levererar betong- o
+vägbeläggningsmaterial
+Aktiekapital: 500 000
+Verkst din Sven Jansson
+Etableringsår: 1946.
+
+NORRLÄNDSKA REPRODUK.
+TIONSANSTALTEN, AB
+
+Pnr 90103
+
+Umeå 1, Storg 18. Box 150. Tel
+090-1169 95. Bankgiro 461540
+Verksamhet: Utför ljuskopiering,
+kontaktkopiering, skaländringar,
+cronaflexkopior, teknokopior,
+arkiv-o mikrofotografering, bildkort,
+fotostat-o el-statkopior,
+elektrostencil-er, duplicering, kontors- o
+snabboffset, boktryck, folieprägling
+Avdelningskontor: Umeå, Kungsg
+119. Tel 090-1159 95
+Antal anställda: 13
+Verkst din David Andersson
+Etableringsår: 1950.
+
+NORRLÄNDSKA SOCIALDEMO.
+KRATEN, TRYCKERI-AB
+
+Pnr 961 01
+
+Boden 1, Fabriks g 6. Box 182. Tel
+0921-136 20. Bankgiro 600-7934.
+Postgiro 60093-2.
+Tga Norrländskan. Telex 8301
+Verksamhet: Tidningsutgivning
+Antal anställda: 178
+Årsomsättning: 15 000 000
+Aktiekapital: 600 000
+Verkst dir: Harald Johansson
+Chefred: Lars Fagerström
+Etableringsår: 1918.
+
+NORRLÄNDSKA VERKTYGS.
+FABRIKEN
+
+Pnr 830 70
+
+Hammerdal. Tel 0644-105 45.
+Bankgiro 77-9348. Postgiro 160430
+Verksamhet:Tillverkar NOVA elektr
+svetsaggregat o svetsutrustningar
+Ägare o chef: Lars Erie Nilsson
+Etableringsån 1956.
+
+NORRMALMS GJUTERI &amp; MEK
+VERKSTAD, AB
+
+Pnr 502 39
+
+Borås, Stenbocksg 18. Tel
+033-11 17 75. Bankgiro 531-2725.
+Postgiro 28577-3
+
+Verksamhet: Sprutverktyg för plast.
+Valsar. Kugghjul
+Antal anställda: 15
+Årsomsättning: 700 000
+Verkst dir: L O Larson
+Etableringsån 1901.
+
+NORRMALMS LIVSMEDELS AB
+
+Pnr 11384
+
+Stockholm 6, Box 6602. Karlbergs v
+77-81. Tel 08-34 05 40, 34 06 40.
+Bankgiro 726-1274. Postgiro 460-6.
+Tga Norrmalmbolaget. Telex 10589
+Verksamhet: Livsmedelsindustri
+Antal anställda: 200
+Årsomsättning: 108 000 000
+Aktiekapital: 4 000 000
+Verkst dir. Sten Pagmar
+Etableringsår: 1895.
+
+463

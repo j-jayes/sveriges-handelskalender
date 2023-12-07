@@ -1,238 +1,238 @@
 DAL
-<br/>
-<br/>D
-<br/>
-<br/>D &amp; E TRADING AB
-<br/>
-<br/>Pnr 136 25
-<br/>
-<br/>Handen, Box 524. Vikingav 55.
-<br/>Tel 08-777 2936, 777 2937.
-<br/>Bankgiro 280-9101. Postgiro 33359-1.
-<br/>Tga Detrade, Stockholm
-<br/>Verksamhet: Rullade glidlager,
-<br/>sintrade bussningar o detaljer,
-<br/>räffelpinnar, blindnit o
-<br/>elektromagneter
-<br/>
-<br/>Varunamn: EKS, Kerpin, WB 800,
-<br/>WICO
-<br/>
-<br/>Aktiekapital: 100 000
-<br/>Styrelse: Ing Bertil Deijfen (ordf),
-<br/>civiling Ake Deijfen, ing Bernt
-<br/>Eliasson
-<br/>
-<br/>Verkst dir: Ake Deijfen
-<br/>Försäljningschef: Bernt Eliasson
-<br/>Etableringsår: 1966.
-<br/>
-<br/>DACKES GOLV AB
-<br/>
-<br/>Pnr 360 31
-<br/>
-<br/>Helgevärma. Tel 0470-606 35
-<br/>Verksamhet: Säljer parkett,
-<br/>lino-leum, heltäckande mattor o
-<br/>plastfiltmattor, ryamattor m m
-<br/>Chef: Stig Dacke.
-<br/>
-<br/>DAFFE &amp; CO AB
-<br/>
-<br/>Pnr 103 82
-<br/>
-<br/>Stockholm 7, Box 7099.
-<br/>Norrmalmstorg 1. Tel 08-10 07 34, 1007 43.
-<br/>Postgiro 401890-9. Tga Daffeco
-<br/>Verksamhet: Motorer, släpfordon,
-<br/>lyfttruckar, karosserier, kapell,
-<br/>bil- o båttillbehör, elektroniska
-<br/>instrument, epoxifärger av 1- o
-<br/>2-komponentstyp, markerfärg,
-<br/>rostskyddsfärg, impregneringsmedel
-<br/>Årsomsättning: 400 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: David Larsson
-<br/>Disp: Anders Wester
-<br/>Etableringsår: 1966.
-<br/>
-<br/>DAFGÅRD AB, GUNNAR
-<br/>
-<br/>Pnr 530 61
-<br/>
-<br/>Källby. Tel 0510-41170.
-<br/>Bankgiro 841-3676. Postgiro 178623-5.
-<br/>Tga Dafgàrds.
-<br/>Telex 67059 DAFGARD S
-<br/>
-<br/>Gunnar Dafgård ab
-<br/>
-<br/>53061 KÄLLBY
-<br/>
-<br/>Verksamhet: Styckar, tillverkar o
-<br/>djupfryser kött- o
-<br/>charkuteriproduk-ter. Säljer dessa samt djupfrysta
-<br/>bär, grönsaker, fisk m m üll
-<br/>konserv- o livsmedelsindustrier,
-<br/>storhushåll, butikskedjor o grossister.
-<br/>Importerar o exporterar livsmedel
-<br/>Filialfabrik: Helsingborg,
-<br/>Kvarn-stensg 15. Tel 042-13 05 66
-<br/>
-<br/>Allivsaffär: Lidköping, Nya Stadens
-<br/>Torg 8. Tel 0510-209 65
-<br/>Inköp o försäljning: Danmark.
-<br/>Helsingör. Swedish Food Co A/S,
-<br/>Marienlyst allé 9. Tel 214818
-<br/>Antal anställda: 350
-<br/>Årsomsättning: 130 000000
-<br/>Aktiekapital: 3000 000
-<br/>Styrelse: Fru Nancy Dafgård (ordf),
-<br/>dir Gunnar Dafgård, Nils
-<br/>Fredriksson
-<br/>
-<br/>Verkst dir: Gunnar Dafgård
-<br/>Fabriken i Källby: Ekonomidir Nils
-<br/>Fredriksson, inköpschef Rolf
-<br/>Johansson, försäljn-chef Allan
-<br/>Ohlsson, tekn dir Bo Silow,
-<br/>informationschef Sten Svensson
-<br/>Fabriken i Helsingborg: Disp Elof
-<br/>Dafgård
-<br/>
-<br/>Affären i Lidköping: Butikschef
-<br/>Ingemar Dafgård
-<br/>
-<br/>Kontoret i Helsingör: Disp Kjeld
-<br/>Damgaard
-<br/>
-<br/>Etableringsår: 1937
-<br/>Ombildat till aktiebolag 1961.
-<br/>
-<br/>DAGENS HUSHÅLL
-<br/>
-<br/>Pnr 400 15
-<br/>
-<br/>Göteborg 53, Köpmännens hus,
-<br/>Va-sag 52. Box 53200. Tel
-<br/>031-17 26 40. Postgiro 423841
-<br/>Verksamhet: Internationell
-<br/>konsument utställning varje år i
-<br/>september månad. Arrangör: Göteborgs
-<br/>Köpmannaförbund.
-<br/>
-<br/>DAGENS NYHETERS AB
-<br/>
-<br/>Pnr 105 15
-<br/>
-<br/>Stockholm, Rålambsv 15-17. Tel
-<br/>2240 00, riks 08-22 40 20. Bankgiro
-<br/>164-5308. Postgiro 1616-2. Tga
-<br/>Dagsnyheter
-<br/>
-<br/>Verksamhet: Utger tidningarna
-<br/>Dagens Nyheter o Expressen
-<br/>Civiltryckeri: 112 51 Stockholm,
-<br/>Franzéng 6. Tel 08-52 85 20
-<br/>Annonskontor: Göteborg, S Hamng
-<br/>45. Box 358, 40125 Göteborg 1.
-<br/>Tel 031-17 02 85
-<br/>Malmö, Söderg 20. Box 4063,
-<br/>20311 Malmö 4. Tel 040-10 0170
-<br/>Antal anställda: 3 100
-<br/>Årsomsättning: 392 000 000
-<br/>Aktiekapital: 53 900 000
-<br/>Styrelse: Bokförl Albert Bonnier Jr,
-<br/>bokförl Gerard Bonnier, dir Erik
-<br/>Huss, prof Erik Lundberg,
-<br/>chefred Sven Erik Larsson, chefred
-<br/>Per Wrigstad
-<br/>Verkst dir: Erik Huss
-<br/>Etableringsår: 1864
-<br/>Ombildat till aktiebolag 1874.
-<br/>
-<br/>DAGONATT FABRIKER AB
-<br/>
-<br/>Pnr 951 00
-<br/>
-<br/>Luleå, Gammelstadsv 7. Tel
-<br/>0920-102 50. Bankgiro 75-2527. Postgiro
-<br/>65092
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>monteringsfärdiga trähus o byggnadssnickerier
-<br/>Antal anställda: 230
-<br/>Årsomsättning: 25 000 000
-<br/>Aktiekapital: 1500 000
-<br/>Verkst dir: Rolf Krispinsson
-<br/>Etableringsår: 1894.
-<br/>
-<br/>DAKOMA, AB
-<br/>
-<br/>Pnr 21135
-<br/>
-<br/>Malmö, Själbodg 2 C. Tel
-<br/>040-339 93, 38250. Bankgiro 260-0732.
-<br/>Postgiro 245397-5. Tga Dakoma
-<br/>Verksamhet: Import o försäljning
-<br/>av kontorsmaskiner
-<br/>Antal anställda: 8
-<br/>Aktiekapital: 10 000
-<br/>Verkst dir: Erik Hingström
-<br/>Etableringsår: 1946.
-<br/>
-<br/>DAL, DAHL
-<br/>
-<br/>DAHL AB, BRÖDERNA
-<br/>
-<br/>Pnr 415 02
-<br/>
-<br/>Göteborg, von Holtensg 9. Tel
-<br/>031-15 9883, 15 9890. Bankgiro
-<br/>848-0162. Postgiro 240926-6
-<br/>Verksamhet: Tillverkar, säljer o
-<br/>uthyr presenningar
-<br/>Verkst dir: Ake Dahl
-<br/>Etableringsår: 1945.
-<br/>
-<br/>DALS PLASTINDUSTRI
-<br/>
-<br/>Pnr 460 65
-<br/>
-<br/>Brålanda, Box 13. Stenhammarsv.
-<br/>Tel 0521-30747. Bankgiro 278-
-<br/>
-<br/>3587
-<br/>
-<br/>Verksamhet: Armerade
-<br/>plastprodukter. Dörrar o byggartiklar.
-<br/>Karos-seridetaljer i plast
-<br/>Antal anställda: 11
-<br/>Årsomsättning: 450 000
-<br/>Chef: Overing Per Sandqvist
-<br/>Etableringsår: 1967.
-<br/>
-<br/>DAHL
-<br/>INDUSTRIFORNODEN-HETER AB, ERIK
-<br/>
-<br/>Pnr 11128
-<br/>
-<br/>Stockholm, Storkyrkobrinken 6.
-<br/>Tel 08-10 06 01, 10 06 02. Bankgiro
-<br/>576-9179. Postgiro 118-0
-<br/>Verksamhet: Säljer
-<br/>ståltransport-band o maskinfömödenheter
-<br/>Aktiekapital: 90 000
-<br/>Verkst dir: Erie Jörngård
-<br/>Etableringsår: 1909.
-<br/>
-<br/>DAHL, ERIK F o
-<br/>ARNE ST ROMDAHL
-<br/>ARKITEKTER SAR
-<br/>
-<br/>Pnr 603 55
-<br/>
-<br/>Norrköping, Askebyg 13. Tel
-<br/>011-1298 30. Postgiro 449903-4
-<br/>
-<br/>125
+
+D
+
+D &amp; E TRADING AB
+
+Pnr 136 25
+
+Handen, Box 524. Vikingav 55.
+Tel 08-777 2936, 777 2937.
+Bankgiro 280-9101. Postgiro 33359-1.
+Tga Detrade, Stockholm
+Verksamhet: Rullade glidlager,
+sintrade bussningar o detaljer,
+räffelpinnar, blindnit o
+elektromagneter
+
+Varunamn: EKS, Kerpin, WB 800,
+WICO
+
+Aktiekapital: 100 000
+Styrelse: Ing Bertil Deijfen (ordf),
+civiling Ake Deijfen, ing Bernt
+Eliasson
+
+Verkst dir: Ake Deijfen
+Försäljningschef: Bernt Eliasson
+Etableringsår: 1966.
+
+DACKES GOLV AB
+
+Pnr 360 31
+
+Helgevärma. Tel 0470-606 35
+Verksamhet: Säljer parkett,
+lino-leum, heltäckande mattor o
+plastfiltmattor, ryamattor m m
+Chef: Stig Dacke.
+
+DAFFE &amp; CO AB
+
+Pnr 103 82
+
+Stockholm 7, Box 7099.
+Norrmalmstorg 1. Tel 08-10 07 34, 1007 43.
+Postgiro 401890-9. Tga Daffeco
+Verksamhet: Motorer, släpfordon,
+lyfttruckar, karosserier, kapell,
+bil- o båttillbehör, elektroniska
+instrument, epoxifärger av 1- o
+2-komponentstyp, markerfärg,
+rostskyddsfärg, impregneringsmedel
+Årsomsättning: 400 000
+Aktiekapital: 5 000
+Verkst dir: David Larsson
+Disp: Anders Wester
+Etableringsår: 1966.
+
+DAFGÅRD AB, GUNNAR
+
+Pnr 530 61
+
+Källby. Tel 0510-41170.
+Bankgiro 841-3676. Postgiro 178623-5.
+Tga Dafgàrds.
+Telex 67059 DAFGARD S
+
+Gunnar Dafgård ab
+
+53061 KÄLLBY
+
+Verksamhet: Styckar, tillverkar o
+djupfryser kött- o
+charkuteriproduk-ter. Säljer dessa samt djupfrysta
+bär, grönsaker, fisk m m üll
+konserv- o livsmedelsindustrier,
+storhushåll, butikskedjor o grossister.
+Importerar o exporterar livsmedel
+Filialfabrik: Helsingborg,
+Kvarn-stensg 15. Tel 042-13 05 66
+
+Allivsaffär: Lidköping, Nya Stadens
+Torg 8. Tel 0510-209 65
+Inköp o försäljning: Danmark.
+Helsingör. Swedish Food Co A/S,
+Marienlyst allé 9. Tel 214818
+Antal anställda: 350
+Årsomsättning: 130 000000
+Aktiekapital: 3000 000
+Styrelse: Fru Nancy Dafgård (ordf),
+dir Gunnar Dafgård, Nils
+Fredriksson
+
+Verkst dir: Gunnar Dafgård
+Fabriken i Källby: Ekonomidir Nils
+Fredriksson, inköpschef Rolf
+Johansson, försäljn-chef Allan
+Ohlsson, tekn dir Bo Silow,
+informationschef Sten Svensson
+Fabriken i Helsingborg: Disp Elof
+Dafgård
+
+Affären i Lidköping: Butikschef
+Ingemar Dafgård
+
+Kontoret i Helsingör: Disp Kjeld
+Damgaard
+
+Etableringsår: 1937
+Ombildat till aktiebolag 1961.
+
+DAGENS HUSHÅLL
+
+Pnr 400 15
+
+Göteborg 53, Köpmännens hus,
+Va-sag 52. Box 53200. Tel
+031-17 26 40. Postgiro 423841
+Verksamhet: Internationell
+konsument utställning varje år i
+september månad. Arrangör: Göteborgs
+Köpmannaförbund.
+
+DAGENS NYHETERS AB
+
+Pnr 105 15
+
+Stockholm, Rålambsv 15-17. Tel
+2240 00, riks 08-22 40 20. Bankgiro
+164-5308. Postgiro 1616-2. Tga
+Dagsnyheter
+
+Verksamhet: Utger tidningarna
+Dagens Nyheter o Expressen
+Civiltryckeri: 112 51 Stockholm,
+Franzéng 6. Tel 08-52 85 20
+Annonskontor: Göteborg, S Hamng
+45. Box 358, 40125 Göteborg 1.
+Tel 031-17 02 85
+Malmö, Söderg 20. Box 4063,
+20311 Malmö 4. Tel 040-10 0170
+Antal anställda: 3 100
+Årsomsättning: 392 000 000
+Aktiekapital: 53 900 000
+Styrelse: Bokförl Albert Bonnier Jr,
+bokförl Gerard Bonnier, dir Erik
+Huss, prof Erik Lundberg,
+chefred Sven Erik Larsson, chefred
+Per Wrigstad
+Verkst dir: Erik Huss
+Etableringsår: 1864
+Ombildat till aktiebolag 1874.
+
+DAGONATT FABRIKER AB
+
+Pnr 951 00
+
+Luleå, Gammelstadsv 7. Tel
+0920-102 50. Bankgiro 75-2527. Postgiro
+65092
+
+Verksamhet: Tillverkar
+monteringsfärdiga trähus o byggnadssnickerier
+Antal anställda: 230
+Årsomsättning: 25 000 000
+Aktiekapital: 1500 000
+Verkst dir: Rolf Krispinsson
+Etableringsår: 1894.
+
+DAKOMA, AB
+
+Pnr 21135
+
+Malmö, Själbodg 2 C. Tel
+040-339 93, 38250. Bankgiro 260-0732.
+Postgiro 245397-5. Tga Dakoma
+Verksamhet: Import o försäljning
+av kontorsmaskiner
+Antal anställda: 8
+Aktiekapital: 10 000
+Verkst dir: Erik Hingström
+Etableringsår: 1946.
+
+DAL, DAHL
+
+DAHL AB, BRÖDERNA
+
+Pnr 415 02
+
+Göteborg, von Holtensg 9. Tel
+031-15 9883, 15 9890. Bankgiro
+848-0162. Postgiro 240926-6
+Verksamhet: Tillverkar, säljer o
+uthyr presenningar
+Verkst dir: Ake Dahl
+Etableringsår: 1945.
+
+DALS PLASTINDUSTRI
+
+Pnr 460 65
+
+Brålanda, Box 13. Stenhammarsv.
+Tel 0521-30747. Bankgiro 278-
+
+3587
+
+Verksamhet: Armerade
+plastprodukter. Dörrar o byggartiklar.
+Karos-seridetaljer i plast
+Antal anställda: 11
+Årsomsättning: 450 000
+Chef: Overing Per Sandqvist
+Etableringsår: 1967.
+
+DAHL
+INDUSTRIFORNODEN-HETER AB, ERIK
+
+Pnr 11128
+
+Stockholm, Storkyrkobrinken 6.
+Tel 08-10 06 01, 10 06 02. Bankgiro
+576-9179. Postgiro 118-0
+Verksamhet: Säljer
+ståltransport-band o maskinfömödenheter
+Aktiekapital: 90 000
+Verkst dir: Erie Jörngård
+Etableringsår: 1909.
+
+DAHL, ERIK F o
+ARNE ST ROMDAHL
+ARKITEKTER SAR
+
+Pnr 603 55
+
+Norrköping, Askebyg 13. Tel
+011-1298 30. Postgiro 449903-4
+
+125

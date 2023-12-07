@@ -1,303 +1,303 @@
 NOR
-<br/>
-<br/>NORRBOTTENS
-<br/>PLASTINDUSTRI AB
-<br/>
-<br/>Pnr 95019
-<br/>
-<br/>Karlsvik. Tel 0920-500 40. Postgiro
-<br/>483289-5
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>glasfiber-båtar
-<br/>
-<br/>Årsomsättning: 2 500 000
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir: Karl-Eskil Wallgren
-<br/>Etableringsàr: 1958.
-<br/>
-<br/>NORRBOTTENS
-<br/>SLAKTERIFÖRENING
-<br/>
-<br/>Pnr 95100
-<br/>
-<br/>Luleå, Box 220. Tel 0920-106 30.
-<br/>Bankgiro 752-5264. Postgiro
-<br/>61553-4. Telex 8340 NORRMAT S
-<br/>Verksamhet: Slakteri. Tillverkar
-<br/>charkuterivaror
-<br/>Antal anställda: 100
-<br/>Årsomsättning: 40 000000
-<br/>Disp: Roland Sandlund.
-<br/>
-<br/>NORRBOTTENS ULLSPINNERI
-<br/>&amp; TEXTILFABRIK EK FOR
-<br/>
-<br/>Pnr 950 42
-<br/>
-<br/>Morjärv, Box 495. Tel 0923-500 44.
-<br/>
-<br/>Postgiro 32 63 75-3
-<br/>
-<br/>Verksamhet: Tillverkar ullgarner,
-<br/>
-<br/>filtar o plädar
-<br/>
-<br/>Antal anställda: 14
-<br/>
-<br/>Årsomsättning: 500 000
-<br/>
-<br/>Aktiekapital: 187 000
-<br/>
-<br/>Chef: Kamrer Gustav Berggren
-<br/>
-<br/>Etableringsàr: 1947.
-<br/>
-<br/>NORRBOTTENS.KURIREN
-<br/>
-<br/>Pnr 951 00
-<br/>
-<br/>Luleå, Stationsg36. Tel0920-105 00.
-<br/>Bankgiro 608-8116. Postgiro
-<br/>60089-0. Tga Kuriren. Telex 8331
-<br/>Verksamhet: Utgiver den dagliga
-<br/>tidningen Norrbottens-Kuriren
-<br/>Antal anställda: 148
-<br/>Årsomsättning: 10 000 000
-<br/>Aktiekapital: 135 000
-<br/>Verkst dir: Disp Nils Isakson
-<br/>Etableringsàr: 1861.
-<br/>
-<br/>NORRBY MASKIN AB
-<br/>
-<br/>Pnr 433 00
-<br/>
-<br/>Partilie, Påletorpsv 10. Tel
-<br/>031-44 1049, 18 83 34. Bankgiro
-<br/>514-4803. Postgiro 522747-5
-<br/>Verksamhet: Maskiner o tillbehör
-<br/>för sömnadsindustrin
-<br/>Antal anställda: 3
-<br/>Årsomsättning: 700 000
-<br/>Chef: Ing Per Olof Norrby
-<br/>Etableringsàr: 1964.
-<br/>
-<br/>NORRBY MEKANISKA
-<br/>VERKSTAD
-<br/>
-<br/>Pnr 502 65
-<br/>
-<br/>Borås, Magasinsg 16. Tel
-<br/>033-11 16 27. Postgiro 131272
-<br/>Verksamhet: Utför mek arbeten
-<br/>Ägare o chef: Pabr Ernst Persson
-<br/>Etableringsàr: 1918.
-<br/>
-<br/>NORRBY NYA AB
-<br/>
-<br/>Pnr 500 02
-<br/>
-<br/>Borås 2, Box 22030. V Nyg 46. Tel
-<br/>033-117275. Bankgiro 53-1146.
-<br/>Postgiro 170853. Tga Norrbywood
-<br/>Verksamhet: Tillverkar
-<br/>inredningssnickerier. Säljer trävaror
-<br/>
-<br/>Antal anställda: 40
-<br/>Årsomsättning: 6 200 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Disp Gunnar Peterson
-<br/>Etableringsàr: 1898.
-<br/>
-<br/>NORRBY SÄG. AB
-<br/>
-<br/>Pnr 820 13
-<br/>
-<br/>Runemo, Box 422. Tel 0271-140 19.
-<br/>Bankgiro 78-4747. Postgiro 285678.
-<br/>Tga Norrby Såg
-<br/>
-<br/>Verksamhet: Tillverkar o säljer sår
-<br/>gade o hyvlade trävaror
-<br/>Antal anställda: 25
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Hugo Andersson
-<br/>Etableringsàr: 1936
-<br/>Ombildat till aktiebolag 1956.
-<br/>
-<br/>NORREBO TRÄINDUSTRI AB
-<br/>
-<br/>Pnr 330 30
-<br/>
-<br/>Gnosjö. Tel 0370-940 43, 940 29.
-<br/>Bankgiro 54-2531. Postgiro 162641
-<br/>Verksamhet: Tillverkar klädhängare
-<br/>samt ämnen för penselskaft m m
-<br/>Antal anställda: 25
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir: H E W Ottosson
-<br/>Etableringsàr: 1935.
-<br/>
-<br/>[-NORRHULTSVERKSTADSINDUSTRI-]
-<br/>
-<br/>{+NORRHULTSVERKSTADS-
-<br/>INDUSTRI+} AB
-<br/>
-<br/>Pnr 360 71
-<br/>
-<br/>Norrhult. Tel 0474-400 09 , 401 35.
-<br/>Bankgiro 601-1159. Postgiro
-<br/>243691-3
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>järnkonstruktioner, ångpannor, tryckkärl
-<br/>o värmepannor för villor. Utför
-<br/>licenssvetsning o arbeten i
-<br/>aluminium o rostfritt. Utför service o
-<br/>reparationer åt olika industrier
-<br/>Antal anställda: 25
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Allan Ericsson
-<br/>Platschef: Henrik Aronsson
-<br/>Etableringsàr: 1968
-<br/>Moderbolag: Göteborgs
-<br/>Verkstadsindustri AB.
-<br/>
-<br/>NORRKOPINGS
-<br/>BYGG-ELEMENT, AB
-<br/>
-<br/>Pnr 600 08
-<br/>
-<br/>Norrköping 8, Box 8048. Järng 25.
-<br/>Tel 011-18 62 00. Bankgiro
-<br/>824-5334. Postgiro 567110-2
-<br/>Verksamhet: Tillverkar
-<br/>betongelement för bostadsproduktion
-<br/>Antal anställda: 100
-<br/>Årsomsättning: 12000 000
-<br/>Aktiekapital: 1500 000
-<br/>Verkst dir: Civiling Nils-Erik
-<br/>Viestam
-<br/>
-<br/>Etableringsàr: 1965.
-<br/>
-<br/>NORRKOPINGS
-<br/>ELEKTROTEKNISKA FABRIKER
-<br/>AB NEFA
-<br/>
-<br/>Pnr 601 01
-<br/>
-<br/>Norrköping 1, Lundatorpsv. Pack.
-<br/>Tel 011-12 9540. Bankgiro
-<br/>125-0943. Postgiro 161720-8. Tga Nefa.
-<br/>Telex 64035
-<br/>
-<br/>Verksamhet: Tillverkar radio- o
-<br/>televisionsapparater samt
-<br/>mikrovågsugnar
-<br/>
-<br/>Varunamn: Nefa
-<br/>Antal anställda: 1 470
-<br/>Årsomsättning: 174 300 000
-<br/>
-<br/>Årsomsättning: 120000 000
-<br/>Aktiekapital: 4 000 000
-<br/>Styrelse: Tekn lic Lars Olof
-<br/>Franzén (ordf), dir Nils Erik Gustaf
-<br/>Backmark, dir Ebbe Sjögren,
-<br/>du-Hans Jacob Waern, dir Carl Johan
-<br/>Tjeder
-<br/>
-<br/>Verkst dir Nils E G Backmark
-<br/>Etableringsàr. 1939
-<br/>Ägare: Svenska AB Philips,
-<br/>Stockholm.
-<br/>
-<br/>NORRKOPINGS EXPORT.
-<br/>HYVLERI, TRÄVARU AB
-<br/>
-<br/>Pnr 601 05
-<br/>
-<br/>Norrköping 1, N Promenaden29. Box
-<br/>415. Tel 011-12 10 14. Bankgiro
-<br/>12-5073. Postgiro 137824. Telex 64047.
-<br/>Tga Hyvleriet
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>sågade o hyvlade trävaror
-<br/>Antal anställda: 154
-<br/>Årsomsättning: 17 000 000
-<br/>Aktiekapital: 1050 000
-<br/>Verkst dir: Hubert Danielsson
-<br/>Etableringsàr: 1903.
-<br/>
-<br/>NORRKOPINGS
-<br/>FLAGG-FABRIK AB
-<br/>
-<br/>Pnr 602 26
-<br/>
-<br/>Non-köping, Krlstinag 7. Tel 011-
-<br/>
-<br/>1208 85. Bankgiro 826-8088. Post
-<br/>giro 694720-4
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>svenska o internationella flaggor,
-<br/>reklamflaggor o firmaflaggor
-<br/>Aktiekapital: 10 000
-<br/>Ägare o chef: Nils Erik Forsén.
-<br/>
-<br/>NORRKOPINGS JÄRN. &amp;
-<br/>BYGGNADSVAROR AB
-<br/>
-<br/>Pnr 60103
-<br/>
-<br/>Norrköping 1, Box 168. Tullhusg
-<br/>14.Tel 011-1255 81,1373 38.
-<br/>Bankgiro 609-9915. Postgiro 71397-4
-<br/>Verksamhet: Säljer järn- o
-<br/>byggvaror
-<br/>
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Torsten Källbohm
-<br/>Etableringsàr: 1950.
-<br/>
-<br/>NORRKOPINGS KABEL.
-<br/>FABRIK, AB
-<br/>
-<br/>Pnr 601 04
-<br/>
-<br/>Norrköping 1, Vulkang 1. Box 227.
-<br/>Tel 011-1800 45. Bankgiro 12-5210.
-<br/>Postgiro 541830. Tga Norrkabel
-<br/>Verksamhet: Kabeltillverkning
-<br/>Verkst dir: Erik Lönnqvist
-<br/>Etableringsàr: 1959.
-<br/>
-<br/>NORRKOPINGS KUDD. o
-<br/>MADRASSFABRIK
-<br/>
-<br/>Pnr 60 2 23
-<br/>
-<br/>Norrköping, Butängsg 32. Tel
-<br/>011-12 63 53,12 6153. Bankgiro 12-5419.
-<br/>Postgiro 134703
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>stoppningsmaterial
-<br/>
-<br/>Chef: Gustav Sandberg
-<br/>Etableringsàr: 1938.
-<br/>
-<br/>NORRKOPINGS KÖPMANS.
-<br/>FÖRENING
-<br/>
-<br/>Pnr 602 24
-<br/>
-<br/>Norrköping, Gamla Rådstugug
-<br/>18-20. Tel 011-18 2141. Bankgiro
-<br/>12-5068. Postgiro 8595. Tga
-<br/>Ackords-central
-<br/>
-<br/>461
+
+NORRBOTTENS
+PLASTINDUSTRI AB
+
+Pnr 95019
+
+Karlsvik. Tel 0920-500 40. Postgiro
+483289-5
+
+Verksamhet: Tillverkar
+glasfiber-båtar
+
+Årsomsättning: 2 500 000
+Aktiekapital: 75 000
+Verkst dir: Karl-Eskil Wallgren
+Etableringsàr: 1958.
+
+NORRBOTTENS
+SLAKTERIFÖRENING
+
+Pnr 95100
+
+Luleå, Box 220. Tel 0920-106 30.
+Bankgiro 752-5264. Postgiro
+61553-4. Telex 8340 NORRMAT S
+Verksamhet: Slakteri. Tillverkar
+charkuterivaror
+Antal anställda: 100
+Årsomsättning: 40 000000
+Disp: Roland Sandlund.
+
+NORRBOTTENS ULLSPINNERI
+&amp; TEXTILFABRIK EK FOR
+
+Pnr 950 42
+
+Morjärv, Box 495. Tel 0923-500 44.
+
+Postgiro 32 63 75-3
+
+Verksamhet: Tillverkar ullgarner,
+
+filtar o plädar
+
+Antal anställda: 14
+
+Årsomsättning: 500 000
+
+Aktiekapital: 187 000
+
+Chef: Kamrer Gustav Berggren
+
+Etableringsàr: 1947.
+
+NORRBOTTENS.KURIREN
+
+Pnr 951 00
+
+Luleå, Stationsg36. Tel0920-105 00.
+Bankgiro 608-8116. Postgiro
+60089-0. Tga Kuriren. Telex 8331
+Verksamhet: Utgiver den dagliga
+tidningen Norrbottens-Kuriren
+Antal anställda: 148
+Årsomsättning: 10 000 000
+Aktiekapital: 135 000
+Verkst dir: Disp Nils Isakson
+Etableringsàr: 1861.
+
+NORRBY MASKIN AB
+
+Pnr 433 00
+
+Partilie, Påletorpsv 10. Tel
+031-44 1049, 18 83 34. Bankgiro
+514-4803. Postgiro 522747-5
+Verksamhet: Maskiner o tillbehör
+för sömnadsindustrin
+Antal anställda: 3
+Årsomsättning: 700 000
+Chef: Ing Per Olof Norrby
+Etableringsàr: 1964.
+
+NORRBY MEKANISKA
+VERKSTAD
+
+Pnr 502 65
+
+Borås, Magasinsg 16. Tel
+033-11 16 27. Postgiro 131272
+Verksamhet: Utför mek arbeten
+Ägare o chef: Pabr Ernst Persson
+Etableringsàr: 1918.
+
+NORRBY NYA AB
+
+Pnr 500 02
+
+Borås 2, Box 22030. V Nyg 46. Tel
+033-117275. Bankgiro 53-1146.
+Postgiro 170853. Tga Norrbywood
+Verksamhet: Tillverkar
+inredningssnickerier. Säljer trävaror
+
+Antal anställda: 40
+Årsomsättning: 6 200 000
+Aktiekapital: 50 000
+Verkst dir: Disp Gunnar Peterson
+Etableringsàr: 1898.
+
+NORRBY SÄG. AB
+
+Pnr 820 13
+
+Runemo, Box 422. Tel 0271-140 19.
+Bankgiro 78-4747. Postgiro 285678.
+Tga Norrby Såg
+
+Verksamhet: Tillverkar o säljer sår
+gade o hyvlade trävaror
+Antal anställda: 25
+Årsomsättning: 3 000 000
+Aktiekapital: 50 000
+Verkst dir: Hugo Andersson
+Etableringsàr: 1936
+Ombildat till aktiebolag 1956.
+
+NORREBO TRÄINDUSTRI AB
+
+Pnr 330 30
+
+Gnosjö. Tel 0370-940 43, 940 29.
+Bankgiro 54-2531. Postgiro 162641
+Verksamhet: Tillverkar klädhängare
+samt ämnen för penselskaft m m
+Antal anställda: 25
+Aktiekapital: 75 000
+Verkst dir: H E W Ottosson
+Etableringsàr: 1935.
+
+[-NORRHULTSVERKSTADSINDUSTRI-]
+
+{+NORRHULTSVERKSTADS-
+INDUSTRI+} AB
+
+Pnr 360 71
+
+Norrhult. Tel 0474-400 09 , 401 35.
+Bankgiro 601-1159. Postgiro
+243691-3
+
+Verksamhet: Tillverkar
+järnkonstruktioner, ångpannor, tryckkärl
+o värmepannor för villor. Utför
+licenssvetsning o arbeten i
+aluminium o rostfritt. Utför service o
+reparationer åt olika industrier
+Antal anställda: 25
+Aktiekapital: 50 000
+Verkst dir: Allan Ericsson
+Platschef: Henrik Aronsson
+Etableringsàr: 1968
+Moderbolag: Göteborgs
+Verkstadsindustri AB.
+
+NORRKOPINGS
+BYGG-ELEMENT, AB
+
+Pnr 600 08
+
+Norrköping 8, Box 8048. Järng 25.
+Tel 011-18 62 00. Bankgiro
+824-5334. Postgiro 567110-2
+Verksamhet: Tillverkar
+betongelement för bostadsproduktion
+Antal anställda: 100
+Årsomsättning: 12000 000
+Aktiekapital: 1500 000
+Verkst dir: Civiling Nils-Erik
+Viestam
+
+Etableringsàr: 1965.
+
+NORRKOPINGS
+ELEKTROTEKNISKA FABRIKER
+AB NEFA
+
+Pnr 601 01
+
+Norrköping 1, Lundatorpsv. Pack.
+Tel 011-12 9540. Bankgiro
+125-0943. Postgiro 161720-8. Tga Nefa.
+Telex 64035
+
+Verksamhet: Tillverkar radio- o
+televisionsapparater samt
+mikrovågsugnar
+
+Varunamn: Nefa
+Antal anställda: 1 470
+Årsomsättning: 174 300 000
+
+Årsomsättning: 120000 000
+Aktiekapital: 4 000 000
+Styrelse: Tekn lic Lars Olof
+Franzén (ordf), dir Nils Erik Gustaf
+Backmark, dir Ebbe Sjögren,
+du-Hans Jacob Waern, dir Carl Johan
+Tjeder
+
+Verkst dir Nils E G Backmark
+Etableringsàr. 1939
+Ägare: Svenska AB Philips,
+Stockholm.
+
+NORRKOPINGS EXPORT.
+HYVLERI, TRÄVARU AB
+
+Pnr 601 05
+
+Norrköping 1, N Promenaden29. Box
+415. Tel 011-12 10 14. Bankgiro
+12-5073. Postgiro 137824. Telex 64047.
+Tga Hyvleriet
+
+Verksamhet: Tillverkar o säljer
+sågade o hyvlade trävaror
+Antal anställda: 154
+Årsomsättning: 17 000 000
+Aktiekapital: 1050 000
+Verkst dir: Hubert Danielsson
+Etableringsàr: 1903.
+
+NORRKOPINGS
+FLAGG-FABRIK AB
+
+Pnr 602 26
+
+Non-köping, Krlstinag 7. Tel 011-
+
+1208 85. Bankgiro 826-8088. Post
+giro 694720-4
+
+Verksamhet: Tillverkar o säljer
+svenska o internationella flaggor,
+reklamflaggor o firmaflaggor
+Aktiekapital: 10 000
+Ägare o chef: Nils Erik Forsén.
+
+NORRKOPINGS JÄRN. &amp;
+BYGGNADSVAROR AB
+
+Pnr 60103
+
+Norrköping 1, Box 168. Tullhusg
+14.Tel 011-1255 81,1373 38.
+Bankgiro 609-9915. Postgiro 71397-4
+Verksamhet: Säljer järn- o
+byggvaror
+
+Aktiekapital: 50 000
+Verkst dir: Torsten Källbohm
+Etableringsàr: 1950.
+
+NORRKOPINGS KABEL.
+FABRIK, AB
+
+Pnr 601 04
+
+Norrköping 1, Vulkang 1. Box 227.
+Tel 011-1800 45. Bankgiro 12-5210.
+Postgiro 541830. Tga Norrkabel
+Verksamhet: Kabeltillverkning
+Verkst dir: Erik Lönnqvist
+Etableringsàr: 1959.
+
+NORRKOPINGS KUDD. o
+MADRASSFABRIK
+
+Pnr 60 2 23
+
+Norrköping, Butängsg 32. Tel
+011-12 63 53,12 6153. Bankgiro 12-5419.
+Postgiro 134703
+
+Verksamhet: Tillverkar
+stoppningsmaterial
+
+Chef: Gustav Sandberg
+Etableringsàr: 1938.
+
+NORRKOPINGS KÖPMANS.
+FÖRENING
+
+Pnr 602 24
+
+Norrköping, Gamla Rådstugug
+18-20. Tel 011-18 2141. Bankgiro
+12-5068. Postgiro 8595. Tga
+Ackords-central
+
+461

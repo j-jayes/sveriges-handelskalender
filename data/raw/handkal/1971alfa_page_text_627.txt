@@ -1,277 +1,277 @@
 SYD
-<br/>
-<br/>SVESA, AB
-<br/>
-<br/>Pnr 211 20
-<br/>
-<br/>Malmö, Carlsg 42. Tel 040-391 25.
-<br/>Bankgiro 870-1815. Postgiro
-<br/>245232-4. Tga Svesa. Telex 32734
-<br/>Verksamhet: Tillverkar o säljer
-<br/>snickerimaskiner o verktyg
-<br/>Antal anställda: 20
-<br/>Aktiekapital: 180 000
-<br/>Verkst dir: Erik Grönvall
-<br/>Etableringsår: 1945.
-<br/>
-<br/>SVETONS MEKANISKA
-<br/>VERKSTADS AB
-<br/>
-<br/>Pnr 417 05
-<br/>
-<br/>Göteborg H, Hildebrandsg 3. Tel
-<br/>031-22 80 55. Bankgiro 85-1756.
-<br/>Postgiro 242378. Tga Svetonab
-<br/>Verksamhet: Svetsning o
-<br/>maskinbearbetning av tyngre konstruktioner
-<br/>Antal anställda: 40
-<br/>Årsomsättning: 2 100 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Sven-Olov Wargklev.
-<br/>
-<br/>SVETS &amp; GROVPLÄT, AB
-<br/>
-<br/>Pnr 19900
-<br/>
-<br/>Enköping, O Järnvägsg 1. Tel
-<br/>0171-31111. Bankgiro 804-2509.
-<br/>Postgiro 385172-2
-<br/>Verksamhet: Tillverkar o monterar
-<br/>alla slags järnkonstruktioner
-<br/>Antal anställda: 12
-<br/>Årsomsättning: 850 000
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir: Uno Westerberg
-<br/>Etableringsår 1947.
-<br/>
-<br/>SVETS &amp; MASKIN.
-<br/>MONTERING AB
-<br/>
-<br/>Pnr 175 00
-<br/>
-<br/>Jakobsberg, Nettov 3. Box 67. Tel
-<br/>0758-36607, 366 08. Bankgiro
-<br/>333-2343. Postgiro 399198-1
-<br/>Verksamhet: Tillverkar gräv- o
-<br/>traktorskopor. Utför svetsning
-<br/>samt reparationer av
-<br/>entreprenadmaskiner
-<br/>
-<br/>Antal anställda: 25
-<br/>Aktiekapital: 100000
-<br/>Verkst din Helge Andersson
-<br/>Etableringsår: 1947.
-<br/>
-<br/>SVETS &amp; MONTAGE
-<br/>
-<br/>Pnr 660 56
-<br/>
-<br/>Skattkärr, Ramg 6. Box 39. Tel
-<br/>054-600 44, 1512 35. Bankgiro 88-1570
-<br/>Verksamhet: Stålkonstruktioner o
-<br/>järnmonteringar av alla slag.
-<br/>Plåtarbeten o licenssvetsning
-<br/>Antal anställda: 16
-<br/>Årsomsättning: 1000 000
-<br/>Chef: Pabr Ingemar Olsson
-<br/>Etableringsår: 1959.
-<br/>
-<br/>SVETSINDUSTRI EINAR
-<br/>JOHANSSON
-<br/>
-<br/>Pnr 581 02
-<br/>
-<br/>Linköping 1, Staby gård. Box 56.
-<br/>Tel 013-12 86 78. Postgiro 384540
-<br/>Verksamhet: Tillverkar
-<br/>järnkonstruktioner, karosserier o stålhytter
-<br/>Chef: Pabr Einar Johansson
-<br/>Etableringsår: 1945.
-<br/>
-<br/>SVETSKONSULT, G INSULAN.
-<br/>DER, CIVILING SVR
-<br/>
-<br/>Pnr 412 75
-<br/>
-<br/>Göteborg, Kallebäcksv 17 A. Tel
-<br/>031-40 6937- Bankgiro 265-4390.
-<br/>Postgiro 323355-8
-<br/>
-<br/>Verksamhet: Rådgivande i
-<br/>svetstek-niska o angränsande frågor
-<br/>Chef: Civiling Gunnar Insulander
-<br/>Etableringsår: 1966.
-<br/>
-<br/>SVETSMEKANO
-<br/>
-<br/>Pnr 596 00
-<br/>
-<br/>Skänninge, Industrig. Tel
-<br/>0142-403 83, kontor 413 47. Bankgiro
-<br/>130-1027. Postgiro 542671-3
-<br/>Verksamhet: Utför mekaniska
-<br/>arbeten. El- o gassvetsning. Specialitèt:
-<br/>spannmålslådor, källarinredningar,
-<br/>nätväggar, nätdörrar o takstolar.
-<br/>Järn- o stålkonstruktioner
-<br/>Antal anställda: 10
-<br/>Årsomsättning: 1300 000
-<br/>Chef: Pabr Einar Engblom
-<br/>Etableringsår: 1960.
-<br/>
-<br/>SVETSNINGSVERKSTADEN
-<br/>
-<br/>Pnr 280 20
-<br/>
-<br/>Bjärnum, Mala. Tel 0451-170 13,
-<br/>17130. Bankgiro 265-3491.
-<br/>Postgiro 139103-6
-<br/>
-<br/>Verksamhet: Tillverkar cisterner.
-<br/>Utför plåt- o järnkonstruktioner
-<br/>Chef: Walter H Romberg
-<br/>Etableringsår: 1937.
-<br/>
-<br/>SVETSPRODUKTER
-<br/>
-<br/>Pnr 544 00
-<br/>
-<br/>Hjo, Sveav 33. Tel 0503-106 49.
-<br/>Bankgiro 21-6352. Postgiro 473306
-<br/>Verksamhet: Tillverkar
-<br/>oljecisterner, järnkonstruktioner mm
-<br/>Antal anställda: 18
-<br/>Årsomsättning: 750 000
-<br/>Chef: Folke Kjellqvist
-<br/>Etableringsår 1954.
-<br/>
-<br/>SVETSTEKNIK, AB
-<br/>
-<br/>Pnr 421 31
-<br/>
-<br/>Västra Frölunda, Frörensareg 4.
-<br/>Tel 031-45 01 15. Bankgiro
-<br/>420-1810. Postgiro 241308-6. Tga
-<br/>
-<br/>Svetstek
-<br/>
-<br/>Verksamhet: Säljer svetsomformare,
-<br/>svetslikriktare,
-<br/>svetstransformato-rer, halvautomater,
-<br/>punktsvetsma-skiner, gassvetsutrustningar,
-<br/>elektroder, hårdlod, silverlod samt
-<br/>tillbehör för svetsning. Uthyrningar o
-<br/>reparationer
-<br/>Antal anställda: 12
-<br/>Aktiekapital: 20 000
-<br/>Verkst din Ing Enar Axelsson
-<br/>Etableringsår 1946.
-<br/>
-<br/>SWIAB SVENSSON &amp; WOLD
-<br/>INDUSTRI AB
-<br/>
-<br/>Pnr 417 03
-<br/>
-<br/>Göteborg, Vindragareg 14. Tel
-<br/>031-2211 15, 23 9135. Bankgiro 40-1650.
-<br/>Postgiro 528277
-<br/>Verksamhet: Mekanisk service,
-<br/>varv o industri montage
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 5 000
-<br/>Etableringsår: 1959.
-<br/>
-<br/>SWING LTD AB
-<br/>
-<br/>Pnr 81101
-<br/>
-<br/>Sandviken 1, Köpmang 23. Box 9.
-<br/>Tel 026-25 2470. Bankgiro 78-8754.
-<br/>Postgiro 9450. Tga Razor
-<br/>Verksamhet: Försäljningsbolag för
-<br/>rakblad o rakhyvlar
-<br/>Årsomsättning: 1500 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Georg Zeidlitz
-<br/>Etableringsår: 1926.
-<br/>
-<br/>SVÄNGSTA MATTVÄVERI AB
-<br/>
-<br/>Pnr 290 70
-<br/>
-<br/>Svängsta, Box 20. Tel 0454-225 60.
-<br/>Telex 4501 SMÅTT S. Tga
-<br/>Svängstamattan
-<br/>
-<br/>Verksamhet: Mattor
-<br/>Antal anställda: 180
-<br/>Årsomsättning: 10000 000
-<br/>Aktiekapital: 750 000
-<br/>Verkst dir: Lars-Ake Norlander
-<br/>Etableringsår: 1955.
-<br/>
-<br/>SVÄNGSTA SKORPOR, AB
-<br/>
-<br/>Pnr 294 00
-<br/>
-<br/>Sölvesborg, Box 77. Tel
-<br/>0456-125 80. Bankgiro 579-8053.
-<br/>Post-giro 285520-3. Tga Svangsta.
-<br/>Telex 4482
-<br/>
-<br/>Verksamhet: Tillverkning o
-<br/>försäljning av skorpor o småbröd
-<br/>Antal anställda: 65
-<br/>Årsomsättning: 10 000 000
-<br/>Aktiekapital: 200 000
-<br/>Verkst din Erik Ekegren
-<br/>Etableringsår: 1946.
-<br/>
-<br/>SVÄRD &amp; STRAND MEK
-<br/>VERKSTAD, AB
-<br/>
-<br/>Pnr 700 07
-<br/>
-<br/>Örebro 7, Slöjdg 37-39. Box 7009.
-<br/>Tel 019-1135 92, 12 6126
-<br/>Verksamhet: Mek verkstad. Utför
-<br/>legoarbeten för verkstadsindustrin
-<br/>Årsomsättning: 2 000 000
-<br/>Aktiekapital: 50 000
-<br/>Kontaktman: Gösta Bergdahl
-<br/>Etableringsår. 1922.
-<br/>
-<br/>SWÄRDHS VVS-BYRÅ AB
-<br/>
-<br/>Pnr 30238
-<br/>
-<br/>Halmstad, Fiskareg 10. Tel
-<br/>035-1002 70. Bankgiro 147-0781.
-<br/>Postgiro 324663-4
-<br/>
-<br/>Verksamhet: Konsulterande
-<br/>ingenjörsbyrå
-<br/>
-<br/>Antal anställda: 8
-<br/>Årsomsättning: 175 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Ing Kjell Swärdh
-<br/>Etableringsår 1960.
-<br/>
-<br/>SYDEXPO AB
-<br/>
-<br/>Pnr 21618
-<br/>
-<br/>Malmö, Stjärnplan 3. Tel
-<br/>040-160075. Bankgiro 629-6206.
-<br/>Postgiro 436110-1. Tga Sydgrupp.
-<br/>Telex 32454 NORDWET S
-<br/>Verksamhet: Arrangerar
-<br/>utställningar o mässor
-<br/>Antal anställda: 5
-<br/>Årsomsättning: 1000 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Staffan Svenby
-<br/>Etableringsår: 1967.
-<br/>
-<br/>625
+
+SVESA, AB
+
+Pnr 211 20
+
+Malmö, Carlsg 42. Tel 040-391 25.
+Bankgiro 870-1815. Postgiro
+245232-4. Tga Svesa. Telex 32734
+Verksamhet: Tillverkar o säljer
+snickerimaskiner o verktyg
+Antal anställda: 20
+Aktiekapital: 180 000
+Verkst dir: Erik Grönvall
+Etableringsår: 1945.
+
+SVETONS MEKANISKA
+VERKSTADS AB
+
+Pnr 417 05
+
+Göteborg H, Hildebrandsg 3. Tel
+031-22 80 55. Bankgiro 85-1756.
+Postgiro 242378. Tga Svetonab
+Verksamhet: Svetsning o
+maskinbearbetning av tyngre konstruktioner
+Antal anställda: 40
+Årsomsättning: 2 100 000
+Aktiekapital: 50 000
+Verkst dir: Sven-Olov Wargklev.
+
+SVETS &amp; GROVPLÄT, AB
+
+Pnr 19900
+
+Enköping, O Järnvägsg 1. Tel
+0171-31111. Bankgiro 804-2509.
+Postgiro 385172-2
+Verksamhet: Tillverkar o monterar
+alla slags järnkonstruktioner
+Antal anställda: 12
+Årsomsättning: 850 000
+Aktiekapital: 75 000
+Verkst dir: Uno Westerberg
+Etableringsår 1947.
+
+SVETS &amp; MASKIN.
+MONTERING AB
+
+Pnr 175 00
+
+Jakobsberg, Nettov 3. Box 67. Tel
+0758-36607, 366 08. Bankgiro
+333-2343. Postgiro 399198-1
+Verksamhet: Tillverkar gräv- o
+traktorskopor. Utför svetsning
+samt reparationer av
+entreprenadmaskiner
+
+Antal anställda: 25
+Aktiekapital: 100000
+Verkst din Helge Andersson
+Etableringsår: 1947.
+
+SVETS &amp; MONTAGE
+
+Pnr 660 56
+
+Skattkärr, Ramg 6. Box 39. Tel
+054-600 44, 1512 35. Bankgiro 88-1570
+Verksamhet: Stålkonstruktioner o
+järnmonteringar av alla slag.
+Plåtarbeten o licenssvetsning
+Antal anställda: 16
+Årsomsättning: 1000 000
+Chef: Pabr Ingemar Olsson
+Etableringsår: 1959.
+
+SVETSINDUSTRI EINAR
+JOHANSSON
+
+Pnr 581 02
+
+Linköping 1, Staby gård. Box 56.
+Tel 013-12 86 78. Postgiro 384540
+Verksamhet: Tillverkar
+järnkonstruktioner, karosserier o stålhytter
+Chef: Pabr Einar Johansson
+Etableringsår: 1945.
+
+SVETSKONSULT, G INSULAN.
+DER, CIVILING SVR
+
+Pnr 412 75
+
+Göteborg, Kallebäcksv 17 A. Tel
+031-40 6937- Bankgiro 265-4390.
+Postgiro 323355-8
+
+Verksamhet: Rådgivande i
+svetstek-niska o angränsande frågor
+Chef: Civiling Gunnar Insulander
+Etableringsår: 1966.
+
+SVETSMEKANO
+
+Pnr 596 00
+
+Skänninge, Industrig. Tel
+0142-403 83, kontor 413 47. Bankgiro
+130-1027. Postgiro 542671-3
+Verksamhet: Utför mekaniska
+arbeten. El- o gassvetsning. Specialitèt:
+spannmålslådor, källarinredningar,
+nätväggar, nätdörrar o takstolar.
+Järn- o stålkonstruktioner
+Antal anställda: 10
+Årsomsättning: 1300 000
+Chef: Pabr Einar Engblom
+Etableringsår: 1960.
+
+SVETSNINGSVERKSTADEN
+
+Pnr 280 20
+
+Bjärnum, Mala. Tel 0451-170 13,
+17130. Bankgiro 265-3491.
+Postgiro 139103-6
+
+Verksamhet: Tillverkar cisterner.
+Utför plåt- o järnkonstruktioner
+Chef: Walter H Romberg
+Etableringsår: 1937.
+
+SVETSPRODUKTER
+
+Pnr 544 00
+
+Hjo, Sveav 33. Tel 0503-106 49.
+Bankgiro 21-6352. Postgiro 473306
+Verksamhet: Tillverkar
+oljecisterner, järnkonstruktioner mm
+Antal anställda: 18
+Årsomsättning: 750 000
+Chef: Folke Kjellqvist
+Etableringsår 1954.
+
+SVETSTEKNIK, AB
+
+Pnr 421 31
+
+Västra Frölunda, Frörensareg 4.
+Tel 031-45 01 15. Bankgiro
+420-1810. Postgiro 241308-6. Tga
+
+Svetstek
+
+Verksamhet: Säljer svetsomformare,
+svetslikriktare,
+svetstransformato-rer, halvautomater,
+punktsvetsma-skiner, gassvetsutrustningar,
+elektroder, hårdlod, silverlod samt
+tillbehör för svetsning. Uthyrningar o
+reparationer
+Antal anställda: 12
+Aktiekapital: 20 000
+Verkst din Ing Enar Axelsson
+Etableringsår 1946.
+
+SWIAB SVENSSON &amp; WOLD
+INDUSTRI AB
+
+Pnr 417 03
+
+Göteborg, Vindragareg 14. Tel
+031-2211 15, 23 9135. Bankgiro 40-1650.
+Postgiro 528277
+Verksamhet: Mekanisk service,
+varv o industri montage
+Årsomsättning: 3 000 000
+Aktiekapital: 5 000
+Etableringsår: 1959.
+
+SWING LTD AB
+
+Pnr 81101
+
+Sandviken 1, Köpmang 23. Box 9.
+Tel 026-25 2470. Bankgiro 78-8754.
+Postgiro 9450. Tga Razor
+Verksamhet: Försäljningsbolag för
+rakblad o rakhyvlar
+Årsomsättning: 1500 000
+Aktiekapital: 50 000
+Verkst dir: Georg Zeidlitz
+Etableringsår: 1926.
+
+SVÄNGSTA MATTVÄVERI AB
+
+Pnr 290 70
+
+Svängsta, Box 20. Tel 0454-225 60.
+Telex 4501 SMÅTT S. Tga
+Svängstamattan
+
+Verksamhet: Mattor
+Antal anställda: 180
+Årsomsättning: 10000 000
+Aktiekapital: 750 000
+Verkst dir: Lars-Ake Norlander
+Etableringsår: 1955.
+
+SVÄNGSTA SKORPOR, AB
+
+Pnr 294 00
+
+Sölvesborg, Box 77. Tel
+0456-125 80. Bankgiro 579-8053.
+Post-giro 285520-3. Tga Svangsta.
+Telex 4482
+
+Verksamhet: Tillverkning o
+försäljning av skorpor o småbröd
+Antal anställda: 65
+Årsomsättning: 10 000 000
+Aktiekapital: 200 000
+Verkst din Erik Ekegren
+Etableringsår: 1946.
+
+SVÄRD &amp; STRAND MEK
+VERKSTAD, AB
+
+Pnr 700 07
+
+Örebro 7, Slöjdg 37-39. Box 7009.
+Tel 019-1135 92, 12 6126
+Verksamhet: Mek verkstad. Utför
+legoarbeten för verkstadsindustrin
+Årsomsättning: 2 000 000
+Aktiekapital: 50 000
+Kontaktman: Gösta Bergdahl
+Etableringsår. 1922.
+
+SWÄRDHS VVS-BYRÅ AB
+
+Pnr 30238
+
+Halmstad, Fiskareg 10. Tel
+035-1002 70. Bankgiro 147-0781.
+Postgiro 324663-4
+
+Verksamhet: Konsulterande
+ingenjörsbyrå
+
+Antal anställda: 8
+Årsomsättning: 175 000
+Aktiekapital: 5 000
+Verkst dir: Ing Kjell Swärdh
+Etableringsår 1960.
+
+SYDEXPO AB
+
+Pnr 21618
+
+Malmö, Stjärnplan 3. Tel
+040-160075. Bankgiro 629-6206.
+Postgiro 436110-1. Tga Sydgrupp.
+Telex 32454 NORDWET S
+Verksamhet: Arrangerar
+utställningar o mässor
+Antal anställda: 5
+Årsomsättning: 1000 000
+Aktiekapital: 50 000
+Verkst dir: Staffan Svenby
+Etableringsår: 1967.
+
+625

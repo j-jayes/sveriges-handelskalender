@@ -1,228 +1,228 @@
 IDE
-<br/>
-<br/>IBACO AB
-<br/>
-<br/>Pnr 11146
-<br/>
-<br/>Stockholm C, Biblioteksg 11. Tel
-<br/>08-1136 55. Postgiro 256353. Tga
-<br/>Ibacohandel
-<br/>
-<br/>Verksamhet: Export o import med
-<br/>östländerna, främst Ungern
-<br/>Aktiekapital: 50 000
-<br/>Ägare o chef: Dr Ivan Bakonyi
-<br/>Etableringsår: 1955.
-<br/>
-<br/>I B E INGENJURSFIRMA
-<br/>B ERICSON AB
-<br/>
-<br/>Pnr 8 61 00
-<br/>
-<br/>Timrå, Box 112. Tel 060-733 10.
-<br/>Bankgiro 18-0154. Postgiro 298814
-<br/>Verksamhet: Tillverkar
-<br/>punktsvets-aggregat, specialitet: portabla,
-<br/>byggbara
-<br/>Varunamn: IBE
-<br/>
-<br/>Ägare o chef: Ing Birger Ericson
-<br/>Etableringsår: 1951.
-<br/>
-<br/>IBM SVENSKA AB
-<br/>
-<br/>Pnr 104 35
-<br/>
-<br/>Stockholm 23, Sveav 149. Box
-<br/>23006. Tel 08-24 50 60. Tga
-<br/>Inbus-mach
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>databehandling sutrustning samt hålkort
-<br/>Aktiekapital: 70 000 000
-<br/>Antal anställda: 3 000
-<br/>Tillverkningsvärde: 200 000 000
-<br/>Verkst dir: Arne Lundqvist
-<br/>Etableringsår. 1928.
-<br/>
-<br/>ICA FRUKT och GRÖNSAKER
-<br/>AB
-<br/>
-<br/>Pnr 251 03
-<br/>
-<br/>Helsingborg 1, Box 212.
-<br/>Fäktmäs-tareg 5. Tel 042-622 80. Bankgiro
-<br/>652-8848. Postgiro 290209-6. Tga
-<br/>ICA-HBG. Telex 72350
-<br/>Verksamhet: Köper o säljer frukt
-<br/>o grönsaker i parti
-<br/>Antal anställda: 125
-<br/>Årsomsättning: 85 000 000
-<br/>Aktiekapital: 1100 000
-<br/>Verkst dir: Sven Kihlstedt
-<br/>Etableringsår 1942.
-<br/>
-<br/>ICA INKOPSCENTRALERNAS
-<br/>AB
-<br/>
-<br/>Pnr 102 33
-<br/>
-<br/>Stockholm 6, Odeng 69. Box 6187.
-<br/>Tel 08-22 65 80. Postgiro 31493.
-<br/>Telex 1435. Tga Icacentral
-<br/>Verksamhet: Centralorganisation
-<br/>för ICA-företagen
-<br/>Aktiekapital: 3 000 000
-<br/>Verkst dir Stig Svensson
-<br/>Etableringsår: 1939.
-<br/>
-<br/>ICAB INTERNATIONAL
-<br/>CONSTRUCTING AB
-<br/>
-<br/>Pnr 98101
-<br/>
-<br/>Kiruna 1, Box 99. Tel 0980-186 20.
-<br/>Bankgiro 33-3816. Postgiro 487800.
-<br/>Telex 32546. Tga Incob
-<br/>Verksamhet: Fordonsteknik.
-<br/>Konstruktionsbyrå
-<br/>
-<br/>Avdelningskontor: 21130 Malmö,
-<br/>Exercisg 2 A. Tel 040-714 40
-<br/>Antal anställda: 20
-<br/>Årsomsättning: 1200000
-<br/>Aktiekapital: 6 000
-<br/>Styrelse: Ing Torsten Henriksson,
-<br/>dir Ragnar Muotka, ing Lars
-<br/>Landeborg, dlr Bo Sandström
-<br/>Veikst dir: Ing Torsten Henriksson
-<br/>Övriga chefer: Dir Ragnar Muotka,
-<br/>ing Lars Landeborg
-<br/>Etableringsår: 1966.
-<br/>
-<br/>I CA- RESTAURANGER, AB
-<br/>
-<br/>Pnr 10251
-<br/>
-<br/>Stockholm 27, Osthammarsg 78.
-<br/>Box 27074. Tel 08-67 95 80.
-<br/>Bankgiro 728-4318. Postgiro 49025-0
-<br/>Verksamhet: Bar- o
-<br/>restaurangrörelse
-<br/>
-<br/>Antal anställda: 2 500
-<br/>Årsomsättning: 140 000 000
-<br/>Aktiekapital: 2500000
-<br/>Verkst dir: Gösta Brännström
-<br/>Etableringsår: 1944.
-<br/>
-<br/>ICI FIBER AB
-<br/>
-<br/>Pnr 401 23
-<br/>
-<br/>Göteborg 1, Box 207. Frörensareg
-<br/>5, Västra Frölunda. Tel
-<br/>031-45 09 65. Tga Icifiber. Telex 20750
-<br/>Verksamhet: Säljer syntetfibrer.
-<br/>Tillverkar kräppnylon
-<br/>Fabrik: Alingsås. AB Silketvinneri.
-<br/>Tel 0322-190 30
-<br/>Antal anställda: 100
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir. C A Lindecrantz
-<br/>Etableringsår: 1964.
-<br/>
-<br/>ICL DATA AB
-<br/>
-<br/>Pnr 17188
-<br/>
-<br/>Solna, Fack. Industriv 10. Tel
-<br/>08-8307 00. Tga Datacomp.
-<br/>Telex 10793 ICLDATA S
-<br/>Verksamhet: ICL hålkorts- o
-<br/>datamaskiner, servicebyråer för
-<br/>databehandlingsuppdrag
-<br/>Filialer: Göteborg V, Oskarsg 4
-<br/>Malmö C, Stora Nyg 29
-<br/>Varunamn: ICL
-<br/>Antal anställda: 260
-<br/>Årsomsättning: 40000 000
-<br/>Aktiekapital: 5 000 000
-<br/>Verkst dir: Torsten Hallberg
-<br/>Etableringsår: 1923
-<br/>Namnändring 1970.
-<br/>
-<br/>ICOPALFABRIKEN,
-<br/>AB SVENSKA
-<br/>
-<br/>Pnr 20110
-<br/>
-<br/>Malmö 1, Skeppsbron 11. Fack.
-<br/>Tel 040-742 00. Bankgiro 640-1749.
-<br/>Postgiro 25111-6. Tga Icopal.
-<br/>Telex 32362 ICOPAL S
-<br/>Verksamhet: Fabriker för
-<br/>tillverkning av byggnadspapp,
-<br/>kemisktekniska artiklar,
-<br/>aluminiumfolie-laminat för emballageändamål,
-<br/>väg-beläggningsmaterialier, takfönster
-<br/>o ljuskupoler. Utför taktäckning,
-<br/>isoleringar o vägarbeten
-<br/>Försäljningskontor: 417 07
-<br/>Göteborg, Ringög. Tel 031-51 30 65
-<br/>17154 Solna, Vretenv 4. Tel
-<br/>08-98 08 20
-<br/>
-<br/>852 33 Sundsvall, Packhusg 10.
-<br/>Tel 060-15 06 75
-<br/>Antal anställda: 800
-<br/>Årsomsättning: 94 000 000
-<br/>Aktiekapital: 4 200 000
-<br/>Styrelse: Bankdir Gösta Fries, dir
-<br/>Tcre Falkenblad, landsretssagf
-<br/>Henrik Hoffmeyer, dir Rutger
-<br/>Larson, dir Erik Nielsen, dir Sune
-<br/>Wetterlundh
-<br/>
-<br/>Verkst dir: Ake Rydberg
-<br/>V verkst dir: Bertil Olsson
-<br/>Etableringsår 1915.
-<br/>
-<br/>IDEAL
-<br/>LÄDERVARU-FABRIK, AB
-<br/>
-<br/>Pnr 330 20
-<br/>
-<br/>Anderstorp, Industrig. Tel
-<br/>0371-152 18. Bankgiro 488-0894.
-<br/>Postgiro 174790-6. Tga Ideal
-<br/>Verksamhet: Tillverkar
-<br/>shoppingväskor, bags i olika utföranden,
-<br/>skolartiklar, ringpärmar,
-<br/>plastficka1, mappar av plast samt
-<br/>beställningsarbeten
-<br/>Antal anställda: 15
-<br/>Årsomsättning: 1 000 000
-<br/>Styrelse: Bertil Bylander, Folke
-<br/>By länder, Bjarne Salomonsson
-<br/>Verkst dir: Folke Bylander
-<br/>Etableringsår 1941
-<br/>Ombildat till aktiebolag 1954.
-<br/>
-<br/>IDEAL PERSIENNER
-<br/>-MARKISER AB
-<br/>
-<br/>Pnr 21756
-<br/>
-<br/>Malmö, Kilian Zollsg 27. Tel
-<br/>040-61109 , 684 08. Bankgiro 875-7692.
-<br/>Postgiro 39661-4
-<br/>Verksamhet: Persienner
-<br/>(mellan-glas- o fasadpersienner),
-<br/>rullgardiner, mörkläggningsridåer,
-<br/>markiser, vikdörrar o vikväggar
-<br/>Aktiekapital: 25 000
-<br/>Verkst dir: Knut Edvinsson
-<br/>Etableringsår: 1950.
-<br/>
-<br/>285
+
+IBACO AB
+
+Pnr 11146
+
+Stockholm C, Biblioteksg 11. Tel
+08-1136 55. Postgiro 256353. Tga
+Ibacohandel
+
+Verksamhet: Export o import med
+östländerna, främst Ungern
+Aktiekapital: 50 000
+Ägare o chef: Dr Ivan Bakonyi
+Etableringsår: 1955.
+
+I B E INGENJURSFIRMA
+B ERICSON AB
+
+Pnr 8 61 00
+
+Timrå, Box 112. Tel 060-733 10.
+Bankgiro 18-0154. Postgiro 298814
+Verksamhet: Tillverkar
+punktsvets-aggregat, specialitet: portabla,
+byggbara
+Varunamn: IBE
+
+Ägare o chef: Ing Birger Ericson
+Etableringsår: 1951.
+
+IBM SVENSKA AB
+
+Pnr 104 35
+
+Stockholm 23, Sveav 149. Box
+23006. Tel 08-24 50 60. Tga
+Inbus-mach
+
+Verksamhet: Tillverkar
+databehandling sutrustning samt hålkort
+Aktiekapital: 70 000 000
+Antal anställda: 3 000
+Tillverkningsvärde: 200 000 000
+Verkst dir: Arne Lundqvist
+Etableringsår. 1928.
+
+ICA FRUKT och GRÖNSAKER
+AB
+
+Pnr 251 03
+
+Helsingborg 1, Box 212.
+Fäktmäs-tareg 5. Tel 042-622 80. Bankgiro
+652-8848. Postgiro 290209-6. Tga
+ICA-HBG. Telex 72350
+Verksamhet: Köper o säljer frukt
+o grönsaker i parti
+Antal anställda: 125
+Årsomsättning: 85 000 000
+Aktiekapital: 1100 000
+Verkst dir: Sven Kihlstedt
+Etableringsår 1942.
+
+ICA INKOPSCENTRALERNAS
+AB
+
+Pnr 102 33
+
+Stockholm 6, Odeng 69. Box 6187.
+Tel 08-22 65 80. Postgiro 31493.
+Telex 1435. Tga Icacentral
+Verksamhet: Centralorganisation
+för ICA-företagen
+Aktiekapital: 3 000 000
+Verkst dir Stig Svensson
+Etableringsår: 1939.
+
+ICAB INTERNATIONAL
+CONSTRUCTING AB
+
+Pnr 98101
+
+Kiruna 1, Box 99. Tel 0980-186 20.
+Bankgiro 33-3816. Postgiro 487800.
+Telex 32546. Tga Incob
+Verksamhet: Fordonsteknik.
+Konstruktionsbyrå
+
+Avdelningskontor: 21130 Malmö,
+Exercisg 2 A. Tel 040-714 40
+Antal anställda: 20
+Årsomsättning: 1200000
+Aktiekapital: 6 000
+Styrelse: Ing Torsten Henriksson,
+dir Ragnar Muotka, ing Lars
+Landeborg, dlr Bo Sandström
+Veikst dir: Ing Torsten Henriksson
+Övriga chefer: Dir Ragnar Muotka,
+ing Lars Landeborg
+Etableringsår: 1966.
+
+I CA- RESTAURANGER, AB
+
+Pnr 10251
+
+Stockholm 27, Osthammarsg 78.
+Box 27074. Tel 08-67 95 80.
+Bankgiro 728-4318. Postgiro 49025-0
+Verksamhet: Bar- o
+restaurangrörelse
+
+Antal anställda: 2 500
+Årsomsättning: 140 000 000
+Aktiekapital: 2500000
+Verkst dir: Gösta Brännström
+Etableringsår: 1944.
+
+ICI FIBER AB
+
+Pnr 401 23
+
+Göteborg 1, Box 207. Frörensareg
+5, Västra Frölunda. Tel
+031-45 09 65. Tga Icifiber. Telex 20750
+Verksamhet: Säljer syntetfibrer.
+Tillverkar kräppnylon
+Fabrik: Alingsås. AB Silketvinneri.
+Tel 0322-190 30
+Antal anställda: 100
+Aktiekapital: 100 000
+Verkst dir. C A Lindecrantz
+Etableringsår: 1964.
+
+ICL DATA AB
+
+Pnr 17188
+
+Solna, Fack. Industriv 10. Tel
+08-8307 00. Tga Datacomp.
+Telex 10793 ICLDATA S
+Verksamhet: ICL hålkorts- o
+datamaskiner, servicebyråer för
+databehandlingsuppdrag
+Filialer: Göteborg V, Oskarsg 4
+Malmö C, Stora Nyg 29
+Varunamn: ICL
+Antal anställda: 260
+Årsomsättning: 40000 000
+Aktiekapital: 5 000 000
+Verkst dir: Torsten Hallberg
+Etableringsår: 1923
+Namnändring 1970.
+
+ICOPALFABRIKEN,
+AB SVENSKA
+
+Pnr 20110
+
+Malmö 1, Skeppsbron 11. Fack.
+Tel 040-742 00. Bankgiro 640-1749.
+Postgiro 25111-6. Tga Icopal.
+Telex 32362 ICOPAL S
+Verksamhet: Fabriker för
+tillverkning av byggnadspapp,
+kemisktekniska artiklar,
+aluminiumfolie-laminat för emballageändamål,
+väg-beläggningsmaterialier, takfönster
+o ljuskupoler. Utför taktäckning,
+isoleringar o vägarbeten
+Försäljningskontor: 417 07
+Göteborg, Ringög. Tel 031-51 30 65
+17154 Solna, Vretenv 4. Tel
+08-98 08 20
+
+852 33 Sundsvall, Packhusg 10.
+Tel 060-15 06 75
+Antal anställda: 800
+Årsomsättning: 94 000 000
+Aktiekapital: 4 200 000
+Styrelse: Bankdir Gösta Fries, dir
+Tcre Falkenblad, landsretssagf
+Henrik Hoffmeyer, dir Rutger
+Larson, dir Erik Nielsen, dir Sune
+Wetterlundh
+
+Verkst dir: Ake Rydberg
+V verkst dir: Bertil Olsson
+Etableringsår 1915.
+
+IDEAL
+LÄDERVARU-FABRIK, AB
+
+Pnr 330 20
+
+Anderstorp, Industrig. Tel
+0371-152 18. Bankgiro 488-0894.
+Postgiro 174790-6. Tga Ideal
+Verksamhet: Tillverkar
+shoppingväskor, bags i olika utföranden,
+skolartiklar, ringpärmar,
+plastficka1, mappar av plast samt
+beställningsarbeten
+Antal anställda: 15
+Årsomsättning: 1 000 000
+Styrelse: Bertil Bylander, Folke
+By länder, Bjarne Salomonsson
+Verkst dir: Folke Bylander
+Etableringsår 1941
+Ombildat till aktiebolag 1954.
+
+IDEAL PERSIENNER
+-MARKISER AB
+
+Pnr 21756
+
+Malmö, Kilian Zollsg 27. Tel
+040-61109 , 684 08. Bankgiro 875-7692.
+Postgiro 39661-4
+Verksamhet: Persienner
+(mellan-glas- o fasadpersienner),
+rullgardiner, mörkläggningsridåer,
+markiser, vikdörrar o vikväggar
+Aktiekapital: 25 000
+Verkst dir: Knut Edvinsson
+Etableringsår: 1950.
+
+285

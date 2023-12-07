@@ -1,278 +1,278 @@
 NOM
-<br/>
-<br/>Verksamhet: Tillverkar köks- o
-<br/>
-<br/>specialinredningar
-<br/>
-<br/>Antal anställda: 7
-<br/>
-<br/>Årsomsättning: 350 000
-<br/>
-<br/>Aktiekapital: 5000
-<br/>
-<br/>Verkst dir: Rune Andersson
-<br/>
-<br/>Etableringsàr: 1938.
-<br/>
-<br/>NITTORPS SYFABRIK AB
-<br/>
-<br/>Pnr 510 90
-<br/>
-<br/>Limmared. Tel 0325-730 29,730 70.
-<br/>Bankgiro 55-3119. Postgiro 285090
-<br/>Verksamhet: Tillverkar o säljer
-<br/>arbetskläder o fritidsbyxor
-<br/>Varunamn: Nifa
-<br/>Antal anställda: 45
-<br/>Årsomsättning: 2 200 000
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir: Georg Johanson
-<br/>Etableringsàr: 1945.
-<br/>
-<br/>NITTSJO, AB
-<br/>
-<br/>Pnr 795 00
-<br/>
-<br/>Rättvik. Tel 0248-17130, 17131.
-<br/>Bankgiro 79-8053. Postgiro 70938.
-<br/>Tga Nitts jökeramik
-<br/>Verksamhet: Tillverkar
-<br/>prydnadskeramik (urnor, vaser, djurfigurer)
-<br/>Antal anställda: 50
-<br/>Aktiekapital: 110000
-<br/>Verkst dir: Disp Ake Löfgren
-<br/>Etableringsàr: 1847.
-<br/>
-<br/>NIWE, VERKSTADS AB
-<br/>
-<br/>Pnr 38100
-<br/>
-<br/>Kalmar, Kalmarv 139. Tel
-<br/>0480-736 50. Bankgiro 272-3252.
-<br/>Postgiro 563063-7
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>jordbruksmaskiner o oljetankar
-<br/>Antal anställda: 25
-<br/>Årsomsättning: 1 500000
-<br/>Aktiekapital: 50 000
-<br/>Verkst din Fabr Anker Jonsson
-<br/>Etableringsàr: 1960.
-<br/>
-<br/>NIVEA AB
-<br/>
-<br/>se Beiersdorf AB.
-<br/>
-<br/>NIVEXBOLAGET
-<br/>
-<br/>Pnr 41128
-<br/>
-<br/>Göteborg, Nedre Fogelbergsg 5.
-<br/>Tel 031-13 80 75. Bankgiro 44-4864.
-<br/>Postgiro 525474
-<br/>
-<br/>Verksamhet: Tillverkar kemiska
-<br/>klosetter o saneringsmedel
-<br/>Årsomsättning: 600000
-<br/>Ägare: Nils-Erik Hjertquist, Nils
-<br/>Lundblad
-<br/>
-<br/>Etableringsàr: 1957.
-<br/>
-<br/>NK INREDNING
-<br/>
-<br/>Pnr 103 43
-<br/>
-<br/>Stockholm 40, Sveav 20. Box40155.
-<br/>Tel 08-24 80 20. Tga Encoinred
-<br/>NK Verkstäder: 61101 Nyköping.
-<br/>Box 279. Tel 0155-172 70
-<br/>Filialer: 43137 Mölndal.
-<br/>Sallar-ängsg 3. Tel 031-87 03 90
-<br/>21135 Malmö, Djäkne g 28. Tel
-<br/>040-745 50
-<br/>
-<br/>852 38 Sundsvall, Landsvägsallén 4.
-<br/>Tel 060-12 59 70
-<br/>Varunamn: NK Inredning.
-<br/>
-<br/>NKB NORRLÄNDSKA
-<br/>KONSTRUKTIONSBYRÅN AB
-<br/>
-<br/>Pnr 85102
-<br/>
-<br/>Sundsvall 1. Box 52. Storg 44. Tel
-<br/>060-15 0140. Bankgiro 77-4492.
-<br/>Postgiro 286521-0
-<br/>Verksamhet: Vatten o avlopp, hus
-<br/>o industrier, vägar o gator
-<br/>Antal anställda: 50
-<br/>Årsomsättning: 2000 000
-<br/>Aktiekapital: 24 000
-<br/>Verkst dir: Civiling Carl Henrik
-<br/>Knudsen
-<br/>
-<br/>Etableringsàr: 1957.
-<br/>
-<br/>NOBEL KLÄDER, AB
-<br/>
-<br/>Pnr 281 00
-<br/>
-<br/>Hässleholm, Verkstadsg 16. Tel
-<br/>0451-135 05, 135 06. Bankgiro
-<br/>86-6347. Postgiro 331169
-<br/>Verksamhet: Specialitet uniformer
-<br/>Antal anställda: 125
-<br/>Årsomsättning: 4 000 000
-<br/>Aktiekapital: 35 000
-<br/>Verkst dir: Fabr Ernst Norén
-<br/>Etableringsàr: 1947.
-<br/>
-<br/>NOCKEBY.TVÄTTEN, AB
-<br/>
-<br/>Pnr 16126
-<br/>
-<br/>Bromma 1, Drottningholmsv 603.
-<br/>Box 16. Tel 08-25 25 00. Bankgiro
-<br/>575-1631. Postgiro 2692-2
-<br/>Verksamhet: Vattentvätt
-<br/>Antal anställda: 35
-<br/>Årsomsättning: 1500 000
-<br/>Aktiekapital: 180 000
-<br/>Verkst dir: Hugo Rahlén
-<br/>Etableringsàr: 1912.
-<br/>
-<br/>NOELFA LARM AB
-<br/>
-<br/>Pnr 150 16
-<br/>
-<br/>Hölö. Tel 0755-570 42, 57183.
-<br/>Bankgiro 405-9184. Postgiro
-<br/>210670-6
-<br/>
-<br/>J®
-<br/>
-<br/>Verksamhet: Elektroniskt larm,
-<br/>legotillverkning fär kopplings- o
-<br/>lödningsarbeten, reläsatser, kretskort
-<br/>o kablar
-<br/>
-<br/>Aktiekapital: 5 000
-<br/>Veikst dir: Ing Olle Nordström
-<br/>Antal anställda: 20
-<br/>Etableringsàr: 1970.
-<br/>
-<br/>NOGENA, AB
-<br/>
-<br/>Pnr 114 37
-<br/>
-<br/>Stockholm, Braheg 4. Tel
-<br/>08-61 58 68. Bankgiro 17-0202.
-<br/>Postgiro 552744-5. Tga Nogenamaskiner
-<br/>Verksamhet: Säljer kapmaskiner
-<br/>samt elektroverktyg med tillbehör,
-<br/>bockapparater, pneumatiska
-<br/>skruvstycken m m
-<br/>
-<br/>Varunamn: Rohbi, Virax, Mewag,
-<br/>Rasta
-<br/>
-<br/>Ålsomsättning: 250 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Evert J Nordahl
-<br/>Etableringsàr: 1956.
-<br/>
-<br/>NOHAB, AB
-<br/>
-<br/>Pnr 461 01
-<br/>
-<br/>Trollhättan 1, Box 19. Tel 0520-
-<br/>
-<br/>180 00. Bankgiro 55-1739. Postgiro
-<br/>73000. Telex 42084. Tga Nohab
-<br/>
-<br/>WOHAB
-<br/>
-<br/>Verksamhet: Tillverkar el- o
-<br/>die-sellok, dieselmotorer,
-<br/>vattenturbiner, rotationstryckpressar.
-<br/>På beställning: verktyg, smide,
-<br/>järngjutgods, tryckkärl,
-<br/>maskin-o grovplåtarbeten,
-<br/>avspännings-glödgning etc
-<br/>Varunamn: NOHAB
-<br/>Antal anställda: 2 000
-<br/>Årsomsättning: 130 000 000
-<br/>Aktiekapital: 16 000000
-<br/>Styrelse: Disp Sverre R:son
-<br/>Sohl-man (ordf), disp Per Odelberg,
-<br/>hovrättsrådet Sven Hammarskiöld,
-<br/>agronom Stig Janson, dir Tryggve
-<br/>Holm
-<br/>
-<br/>Verkst dir: Henrik de Verdier
-<br/>Lok: Chef: övering Rune Olsson
-<br/>Turbiner: Chef: övering Herman
-<br/>Lindquist. Försäljning: ing Arthur
-<br/>Meland
-<br/>
-<br/>Diesel: Chef: ing Yngve Nordquist.
-<br/>Försäljning: ing Rolf Qvarnström.
-<br/>Service: ing Thure Lindell
-<br/>Tiyckpressar: Chef: ing Uno Tell
-<br/>Produktion: Chef: övering Roland
-<br/>Friberg
-<br/>
-<br/>Ekonomiavdelning: Ekonomichef:
-<br/>Henrik Hegardt. Kamrer: Arne
-<br/>Gustafsson. Personalchef o chef
-<br/>för säkerhetstjänsten: Bengt
-<br/>Mossberg. Anläggningar o underhåll:
-<br/>ing Nils Sjöström
-<br/>Etableringsàr: 1847
-<br/>Tillhör Boforsgruppen.
-<br/>
-<br/>NOLS PAPPINDUSTRI AB
-<br/>
-<br/>Pnr 440 41
-<br/>
-<br/>Nol. Tel 0303-40174. Bankgiro
-<br/>895-6351. Postgiro 289665-2
-<br/>Verksamhet: Artiklar av
-<br/>konstläder-papp
-<br/>
-<br/>Antal anstäUda: 5
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Fru Dagny Stockelberg
-<br/>Etableringsàr: 1944.
-<br/>
-<br/>NOLMARK AB, ARNE
-<br/>
-<br/>Pnr 171 22
-<br/>
-<br/>Solna 1, Ankdamms g 22. Box 1118.
-<br/>Tel 08-82 96 30. Bankgiro 748-7234.
-<br/>Postgiro 648370-5. Tga Arnoagent.
-<br/>Telex 10659
-<br/>
-<br/>Verksamhet: Agenturer i
-<br/>industriförnödenheter
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: A Nolmark
-<br/>Etableringsàr: 1964.
-<br/>
-<br/>NOMINIT AB
-<br/>
-<br/>Pnr 33100
-<br/>
-<br/>Värnamo, Jönköpingsv. Tel
-<br/>0370-119 30. Telex 70124 NOMINIT S
-<br/>
-<br/>Verksamhet: Tillverkar nitar av
-<br/>olika material o i olika utförande,
-<br/>hål- (borrad), ansats-, dubbel- o
-<br/>kontaktnit. Kallstukade special-
-<br/>
-<br/>B 15
-<br/>
-<br/>449
+
+Verksamhet: Tillverkar köks- o
+
+specialinredningar
+
+Antal anställda: 7
+
+Årsomsättning: 350 000
+
+Aktiekapital: 5000
+
+Verkst dir: Rune Andersson
+
+Etableringsàr: 1938.
+
+NITTORPS SYFABRIK AB
+
+Pnr 510 90
+
+Limmared. Tel 0325-730 29,730 70.
+Bankgiro 55-3119. Postgiro 285090
+Verksamhet: Tillverkar o säljer
+arbetskläder o fritidsbyxor
+Varunamn: Nifa
+Antal anställda: 45
+Årsomsättning: 2 200 000
+Aktiekapital: 75 000
+Verkst dir: Georg Johanson
+Etableringsàr: 1945.
+
+NITTSJO, AB
+
+Pnr 795 00
+
+Rättvik. Tel 0248-17130, 17131.
+Bankgiro 79-8053. Postgiro 70938.
+Tga Nitts jökeramik
+Verksamhet: Tillverkar
+prydnadskeramik (urnor, vaser, djurfigurer)
+Antal anställda: 50
+Aktiekapital: 110000
+Verkst dir: Disp Ake Löfgren
+Etableringsàr: 1847.
+
+NIWE, VERKSTADS AB
+
+Pnr 38100
+
+Kalmar, Kalmarv 139. Tel
+0480-736 50. Bankgiro 272-3252.
+Postgiro 563063-7
+
+Verksamhet: Tillverkar
+jordbruksmaskiner o oljetankar
+Antal anställda: 25
+Årsomsättning: 1 500000
+Aktiekapital: 50 000
+Verkst din Fabr Anker Jonsson
+Etableringsàr: 1960.
+
+NIVEA AB
+
+se Beiersdorf AB.
+
+NIVEXBOLAGET
+
+Pnr 41128
+
+Göteborg, Nedre Fogelbergsg 5.
+Tel 031-13 80 75. Bankgiro 44-4864.
+Postgiro 525474
+
+Verksamhet: Tillverkar kemiska
+klosetter o saneringsmedel
+Årsomsättning: 600000
+Ägare: Nils-Erik Hjertquist, Nils
+Lundblad
+
+Etableringsàr: 1957.
+
+NK INREDNING
+
+Pnr 103 43
+
+Stockholm 40, Sveav 20. Box40155.
+Tel 08-24 80 20. Tga Encoinred
+NK Verkstäder: 61101 Nyköping.
+Box 279. Tel 0155-172 70
+Filialer: 43137 Mölndal.
+Sallar-ängsg 3. Tel 031-87 03 90
+21135 Malmö, Djäkne g 28. Tel
+040-745 50
+
+852 38 Sundsvall, Landsvägsallén 4.
+Tel 060-12 59 70
+Varunamn: NK Inredning.
+
+NKB NORRLÄNDSKA
+KONSTRUKTIONSBYRÅN AB
+
+Pnr 85102
+
+Sundsvall 1. Box 52. Storg 44. Tel
+060-15 0140. Bankgiro 77-4492.
+Postgiro 286521-0
+Verksamhet: Vatten o avlopp, hus
+o industrier, vägar o gator
+Antal anställda: 50
+Årsomsättning: 2000 000
+Aktiekapital: 24 000
+Verkst dir: Civiling Carl Henrik
+Knudsen
+
+Etableringsàr: 1957.
+
+NOBEL KLÄDER, AB
+
+Pnr 281 00
+
+Hässleholm, Verkstadsg 16. Tel
+0451-135 05, 135 06. Bankgiro
+86-6347. Postgiro 331169
+Verksamhet: Specialitet uniformer
+Antal anställda: 125
+Årsomsättning: 4 000 000
+Aktiekapital: 35 000
+Verkst dir: Fabr Ernst Norén
+Etableringsàr: 1947.
+
+NOCKEBY.TVÄTTEN, AB
+
+Pnr 16126
+
+Bromma 1, Drottningholmsv 603.
+Box 16. Tel 08-25 25 00. Bankgiro
+575-1631. Postgiro 2692-2
+Verksamhet: Vattentvätt
+Antal anställda: 35
+Årsomsättning: 1500 000
+Aktiekapital: 180 000
+Verkst dir: Hugo Rahlén
+Etableringsàr: 1912.
+
+NOELFA LARM AB
+
+Pnr 150 16
+
+Hölö. Tel 0755-570 42, 57183.
+Bankgiro 405-9184. Postgiro
+210670-6
+
+J®
+
+Verksamhet: Elektroniskt larm,
+legotillverkning fär kopplings- o
+lödningsarbeten, reläsatser, kretskort
+o kablar
+
+Aktiekapital: 5 000
+Veikst dir: Ing Olle Nordström
+Antal anställda: 20
+Etableringsàr: 1970.
+
+NOGENA, AB
+
+Pnr 114 37
+
+Stockholm, Braheg 4. Tel
+08-61 58 68. Bankgiro 17-0202.
+Postgiro 552744-5. Tga Nogenamaskiner
+Verksamhet: Säljer kapmaskiner
+samt elektroverktyg med tillbehör,
+bockapparater, pneumatiska
+skruvstycken m m
+
+Varunamn: Rohbi, Virax, Mewag,
+Rasta
+
+Ålsomsättning: 250 000
+Aktiekapital: 5 000
+Verkst dir: Evert J Nordahl
+Etableringsàr: 1956.
+
+NOHAB, AB
+
+Pnr 461 01
+
+Trollhättan 1, Box 19. Tel 0520-
+
+180 00. Bankgiro 55-1739. Postgiro
+73000. Telex 42084. Tga Nohab
+
+WOHAB
+
+Verksamhet: Tillverkar el- o
+die-sellok, dieselmotorer,
+vattenturbiner, rotationstryckpressar.
+På beställning: verktyg, smide,
+järngjutgods, tryckkärl,
+maskin-o grovplåtarbeten,
+avspännings-glödgning etc
+Varunamn: NOHAB
+Antal anställda: 2 000
+Årsomsättning: 130 000 000
+Aktiekapital: 16 000000
+Styrelse: Disp Sverre R:son
+Sohl-man (ordf), disp Per Odelberg,
+hovrättsrådet Sven Hammarskiöld,
+agronom Stig Janson, dir Tryggve
+Holm
+
+Verkst dir: Henrik de Verdier
+Lok: Chef: övering Rune Olsson
+Turbiner: Chef: övering Herman
+Lindquist. Försäljning: ing Arthur
+Meland
+
+Diesel: Chef: ing Yngve Nordquist.
+Försäljning: ing Rolf Qvarnström.
+Service: ing Thure Lindell
+Tiyckpressar: Chef: ing Uno Tell
+Produktion: Chef: övering Roland
+Friberg
+
+Ekonomiavdelning: Ekonomichef:
+Henrik Hegardt. Kamrer: Arne
+Gustafsson. Personalchef o chef
+för säkerhetstjänsten: Bengt
+Mossberg. Anläggningar o underhåll:
+ing Nils Sjöström
+Etableringsàr: 1847
+Tillhör Boforsgruppen.
+
+NOLS PAPPINDUSTRI AB
+
+Pnr 440 41
+
+Nol. Tel 0303-40174. Bankgiro
+895-6351. Postgiro 289665-2
+Verksamhet: Artiklar av
+konstläder-papp
+
+Antal anstäUda: 5
+Aktiekapital: 5 000
+Verkst dir: Fru Dagny Stockelberg
+Etableringsàr: 1944.
+
+NOLMARK AB, ARNE
+
+Pnr 171 22
+
+Solna 1, Ankdamms g 22. Box 1118.
+Tel 08-82 96 30. Bankgiro 748-7234.
+Postgiro 648370-5. Tga Arnoagent.
+Telex 10659
+
+Verksamhet: Agenturer i
+industriförnödenheter
+Aktiekapital: 5 000
+Verkst dir: A Nolmark
+Etableringsàr: 1964.
+
+NOMINIT AB
+
+Pnr 33100
+
+Värnamo, Jönköpingsv. Tel
+0370-119 30. Telex 70124 NOMINIT S
+
+Verksamhet: Tillverkar nitar av
+olika material o i olika utförande,
+hål- (borrad), ansats-, dubbel- o
+kontaktnit. Kallstukade special-
+
+B 15
+
+449

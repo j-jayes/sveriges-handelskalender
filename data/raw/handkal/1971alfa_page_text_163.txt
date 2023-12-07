@@ -1,300 +1,300 @@
 ERB
-<br/>
-<br/>Antal anställda: 13
-<br/>Årsomsättning: 1500 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Fabr Georg Karlsson
-<br/>Etableringsår. 1945.
-<br/>
-<br/>ENSTRDM &amp; OHLSSON,
-<br/>BYGGNADS AB
-<br/>
-<br/>Pnr 45101
-<br/>
-<br/>Uddevalla 1, Box 394. Kungsg 17.
-<br/>Tel 0522-142 15
-<br/>
-<br/>Verksamhet: Byggnadsentreprenör
-<br/>Antal anställda: 150
-<br/>Årsomsättning: 19000 000
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir: Ing Ake Kleberger
-<br/>Etableringsår: 1951.
-<br/>
-<br/>ENTREPRENADPLANERING
-<br/>AB
-<br/>
-<br/>Pnr 400 62
-<br/>
-<br/>Göteborg 29, Box 29045.
-<br/>Hogen-skildsg 7. Tel 031-80 1140.
-<br/>Bankgiro 108-008. Postgiro 628220-6
-<br/>Verksamhet: Konsulterande
-<br/>ingenjörsbyrå inom VVS-teknik
-<br/>Antal anställda: 14
-<br/>Årsomsättning: 700 000
-<br/>Aktiekapital: 5 000
-<br/>Verkst din Ing Olof Karlson
-<br/>Etableringsår: 1964.
-<br/>
-<br/>ENTREPRENADPRODUKTER
-<br/>SWEDI5H CONSTRUCTION
-<br/>EQUIPMENT, AB
-<br/>
-<br/>Pnr 102 51
-<br/>
-<br/>Stockholm 27. Box 27018. Narvav
-<br/>12. Tel 08-2240 60. Bankgiro
-<br/>72-8131. Postgiro 353860. Tga
-<br/>Abema-stock. Telex 19996
-<br/>Verksamhet: Tillverkar o säljer
-<br/>byggnadsmaterial
-<br/>Aktiekapital: 1000 000
-<br/>Verkst dir: Alf G Lindahl
-<br/>Etableringsår: 1962.
-<br/>
-<br/>ENTREPRENADSTÄD, AB
-<br/>
-<br/>Pnr 183 52
-<br/>
-<br/>Tätø, Kryssarv 17. Tel
-<br/>08-75602 35. Postgiro 270430-2
-<br/>Verksamhet: Utför städning på
-<br/>entreprenad i byggen, kontor m m
-<br/>Antal anställda: 250
-<br/>Årsomsättning: 3 500 000
-<br/>Verkst dir: Alvar Svärling.
-<br/>
-<br/>ENTREPRENORMATERIAL
-<br/>ABEMA, AB
-<br/>
-<br/>Pnr 102 51
-<br/>
-<br/>Stockholm 27, Narvav 12. Box
-<br/>27018. Tel 08-2240 60. Bankgiro
-<br/>72-8077. Postgiro 1775. Telex
-<br/>19996. Tga Abemastock
-<br/>Verksamhet: Material för hus- o
-<br/>industribyggnader
-<br/>Antal anställda: 30
-<br/>Aktiekapital: 1 93 2 000
-<br/>Verkst dir: Jur kand Alf G
-<br/>Lindahl
-<br/>
-<br/>Etableringsår: 1954.
-<br/>
-<br/>ENVALL, AB BRÖDERNA
-<br/>
-<br/>Pnr 710 41
-<br/>
-<br/>Fellingsbro, Box 81. Tel
-<br/>0589-20525. Bankgiro 81-8507. Postgiro
-<br/>23136. Tga Envallbröderna
-<br/>Verksamhet: Projektering, leverans
-<br/>o montage av transport-, kross- o
-<br/>sorteringsanläggningar för gruvor,
-<br/>
-<br/>järnbruk, kem tekn industri etc
-<br/>Avdelningskontor för transport-,
-<br/>kross- o sorteringsanläggningar:
-<br/>
-<br/>70112 Cfrebro, Oskarsparken 1. Tel
-<br/>
-<br/>019-124970
-<br/>
-<br/>Antal anställda: 110
-<br/>
-<br/>Årsomsättning: 10 000 000
-<br/>
-<br/>Aktiekapital: 300 000
-<br/>
-<br/>Styrelse: Ing Bengt Envall (ordf),
-<br/>
-<br/>disp Karl Axel Envall, dir-ass L M
-<br/>
-<br/>Envall
-<br/>
-<br/>Verkst dir: Karl Axel Envall
-<br/>Etableringsår: 1907.
-<br/>
-<br/>ENWEX AB
-<br/>
-<br/>Pnr 44101
-<br/>
-<br/>Alingsås 1. Afzelii v 37. Box 181.
-<br/>Tel 0322-119 80, 118 94. Bankgiro
-<br/>88-9756. Postgiro 360165
-<br/>Verksamhet: Tillverkar hatthyllor o
-<br/>klädställ för tak- o golvmontage
-<br/>med patenterat
-<br/>klädupphängnings-system (Enwex Kulgalge-Galgen
-<br/>som inte faller): Varunamn Enwex.
-<br/>Arbetsbockar. Rörspett: Varunamn
-<br/>Praktic
-<br/>
-<br/>Fabrik: Alingsås, Borgmästarev.
-<br/>Tel 0322-119 80, 118 94
-<br/>Varunamn: Enwex, Praktic
-<br/>Aktiekapital: 153 100
-<br/>Styrelseordf: Civiling H Norberg
-<br/>Verkst dir: Civiling H Norberg
-<br/>Etableringsår: 1947.
-<br/>
-<br/>ENÅ SNICKERIFABRIK AB
-<br/>
-<br/>Pnr 79400
-<br/>
-<br/>Orsa, Box 6. Tel 0250-40078.
-<br/>Bankgiro 469-6738. Postgiro
-<br/>96407-2
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>
-<br/>byggnadssnickerier
-<br/>
-<br/>Antal anställda: 4
-<br/>
-<br/>Årsomsättning: 200 000
-<br/>
-<br/>Aktiekapital: 10 400
-<br/>
-<br/>Verkst dir: Fabr Holger Persson
-<br/>
-<br/>Etableringsår 1903.
-<br/>
-<br/>EOL, AB
-<br/>
-<br/>Pnr 412 76
-<br/>
-<br/>Göteborg, Mejerig 1. Tel 409000,
-<br/>riks 031-40 91 00. Tga Eolbolaget.
-<br/>Telex 2245
-<br/>
-<br/>Verksamhet: Livsmedel, textil, järn
-<br/>o husgeråd m m i parti
-<br/>Antal anställda: 1416
-<br/>Årsomsättning: 1225 000 000
-<br/>Aktiekapital: 13 000 000
-<br/>Verkst dir: Erie Ofverström
-<br/>Etableringsår: 1938.
-<br/>
-<br/>EOS TRYCKERIERNA
-<br/>ENGWALL &amp; STRÅHLE AB
-<br/>
-<br/>Pnr 103 65
-<br/>
-<br/>Stockholm 3, Box 3276. Sveav
-<br/>35-37. Tel 08-2313 55
-<br/>Verksamhet: Boktryckeri, offset,
-<br/>reklam, reklamtryck, tidskrifter
-<br/>Antal anställda: 40
-<br/>Årsomsättning: 2 800 000
-<br/>Verkst dir: Gösta Andersson
-<br/>Etableringsår: 1919.
-<br/>
-<br/>EPECO AB
-<br/>
-<br/>Pnr 104 62
-<br/>
-<br/>Stockholm 17, Krukmakarg 3. Box
-<br/>17056. Tel 08-6901 15. Bankgiro
-<br/>44-6 953. Postgiro 3708. Tga A gency
-<br/>Direktion: Tideliusg 42
-<br/>Verksamhet: Agent, importör o
-<br/>distributör för märkesvaror inom livs-
-<br/>
-<br/>medels-, kem tekn- o
-<br/>parfymeribranscherna
-<br/>Antal anställda: 35
-<br/>Årsomsättning: 7 000000
-<br/>Aktiekapital: 1 000000
-<br/>Styrelse: Ambassadör Gösta
-<br/>Engzell (ordf), kommerserådet Holger
-<br/>Bergenheim, adv Sven Janzon, dir
-<br/>Lennart Söderström
-<br/>Verkst dir: Holger Bergenheim
-<br/>Etableringsår: 1930.
-<br/>
-<br/>EPEGE-TRYCKERIERNA AB
-<br/>
-<br/>Pnr 11661
-<br/>
-<br/>Stockholm SO, Ringv 86. Tel
-<br/>08-44 08 80. Bankgiro 33-2185.
-<br/>Postgiro 57734
-<br/>
-<br/>Verksamhet: Boktryck o offset,
-<br/>mestadels färgreklam
-<br/>Antal anställda: 25
-<br/>Årsomsättning: 2 200 000
-<br/>Aktiekapital: 150 000
-<br/>Etableringsår: 1941.
-<br/>
-<br/>EPOX KOMMANDITBOLAG
-<br/>
-<br/>Pnr 413 10
-<br/>
-<br/>Göteborg, Linnëplatsen 3. Tel
-<br/>031-13 6133. Bankgiro 50-0438.
-<br/>Postgiro 620492. Tga Debroen
-<br/>Verksamhet: Importerar o säljer
-<br/>textilråvaror, garner,
-<br/>byggnadsmaterial m m
-<br/>
-<br/>Årsomsättning: 3 000 000
-<br/>Chef: J H de Broen
-<br/>Etableringsår: 1959.
-<br/>
-<br/>ER AG HANDELS-AB
-<br/>
-<br/>Pnr 111 22
-<br/>
-<br/>Stockholm, Kungsg 65. Tel
-<br/>08-21 18 13, 2122 52. Bankgiro
-<br/>700-2108. Postgiro 191310-2. Tga
-<br/>Er agentur
-<br/>
-<br/>Verksamhet: Grosshandel: tillbehör
-<br/>o verktyg för glasmästeri o
-<br/>ramaffärer, skjutdörrsbeslag
-<br/>’Anticoro-dal’ o ’Delphin’, metallprofiler,
-<br/>’Chandos’ glasskärdiamanter,
-<br/>inramningsartiklar o glasmålningar
-<br/>Antal anställda: 5
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir. Regina Töreman
-<br/>Etableringsår: 1960.
-<br/>
-<br/>ERAG HÄNDELS- &amp;
-<br/>AGENTURFIRMA
-<br/>
-<br/>Pnr 11122
-<br/>
-<br/>Stockholm, Kungsg 65. Tel
-<br/>08-21 22 52, 2118 13. Tga Er agentur
-<br/>Verksamhet: Glasagenturer
-<br/>Verkst dir: Egon Rauch
-<br/>Etableringsår: 1942.
-<br/>
-<br/>ERBINGS MASKINAFFÄR, AB
-<br/>
-<br/>Pnr 103 42
-<br/>
-<br/>Stockholm 40, Sveav 17. Box 40068.
-<br/>Tel 08-23 18 85. Bankgiro 57-9723.
-<br/>Postgiro 3271. Tga Erbing.
-<br/>Telex 19158
-<br/>
-<br/>Verksamhet: Elektr maskiner o
-<br/>apparater, kablar, isolationsmaterial
-<br/>m m
-<br/>
-<br/>Varunamn: Davenset, Fanal, F &amp; G
-<br/>Kabelwerke, Himmelwerk, H-Trieb,
-<br/>Neptundraht, Ohio Brass, Permali,
-<br/>Gustav Eriksson, V Kaick
-<br/>Antal anställda: 12
-<br/>Aktiekapital: 120 000
-<br/>Verkst dir: Civiling S Meiton
-<br/>
-<br/>161
+
+Antal anställda: 13
+Årsomsättning: 1500 000
+Aktiekapital: 100 000
+Verkst dir: Fabr Georg Karlsson
+Etableringsår. 1945.
+
+ENSTRDM &amp; OHLSSON,
+BYGGNADS AB
+
+Pnr 45101
+
+Uddevalla 1, Box 394. Kungsg 17.
+Tel 0522-142 15
+
+Verksamhet: Byggnadsentreprenör
+Antal anställda: 150
+Årsomsättning: 19000 000
+Aktiekapital: 75 000
+Verkst dir: Ing Ake Kleberger
+Etableringsår: 1951.
+
+ENTREPRENADPLANERING
+AB
+
+Pnr 400 62
+
+Göteborg 29, Box 29045.
+Hogen-skildsg 7. Tel 031-80 1140.
+Bankgiro 108-008. Postgiro 628220-6
+Verksamhet: Konsulterande
+ingenjörsbyrå inom VVS-teknik
+Antal anställda: 14
+Årsomsättning: 700 000
+Aktiekapital: 5 000
+Verkst din Ing Olof Karlson
+Etableringsår: 1964.
+
+ENTREPRENADPRODUKTER
+SWEDI5H CONSTRUCTION
+EQUIPMENT, AB
+
+Pnr 102 51
+
+Stockholm 27. Box 27018. Narvav
+12. Tel 08-2240 60. Bankgiro
+72-8131. Postgiro 353860. Tga
+Abema-stock. Telex 19996
+Verksamhet: Tillverkar o säljer
+byggnadsmaterial
+Aktiekapital: 1000 000
+Verkst dir: Alf G Lindahl
+Etableringsår: 1962.
+
+ENTREPRENADSTÄD, AB
+
+Pnr 183 52
+
+Tätø, Kryssarv 17. Tel
+08-75602 35. Postgiro 270430-2
+Verksamhet: Utför städning på
+entreprenad i byggen, kontor m m
+Antal anställda: 250
+Årsomsättning: 3 500 000
+Verkst dir: Alvar Svärling.
+
+ENTREPRENORMATERIAL
+ABEMA, AB
+
+Pnr 102 51
+
+Stockholm 27, Narvav 12. Box
+27018. Tel 08-2240 60. Bankgiro
+72-8077. Postgiro 1775. Telex
+19996. Tga Abemastock
+Verksamhet: Material för hus- o
+industribyggnader
+Antal anställda: 30
+Aktiekapital: 1 93 2 000
+Verkst dir: Jur kand Alf G
+Lindahl
+
+Etableringsår: 1954.
+
+ENVALL, AB BRÖDERNA
+
+Pnr 710 41
+
+Fellingsbro, Box 81. Tel
+0589-20525. Bankgiro 81-8507. Postgiro
+23136. Tga Envallbröderna
+Verksamhet: Projektering, leverans
+o montage av transport-, kross- o
+sorteringsanläggningar för gruvor,
+
+järnbruk, kem tekn industri etc
+Avdelningskontor för transport-,
+kross- o sorteringsanläggningar:
+
+70112 Cfrebro, Oskarsparken 1. Tel
+
+019-124970
+
+Antal anställda: 110
+
+Årsomsättning: 10 000 000
+
+Aktiekapital: 300 000
+
+Styrelse: Ing Bengt Envall (ordf),
+
+disp Karl Axel Envall, dir-ass L M
+
+Envall
+
+Verkst dir: Karl Axel Envall
+Etableringsår: 1907.
+
+ENWEX AB
+
+Pnr 44101
+
+Alingsås 1. Afzelii v 37. Box 181.
+Tel 0322-119 80, 118 94. Bankgiro
+88-9756. Postgiro 360165
+Verksamhet: Tillverkar hatthyllor o
+klädställ för tak- o golvmontage
+med patenterat
+klädupphängnings-system (Enwex Kulgalge-Galgen
+som inte faller): Varunamn Enwex.
+Arbetsbockar. Rörspett: Varunamn
+Praktic
+
+Fabrik: Alingsås, Borgmästarev.
+Tel 0322-119 80, 118 94
+Varunamn: Enwex, Praktic
+Aktiekapital: 153 100
+Styrelseordf: Civiling H Norberg
+Verkst dir: Civiling H Norberg
+Etableringsår: 1947.
+
+ENÅ SNICKERIFABRIK AB
+
+Pnr 79400
+
+Orsa, Box 6. Tel 0250-40078.
+Bankgiro 469-6738. Postgiro
+96407-2
+
+Verksamhet: Tillverkar o säljer
+
+byggnadssnickerier
+
+Antal anställda: 4
+
+Årsomsättning: 200 000
+
+Aktiekapital: 10 400
+
+Verkst dir: Fabr Holger Persson
+
+Etableringsår 1903.
+
+EOL, AB
+
+Pnr 412 76
+
+Göteborg, Mejerig 1. Tel 409000,
+riks 031-40 91 00. Tga Eolbolaget.
+Telex 2245
+
+Verksamhet: Livsmedel, textil, järn
+o husgeråd m m i parti
+Antal anställda: 1416
+Årsomsättning: 1225 000 000
+Aktiekapital: 13 000 000
+Verkst dir: Erie Ofverström
+Etableringsår: 1938.
+
+EOS TRYCKERIERNA
+ENGWALL &amp; STRÅHLE AB
+
+Pnr 103 65
+
+Stockholm 3, Box 3276. Sveav
+35-37. Tel 08-2313 55
+Verksamhet: Boktryckeri, offset,
+reklam, reklamtryck, tidskrifter
+Antal anställda: 40
+Årsomsättning: 2 800 000
+Verkst dir: Gösta Andersson
+Etableringsår: 1919.
+
+EPECO AB
+
+Pnr 104 62
+
+Stockholm 17, Krukmakarg 3. Box
+17056. Tel 08-6901 15. Bankgiro
+44-6 953. Postgiro 3708. Tga A gency
+Direktion: Tideliusg 42
+Verksamhet: Agent, importör o
+distributör för märkesvaror inom livs-
+
+medels-, kem tekn- o
+parfymeribranscherna
+Antal anställda: 35
+Årsomsättning: 7 000000
+Aktiekapital: 1 000000
+Styrelse: Ambassadör Gösta
+Engzell (ordf), kommerserådet Holger
+Bergenheim, adv Sven Janzon, dir
+Lennart Söderström
+Verkst dir: Holger Bergenheim
+Etableringsår: 1930.
+
+EPEGE-TRYCKERIERNA AB
+
+Pnr 11661
+
+Stockholm SO, Ringv 86. Tel
+08-44 08 80. Bankgiro 33-2185.
+Postgiro 57734
+
+Verksamhet: Boktryck o offset,
+mestadels färgreklam
+Antal anställda: 25
+Årsomsättning: 2 200 000
+Aktiekapital: 150 000
+Etableringsår: 1941.
+
+EPOX KOMMANDITBOLAG
+
+Pnr 413 10
+
+Göteborg, Linnëplatsen 3. Tel
+031-13 6133. Bankgiro 50-0438.
+Postgiro 620492. Tga Debroen
+Verksamhet: Importerar o säljer
+textilråvaror, garner,
+byggnadsmaterial m m
+
+Årsomsättning: 3 000 000
+Chef: J H de Broen
+Etableringsår: 1959.
+
+ER AG HANDELS-AB
+
+Pnr 111 22
+
+Stockholm, Kungsg 65. Tel
+08-21 18 13, 2122 52. Bankgiro
+700-2108. Postgiro 191310-2. Tga
+Er agentur
+
+Verksamhet: Grosshandel: tillbehör
+o verktyg för glasmästeri o
+ramaffärer, skjutdörrsbeslag
+’Anticoro-dal’ o ’Delphin’, metallprofiler,
+’Chandos’ glasskärdiamanter,
+inramningsartiklar o glasmålningar
+Antal anställda: 5
+Aktiekapital: 5 000
+Verkst dir. Regina Töreman
+Etableringsår: 1960.
+
+ERAG HÄNDELS- &amp;
+AGENTURFIRMA
+
+Pnr 11122
+
+Stockholm, Kungsg 65. Tel
+08-21 22 52, 2118 13. Tga Er agentur
+Verksamhet: Glasagenturer
+Verkst dir: Egon Rauch
+Etableringsår: 1942.
+
+ERBINGS MASKINAFFÄR, AB
+
+Pnr 103 42
+
+Stockholm 40, Sveav 17. Box 40068.
+Tel 08-23 18 85. Bankgiro 57-9723.
+Postgiro 3271. Tga Erbing.
+Telex 19158
+
+Verksamhet: Elektr maskiner o
+apparater, kablar, isolationsmaterial
+m m
+
+Varunamn: Davenset, Fanal, F &amp; G
+Kabelwerke, Himmelwerk, H-Trieb,
+Neptundraht, Ohio Brass, Permali,
+Gustav Eriksson, V Kaick
+Antal anställda: 12
+Aktiekapital: 120 000
+Verkst dir: Civiling S Meiton
+
+161

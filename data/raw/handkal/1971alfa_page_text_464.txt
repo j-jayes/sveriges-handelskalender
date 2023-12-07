@@ -1,279 +1,279 @@
 NOR
-<br/>
-<br/>Verksamhet: Kreditupplysningar o
-<br/>inkassouppdrag
-<br/>
-<br/>Styrelse: Bankdir Folke
-<br/>Linde-ström (ordf), dir James Johanson,
-<br/>konsul Gösta Mossberg
-<br/>Kamrer: Erik Sjöberg
-<br/>Etableringsår: 1907.
-<br/>
-<br/>NORRKOPINGS MARKIS- &amp;
-<br/>PRESENNINGSFABRIK
-<br/>
-<br/>Pnr 602 20
-<br/>
-<br/>Norrköping, Kungsg 12. Tel
-<br/>011-12 66 44, 13 8140. Bankgiro
-<br/>610-0358. Postgiro 373883-8
-<br/>Verksamhet: Tillverkar o säljer
-<br/>markiser, mörkrumsanläggningar,
-<br/>skyddsdraperier med tillbehör m m
-<br/>Årsomsättning: 275 000
-<br/>Chef: Fabr Göte Lagerqvist
-<br/>Etableringsår: 1966.
-<br/>
-<br/>NORRKOPINGS MEK
-<br/>VERKSTAD
-<br/>
-<br/>Pnr 600 12
-<br/>
-<br/>Norrköping 12, Vagng 15. Box
-<br/>12054. Tel "011-18 02 55. Bankgiro
-<br/>609-9949. Postgiro 297549-8
-<br/>Verksamhet: Tillverkar
-<br/>verktygs-slipmaskiner, tygläggningsmaskiner
-<br/>o specialmaskiner. Legotillverkning.
-<br/>Dränkbara länspumpar
-<br/>Antal anställda: 70
-<br/>Årsomsättning: 4 000 000
-<br/>Verkst dir: Fabr Stig Trybom
-<br/>Kamrer: Gunnar Östergren
-<br/>Etableringsår: 1945.
-<br/>
-<br/>NORRKOPINGS NYA
-<br/>GRAVMASKINS AB
-<br/>
-<br/>Pnr 602 29
-<br/>
-<br/>Norrköping, Gustav Adolfsg 21. Tel
-<br/>011-18 0140. Postgiro 464826
-<br/>Verksamhet: Schaktnings- o
-<br/>planeringsarbeten
-<br/>Antal anställda: 11
-<br/>Årsomsättning: 850 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Stig Andersson
-<br/>Etableringsår: 1962.
-<br/>
-<br/>NORRKOPINGS REM- &amp;
-<br/>SKIDSTAVSFABRIK
-<br/>
-<br/>Pnr 600 03
-<br/>
-<br/>Norrköping3, Kungsg 34. Box 3055.
-<br/>Tel 011-12 16 26. Postgiro 85380.
-<br/>Tga Remfabriken
-<br/>
-<br/>Verksamhet: Tillverkar drivremmar
-<br/>alla slag samt skidstavar. Säljer
-<br/>remmar, skidstavar o tennisrackets
-<br/>Antal anställda: 5
-<br/>Årsomsättning: 150 000
-<br/>Ägare o chef: Arne Kock
-<br/>Etableringsår: 1924.
-<br/>
-<br/>NORRKOPINGS SKEPPS.
-<br/>FOURNERING, AB
-<br/>
-<br/>Pnr 601 03
-<br/>
-<br/>Norrköping 1, Box 101. Flemingg
-<br/>30. Tel 011-12 06 74, 12 06 56.
-<br/>Bankgiro 824-3479. Postgiro
-<br/>79700-1
-<br/>
-<br/>Verksamhet: Säljer båttillbehör.
-<br/>Industriförnödenheter
-<br/>Aktiekapital: 90 000
-<br/>Etableringsår: 1914.
-<br/>
-<br/>NORRKOPINGS SODA.
-<br/>FABRIKS AB
-<br/>
-<br/>Pnr 601 05
-<br/>
-<br/>Norrköping 1, Flemingg 22.Box440.
-<br/>Tel 011-12 02 22, 12 02 94. Bankgiro
-<br/>12-5117. Postgiro 21326. Tga
-<br/>Sodafabriken
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>kristallsoda, kem ren soda, färgkritor,
-<br/>akvarellfärger, märkkritor o ljus
-<br/>Aktiekapital: 150 000
-<br/>Verkst dir: Stig Appeltofft
-<br/>Etableringsår: 1892.
-<br/>
-<br/>NORRKOPINGS SPRUT.
-<br/>BETONG
-<br/>
-<br/>Pnr 605 90
-<br/>
-<br/>Non-köping, Kärrv 5, Dagsberg. Tel
-<br/>011-402 89. Bankgiro 18-4016.
-<br/>Postgiro 685174. Tga Norrsprut
-<br/>Verksamhet: Generalagent för
-<br/>Kley-ers plastpooler o tillbehör
-<br/>Antal anställda: 6
-<br/>Årsomsättning: 250 000
-<br/>Chef: Betongsprutare Agne
-<br/>Ståhl-roos
-<br/>
-<br/>Etableringsår: 1966.
-<br/>
-<br/>NORRKUPINGS STEN.
-<br/>INDUSTRI AB
-<br/>
-<br/>Pnr 603 63
-<br/>
-<br/>Norrköping, Torsg 7. Tel
-<br/>011-22 13 80. Bankgiro 986-2996.
-<br/>Postgiro 672115-3
-<br/>Verksamhet: Stenförädling
-<br/>Antal anställda: 6
-<br/>Årsomsättning: 600 000
-<br/>Chef: Fabr Gösta Nilsson
-<br/>Etableringsår: 1965.
-<br/>
-<br/>NORRKOPINGS STUVERI AB
-<br/>
-<br/>Pnr 601 03
-<br/>
-<br/>Norrköping 1, Hospitalsg 75. Box
-<br/>108. Tel 011-12 90 80. Bankgiro
-<br/>609-9980. Postgiro 363876-4.
-<br/>Tga Stuveribolaget
-<br/>Verksamhet: Lossning o lastning av
-<br/>fartyg, båt- o vaktmanstjänst,
-<br/>uthyrning av truckar, lastmaskiner,
-<br/>mobilkranar o presenningar samt
-<br/>wiresplitsning
-<br/>Antal anställda: 221
-<br/>Aktiekapital: 85 000
-<br/>Styrelse: Disp Lars Gabrielson
-<br/>(ordf), konsul Lars Ringborg, dir
-<br/>Hans Hök
-<br/>
-<br/>Verkst dir: Konsul Moody
-<br/>Kling-ström
-<br/>
-<br/>Etableringsår: 1907
-<br/>Dotterbolag: Valdemarsviks
-<br/>Stuveri AB, Valdemarsvik.
-<br/>
-<br/>NORRKUPINGS TIDNINGAR
-<br/>
-<br/>Pnr 601 83
-<br/>
-<br/>Norrköping, Stohagsg 2. Tel
-<br/>OHIO 01 40. Bankgiro 125-0729.
-<br/>Postgiro 28480-2. Telex 64051
-<br/>Avdelningskontor: Finspång,
-<br/>Katrineholm, Skärblacka, Söderköping,
-<br/>Valdemarsvik, Vingåker
-<br/>Verkst dir: Lars Thermaenius
-<br/>Chefred o ansvarig utgivare: Bengt
-<br/>Lundgren
-<br/>
-<br/>Annonschef: Stefan Joëlius
-<br/>Distributionschef: Gunnar Olsson
-<br/>Ekonomichef: Karl Erik Pettersson
-<br/>Etableringsår: 1758.
-<br/>
-<br/>NORRKUPINGS TROTTOAR.
-<br/>PLATTFABRIK, AB
-<br/>
-<br/>Pnr 60103
-<br/>
-<br/>Norrköping 1, Slottsg 33. Box 146.
-<br/>Tel 011-12 94 85. Bankgiro
-<br/>824-5359. Postgiro 95707-6
-<br/>Verksamhet: Tillverkar o säljer
-<br/>gångbaneplattor o kantsten av
-<br/>betong för beläggning på trottoarer,
-<br/>refuger, takterasser, parker,
-<br/>trädgårdar, torg o liknande platser
-<br/>Antal anstäUda: 30
-<br/>Årsomsättning: 2 000 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Georg Larnemark
-<br/>Etableringsår: 1927
-<br/>Ombildat till aktiebolag 1932.
-<br/>
-<br/>NORRKUPINGS
-<br/>TRÄ-IMPORT AB
-<br/>
-<br/>Pnr 60102
-<br/>
-<br/>Norrköping 1, Box 32. Slottsg 2-16.
-<br/>Tel 011-13 44 50. Bankgiro
-<br/>609-9998. Postgiro 9917-6. Tga
-<br/>Träimport. Telex 64139 TRAEIMP S
-<br/>Verksamhet: Handel med råvaror
-<br/>av ädelträ samt faner, plywood, lar
-<br/>mell- o spånplattor. Tillverkning
-<br/>av fanér vid egen fanérfabrik
-<br/>Antal anställda: 85
-<br/>Aktiekapital: 1600 000
-<br/>Verkst dir: Arne Haslum
-<br/>Försälj-chef: Sven Ahlström
-<br/>Etableringsår: 1923
-<br/>Dotterbolag till Skandinaviska
-<br/>Träimport AB, Stockholm.
-<br/>
-<br/>NORRKUPINGS VADD.
-<br/>INDUSTRI AB
-<br/>
-<br/>Pnr 602 23
-<br/>
-<br/>Norrköping, Butängsg 32. Tel
-<br/>Oll-IO 61 50. Bankgiro 125-2618.
-<br/>Postgiro 411879-0
-<br/>
-<br/>Verksamhet: Tillverkar plymåer
-<br/>för möbelindustrin
-<br/>Ägare o chef: Evert Johansson
-<br/>Etableringsår: 1958.
-<br/>
-<br/>NORRLAND CENTER
-<br/>
-<br/>Pnr 11135
-<br/>
-<br/>Stockholm, Kungsg 32. Tel
-<br/>08-23 3070. Bankgiro 16-8217.
-<br/>Post&gt;-giro 403450. Tga Norrcenter
-<br/>Verksamhet: Permanent
-<br/>utställning av i Norrland tillverkade
-<br/>industriprodukter
-<br/>Verkst dir: Vakant
-<br/>Etableringsår: 1966.
-<br/>
-<br/>NORRLANDS BRYGGERIER AB
-<br/>
-<br/>Pnr 902 52
-<br/>
-<br/>Umeå, Skepparg 5. Tel 090-1182 25.
-<br/>Bankgiro 201-5030. Postgiro
-<br/>29326-6
-<br/>
-<br/>Verksamhet: Tillverkar o
-<br/>distribuerar malt- o läskedrycker
-<br/>Antal anstäUda: 134
-<br/>Årsomsättning: 20 582 000
-<br/>Aktiekapital: 600 000
-<br/>Verkst dir: Nils Hedlund
-<br/>Etableringsår: 1890.
-<br/>
-<br/>NORRLANDS BYGGTJÄNST,
-<br/>AB
-<br/>
-<br/>Pnr 902 45
-<br/>
-<br/>Umeå, Kungsg 73. Tel 090-12 59 10
-<br/>Verksamhet: Objektiv information
-<br/>inom byggfacket i Norrland
-<br/>Antal anstäUda: 8
-<br/>
-<br/>462
+
+Verksamhet: Kreditupplysningar o
+inkassouppdrag
+
+Styrelse: Bankdir Folke
+Linde-ström (ordf), dir James Johanson,
+konsul Gösta Mossberg
+Kamrer: Erik Sjöberg
+Etableringsår: 1907.
+
+NORRKOPINGS MARKIS- &amp;
+PRESENNINGSFABRIK
+
+Pnr 602 20
+
+Norrköping, Kungsg 12. Tel
+011-12 66 44, 13 8140. Bankgiro
+610-0358. Postgiro 373883-8
+Verksamhet: Tillverkar o säljer
+markiser, mörkrumsanläggningar,
+skyddsdraperier med tillbehör m m
+Årsomsättning: 275 000
+Chef: Fabr Göte Lagerqvist
+Etableringsår: 1966.
+
+NORRKOPINGS MEK
+VERKSTAD
+
+Pnr 600 12
+
+Norrköping 12, Vagng 15. Box
+12054. Tel "011-18 02 55. Bankgiro
+609-9949. Postgiro 297549-8
+Verksamhet: Tillverkar
+verktygs-slipmaskiner, tygläggningsmaskiner
+o specialmaskiner. Legotillverkning.
+Dränkbara länspumpar
+Antal anställda: 70
+Årsomsättning: 4 000 000
+Verkst dir: Fabr Stig Trybom
+Kamrer: Gunnar Östergren
+Etableringsår: 1945.
+
+NORRKOPINGS NYA
+GRAVMASKINS AB
+
+Pnr 602 29
+
+Norrköping, Gustav Adolfsg 21. Tel
+011-18 0140. Postgiro 464826
+Verksamhet: Schaktnings- o
+planeringsarbeten
+Antal anställda: 11
+Årsomsättning: 850 000
+Aktiekapital: 50 000
+Verkst dir: Stig Andersson
+Etableringsår: 1962.
+
+NORRKOPINGS REM- &amp;
+SKIDSTAVSFABRIK
+
+Pnr 600 03
+
+Norrköping3, Kungsg 34. Box 3055.
+Tel 011-12 16 26. Postgiro 85380.
+Tga Remfabriken
+
+Verksamhet: Tillverkar drivremmar
+alla slag samt skidstavar. Säljer
+remmar, skidstavar o tennisrackets
+Antal anställda: 5
+Årsomsättning: 150 000
+Ägare o chef: Arne Kock
+Etableringsår: 1924.
+
+NORRKOPINGS SKEPPS.
+FOURNERING, AB
+
+Pnr 601 03
+
+Norrköping 1, Box 101. Flemingg
+30. Tel 011-12 06 74, 12 06 56.
+Bankgiro 824-3479. Postgiro
+79700-1
+
+Verksamhet: Säljer båttillbehör.
+Industriförnödenheter
+Aktiekapital: 90 000
+Etableringsår: 1914.
+
+NORRKOPINGS SODA.
+FABRIKS AB
+
+Pnr 601 05
+
+Norrköping 1, Flemingg 22.Box440.
+Tel 011-12 02 22, 12 02 94. Bankgiro
+12-5117. Postgiro 21326. Tga
+Sodafabriken
+
+Verksamhet: Tillverkar
+kristallsoda, kem ren soda, färgkritor,
+akvarellfärger, märkkritor o ljus
+Aktiekapital: 150 000
+Verkst dir: Stig Appeltofft
+Etableringsår: 1892.
+
+NORRKOPINGS SPRUT.
+BETONG
+
+Pnr 605 90
+
+Non-köping, Kärrv 5, Dagsberg. Tel
+011-402 89. Bankgiro 18-4016.
+Postgiro 685174. Tga Norrsprut
+Verksamhet: Generalagent för
+Kley-ers plastpooler o tillbehör
+Antal anställda: 6
+Årsomsättning: 250 000
+Chef: Betongsprutare Agne
+Ståhl-roos
+
+Etableringsår: 1966.
+
+NORRKUPINGS STEN.
+INDUSTRI AB
+
+Pnr 603 63
+
+Norrköping, Torsg 7. Tel
+011-22 13 80. Bankgiro 986-2996.
+Postgiro 672115-3
+Verksamhet: Stenförädling
+Antal anställda: 6
+Årsomsättning: 600 000
+Chef: Fabr Gösta Nilsson
+Etableringsår: 1965.
+
+NORRKOPINGS STUVERI AB
+
+Pnr 601 03
+
+Norrköping 1, Hospitalsg 75. Box
+108. Tel 011-12 90 80. Bankgiro
+609-9980. Postgiro 363876-4.
+Tga Stuveribolaget
+Verksamhet: Lossning o lastning av
+fartyg, båt- o vaktmanstjänst,
+uthyrning av truckar, lastmaskiner,
+mobilkranar o presenningar samt
+wiresplitsning
+Antal anställda: 221
+Aktiekapital: 85 000
+Styrelse: Disp Lars Gabrielson
+(ordf), konsul Lars Ringborg, dir
+Hans Hök
+
+Verkst dir: Konsul Moody
+Kling-ström
+
+Etableringsår: 1907
+Dotterbolag: Valdemarsviks
+Stuveri AB, Valdemarsvik.
+
+NORRKUPINGS TIDNINGAR
+
+Pnr 601 83
+
+Norrköping, Stohagsg 2. Tel
+OHIO 01 40. Bankgiro 125-0729.
+Postgiro 28480-2. Telex 64051
+Avdelningskontor: Finspång,
+Katrineholm, Skärblacka, Söderköping,
+Valdemarsvik, Vingåker
+Verkst dir: Lars Thermaenius
+Chefred o ansvarig utgivare: Bengt
+Lundgren
+
+Annonschef: Stefan Joëlius
+Distributionschef: Gunnar Olsson
+Ekonomichef: Karl Erik Pettersson
+Etableringsår: 1758.
+
+NORRKUPINGS TROTTOAR.
+PLATTFABRIK, AB
+
+Pnr 60103
+
+Norrköping 1, Slottsg 33. Box 146.
+Tel 011-12 94 85. Bankgiro
+824-5359. Postgiro 95707-6
+Verksamhet: Tillverkar o säljer
+gångbaneplattor o kantsten av
+betong för beläggning på trottoarer,
+refuger, takterasser, parker,
+trädgårdar, torg o liknande platser
+Antal anstäUda: 30
+Årsomsättning: 2 000 000
+Aktiekapital: 100 000
+Verkst dir: Georg Larnemark
+Etableringsår: 1927
+Ombildat till aktiebolag 1932.
+
+NORRKUPINGS
+TRÄ-IMPORT AB
+
+Pnr 60102
+
+Norrköping 1, Box 32. Slottsg 2-16.
+Tel 011-13 44 50. Bankgiro
+609-9998. Postgiro 9917-6. Tga
+Träimport. Telex 64139 TRAEIMP S
+Verksamhet: Handel med råvaror
+av ädelträ samt faner, plywood, lar
+mell- o spånplattor. Tillverkning
+av fanér vid egen fanérfabrik
+Antal anställda: 85
+Aktiekapital: 1600 000
+Verkst dir: Arne Haslum
+Försälj-chef: Sven Ahlström
+Etableringsår: 1923
+Dotterbolag till Skandinaviska
+Träimport AB, Stockholm.
+
+NORRKUPINGS VADD.
+INDUSTRI AB
+
+Pnr 602 23
+
+Norrköping, Butängsg 32. Tel
+Oll-IO 61 50. Bankgiro 125-2618.
+Postgiro 411879-0
+
+Verksamhet: Tillverkar plymåer
+för möbelindustrin
+Ägare o chef: Evert Johansson
+Etableringsår: 1958.
+
+NORRLAND CENTER
+
+Pnr 11135
+
+Stockholm, Kungsg 32. Tel
+08-23 3070. Bankgiro 16-8217.
+Post&gt;-giro 403450. Tga Norrcenter
+Verksamhet: Permanent
+utställning av i Norrland tillverkade
+industriprodukter
+Verkst dir: Vakant
+Etableringsår: 1966.
+
+NORRLANDS BRYGGERIER AB
+
+Pnr 902 52
+
+Umeå, Skepparg 5. Tel 090-1182 25.
+Bankgiro 201-5030. Postgiro
+29326-6
+
+Verksamhet: Tillverkar o
+distribuerar malt- o läskedrycker
+Antal anstäUda: 134
+Årsomsättning: 20 582 000
+Aktiekapital: 600 000
+Verkst dir: Nils Hedlund
+Etableringsår: 1890.
+
+NORRLANDS BYGGTJÄNST,
+AB
+
+Pnr 902 45
+
+Umeå, Kungsg 73. Tel 090-12 59 10
+Verksamhet: Objektiv information
+inom byggfacket i Norrland
+Antal anstäUda: 8
+
+462

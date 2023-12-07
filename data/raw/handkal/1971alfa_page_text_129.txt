@@ -1,291 +1,291 @@
 DAL
-<br/>
-<br/>DAHLBERG &amp; CO,
-<br/>TRYCKERI AB
-<br/>
-<br/>Pnr 104 60
-<br/>
-<br/>Stockholm 20, Hammarby Fabriksv
-<br/>29-31. Tel 08-44 07 00. Bankgiro
-<br/>73-3802. Postgiro 151880
-<br/>Verksamhet: Boktryck, offset o
-<br/>reklam
-<br/>
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir: Gustav Dahlberg
-<br/>Etableringsår: 1937.
-<br/>
-<br/>DAHLBERGS GROSSHANDELS
-<br/>AB, EDE- BOLAGET ERIK
-<br/>
-<br/>Pnr 85102
-<br/>
-<br/>Sundsvall 1, Box 65. Trafikg 54.
-<br/>Tel 060-11 12 13. 11 34 54.
-<br/>Bankgiro 180-0366. Postgiro 86949-5
-<br/>Verksamhet: Säljer livsmedel
-<br/>engros för bl a storkök, även
-<br/>djupfrysta. Specialitet: konfektyrer
-<br/>Antal anställda: 15
-<br/>Årsomsättning: 13 000000
-<br/>Aktiekapital: 200 000
-<br/>Verkst dir: Erik Dahlberg
-<br/>V verkst dir: Carl-Erik Dahlberg
-<br/>Etableringsår: 1892.
-<br/>
-<br/>DAHLBERG AB, J O
-<br/>
-<br/>Pnr 872 01
-<br/>
-<br/>Kramfors 1, Box 205. Tel
-<br/>0612-114 40. Bankgiro 76-9506. Postgiro
-<br/>274967. Telex 71022
-<br/>Verksamhet: Tillverkar köksskåp o
-<br/>garderobsinredningar
-<br/>Antal anställda: 150
-<br/>Årsomsättning: 10 000 000
-<br/>Aktiekapital: 500000
-<br/>Verkst dir: Georg Dahlberg
-<br/>Etableringsår: 1925.
-<br/>
-<br/>DAHLBERGS VERKSTÄDER,
-<br/>AB M
-<br/>
-<br/>Pnr 890 50
-<br/>
-<br/>Björna, Pack 14. Tel 0662-100 08.
-<br/>Bankgiro 77-2304. Postgiro 62417.
-<br/>Tga Dahlbergs
-<br/>
-<br/>Verksamhet: Grövre smiden,
-<br/>lastbilssläpvagnar o brobaneräcken
-<br/>Antal anställda: 9
-<br/>Årsomsättning: 100 000
-<br/>Aktiekapital: 31000
-<br/>Verkst dir: S Dahlberg
-<br/>Etableringsår: 1921.
-<br/>
-<br/>DAHLBERG, AB SEVERIN
-<br/>
-<br/>Pnr 112 20
-<br/>
-<br/>Stockholm, N Mälarstrand 8-10.
-<br/>Tel 08-24 08 40, 54 93 00. Bankgiro
-<br/>73-4063. Postgiro 1580
-<br/>Veiksamhet: Säljer
-<br/>träimpregne-ringsmedel o plastpresenningar
-<br/>Aktiekapital: 65 000
-<br/>Verkst dir: Lars-Erik Björkman
-<br/>Etableringsår: 1880.
-<br/>
-<br/>DALBYVERKEN H LINSE &amp; CO
-<br/>
-<br/>Pnr 212 28
-<br/>
-<br/>Malmö, Singelg6. Tel 040-93 50 20.
-<br/>Bankgiro 651-2156. Postgiro
-<br/>431186-6
-<br/>
-<br/>Verksamhet: Säljer fabriksblandad
-<br/>betong o makadam
-<br/>Etableringsår: 1946.
-<br/>
-<br/>DAHLÉN &amp; CO JÄRN AB
-<br/>
-<br/>Pnr 41117
-<br/>
-<br/>Göteborg, V Hamng 13. Tel 031-
-<br/>
-<br/>11 04 3 0. 1173 80. Bankgiro
-<br/>848-3414. Postgiro 428205-9. Tga
-<br/>Dal-steel. Telex 21184 DAHLÉN S
-<br/>Verksamhet: Säljer järn engros,
-<br/>plåt, varm- o kallvalsad
-<br/>Aktiekapital: 100000
-<br/>Firmatecknare: Arne Dahlén, Bror
-<br/>Hagelin
-<br/>
-<br/>Etableringsår: 1953.
-<br/>
-<br/>DAHL ENS
-<br/>FÅTÖLJ-INDUSTRI, AB
-<br/>
-<br/>Pnr 520 25
-<br/>
-<br/>Dalum, Box 142. Tel 0321-320 82,
-<br/>32070. Bankgiro 84-3316.
-<br/>Postgiro 282527. Tga Dahlénmöbler
-<br/>Verksamhet: Stoppmöbler.
-<br/>Special-tillverkar roterande fåtöljer
-<br/>stoppade på stålrörsstommar
-<br/>Antal anställda: 30
-<br/>Årsomsättning: 2 000 000
-<br/>Aktiekapital: 75000
-<br/>Ägare o chefer: Arne Dahlén,
-<br/>Sten-Ebbe Dahlén
-<br/>Etableringsår: 1944.
-<br/>
-<br/>DALEN, REDERI AB
-<br/>
-<br/>Pnr 402 32
-<br/>
-<br/>Göteborg 7, Box 7077. N Allég 2.
-<br/>Tel 031-17 15 15. Bankgiro 50-1060.
-<br/>Postgiro 520970. Telex 2397. Tga
-<br/>Daltank
-<br/>
-<br/>Verksamhet: Rederirörelse
-<br/>Antal anställda: 108
-<br/>Årsomsättning: 22 200 000
-<br/>Aktiekapital: 300 000
-<br/>Verkst dir: T W Brath
-<br/>Etableringsår: 1940.
-<br/>
-<br/>DAHLGRENS
-<br/>REVISIONSBYRÅ AB
-<br/>
-<br/>Pnr 104 32
-<br/>
-<br/>Stockholm 19, Rådmansg 46. Box
-<br/>19018. Tel 08-2343 20. Bankgiro
-<br/>196-0590. Postgiro 50742-6. Tga
-<br/>
-<br/>Revis
-<br/>
-<br/>Verksamhet: Detaljgranskning o
-<br/>revision. Ekonomiska utredningar
-<br/>Antal anställda: 20
-<br/>Årsomsättning: 2 400 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Aukt rev Fritjof
-<br/>Dahlgren
-<br/>
-<br/>Etableringsår: 1925.
-<br/>
-<br/>DAHLGREN,
-<br/>KONSULTERANDE INGENIORSBYRÅ
-<br/>AB, BENGT
-<br/>
-<br/>Pnr 412 65
-<br/>
-<br/>Göteborg, Ebbe Liberathsg 21. Tel
-<br/>031-8105 80. Bankgiro 443-1102.
-<br/>Postgiro 520251-0
-<br/>Verksamhet: Konsulterande
-<br/>Ingenjörsverksamhet inom WS- o
-<br/>EL-branschen
-<br/>Antal anställda: 85
-<br/>Årsomsättning: 4 500 000
-<br/>Aktiekapital: 20 000
-<br/>Ägare o chef: Bengt Dahlgren
-<br/>Etableringsår: 1952.
-<br/>
-<br/>DAHLGRENS MEKANISKA,
-<br/>AB E
-<br/>
-<br/>Pnr 890 32
-<br/>
-<br/>Järved, Box 132. Bryggeriv. Tel
-<br/>0660-40049. Bankgiro 626-9252.
-<br/>Postgiro 460988-9
-<br/>Verksamhet: Mekaniska arbeten
-<br/>Antal anställda: 15
-<br/>
-<br/>Aktiekapital: 105 000
-<br/>Verkst dir: Eskil Dahlgren
-<br/>Etableringsår: 1950.
-<br/>
-<br/>DAHLGREN &amp; CO,
-<br/>GULDVARU AB G
-<br/>
-<br/>Pnr 201 21
-<br/>
-<br/>Malmö 1, Citadellsv 23. Box 105.
-<br/>Tel 040-773 30. Bankgiro 260-0278.
-<br/>Postgiro 14094-8. Tga
-<br/>Guldvaru-bolaget
-<br/>
-<br/>Verksamhet: Tillverkar smycken i
-<br/>guld o silver
-<br/>Antal anställda: 114
-<br/>Årsomsättning: 15 000 000
-<br/>Aktiekapital: 2 000000
-<br/>Verkst dir: Carl-S Roos
-<br/>Etableringsår: 1845.
-<br/>
-<br/>DAHLGREN &amp; CO, AB R A
-<br/>
-<br/>Pnr 53100
-<br/>
-<br/>Lidköping 1, Box 15. Tel
-<br/>0510-660 50. Postgiro 111601. Tga
-<br/>Dahlco
-<br/>
-<br/>Verksamhet: Generalagent för
-<br/>Bray lastmaskiner, Hydromac
-<br/>grävmaskiner, Hanomg traktorer,
-<br/>österrikiska, tyska, belgiska o danska
-<br/>lantbruksmaskiner
-<br/>Antal anställda: 30
-<br/>Årsomsättning: 7 000 000
-<br/>Aktiekapital: 300 000
-<br/>Firmatecknare: Gunnar Göranson
-<br/>Etableringsår: 1954.
-<br/>
-<br/>DALGRÄNSENS TRÄVARU AB
-<br/>
-<br/>Pnr 810 10
-<br/>
-<br/>Torsåker. Tel 0290-430 58,
-<br/>43056. Bankgiro 79-0216.
-<br/>Postgiro 380237
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>monteringsfärdiga hus
-<br/>Antal anställda: 25
-<br/>Årsomsättning: 2 200 000
-<br/>Aktiekapital: 90 000
-<br/>Verkst dir: Anders Lindström
-<br/>Etableringsår: 1911.
-<br/>
-<br/>DAHLINS MASKINER AB
-<br/>
-<br/>Pnr 16132
-<br/>
-<br/>Bromma, Svartviks v 21. Tel
-<br/>08-80 06 10. Bankgiro 745-8581.
-<br/>Postgiro 652756-8
-<br/>
-<br/>Verksamhet: Agenturaffär i
-<br/>maskiner o verktyg
-<br/>Aktiekapital: 5 000
-<br/>Chef: Ing S Dahlin
-<br/>Etableringsår: 1967.
-<br/>
-<br/>DAHLINS EFTR BOKBINDERI,
-<br/>AB C G
-<br/>
-<br/>Pnr 652 25
-<br/>
-<br/>Karlstad, Tingvallag 19. Tel
-<br/>054-110281,110118. Bankgiro 88-1353.
-<br/>Postgiro 73527
-<br/>
-<br/>Verksamhet: Utför broschyr- o
-<br/>katalogarbeten
-<br/>Antal anställda: 12
-<br/>Årsomsättning: 350 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Axel Karlsson
-<br/>Etableringsår: 1837.
-<br/>
-<br/>DAHLIN AB, EINAR
-<br/>
-<br/>Pnr 211 24
-<br/>
-<br/>Malmö, Spettg. Tel 040-93 54 40.
-<br/>Bankgiro 640-1707. Postgiro
-<br/>430312-9. Tga Edal.
-<br/>Telex 3116 EDAL S
-<br/>
-<br/>127
+
+DAHLBERG &amp; CO,
+TRYCKERI AB
+
+Pnr 104 60
+
+Stockholm 20, Hammarby Fabriksv
+29-31. Tel 08-44 07 00. Bankgiro
+73-3802. Postgiro 151880
+Verksamhet: Boktryck, offset o
+reklam
+
+Aktiekapital: 75 000
+Verkst dir: Gustav Dahlberg
+Etableringsår: 1937.
+
+DAHLBERGS GROSSHANDELS
+AB, EDE- BOLAGET ERIK
+
+Pnr 85102
+
+Sundsvall 1, Box 65. Trafikg 54.
+Tel 060-11 12 13. 11 34 54.
+Bankgiro 180-0366. Postgiro 86949-5
+Verksamhet: Säljer livsmedel
+engros för bl a storkök, även
+djupfrysta. Specialitet: konfektyrer
+Antal anställda: 15
+Årsomsättning: 13 000000
+Aktiekapital: 200 000
+Verkst dir: Erik Dahlberg
+V verkst dir: Carl-Erik Dahlberg
+Etableringsår: 1892.
+
+DAHLBERG AB, J O
+
+Pnr 872 01
+
+Kramfors 1, Box 205. Tel
+0612-114 40. Bankgiro 76-9506. Postgiro
+274967. Telex 71022
+Verksamhet: Tillverkar köksskåp o
+garderobsinredningar
+Antal anställda: 150
+Årsomsättning: 10 000 000
+Aktiekapital: 500000
+Verkst dir: Georg Dahlberg
+Etableringsår: 1925.
+
+DAHLBERGS VERKSTÄDER,
+AB M
+
+Pnr 890 50
+
+Björna, Pack 14. Tel 0662-100 08.
+Bankgiro 77-2304. Postgiro 62417.
+Tga Dahlbergs
+
+Verksamhet: Grövre smiden,
+lastbilssläpvagnar o brobaneräcken
+Antal anställda: 9
+Årsomsättning: 100 000
+Aktiekapital: 31000
+Verkst dir: S Dahlberg
+Etableringsår: 1921.
+
+DAHLBERG, AB SEVERIN
+
+Pnr 112 20
+
+Stockholm, N Mälarstrand 8-10.
+Tel 08-24 08 40, 54 93 00. Bankgiro
+73-4063. Postgiro 1580
+Veiksamhet: Säljer
+träimpregne-ringsmedel o plastpresenningar
+Aktiekapital: 65 000
+Verkst dir: Lars-Erik Björkman
+Etableringsår: 1880.
+
+DALBYVERKEN H LINSE &amp; CO
+
+Pnr 212 28
+
+Malmö, Singelg6. Tel 040-93 50 20.
+Bankgiro 651-2156. Postgiro
+431186-6
+
+Verksamhet: Säljer fabriksblandad
+betong o makadam
+Etableringsår: 1946.
+
+DAHLÉN &amp; CO JÄRN AB
+
+Pnr 41117
+
+Göteborg, V Hamng 13. Tel 031-
+
+11 04 3 0. 1173 80. Bankgiro
+848-3414. Postgiro 428205-9. Tga
+Dal-steel. Telex 21184 DAHLÉN S
+Verksamhet: Säljer järn engros,
+plåt, varm- o kallvalsad
+Aktiekapital: 100000
+Firmatecknare: Arne Dahlén, Bror
+Hagelin
+
+Etableringsår: 1953.
+
+DAHL ENS
+FÅTÖLJ-INDUSTRI, AB
+
+Pnr 520 25
+
+Dalum, Box 142. Tel 0321-320 82,
+32070. Bankgiro 84-3316.
+Postgiro 282527. Tga Dahlénmöbler
+Verksamhet: Stoppmöbler.
+Special-tillverkar roterande fåtöljer
+stoppade på stålrörsstommar
+Antal anställda: 30
+Årsomsättning: 2 000 000
+Aktiekapital: 75000
+Ägare o chefer: Arne Dahlén,
+Sten-Ebbe Dahlén
+Etableringsår: 1944.
+
+DALEN, REDERI AB
+
+Pnr 402 32
+
+Göteborg 7, Box 7077. N Allég 2.
+Tel 031-17 15 15. Bankgiro 50-1060.
+Postgiro 520970. Telex 2397. Tga
+Daltank
+
+Verksamhet: Rederirörelse
+Antal anställda: 108
+Årsomsättning: 22 200 000
+Aktiekapital: 300 000
+Verkst dir: T W Brath
+Etableringsår: 1940.
+
+DAHLGRENS
+REVISIONSBYRÅ AB
+
+Pnr 104 32
+
+Stockholm 19, Rådmansg 46. Box
+19018. Tel 08-2343 20. Bankgiro
+196-0590. Postgiro 50742-6. Tga
+
+Revis
+
+Verksamhet: Detaljgranskning o
+revision. Ekonomiska utredningar
+Antal anställda: 20
+Årsomsättning: 2 400 000
+Aktiekapital: 50 000
+Verkst dir: Aukt rev Fritjof
+Dahlgren
+
+Etableringsår: 1925.
+
+DAHLGREN,
+KONSULTERANDE INGENIORSBYRÅ
+AB, BENGT
+
+Pnr 412 65
+
+Göteborg, Ebbe Liberathsg 21. Tel
+031-8105 80. Bankgiro 443-1102.
+Postgiro 520251-0
+Verksamhet: Konsulterande
+Ingenjörsverksamhet inom WS- o
+EL-branschen
+Antal anställda: 85
+Årsomsättning: 4 500 000
+Aktiekapital: 20 000
+Ägare o chef: Bengt Dahlgren
+Etableringsår: 1952.
+
+DAHLGRENS MEKANISKA,
+AB E
+
+Pnr 890 32
+
+Järved, Box 132. Bryggeriv. Tel
+0660-40049. Bankgiro 626-9252.
+Postgiro 460988-9
+Verksamhet: Mekaniska arbeten
+Antal anställda: 15
+
+Aktiekapital: 105 000
+Verkst dir: Eskil Dahlgren
+Etableringsår: 1950.
+
+DAHLGREN &amp; CO,
+GULDVARU AB G
+
+Pnr 201 21
+
+Malmö 1, Citadellsv 23. Box 105.
+Tel 040-773 30. Bankgiro 260-0278.
+Postgiro 14094-8. Tga
+Guldvaru-bolaget
+
+Verksamhet: Tillverkar smycken i
+guld o silver
+Antal anställda: 114
+Årsomsättning: 15 000 000
+Aktiekapital: 2 000000
+Verkst dir: Carl-S Roos
+Etableringsår: 1845.
+
+DAHLGREN &amp; CO, AB R A
+
+Pnr 53100
+
+Lidköping 1, Box 15. Tel
+0510-660 50. Postgiro 111601. Tga
+Dahlco
+
+Verksamhet: Generalagent för
+Bray lastmaskiner, Hydromac
+grävmaskiner, Hanomg traktorer,
+österrikiska, tyska, belgiska o danska
+lantbruksmaskiner
+Antal anställda: 30
+Årsomsättning: 7 000 000
+Aktiekapital: 300 000
+Firmatecknare: Gunnar Göranson
+Etableringsår: 1954.
+
+DALGRÄNSENS TRÄVARU AB
+
+Pnr 810 10
+
+Torsåker. Tel 0290-430 58,
+43056. Bankgiro 79-0216.
+Postgiro 380237
+
+Verksamhet: Tillverkar o säljer
+monteringsfärdiga hus
+Antal anställda: 25
+Årsomsättning: 2 200 000
+Aktiekapital: 90 000
+Verkst dir: Anders Lindström
+Etableringsår: 1911.
+
+DAHLINS MASKINER AB
+
+Pnr 16132
+
+Bromma, Svartviks v 21. Tel
+08-80 06 10. Bankgiro 745-8581.
+Postgiro 652756-8
+
+Verksamhet: Agenturaffär i
+maskiner o verktyg
+Aktiekapital: 5 000
+Chef: Ing S Dahlin
+Etableringsår: 1967.
+
+DAHLINS EFTR BOKBINDERI,
+AB C G
+
+Pnr 652 25
+
+Karlstad, Tingvallag 19. Tel
+054-110281,110118. Bankgiro 88-1353.
+Postgiro 73527
+
+Verksamhet: Utför broschyr- o
+katalogarbeten
+Antal anställda: 12
+Årsomsättning: 350 000
+Aktiekapital: 50 000
+Verkst dir: Axel Karlsson
+Etableringsår: 1837.
+
+DAHLIN AB, EINAR
+
+Pnr 211 24
+
+Malmö, Spettg. Tel 040-93 54 40.
+Bankgiro 640-1707. Postgiro
+430312-9. Tga Edal.
+Telex 3116 EDAL S
+
+127

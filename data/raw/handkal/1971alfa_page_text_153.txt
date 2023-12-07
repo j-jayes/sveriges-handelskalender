@@ -1,289 +1,289 @@
 ELE
-<br/>
-<br/>ELEKTRO-GENNEL, AB
-<br/>
-<br/>Pnr 116 53
-<br/>
-<br/>Stockholm, Rosenlundsg 50. Tel
-<br/>08-84 04 40. Bankgiro 563-4498.
-<br/>Postgiro 19-0. Tga Elgennel.
-<br/>Telex 10605
-<br/>
-<br/>Verksamhet: Tillverkar o
-<br/>importerar elektr hushållsapparater
-<br/>Aktiekapital: 150 000
-<br/>Verkst dir: Dr-ing Felix Nieburg
-<br/>Etableringsår: 1921.
-<br/>
-<br/>ELEKTROHELIOS
-<br/>FÖRSÄLJ-NINGS AB
-<br/>
-<br/>Pnr 105 45
-<br/>
-<br/>Stockholm, Luxbacken 1, Lilla
-<br/>Essingen. Tel 08-2285 20.
-<br/>Bankgiro 17-1919. Postgiro 2865. Tga
-<br/>Elektrohelios
-<br/>
-<br/>Verksamhet: Säljer elektr
-<br/>hushållsapparater o kempletta kök
-<br/>Antal anställda: 124
-<br/>Årsomsättning: 95 700 000
-<br/>Aktiekapital: 500000
-<br/>Verkst dir: Gunnar Ekblad
-<br/>Etableringsår: 1963.
-<br/>
-<br/>ELEKTROINDIKATOR AB
-<br/>
-<br/>Pnr 75106
-<br/>
-<br/>Uppsala 1, Box 400. Marsta. Tel
-<br/>018-3672 20. 3672 22. Bankgiro
-<br/>24-0019. Postgiro 592220
-<br/>Verksamhet: Säljer
-<br/>analysinstrument för vatten o avloppsvatten,
-<br/>pH-mätinstrument för laboratorier
-<br/>o industri, syrehaltsmätare, testset
-<br/>för vattenundersökningar,
-<br/>kontinuerligt analyserande instrument för
-<br/>vattenverk etc, analyskemikalier för
-<br/>vattenundersökningar, alla typer av
-<br/>konduktivitetsmätinstrument.
-<br/>Doseringsutrustningar, instrumentservice
-<br/>
-<br/>Antal anställda: 4
-<br/>Årsomsättning: 900 000
-<br/>Aktiekapital: 5 000
-<br/>Styrelse: Flygtekniker Verner
-<br/>Eriksson (ordf), Hans Johansson, ing
-<br/>Rolf Bodeck
-<br/>
-<br/>Verkst dir: Ing Rolf J Bodeck
-<br/>Verkstadschef: Hans G Johansson
-<br/>Etableringsår: 1962.
-<br/>
-<br/>ELEKTROKEB, AB
-<br/>
-<br/>Pnr 85103
-<br/>
-<br/>Sundsvall 1, Björneborgsg 25. Box
-<br/>149. Tel 060-15 02 80. Bankgiro
-<br/>180-1034. Postgiro 345578-9
-<br/>Verksamhet: Säljer elmateriel
-<br/>engros
-<br/>
-<br/>Antal anställda: 70
-<br/>Årsomsättning: 36000 000
-<br/>Aktiekapital: 300 000
-<br/>Verkst dir: Karl Erik Bruneflod
-<br/>Etableringsår: 1950.
-<br/>
-<br/>ELEKTROKEMISKA AB
-<br/>
-<br/>Pnr 445 00
-<br/>
-<br/>Bohus. Tel 031-98 05 20. Bankgiro
-<br/>500-8149. Postgiro 8870-8. Tga
-<br/>Elektrokemiska, Göteborg.
-<br/>Telex 2435 EKAGBG S
-<br/>Verksamhet: Tillverkar o säljer
-<br/>kemikalier
-<br/>
-<br/>Aktiekapital: 23 000 000
-<br/>Verkst dir: John-Gabriel
-<br/>Montgomery
-<br/>
-<br/>Försäljning: De nordiska länderna:
-<br/>Intendent Ake Larsson
-<br/>
-<br/>Övriga länder: Intendent Bertil
-<br/>Lindqvist
-<br/>
-<br/>Ekonomi o administration:
-<br/>Ekonomichef Stig Larsson
-<br/>Etableringsår: 1895.
-<br/>
-<br/>ELEKTROKONSULT
-<br/>CIVILINGENJÖR LARS SVENSSON
-<br/>AB, INGENJORSBYRAN
-<br/>
-<br/>Pnr 42152
-<br/>
-<br/>Västra Frölunda, Klangfärgsg 11.
-<br/>Tel 031-29 2220. Bankgiro 18-3903.
-<br/>Postgiro 621020
-<br/>
-<br/>Verksamhet: Konsulterande i
-<br/>elektroteknik
-<br/>
-<br/>Antal anställda: 30
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Civiling Lars Svensson
-<br/>Etableringsår: 1961.
-<br/>
-<br/>ELEKTROKOPPAR, AB
-<br/>
-<br/>Pnr 25101
-<br/>
-<br/>Helsingborg 1, Fack. Elektrog. Tel
-<br/>042-13 90 40. Bankgiro 160-0709.
-<br/>Postgiro 441289-6. Tga Cuprum.
-<br/>Telex 72337 CUPRUM S
-<br/>Verksamhet: Tillverkar valstråd,
-<br/>dragen tråd, band, lina o lacktråd
-<br/>av koppar samt valstråd, dragen
-<br/>tråd o lina av aluminium samt
-<br/>stål-aluminiumlina (Electral-lina)
-<br/>Varunamn: Electral-Lina
-<br/>Antal anställda: 280
-<br/>Årsomsättning: 265 000 000
-<br/>Aktiekapital: 15 000 000
-<br/>Styrelse: Bankdir Göte Engfors
-<br/>(ordf), dlr Nils Mölstad, dirDouglas
-<br/>van Reis, tekn dr Ake T Vrethem,
-<br/>dir Sven T Åberg, dir Yngve
-<br/>Åkesson
-<br/>
-<br/>Verkst dir: Nils Mölstad
-<br/>Sekretariat: Ulla Cederqvist
-<br/>Försäljn o inköp: Erie Rangbo
-<br/>Räkenskapsavd: Reinhold Roslund
-<br/>Produktion: Börje Nilsson
-<br/>Materialkontroll o
-<br/>produktutveckling: Wolfgang Bronnvall
-<br/>Etableringsår: 1918
-<br/>Äges av ASEA (75%) och L M
-<br/>Ericsson (25%).
-<br/>
-<br/>ELEKTRO-LOOF AB
-<br/>
-<br/>Pnr 540 72
-<br/>
-<br/>Gullspång, Box 80. Tel
-<br/>0551-205 60. Bankgiro 220-5102.
-<br/>Postgiro 14227-8. Tga Elektrolööf
-<br/>Verksamhet: Tillverkar märksystem
-<br/>för elektr kontrollutrustningar
-<br/>Varunamn: Partex
-<br/>Antal anställda: 60
-<br/>Årsomsättning: 4 000 000
-<br/>Chef: N O Töre Lööf
-<br/>Etableringsår: 1948.
-<br/>
-<br/>ELEKTROMATERIEL
-<br/>JOH PERSSON AB
-<br/>
-<br/>Pnr 652 25
-<br/>
-<br/>Karlstad, Järnvägsg 2. Tel
-<br/>054-1870 55. Bankgiro 438-8088.
-<br/>Postgiro 21086-4
-<br/>
-<br/>Verksamhet: Försäljning av
-<br/>el-artiklar. Installations- o
-<br/>entreprenadrörelse
-<br/>Antal anstäUda: 35
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir. Johan Persson
-<br/>Installatör Enar Persson
-<br/>Etableringsår. 1923.
-<br/>
-<br/>ELEKTROMEKANISKA AB
-<br/>GUSTAV ERIKSSON
-<br/>
-<br/>Pnr 14171
-<br/>
-<br/>Huddinge, Ekhagsv 2. Tel
-<br/>08-88 83 95. Bankgiro 47-7907.
-<br/>Postgiro 56728
-<br/>
-<br/>Verksamhet: Elektr maskiner
-<br/>såsom omformare, generatorer,
-<br/>elkraftaggregat, el-automatiska
-<br/>utrustningar
-<br/>Antal anstäUda: 23
-<br/>Årsomsättning: 1 200 000
-<br/>Aktiekapital: 15 000
-<br/>Styrelse: Ing Harald Erbing (ordf),
-<br/>ing Nils G Eriksson, civiling Sven
-<br/>Meiton
-<br/>
-<br/>Verkst dir: Civiling Sven Meiton
-<br/>Etableringsår: 1915
-<br/>Dotterbolag till AB Erbings
-<br/>Maskin affär, Stockholm.
-<br/>
-<br/>ELEKTROMEKANOI
-<br/>BREDARYD AB
-<br/>
-<br/>Pnr 33010
-<br/>
-<br/>Bredaryd, Smedg 3. Box 84. Tel
-<br/>0370-80310. Bankgiro 142-7053.
-<br/>Postgiro 387331-2
-<br/>Verksamhet: Tillverkar o säljer
-<br/>Can Can tandläkarstolar o
-<br/>dental-utrustningar
-<br/>Antal anstäUda: 30
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Ing Per Larson
-<br/>Etableringsår: 1949.
-<br/>
-<br/>ELEKTRO-METALL AB
-<br/>
-<br/>Pnr 232 00
-<br/>
-<br/>Arlöv, Box 92. Smedjev 2. Tel
-<br/>040-43 15 15. Bankgiro 874-3254.
-<br/>Postgiro 38504-7
-<br/>
-<br/>Verksamhet: Utför drag- o
-<br/>excenter-pressning samt metalltryckning
-<br/>Antal anstäUda: 17
-<br/>Aktiekapital: 105 000
-<br/>Verkst dir: Klas Johansson
-<br/>Etableringsår: 1921.
-<br/>
-<br/>ELEKTROMIKANIT I LAXÅ AB
-<br/>
-<br/>Pnr 69501
-<br/>
-<br/>Laxå, Box 43. Tel 0584-108 60.
-<br/>Bankgiro 461-6025. Postgiro
-<br/>80687-7. Tga Elektromikanit.
-<br/>Telex 73380 EMIL S
-<br/>Verksamhet: Säljer dynamotråd o
-<br/>elektr isolationsmaterial
-<br/>Försäljningskontor: 113 29
-<br/>Stockholm. Agenturfirman Isoma, Vegag 1.
-<br/>Tel 08-30 6010
-<br/>
-<br/>25232 Helsingborg, Elektrog. Tel
-<br/>042-18 18 5 6
-<br/>Antal anställda: 10
-<br/>Årsomsättning: 9000 000
-<br/>Aktiekapital: 40 400
-<br/>Verkst dir: Ake Olson
-<br/>Etableringsår: 1945.
-<br/>
-<br/>E L E KT RO-MONTAG E AB
-<br/>
-<br/>Pnr 81100
-<br/>
-<br/>Sandviken, Industriv 12. Tel
-<br/>026-2542 00. Bankgiro 78-8707.
-<br/>Postgiro 463444
-<br/>
-<br/>Verksamhet: Elektr installationer
-<br/>inom industri, fartygs, affärs- o
-<br/>bostadsfastigheter, försäljning av
-<br/>elektr kapitalvaror, projektering o
-<br/>utarbeten. Tillverkning av elektr
-<br/>utrustning
-<br/>
-<br/>Antal anstäUda: 500
-<br/>Aktiekapital: 500 000
-<br/>
-<br/>151
+
+ELEKTRO-GENNEL, AB
+
+Pnr 116 53
+
+Stockholm, Rosenlundsg 50. Tel
+08-84 04 40. Bankgiro 563-4498.
+Postgiro 19-0. Tga Elgennel.
+Telex 10605
+
+Verksamhet: Tillverkar o
+importerar elektr hushållsapparater
+Aktiekapital: 150 000
+Verkst dir: Dr-ing Felix Nieburg
+Etableringsår: 1921.
+
+ELEKTROHELIOS
+FÖRSÄLJ-NINGS AB
+
+Pnr 105 45
+
+Stockholm, Luxbacken 1, Lilla
+Essingen. Tel 08-2285 20.
+Bankgiro 17-1919. Postgiro 2865. Tga
+Elektrohelios
+
+Verksamhet: Säljer elektr
+hushållsapparater o kempletta kök
+Antal anställda: 124
+Årsomsättning: 95 700 000
+Aktiekapital: 500000
+Verkst dir: Gunnar Ekblad
+Etableringsår: 1963.
+
+ELEKTROINDIKATOR AB
+
+Pnr 75106
+
+Uppsala 1, Box 400. Marsta. Tel
+018-3672 20. 3672 22. Bankgiro
+24-0019. Postgiro 592220
+Verksamhet: Säljer
+analysinstrument för vatten o avloppsvatten,
+pH-mätinstrument för laboratorier
+o industri, syrehaltsmätare, testset
+för vattenundersökningar,
+kontinuerligt analyserande instrument för
+vattenverk etc, analyskemikalier för
+vattenundersökningar, alla typer av
+konduktivitetsmätinstrument.
+Doseringsutrustningar, instrumentservice
+
+Antal anställda: 4
+Årsomsättning: 900 000
+Aktiekapital: 5 000
+Styrelse: Flygtekniker Verner
+Eriksson (ordf), Hans Johansson, ing
+Rolf Bodeck
+
+Verkst dir: Ing Rolf J Bodeck
+Verkstadschef: Hans G Johansson
+Etableringsår: 1962.
+
+ELEKTROKEB, AB
+
+Pnr 85103
+
+Sundsvall 1, Björneborgsg 25. Box
+149. Tel 060-15 02 80. Bankgiro
+180-1034. Postgiro 345578-9
+Verksamhet: Säljer elmateriel
+engros
+
+Antal anställda: 70
+Årsomsättning: 36000 000
+Aktiekapital: 300 000
+Verkst dir: Karl Erik Bruneflod
+Etableringsår: 1950.
+
+ELEKTROKEMISKA AB
+
+Pnr 445 00
+
+Bohus. Tel 031-98 05 20. Bankgiro
+500-8149. Postgiro 8870-8. Tga
+Elektrokemiska, Göteborg.
+Telex 2435 EKAGBG S
+Verksamhet: Tillverkar o säljer
+kemikalier
+
+Aktiekapital: 23 000 000
+Verkst dir: John-Gabriel
+Montgomery
+
+Försäljning: De nordiska länderna:
+Intendent Ake Larsson
+
+Övriga länder: Intendent Bertil
+Lindqvist
+
+Ekonomi o administration:
+Ekonomichef Stig Larsson
+Etableringsår: 1895.
+
+ELEKTROKONSULT
+CIVILINGENJÖR LARS SVENSSON
+AB, INGENJORSBYRAN
+
+Pnr 42152
+
+Västra Frölunda, Klangfärgsg 11.
+Tel 031-29 2220. Bankgiro 18-3903.
+Postgiro 621020
+
+Verksamhet: Konsulterande i
+elektroteknik
+
+Antal anställda: 30
+Aktiekapital: 5 000
+Verkst dir: Civiling Lars Svensson
+Etableringsår: 1961.
+
+ELEKTROKOPPAR, AB
+
+Pnr 25101
+
+Helsingborg 1, Fack. Elektrog. Tel
+042-13 90 40. Bankgiro 160-0709.
+Postgiro 441289-6. Tga Cuprum.
+Telex 72337 CUPRUM S
+Verksamhet: Tillverkar valstråd,
+dragen tråd, band, lina o lacktråd
+av koppar samt valstråd, dragen
+tråd o lina av aluminium samt
+stål-aluminiumlina (Electral-lina)
+Varunamn: Electral-Lina
+Antal anställda: 280
+Årsomsättning: 265 000 000
+Aktiekapital: 15 000 000
+Styrelse: Bankdir Göte Engfors
+(ordf), dlr Nils Mölstad, dirDouglas
+van Reis, tekn dr Ake T Vrethem,
+dir Sven T Åberg, dir Yngve
+Åkesson
+
+Verkst dir: Nils Mölstad
+Sekretariat: Ulla Cederqvist
+Försäljn o inköp: Erie Rangbo
+Räkenskapsavd: Reinhold Roslund
+Produktion: Börje Nilsson
+Materialkontroll o
+produktutveckling: Wolfgang Bronnvall
+Etableringsår: 1918
+Äges av ASEA (75%) och L M
+Ericsson (25%).
+
+ELEKTRO-LOOF AB
+
+Pnr 540 72
+
+Gullspång, Box 80. Tel
+0551-205 60. Bankgiro 220-5102.
+Postgiro 14227-8. Tga Elektrolööf
+Verksamhet: Tillverkar märksystem
+för elektr kontrollutrustningar
+Varunamn: Partex
+Antal anställda: 60
+Årsomsättning: 4 000 000
+Chef: N O Töre Lööf
+Etableringsår: 1948.
+
+ELEKTROMATERIEL
+JOH PERSSON AB
+
+Pnr 652 25
+
+Karlstad, Järnvägsg 2. Tel
+054-1870 55. Bankgiro 438-8088.
+Postgiro 21086-4
+
+Verksamhet: Försäljning av
+el-artiklar. Installations- o
+entreprenadrörelse
+Antal anstäUda: 35
+Årsomsättning: 3 000 000
+Aktiekapital: 100 000
+Verkst dir. Johan Persson
+Installatör Enar Persson
+Etableringsår. 1923.
+
+ELEKTROMEKANISKA AB
+GUSTAV ERIKSSON
+
+Pnr 14171
+
+Huddinge, Ekhagsv 2. Tel
+08-88 83 95. Bankgiro 47-7907.
+Postgiro 56728
+
+Verksamhet: Elektr maskiner
+såsom omformare, generatorer,
+elkraftaggregat, el-automatiska
+utrustningar
+Antal anstäUda: 23
+Årsomsättning: 1 200 000
+Aktiekapital: 15 000
+Styrelse: Ing Harald Erbing (ordf),
+ing Nils G Eriksson, civiling Sven
+Meiton
+
+Verkst dir: Civiling Sven Meiton
+Etableringsår: 1915
+Dotterbolag till AB Erbings
+Maskin affär, Stockholm.
+
+ELEKTROMEKANOI
+BREDARYD AB
+
+Pnr 33010
+
+Bredaryd, Smedg 3. Box 84. Tel
+0370-80310. Bankgiro 142-7053.
+Postgiro 387331-2
+Verksamhet: Tillverkar o säljer
+Can Can tandläkarstolar o
+dental-utrustningar
+Antal anstäUda: 30
+Årsomsättning: 3 000 000
+Aktiekapital: 100 000
+Verkst dir: Ing Per Larson
+Etableringsår: 1949.
+
+ELEKTRO-METALL AB
+
+Pnr 232 00
+
+Arlöv, Box 92. Smedjev 2. Tel
+040-43 15 15. Bankgiro 874-3254.
+Postgiro 38504-7
+
+Verksamhet: Utför drag- o
+excenter-pressning samt metalltryckning
+Antal anstäUda: 17
+Aktiekapital: 105 000
+Verkst dir: Klas Johansson
+Etableringsår: 1921.
+
+ELEKTROMIKANIT I LAXÅ AB
+
+Pnr 69501
+
+Laxå, Box 43. Tel 0584-108 60.
+Bankgiro 461-6025. Postgiro
+80687-7. Tga Elektromikanit.
+Telex 73380 EMIL S
+Verksamhet: Säljer dynamotråd o
+elektr isolationsmaterial
+Försäljningskontor: 113 29
+Stockholm. Agenturfirman Isoma, Vegag 1.
+Tel 08-30 6010
+
+25232 Helsingborg, Elektrog. Tel
+042-18 18 5 6
+Antal anställda: 10
+Årsomsättning: 9000 000
+Aktiekapital: 40 400
+Verkst dir: Ake Olson
+Etableringsår: 1945.
+
+E L E KT RO-MONTAG E AB
+
+Pnr 81100
+
+Sandviken, Industriv 12. Tel
+026-2542 00. Bankgiro 78-8707.
+Postgiro 463444
+
+Verksamhet: Elektr installationer
+inom industri, fartygs, affärs- o
+bostadsfastigheter, försäljning av
+elektr kapitalvaror, projektering o
+utarbeten. Tillverkning av elektr
+utrustning
+
+Antal anstäUda: 500
+Aktiekapital: 500 000
+
+151

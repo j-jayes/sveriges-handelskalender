@@ -1,295 +1,295 @@
 DAL
-<br/>
-<br/>Verksamhet: Säljer svenska o
-<br/>importerade grönsaker, potatis o frukt
-<br/>Antal anställda: 90
-<br/>Årsomsättning: 30 000 000
-<br/>Aktiekapital: 40 000
-<br/>Verkst dir: Einar Dahlin
-<br/>Etableringsår: 1950.
-<br/>
-<br/>DAHLQVIST AB,
-<br/>INGENJÖRSFIRMAN G
-<br/>
-<br/>Pnr 234 00
-<br/>
-<br/>Lomma, Industrig 25. Tel
-<br/>040-41 14 00. Bankgiro 876-3526.
-<br/>Postgiro 430940-7
-<br/>
-<br/>Verksamhet: Verkstad för
-<br/>ventilationsplåtslageri
-<br/>Antal anställda: 30
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 75 000
-<br/>Verkst dir: Ing Gunnar Dahlqvist
-<br/>Etableringsår: 1950.
-<br/>
-<br/>DALLE REKLAM AB
-<br/>
-<br/>Pnr 103 82
-<br/>
-<br/>Stockholm 7, Box 7056. Biblioteksg
-<br/>27. Tel 08-24 9810. Bankgiro
-<br/>568-1648. Postgiro 453578-7
-<br/>Verksamhet: Reklam
-<br/>Antal anställda: 16
-<br/>Årsomsättning: 4 000 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir. Ake Dalle
-<br/>Etableringsår: 1950.
-<br/>
-<br/>DAHLLÖF &amp; CO, AB LINNE
-<br/>
-<br/>Pnr 41118
-<br/>
-<br/>Göteborg, N Liden 4. Tel
-<br/>031-17 29 90. Bankgiro 84-7977.
-<br/>Postgiro 12234. Tga Dahlco.
-<br/>Telex 2358
-<br/>
-<br/>Verksamhet: Import o försäljning
-<br/>av eldningsoljor, kol o koks
-<br/>Antal anställda: 13
-<br/>Årsomsättning: 26 000 000
-<br/>Aktiekapital: 180 000
-<br/>Dir:r: Ingvar Grundell, Lars-Eric
-<br/>Dahllöf
-<br/>
-<br/>Etableringsår: 1925
-<br/>Dotterbolag: Lidköping Kol &amp; Koks
-<br/>AB, Lidköping, AB Bröderna
-<br/>Wijk-lunds Kolimport, Falkenberg, Curt
-<br/>Nycander AB, Strömstad.
-<br/>
-<br/>DALMA, AB
-<br/>
-<br/>Pnr 103 62
-<br/>
-<br/>Stockholm 3, Box 3119. Sveav 21.
-<br/>Tel 08-24 84 30. Bankgiro 56-3025,
-<br/>84-5510. Postgiro 603775. Tga
-<br/>Abe-dalma. Telex 10609 DALMA S
-<br/>Verksamhet: Agenturfirma för
-<br/>kemiska, plast- o gummiindustrin
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Dr Karl Walter Petersen
-<br/>Etableringsår: 1959.
-<br/>
-<br/>DAHLMANS, MANUFAKTUR AB
-<br/>
-<br/>Pnr 83101
-<br/>
-<br/>Östersund 1, Storg 21. Box 562. Tel
-<br/>063-143 96. Bankgiro 777-8376.
-<br/>Postgiro 84939-8. Tga Dahlmans
-<br/>Verksamhet: Textilgrossist
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Nils Herlitz
-<br/>Etableringsår: 1933.
-<br/>
-<br/>DAHLMANS FILIALS EFTR,
-<br/>A G, ERLAND HERLITZ AB
-<br/>
-<br/>Pnr 83101
-<br/>
-<br/>Östersund 1, Storg 21. Box 562.
-<br/>
-<br/>Tel 063-143 96. Tga Herlitz
-<br/>Verksamhet: Säljer garn,
-<br/>manufaktur o gardiner
-<br/>Aktiekapital: 186 250
-<br/>Verkst dir: Nils Herlitz
-<br/>Etableringsår: 1921.
-<br/>
-<br/>DALSJOFORS MÖBLER, AB
-<br/>
-<br/>Pnr 502 30
-<br/>
-<br/>Borås, Smedsg 2. Tel 033-1279 60.
-<br/>Bankgiro 532-1088. Postgiro
-<br/>138077-7
-<br/>
-<br/>Verksamhet: Säljer möbler o mattor
-<br/>Antal anställda: 14
-<br/>Årsomsättning: 3 000000
-<br/>Aktiekapital: 66000
-<br/>Verkst dir: Karl Einar Thörner
-<br/>Etableringsår: 1935.
-<br/>
-<br/>DALSJOFORS SÅGVERK AB
-<br/>
-<br/>Pnr 510 50
-<br/>
-<br/>Dalsjöfors, Box 74. Tel 033-700 85,
-<br/>
-<br/>70164. Bankgiro 532-1377.
-<br/>Postgiro 74717-0
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>trävaror samt snickerier
-<br/>Antal anställda: 27
-<br/>Årsomsättning: 2000 000
-<br/>Aktiekapital: 93 000
-<br/>Verkst din Knut Ohlsson
-<br/>Etableringsår: 1924.
-<br/>
-<br/>DALSJOFORS TRYCKERI
-<br/>
-<br/>Pnr 510 50
-<br/>
-<br/>Dalsjöfors. Tel 033-70011.
-<br/>Bankgiro 532-1393. Postgiro 75873-0
-<br/>Verksamhet: Trycksaker för
-<br/>handel o industri
-<br/>Antal anställda: 3
-<br/>Ägare o chefer: G Hjort vall, B
-<br/>Hjortvall
-<br/>
-<br/>Etableringsår: 1919.
-<br/>
-<br/>DALSKOGS ÅNGSÅG &amp;
-<br/>T RA FORÄDLINGS AB
-<br/>
-<br/>Pnr 460 70
-<br/>
-<br/>Dals Rostock, Dalskog. Tel
-<br/>0530-210 55. Bankgiro 533-7084.
-<br/>Postgiro 8 0268-6
-<br/>
-<br/>Verksamhet: Tillverkar dörr- o
-<br/>fönstersnickerier, inredningar.
-<br/>Säljer allt i byggmaterial
-<br/>Antal anställda: 45
-<br/>Årsomsättning: 5 300000
-<br/>Aktiekapital: 318000
-<br/>Verkst dir: Allan Jonasson
-<br/>Etableringsår: 1927.
-<br/>
-<br/>DAHLSKOGS FÄRGHANDEL, G
-<br/>
-<br/>Pnr 53100
-<br/>
-<br/>Lidköping, Mellbyg 2. Tel
-<br/>0510-202 50. Bankgiro 84-1308.
-<br/>Postgiro 21032
-<br/>
-<br/>Verksamhet: Färger, tapeter o
-<br/>kem tekn artiklar i parti o minut
-<br/>Antal anställda: 6
-<br/>Ägare o chef: Färgh Gösta
-<br/>Dahlskog
-<br/>
-<br/>Etableringsår: 1912.
-<br/>
-<br/>DALSLAND, TRYCKERI-AB
-<br/>
-<br/>Pnr 662 00
-<br/>
-<br/>Amål, Kyrkog 10. Box 29. Tel
-<br/>0532-100 63, 10200. Postgiro
-<br/>24100
-<br/>
-<br/>Verksamhet: Tidnings- o
-<br/>civiltryckeri. Utger Provinstidningen
-<br/>Dalsland
-<br/>
-<br/>Antal anställda: 21
-<br/>
-<br/>Årsomsättning: 800000
-<br/>Aktiekapital: 24 000
-<br/>Chef: Karl-Axel Olson
-<br/>Etableringsår: 1911.
-<br/>
-<br/>DAHLSTEDTS EXPRESS AB
-<br/>DALLE REKLAM AB
-<br/>
-<br/>Pnr 57301
-<br/>
-<br/>Tranås 1, Box 226. Kanalg 7. Tel
-<br/>0140-141 30. Bankgiro 365-7764.
-<br/>Bankgiro 365-7764. Postgiro
-<br/>267530-4
-<br/>
-<br/>Verksamhet: Lokal- o fjärrtrafik,
-<br/>schaktningar, grus- o makadam
-<br/>Antal anställda: 80
-<br/>Årsomsättning: 7 000 000
-<br/>.Aktiekapital: 100000
-<br/>Verkst dir: Henrik Dahlstedt
-<br/>Etableringsår: 1937.
-<br/>
-<br/>DAHLSTEDT &amp; JOHANSSON,
-<br/>INDUSTRIAKTIEBOLAGET
-<br/>
-<br/>Pnr 54 5 00
-<br/>
-<br/>Töreboda, Box 45. Skövdev. Tel
-<br/>0506-116 55
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>branddörrar o skyddsrumsdörrar
-<br/>Antal anställda: 50
-<br/>Årsomsättning: 5 000 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: John W Johansson
-<br/>Etableringsår: 1942,
-<br/>
-<br/>DAHLSTEDTS
-<br/>KASSASKÅPSFABRIK, AB HANS
-<br/>
-<br/>Pnr 736 00
-<br/>
-<br/>Kungsör. Tel 0227-105 30, 106 50.
-<br/>Bankgiro 81-1029. Postgiro
-<br/>264261
-<br/>
-<br/>Verksamhet: Tillverkar värdeskåp,
-<br/>arkiv- o kassaskåp
-<br/>Chef: Roland Dahlstedt
-<br/>Etableringsår: 1944.
-<br/>
-<br/>DALSTORPS TRÄ AB
-<br/>
-<br/>Pnr 510 95
-<br/>
-<br/>Dalstorp, Box 27. Tel
-<br/>0321-600 78. Bankgiro 84-0639.
-<br/>Postgiro 322376
-<br/>
-<br/>Verksamhet: Säljer sågade o
-<br/>hyvlade trävaror
-<br/>Antal anställda: 20
-<br/>Årsomsättning: 2 000 000
-<br/>Aktiekapital: 45 000
-<br/>Verkst dir: Sven Johansson
-<br/>Etableringsår: 1944.
-<br/>
-<br/>DAHLSTRÖM AB, BRÖDERNA
-<br/>
-<br/>Pnr 436 00
-<br/>
-<br/>Askim, Box 1052. Verkstadsv. Tel
-<br/>031-28 20 30. Bankgiro 512-9135.
-<br/>Postgiro 620932-4
-<br/>Verksamhet: Agentur- o
-<br/>importverksamhet inom golvmaterial
-<br/>Antal anställda: 25
-<br/>Årsomsättning: 18 000 000
-<br/>Aktiekapital: 250 000
-<br/>Verkst dir: Hans Enghult
-<br/>Etableringsår: 1963.
-<br/>
-<br/>DALSTROM REKLAM-o
-<br/>ANNONSBYRÅ AB, BENGT
-<br/>
-<br/>Pnr 70102
-<br/>
-<br/>Örebro 1, Ringg 19. Box 48. Tel
-<br/>019-130150. Bankgiro 815-8701.
-<br/>Postgiro 470932-5
-<br/>Verksamhet: Fullständig
-<br/>annonsbyråservice
-<br/>Antal anställda: 15
-<br/>
-<br/>128
+
+Verksamhet: Säljer svenska o
+importerade grönsaker, potatis o frukt
+Antal anställda: 90
+Årsomsättning: 30 000 000
+Aktiekapital: 40 000
+Verkst dir: Einar Dahlin
+Etableringsår: 1950.
+
+DAHLQVIST AB,
+INGENJÖRSFIRMAN G
+
+Pnr 234 00
+
+Lomma, Industrig 25. Tel
+040-41 14 00. Bankgiro 876-3526.
+Postgiro 430940-7
+
+Verksamhet: Verkstad för
+ventilationsplåtslageri
+Antal anställda: 30
+Årsomsättning: 3 000 000
+Aktiekapital: 75 000
+Verkst dir: Ing Gunnar Dahlqvist
+Etableringsår: 1950.
+
+DALLE REKLAM AB
+
+Pnr 103 82
+
+Stockholm 7, Box 7056. Biblioteksg
+27. Tel 08-24 9810. Bankgiro
+568-1648. Postgiro 453578-7
+Verksamhet: Reklam
+Antal anställda: 16
+Årsomsättning: 4 000 000
+Aktiekapital: 50 000
+Verkst dir. Ake Dalle
+Etableringsår: 1950.
+
+DAHLLÖF &amp; CO, AB LINNE
+
+Pnr 41118
+
+Göteborg, N Liden 4. Tel
+031-17 29 90. Bankgiro 84-7977.
+Postgiro 12234. Tga Dahlco.
+Telex 2358
+
+Verksamhet: Import o försäljning
+av eldningsoljor, kol o koks
+Antal anställda: 13
+Årsomsättning: 26 000 000
+Aktiekapital: 180 000
+Dir:r: Ingvar Grundell, Lars-Eric
+Dahllöf
+
+Etableringsår: 1925
+Dotterbolag: Lidköping Kol &amp; Koks
+AB, Lidköping, AB Bröderna
+Wijk-lunds Kolimport, Falkenberg, Curt
+Nycander AB, Strömstad.
+
+DALMA, AB
+
+Pnr 103 62
+
+Stockholm 3, Box 3119. Sveav 21.
+Tel 08-24 84 30. Bankgiro 56-3025,
+84-5510. Postgiro 603775. Tga
+Abe-dalma. Telex 10609 DALMA S
+Verksamhet: Agenturfirma för
+kemiska, plast- o gummiindustrin
+Aktiekapital: 50 000
+Verkst dir: Dr Karl Walter Petersen
+Etableringsår: 1959.
+
+DAHLMANS, MANUFAKTUR AB
+
+Pnr 83101
+
+Östersund 1, Storg 21. Box 562. Tel
+063-143 96. Bankgiro 777-8376.
+Postgiro 84939-8. Tga Dahlmans
+Verksamhet: Textilgrossist
+Aktiekapital: 100 000
+Verkst dir: Nils Herlitz
+Etableringsår: 1933.
+
+DAHLMANS FILIALS EFTR,
+A G, ERLAND HERLITZ AB
+
+Pnr 83101
+
+Östersund 1, Storg 21. Box 562.
+
+Tel 063-143 96. Tga Herlitz
+Verksamhet: Säljer garn,
+manufaktur o gardiner
+Aktiekapital: 186 250
+Verkst dir: Nils Herlitz
+Etableringsår: 1921.
+
+DALSJOFORS MÖBLER, AB
+
+Pnr 502 30
+
+Borås, Smedsg 2. Tel 033-1279 60.
+Bankgiro 532-1088. Postgiro
+138077-7
+
+Verksamhet: Säljer möbler o mattor
+Antal anställda: 14
+Årsomsättning: 3 000000
+Aktiekapital: 66000
+Verkst dir: Karl Einar Thörner
+Etableringsår: 1935.
+
+DALSJOFORS SÅGVERK AB
+
+Pnr 510 50
+
+Dalsjöfors, Box 74. Tel 033-700 85,
+
+70164. Bankgiro 532-1377.
+Postgiro 74717-0
+
+Verksamhet: Tillverkar o säljer
+trävaror samt snickerier
+Antal anställda: 27
+Årsomsättning: 2000 000
+Aktiekapital: 93 000
+Verkst din Knut Ohlsson
+Etableringsår: 1924.
+
+DALSJOFORS TRYCKERI
+
+Pnr 510 50
+
+Dalsjöfors. Tel 033-70011.
+Bankgiro 532-1393. Postgiro 75873-0
+Verksamhet: Trycksaker för
+handel o industri
+Antal anställda: 3
+Ägare o chefer: G Hjort vall, B
+Hjortvall
+
+Etableringsår: 1919.
+
+DALSKOGS ÅNGSÅG &amp;
+T RA FORÄDLINGS AB
+
+Pnr 460 70
+
+Dals Rostock, Dalskog. Tel
+0530-210 55. Bankgiro 533-7084.
+Postgiro 8 0268-6
+
+Verksamhet: Tillverkar dörr- o
+fönstersnickerier, inredningar.
+Säljer allt i byggmaterial
+Antal anställda: 45
+Årsomsättning: 5 300000
+Aktiekapital: 318000
+Verkst dir: Allan Jonasson
+Etableringsår: 1927.
+
+DAHLSKOGS FÄRGHANDEL, G
+
+Pnr 53100
+
+Lidköping, Mellbyg 2. Tel
+0510-202 50. Bankgiro 84-1308.
+Postgiro 21032
+
+Verksamhet: Färger, tapeter o
+kem tekn artiklar i parti o minut
+Antal anställda: 6
+Ägare o chef: Färgh Gösta
+Dahlskog
+
+Etableringsår: 1912.
+
+DALSLAND, TRYCKERI-AB
+
+Pnr 662 00
+
+Amål, Kyrkog 10. Box 29. Tel
+0532-100 63, 10200. Postgiro
+24100
+
+Verksamhet: Tidnings- o
+civiltryckeri. Utger Provinstidningen
+Dalsland
+
+Antal anställda: 21
+
+Årsomsättning: 800000
+Aktiekapital: 24 000
+Chef: Karl-Axel Olson
+Etableringsår: 1911.
+
+DAHLSTEDTS EXPRESS AB
+DALLE REKLAM AB
+
+Pnr 57301
+
+Tranås 1, Box 226. Kanalg 7. Tel
+0140-141 30. Bankgiro 365-7764.
+Bankgiro 365-7764. Postgiro
+267530-4
+
+Verksamhet: Lokal- o fjärrtrafik,
+schaktningar, grus- o makadam
+Antal anställda: 80
+Årsomsättning: 7 000 000
+.Aktiekapital: 100000
+Verkst dir: Henrik Dahlstedt
+Etableringsår: 1937.
+
+DAHLSTEDT &amp; JOHANSSON,
+INDUSTRIAKTIEBOLAGET
+
+Pnr 54 5 00
+
+Töreboda, Box 45. Skövdev. Tel
+0506-116 55
+
+Verksamhet: Tillverkar
+branddörrar o skyddsrumsdörrar
+Antal anställda: 50
+Årsomsättning: 5 000 000
+Aktiekapital: 100 000
+Verkst dir: John W Johansson
+Etableringsår: 1942,
+
+DAHLSTEDTS
+KASSASKÅPSFABRIK, AB HANS
+
+Pnr 736 00
+
+Kungsör. Tel 0227-105 30, 106 50.
+Bankgiro 81-1029. Postgiro
+264261
+
+Verksamhet: Tillverkar värdeskåp,
+arkiv- o kassaskåp
+Chef: Roland Dahlstedt
+Etableringsår: 1944.
+
+DALSTORPS TRÄ AB
+
+Pnr 510 95
+
+Dalstorp, Box 27. Tel
+0321-600 78. Bankgiro 84-0639.
+Postgiro 322376
+
+Verksamhet: Säljer sågade o
+hyvlade trävaror
+Antal anställda: 20
+Årsomsättning: 2 000 000
+Aktiekapital: 45 000
+Verkst dir: Sven Johansson
+Etableringsår: 1944.
+
+DAHLSTRÖM AB, BRÖDERNA
+
+Pnr 436 00
+
+Askim, Box 1052. Verkstadsv. Tel
+031-28 20 30. Bankgiro 512-9135.
+Postgiro 620932-4
+Verksamhet: Agentur- o
+importverksamhet inom golvmaterial
+Antal anställda: 25
+Årsomsättning: 18 000 000
+Aktiekapital: 250 000
+Verkst dir: Hans Enghult
+Etableringsår: 1963.
+
+DALSTROM REKLAM-o
+ANNONSBYRÅ AB, BENGT
+
+Pnr 70102
+
+Örebro 1, Ringg 19. Box 48. Tel
+019-130150. Bankgiro 815-8701.
+Postgiro 470932-5
+Verksamhet: Fullständig
+annonsbyråservice
+Antal anställda: 15
+
+128

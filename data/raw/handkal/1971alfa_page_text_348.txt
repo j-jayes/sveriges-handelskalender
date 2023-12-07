@@ -1,287 +1,287 @@
 KOL
-<br/>
-<br/>koks. Bunkeroljor.
-<br/>Byggnadsavdelning
-<br/>
-<br/>Antal anställda: 35
-<br/>Årsomsättning: 12000 000
-<br/>Aktiekapital: 1000 000
-<br/>Verkst dir: Gösta Lundholm
-<br/>Etableringsàr: 1925.
-<br/>
-<br/>KOLLIN &amp; STRÖM, AB
-<br/>
-<br/>Pnr 780 20
-<br/>
-<br/>Stora Tuna. Tel 0243-333 40.
-<br/>Bankgiro 465-1808. Postgiro 28717-7.
-<br/>Tga Kollinprod, Borlänge
-<br/>Verksamhet: Tillverkar perforerad
-<br/>plåt, traverser, lyftkranar,
-<br/>dammluckor, mekaniska o hydrauliska
-<br/>spel, urvattnare, tryckkärl,
-<br/>behållare o svetsade linskivor samt
-<br/>utför grovplåts- o
-<br/>svetsningsarbeten, maskinarbeten m m
-<br/>Varunamn: Giljotin, K &amp; S, Réel
-<br/>Antal anställda: 140
-<br/>Årsomsättning: 10 000 000
-<br/>.Aktiekapital: 900 000
-<br/>Styrelse: Dir Erik Söderberg (ordf),
-<br/>bruksdisp Bengt Lagercrantz, dir
-<br/>Hans Engdahl
-<br/>Verkst dir: Hans Engdahl
-<br/>Etableringsàr: 1900.
-<br/>
-<br/>KOLMÅRDENS PLAST.
-<br/>INDUSTRI AB
-<br/>
-<br/>Pnr 610 23
-<br/>
-<br/>Kolmården, österg 1. Box 104. Tel
-<br/>011-922 90, 922 91. Bankgiro
-<br/>824-4568. Postgiro 329297-6
-<br/>Verksamhet: Tillverkar o säljer
-<br/>plastfolie, säckar,
-<br/>industriemballage, presenningar, trädgårdsplast
-<br/>samt svetsade enheter i polyeten
-<br/>Varunamn: Peten
-<br/>.Antal anställda: 13
-<br/>Årsomsättning: 2000 000
-<br/>Aktiekapital: 70 000
-<br/>Styrelse: Kamrer Olof Söderlund
-<br/>(ordf), försäljn-chef Curt Ahlin,
-<br/>kontorist Ingvar Collin, dir Rune
-<br/>Lundell
-<br/>
-<br/>Verkst dir: Rune Lundell
-<br/>Etableringsàr: 1963.
-<br/>
-<br/>KOLPE-PATENT AB
-<br/>
-<br/>Pnr 682 01
-<br/>
-<br/>Filipstad 1, Värmlandsg 1. Pack.
-<br/>Tel 0590-135 70, 116 70. Bankgiro
-<br/>762-3721. Postgiro 697858-9
-<br/>Verksamhet: Montering o service
-<br/>av bärbar radiomanövrerad vinsch
-<br/>för skogsbruk m m. Exploatering
-<br/>av egna uppfinningar.
-<br/>Konsultverksamhet
-<br/>
-<br/>Antal anställda: 6
-<br/>Årsomsättning: 1000 000
-<br/>Aktiekapital: 80 000
-<br/>Styrelse: Disp A G Wigler (ordf),
-<br/>dir C G Eurenius, jägmäst Olof
-<br/>Kolpe
-<br/>
-<br/>Verkst dir: Olof Kolpe
-<br/>Etableringsàr: 1967.
-<br/>
-<br/>KOHLSWA JERNVERKS AB
-<br/>
-<br/>Pnr 730 30
-<br/>
-<br/>Kolsva. Tel 0221-510 00. Bankgiro
-<br/>160-4586. Postgiro 6477-4. Tga
-<br/>Jernverk. Telex 4786 KOHLSWA S
-<br/>Verksamhet: Järnverk med stålverk
-<br/>o mek verkstäder mm. Skogs- o
-<br/>lantbruksrörelse. Pem mindre
-<br/>kraftstationer i Hedströmmen med
-<br/>tillhörande distributionsnät. Tillverkar
-<br/>göt, hand-, maskin- o skalformat
-<br/>
-<br/>stålgjutgods (specialitet: slitgods
-<br/>av högprocentig manganstål o
-<br/>andra slitstarka stål),
-<br/>pulvermetallurgiska maskinelement i långa serier,
-<br/>ewartskedjor, smidesstäd,
-<br/>krossplattor, draglineskopor m m
-<br/>Antal anställda: 850
-<br/>Årsomsättning: 70 000 000
-<br/>Aktiekapital: 15 000 000
-<br/>Verkst dir: Lars Ostholm
-<br/>Platschef: Olof Carlsson
-<br/>Försäljn-dir: Sigfrid Sandell
-<br/>Försäljn-dir stf: Karl-Henry
-<br/>Hedström
-<br/>
-<br/>Etableringsàr: 1892
-<br/>
-<br/>Bruksdrift sedan 1540-talet. Bruket
-<br/>tillhör Surahammars Bruks AB.
-<br/>
-<br/>KOMMERSIELL
-<br/>DATA-BEHANDLING AB
-<br/>
-<br/>Pnr 42122
-<br/>
-<br/>Västra Frölunda 1, Box 149.
-<br/>Säck-pipeg. Tel 031-49 0170. Bankgiro
-<br/>514-4746. Postgiro 620237-8
-<br/>Verksamhet: Servicebyrå inom
-<br/>databranschen. Systemutveckling.
-<br/>Programmering.
-<br/>Produktionskör-ning på egen dataanläggning.
-<br/>Hål-remshålkortsstansning
-<br/>Antal anställda: 26
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 50 000
-<br/>Styrelse: Adv Hans Johnson,
-<br/>civilekonom Lars-Olof Gustavsson,
-<br/>köpman Töre Karlsson, civilekonom
-<br/>Sven-Göran Ehrnlund
-<br/>Verkst dir: Sven-Göran Ehrnlund
-<br/>Gruppchefer. Pil kand Agneta
-<br/>Magnusson, ing Jerry Johansson, fil
-<br/>kand Jan-Erik Sjöström
-<br/>Etableringsàr: 1964.
-<br/>
-<br/>KOMMUNAKTIEBOLAGET
-<br/>
-<br/>Pnr 11721
-<br/>
-<br/>Stockholm, Hornsg 68. Tel
-<br/>08-6909 40. Bankgiro 33-1410.
-<br/>Postgiro 2535-3
-<br/>
-<br/>Verksamhet: Fungerar som
-<br/>samköps- o upphandlingsorgan
-<br/>Antal anställda: 130
-<br/>Årsomsättning: 70 000 000
-<br/>Aktiekapital: 800 000
-<br/>Verkst dir. Erik Nilsson
-<br/>Etableringsàr: 1927.
-<br/>
-<br/>KOMMUN-DATA AB
-<br/>
-<br/>Pnr 126 12
-<br/>
-<br/>Stockholm 42, Fack. Västberga Allé
-<br/>36, Hägersten. Tel 08-744 04 20.
-<br/>Bankgiro 20-2262. Postgiro
-<br/>860000-9
-<br/>
-<br/>Verksamhet: Automatisk
-<br/>databehandling
-<br/>
-<br/>Antal anställda: 100
-<br/>Årsomsättning: 12 000 000
-<br/>.Aktiekapital: 600 000
-<br/>Verkst dir: Rune Skarström
-<br/>Etableringsàr: 1968.
-<br/>
-<br/>KOMMUNKREDIT AB
-<br/>
-<br/>Pnr 116 46
-<br/>
-<br/>Stockholm, Peter Myndes backe 12.
-<br/>Tel 08-22 91 60. Bankgiro 980-0459.
-<br/>Postgiro 657900-7
-<br/>Verksamhet: Lämnar o förmedlar lån
-<br/>till kommuner, kommunalförbund o
-<br/>andra kommunala samfälligheter.
-<br/>Upplånar för verksamheten
-<br/>erforderliga medel genom utgivande av
-<br/>obligationer
-<br/>Aktiekapital: 2000000
-<br/>
-<br/>Styrelse: H Allard (ordf), Hj Mehr,
-<br/>S Lindblad, P J Lindgren, S
-<br/>Holmqvist, R Ivestedt
-<br/>Verkst dir: R Ivestedt
-<br/>Etableringsàr: 1962.
-<br/>
-<br/>KOMPASS-SWEDEN
-<br/>
-<br/>se Kalenderföretagen, AB Förenade.
-<br/>
-<br/>KOMSTA STEN AB
-<br/>
-<br/>Pnr 27053
-<br/>
-<br/>Gärsnäs. Tel 0414-52115
-<br/>Verksamhet: Brytning o förädling
-<br/>av svart o grå kalksten
-<br/>Antal anställda: 14
-<br/>Årsomsättning: 400 000
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Sigfrid Eriksson
-<br/>Etableringsàr: 1958.
-<br/>
-<br/>KONDITORERS &amp; BAGARES
-<br/>INKÖPS AB KOBIA
-<br/>
-<br/>Pnr 16210
-<br/>
-<br/>Vällingby 1, Vällingbyv 208. Fack.
-<br/>Tel 08-87 02 30. Bankgiro 48-3131.
-<br/>Postgiro 3049. Tga Kobiavaror
-<br/>Verksamhet: Specialfirma i råvaror
-<br/>o halvfabrikat samt maskiner o
-<br/>utensilier för konditorier o bagerier
-<br/>Antal anställda: 62
-<br/>Årsomsättning: 27147000
-<br/>Aktiekapital: 947 500
-<br/>Verkst dir: Gösta Karlshaiimar
-<br/>Etableringsàr: 1918.
-<br/>
-<br/>KONE AKTIEBOLAG
-<br/>
-<br/>Pnr 15102
-<br/>
-<br/>Södertälje 2, Baltic v 3. Box 2006.
-<br/>Tel 0755-398 70. Bankgiro
-<br/>748-9075. Postgiro 557150-0. Tga Kone.
-<br/>Telex 10259 KONEAB S
-<br/>Verksamhet: Försäljning, montering
-<br/>service, ombyggnader o
-<br/>reparationer av lyftkranar, transportörer
-<br/>o lyftdon
-<br/>
-<br/>Verkmästarkontor: 45100
-<br/>Uddevalla, Serenadv 6. Tel 0522-196 77
-<br/>21372 Malmö, Vougts v 32. Tel
-<br/>040-215214
-<br/>Varunamn: Kone
-<br/>Antal anställda: 50
-<br/>Årsomsättning: 18 000 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Diploming Carl-Johan
-<br/>Numelin
-<br/>
-<br/>Etableringsàr: 1957
-<br/>Dotterbolag till Kone Osakeyhtiö,
-<br/>Helsingfors, Finland.
-<br/>
-<br/>KONE-ASEA-GRAHAM,
-<br/>AKTIEBOLAG
-<br/>
-<br/>Pnr 172 04
-<br/>
-<br/>Sundbyberg 4, Box 405. Grahamsv
-<br/>15. Tel 08-2904 00. Tga
-<br/>Aseagra-ham. Telex 10012 ASEAGRA S
-<br/>Verksamhet: Försäljning, montage
-<br/>o service av hissar o rulltrappor
-<br/>Regionskontor:
-<br/>
-<br/>Malmö,Stora Nyg 24.Tel040-721 30
-<br/>Göteborg, Stora Badhusg 20. Tel
-<br/>031-17 0010
-<br/>
-<br/>Norrköping, Linnëg 28. Tel
-<br/>011-1290 20
-<br/>
-<br/>Stockholm. Grahamsv 15, pa
-<br/>Sundbyberg. Tel 08-29 04 00
-<br/>Sundsvall, Kyrkog 20. Tel
-<br/>060-121840
-<br/>
-<br/>Antal anställda: 780
-<br/>Årsomsättning: 96 600000
-<br/>
-<br/>346
+
+koks. Bunkeroljor.
+Byggnadsavdelning
+
+Antal anställda: 35
+Årsomsättning: 12000 000
+Aktiekapital: 1000 000
+Verkst dir: Gösta Lundholm
+Etableringsàr: 1925.
+
+KOLLIN &amp; STRÖM, AB
+
+Pnr 780 20
+
+Stora Tuna. Tel 0243-333 40.
+Bankgiro 465-1808. Postgiro 28717-7.
+Tga Kollinprod, Borlänge
+Verksamhet: Tillverkar perforerad
+plåt, traverser, lyftkranar,
+dammluckor, mekaniska o hydrauliska
+spel, urvattnare, tryckkärl,
+behållare o svetsade linskivor samt
+utför grovplåts- o
+svetsningsarbeten, maskinarbeten m m
+Varunamn: Giljotin, K &amp; S, Réel
+Antal anställda: 140
+Årsomsättning: 10 000 000
+.Aktiekapital: 900 000
+Styrelse: Dir Erik Söderberg (ordf),
+bruksdisp Bengt Lagercrantz, dir
+Hans Engdahl
+Verkst dir: Hans Engdahl
+Etableringsàr: 1900.
+
+KOLMÅRDENS PLAST.
+INDUSTRI AB
+
+Pnr 610 23
+
+Kolmården, österg 1. Box 104. Tel
+011-922 90, 922 91. Bankgiro
+824-4568. Postgiro 329297-6
+Verksamhet: Tillverkar o säljer
+plastfolie, säckar,
+industriemballage, presenningar, trädgårdsplast
+samt svetsade enheter i polyeten
+Varunamn: Peten
+.Antal anställda: 13
+Årsomsättning: 2000 000
+Aktiekapital: 70 000
+Styrelse: Kamrer Olof Söderlund
+(ordf), försäljn-chef Curt Ahlin,
+kontorist Ingvar Collin, dir Rune
+Lundell
+
+Verkst dir: Rune Lundell
+Etableringsàr: 1963.
+
+KOLPE-PATENT AB
+
+Pnr 682 01
+
+Filipstad 1, Värmlandsg 1. Pack.
+Tel 0590-135 70, 116 70. Bankgiro
+762-3721. Postgiro 697858-9
+Verksamhet: Montering o service
+av bärbar radiomanövrerad vinsch
+för skogsbruk m m. Exploatering
+av egna uppfinningar.
+Konsultverksamhet
+
+Antal anställda: 6
+Årsomsättning: 1000 000
+Aktiekapital: 80 000
+Styrelse: Disp A G Wigler (ordf),
+dir C G Eurenius, jägmäst Olof
+Kolpe
+
+Verkst dir: Olof Kolpe
+Etableringsàr: 1967.
+
+KOHLSWA JERNVERKS AB
+
+Pnr 730 30
+
+Kolsva. Tel 0221-510 00. Bankgiro
+160-4586. Postgiro 6477-4. Tga
+Jernverk. Telex 4786 KOHLSWA S
+Verksamhet: Järnverk med stålverk
+o mek verkstäder mm. Skogs- o
+lantbruksrörelse. Pem mindre
+kraftstationer i Hedströmmen med
+tillhörande distributionsnät. Tillverkar
+göt, hand-, maskin- o skalformat
+
+stålgjutgods (specialitet: slitgods
+av högprocentig manganstål o
+andra slitstarka stål),
+pulvermetallurgiska maskinelement i långa serier,
+ewartskedjor, smidesstäd,
+krossplattor, draglineskopor m m
+Antal anställda: 850
+Årsomsättning: 70 000 000
+Aktiekapital: 15 000 000
+Verkst dir: Lars Ostholm
+Platschef: Olof Carlsson
+Försäljn-dir: Sigfrid Sandell
+Försäljn-dir stf: Karl-Henry
+Hedström
+
+Etableringsàr: 1892
+
+Bruksdrift sedan 1540-talet. Bruket
+tillhör Surahammars Bruks AB.
+
+KOMMERSIELL
+DATA-BEHANDLING AB
+
+Pnr 42122
+
+Västra Frölunda 1, Box 149.
+Säck-pipeg. Tel 031-49 0170. Bankgiro
+514-4746. Postgiro 620237-8
+Verksamhet: Servicebyrå inom
+databranschen. Systemutveckling.
+Programmering.
+Produktionskör-ning på egen dataanläggning.
+Hål-remshålkortsstansning
+Antal anställda: 26
+Årsomsättning: 3 000 000
+Aktiekapital: 50 000
+Styrelse: Adv Hans Johnson,
+civilekonom Lars-Olof Gustavsson,
+köpman Töre Karlsson, civilekonom
+Sven-Göran Ehrnlund
+Verkst dir: Sven-Göran Ehrnlund
+Gruppchefer. Pil kand Agneta
+Magnusson, ing Jerry Johansson, fil
+kand Jan-Erik Sjöström
+Etableringsàr: 1964.
+
+KOMMUNAKTIEBOLAGET
+
+Pnr 11721
+
+Stockholm, Hornsg 68. Tel
+08-6909 40. Bankgiro 33-1410.
+Postgiro 2535-3
+
+Verksamhet: Fungerar som
+samköps- o upphandlingsorgan
+Antal anställda: 130
+Årsomsättning: 70 000 000
+Aktiekapital: 800 000
+Verkst dir. Erik Nilsson
+Etableringsàr: 1927.
+
+KOMMUN-DATA AB
+
+Pnr 126 12
+
+Stockholm 42, Fack. Västberga Allé
+36, Hägersten. Tel 08-744 04 20.
+Bankgiro 20-2262. Postgiro
+860000-9
+
+Verksamhet: Automatisk
+databehandling
+
+Antal anställda: 100
+Årsomsättning: 12 000 000
+.Aktiekapital: 600 000
+Verkst dir: Rune Skarström
+Etableringsàr: 1968.
+
+KOMMUNKREDIT AB
+
+Pnr 116 46
+
+Stockholm, Peter Myndes backe 12.
+Tel 08-22 91 60. Bankgiro 980-0459.
+Postgiro 657900-7
+Verksamhet: Lämnar o förmedlar lån
+till kommuner, kommunalförbund o
+andra kommunala samfälligheter.
+Upplånar för verksamheten
+erforderliga medel genom utgivande av
+obligationer
+Aktiekapital: 2000000
+
+Styrelse: H Allard (ordf), Hj Mehr,
+S Lindblad, P J Lindgren, S
+Holmqvist, R Ivestedt
+Verkst dir: R Ivestedt
+Etableringsàr: 1962.
+
+KOMPASS-SWEDEN
+
+se Kalenderföretagen, AB Förenade.
+
+KOMSTA STEN AB
+
+Pnr 27053
+
+Gärsnäs. Tel 0414-52115
+Verksamhet: Brytning o förädling
+av svart o grå kalksten
+Antal anställda: 14
+Årsomsättning: 400 000
+Aktiekapital: 50 000
+Verkst dir: Sigfrid Eriksson
+Etableringsàr: 1958.
+
+KONDITORERS &amp; BAGARES
+INKÖPS AB KOBIA
+
+Pnr 16210
+
+Vällingby 1, Vällingbyv 208. Fack.
+Tel 08-87 02 30. Bankgiro 48-3131.
+Postgiro 3049. Tga Kobiavaror
+Verksamhet: Specialfirma i råvaror
+o halvfabrikat samt maskiner o
+utensilier för konditorier o bagerier
+Antal anställda: 62
+Årsomsättning: 27147000
+Aktiekapital: 947 500
+Verkst dir: Gösta Karlshaiimar
+Etableringsàr: 1918.
+
+KONE AKTIEBOLAG
+
+Pnr 15102
+
+Södertälje 2, Baltic v 3. Box 2006.
+Tel 0755-398 70. Bankgiro
+748-9075. Postgiro 557150-0. Tga Kone.
+Telex 10259 KONEAB S
+Verksamhet: Försäljning, montering
+service, ombyggnader o
+reparationer av lyftkranar, transportörer
+o lyftdon
+
+Verkmästarkontor: 45100
+Uddevalla, Serenadv 6. Tel 0522-196 77
+21372 Malmö, Vougts v 32. Tel
+040-215214
+Varunamn: Kone
+Antal anställda: 50
+Årsomsättning: 18 000 000
+Aktiekapital: 100 000
+Verkst dir: Diploming Carl-Johan
+Numelin
+
+Etableringsàr: 1957
+Dotterbolag till Kone Osakeyhtiö,
+Helsingfors, Finland.
+
+KONE-ASEA-GRAHAM,
+AKTIEBOLAG
+
+Pnr 172 04
+
+Sundbyberg 4, Box 405. Grahamsv
+15. Tel 08-2904 00. Tga
+Aseagra-ham. Telex 10012 ASEAGRA S
+Verksamhet: Försäljning, montage
+o service av hissar o rulltrappor
+Regionskontor:
+
+Malmö,Stora Nyg 24.Tel040-721 30
+Göteborg, Stora Badhusg 20. Tel
+031-17 0010
+
+Norrköping, Linnëg 28. Tel
+011-1290 20
+
+Stockholm. Grahamsv 15, pa
+Sundbyberg. Tel 08-29 04 00
+Sundsvall, Kyrkog 20. Tel
+060-121840
+
+Antal anställda: 780
+Årsomsättning: 96 600000
+
+346

@@ -1,282 +1,282 @@
 ROS
-<br/>
-<br/>Filialfabrik: Kristianstad. Tel
-<br/>044-12 32 70. Telex 4437. Tillverkar
-<br/>blankettkarbon o telexrullar.
-<br/>Platschef: disp Bo Malmquist
-<br/>Aktiekapital: 425 000
-<br/>Styrelse: Dir: Stig Allsing, dir Olof
-<br/>Ogren, disp Per Wenander, Mr
-<br/>Kenneth Goldie, disp Lars de Geer,
-<br/>dir Rune Nilsson
-<br/>Verkst din Disp Per Wenander
-<br/>Etableringsàr: 1855
-<br/>Ombildat till aktiebolag 1930.
-<br/>
-<br/>ROSENDALS
-<br/>KONFEKTIONS AB
-<br/>
-<br/>Pnr 510 90
-<br/>
-<br/>Limmared. Tel 0325-713 00.
-<br/>Bankgiro 55-3121. Postgiro 269661
-<br/>Verksamhet: Tillverkar barnkläder
-<br/>Antal anställda: 100
-<br/>Årsomsättning: 5 000 000
-<br/>Aktiekapital: 150 000
-<br/>Veikst din Torsten Ombert
-<br/>Etableringsàr: 1944.
-<br/>
-<br/>ROSENDALS MÖBELFABRIK
-<br/>AB
-<br/>
-<br/>Pnr 360 40
-<br/>
-<br/>Rottne, Löpanäsv 19. Tel
-<br/>0470-910 26, 913 26. Bankgiro 66-8284.
-<br/>Postgiro 224342
-<br/>
-<br/>Verksamhet: Tillverkar bord o
-<br/>bokhyllor
-<br/>
-<br/>Antal anställda: 22
-<br/>Årsomsättning: 1200 000
-<br/>Aktiekapital: 25 000
-<br/>Verkst dir: Kjell Johansson
-<br/>Etableringsàr: 1959.
-<br/>
-<br/>ROSENFORS BRUK, AB
-<br/>
-<br/>Pnr 570 82
-<br/>
-<br/>Målilla. Tel 0495-208 20.
-<br/>Postgiro 8992. Tga Toolbruk.
-<br/>Telex 3931
-<br/>
-<br/>
-<br/>
-<br/>Verksamhet: Mek verkstad i
-<br/>Rosen-fors (Kalmar’). Tillverkar
-<br/>verktygsmaskiner såsom fräsmaskiner jämte
-<br/>tillbehör samt vävmaskiner för
-<br/>wiror, ylle, bomulls- o plastfilt
-<br/>Varunamn: Rosenfors
-<br/>Antal anställda: 110
-<br/>Årsomsättning: 6 200 000
-<br/>Aktiekapital: 100 000
-<br/>Styrelse: Konsul Tryggve Holm
-<br/>(ordf), adv Sten Lindskog, bankdir
-<br/>Sigvard Nylén, dir Gösta Rehnquist
-<br/>Verkst din Bruksdisp Lennart
-<br/>Torstenson
-<br/>
-<br/>Tekn dir: Nils Olov Engström
-<br/>Platschef: Overing Fritz Svensson
-<br/>Kamrer: Hans Löthstam
-<br/>Bruket äges av Gusums Bruk AB,
-<br/>Gusum.
-<br/>
-<br/>ROSENGRENS
-<br/>BLECK-SLAGERI AB
-<br/>
-<br/>Pnr 200 32
-<br/>
-<br/>Malmö 18, Volframg 3. Box 18028.
-<br/>Tel 040-94 65 80. Postgiro
-<br/>432364-8
-<br/>
-<br/>Verksamhet: Byggnadsplåtslageri,
-<br/>ventilationsarbeten samt
-<br/>beställningsarbeten i rostfritt
-<br/>
-<br/>Antal anställda: 70
-<br/>Verkst dir: Stig Lundin
-<br/>Etableringsàr: 1908.
-<br/>
-<br/>ROSENGRENS SYFABRIK
-<br/>
-<br/>Pnr 50108
-<br/>
-<br/>Borås 1, Box 522. Lidaholmsg 3.
-<br/>Tel 033-12 78 25. Bankgiro
-<br/>839-2599. Postgiro 24894-8
-<br/>Verksamhet: Tillverkar o säljer
-<br/>herrskjortor, damskjortblusar,
-<br/>skjortblusklänningar, lättare
-<br/>kavajer, herr- o dambyxor samt
-<br/>speciella plagg för yrkeskategorier
-<br/>Antal anställda: 80
-<br/>Årsomsättning: 3 500 000
-<br/>Ägare o chef: Fabr Erie Rosengren
-<br/>Försäljning: Disp Lennart
-<br/>Rosengren
-<br/>
-<br/>Produktion: Fabrikschef Sven
-<br/>
-<br/>Rosengren
-<br/>
-<br/>Etableringsàr: 1947.
-<br/>
-<br/>ROSENGRENS AB, EA
-<br/>
-<br/>Pnr 59101
-<br/>
-<br/>Huvudkonton Motala 1, Box 66. Tel
-<br/>0141-163 60. Tga Earosengrens.
-<br/>Telex 5580 EARMTLA S
-<br/>Verksamhet: Specialitet: möbler
-<br/>för kontor o offentlig miljö,
-<br/>bankirredningar, värde valvdörrar,
-<br/>värdeskåp, dokumentskåp
-<br/>Fabrik för tillverkning av
-<br/>kontorsmöbler i Motala. Motalaverken. Tel
-<br/>0141-163 60. Tga Earosengrens
-<br/>Fabrik för bankartiklar, dokument-,
-<br/>värdeskåp etc i Malung.
-<br/>Malungverken. Fack 116. Tel 0280-118 50.
-<br/>Tga Norema. Telex7732 EARMLG S
-<br/>Försäljningskontor: 591 01 Motala 1,
-<br/>Box 66. Tel 0141-163 60
-<br/>11140 Stockholm, Döbelnsg 21. Tel
-<br/>290280
-<br/>
-<br/>Sundbyberg. Karlsbodav 25, pa
-<br/>16170 Bromma. Tel 08-29 02 80.
-<br/>Telex 1896 EARSTH S
-<br/>
-<br/>402 70 Göteborg 8, Fack. Tel
-<br/>031-52 02 20
-<br/>
-<br/>21225 Malmö, Krusegränd 42 E.
-<br/>Tel 040-18 10 50
-<br/>
-<br/>852 44 Sundsvall, Kyrkog 4. Tel
-<br/>060-15 41 40
-<br/>
-<br/>Dotterbolag: E A Rosengrens A/S,
-<br/>Lerstf Parkallé 112, Köpenhamn.
-<br/>Tel 0012-29 65 00
-<br/>E A Rosengrens A/S, Økernv 9,
-<br/>Oslo. Tel 02-67 35 92
-<br/>E A Rosengrens GmbH, Parkstrasse
-<br/>46, 6232 Bad Soden. Tel
-<br/>06196-269 06
-<br/>
-<br/>Antal anställda: 750
-<br/>Årsomsättning: 60 000 000
-<br/>Aktiekapital: 8 5 00 000
-<br/>Styrelse: Disp F Hartmann (ordf),
-<br/>disp Bo Risberg, dlr Lars
-<br/>Hill-Lindquist, dir Sigurd Ljungcrantz,
-<br/>dir Gunnar Olsson
-<br/>Verkst din Gunnar Olsson
-<br/>Etableringsån 1886
-<br/>Ombildat till aktiebolag 1910.
-<br/>Dotterbolag: Göteborgs
-<br/>Kassaskåpsfabriks AB, Göteborg, AB
-<br/>Hedal-verken, Kungsbacka, AB Norema
-<br/>Industrier, Malung, Verkstads AB
-<br/>Lindqvist, Motala.
-<br/>
-<br/>ROSENGRENS METALL.
-<br/>GJUTERI AB, J N
-<br/>
-<br/>Pnr 200 61
-<br/>
-<br/>Malmö 30, Barlastg. Box 30023.
-<br/>Tel 040-15 30 00, 15 30 01. Bankgiro
-<br/>869-0182. Postgiro 30685-2. Tga
-<br/>
-<br/>Metallgjuteriet
-<br/>
-<br/>Verksamhet: Tillverkar gjutgods,
-<br/>metallgjutgods o lättmetallegeringar
-<br/>samt utför konstgjutningar o
-<br/>cen-trifugalgjutningar
-<br/>Antal anställda: 35
-<br/>Årsomsättning: 3 000 000
-<br/>Aktiekapital: 132000
-<br/>Styrelse: Jur dr Erik Danielsson
-<br/>(ordf), gjuteriing Bertil Ekeblom,
-<br/>kamrer Erik Larsson, ing Arne
-<br/>Rosengren, ing Bengt Rosengren
-<br/>Verkst dir. Ing Bengt Rosengren
-<br/>Etableringsàr: 1930.
-<br/>
-<br/>ROSENQUIST, AB NILS
-<br/>
-<br/>Pnr 27201
-<br/>
-<br/>Simrishamn 1, Kristianstadsv 1. Box
-<br/>38. Tel 0414-118 40. Bankgiro
-<br/>66-2234. Postgiro 91216-2
-<br/>Verksamhet: Säljer trävaror,
-<br/>byggnadsmaterial, golv, eldningsolja,
-<br/>kol o koks
-<br/>
-<br/>Årsomsättning: 4 600 000
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir. Stig Björnsson
-<br/>Etableringsån 1915.
-<br/>
-<br/>ROSENLEWS AB
-<br/>HUSHÅLLSMASKINER
-<br/>
-<br/>Pnr 172 03
-<br/>
-<br/>Sundbyberg 3, Högklintav 9. Box
-<br/>325. Tel 08-98 08 30. Bankgiro
-<br/>74-3641. Postgiro 671669. Tga
-<br/>Rosen-lewab. Telex 10325 ROLEWAB S
-<br/>Verksamhet: Grossistförsäljning av
-<br/>hushållskapitalvaror
-<br/>Varunamn: Rosenlew
-<br/>Antal anställda: 13
-<br/>Årsomsättning: 7 000 000
-<br/>Aktiekapital: 200 000
-<br/>Verkst dir: Torsten Elmström
-<br/>Etableringsàr: 1965.
-<br/>
-<br/>ROSENLIND, ÅKE
-<br/>
-<br/>Pnr 43136
-<br/>
-<br/>Mölndal, Höjdg 14. Tel031-27 14 24.
-<br/>Postgiro 426253
-<br/>
-<br/>Verksamhet: Papper o påsar i parti
-<br/>Ägare o chef: Ake Rosenlind
-<br/>Etableringsån 1953.
-<br/>
-<br/>ROSHAMN INDUSTRI AB
-<br/>
-<br/>Pnr 570 82
-<br/>
-<br/>Målüla, Gårdveda. Tel 0495-221 00.
-<br/>Bankgiro 618-4352. Postgiro
-<br/>232360-8
-<br/>
-<br/>Verksamhet: Tillverkar elektriska
-<br/>radiatorer för bostadsuppvärmning
-<br/>samt strålkastare för
-<br/>byggnadsindustrin
-<br/>
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: Lars Carlsson.
-<br/>
-<br/>ROSS AB
-<br/>
-<br/>Pnr 431 33
-<br/>
-<br/>Mölndal, Taljegårdsg 6. Tel
-<br/>031-27 97 85, 27 97 87. Bankgiro
-<br/>420-4210. Postgiro 425737-4
-<br/>Verksamhet: Billacker o övrigt som
-<br/>tillhör billackerarebranschen
-<br/>Antal anställda: 4
-<br/>Årsomsättning: 550000
-<br/>Aktiekapital: 5 000
-<br/>Verkst din Fru Margit Ericsson
-<br/>Etableringsån 1952.
-<br/>
-<br/>524
+
+Filialfabrik: Kristianstad. Tel
+044-12 32 70. Telex 4437. Tillverkar
+blankettkarbon o telexrullar.
+Platschef: disp Bo Malmquist
+Aktiekapital: 425 000
+Styrelse: Dir: Stig Allsing, dir Olof
+Ogren, disp Per Wenander, Mr
+Kenneth Goldie, disp Lars de Geer,
+dir Rune Nilsson
+Verkst din Disp Per Wenander
+Etableringsàr: 1855
+Ombildat till aktiebolag 1930.
+
+ROSENDALS
+KONFEKTIONS AB
+
+Pnr 510 90
+
+Limmared. Tel 0325-713 00.
+Bankgiro 55-3121. Postgiro 269661
+Verksamhet: Tillverkar barnkläder
+Antal anställda: 100
+Årsomsättning: 5 000 000
+Aktiekapital: 150 000
+Veikst din Torsten Ombert
+Etableringsàr: 1944.
+
+ROSENDALS MÖBELFABRIK
+AB
+
+Pnr 360 40
+
+Rottne, Löpanäsv 19. Tel
+0470-910 26, 913 26. Bankgiro 66-8284.
+Postgiro 224342
+
+Verksamhet: Tillverkar bord o
+bokhyllor
+
+Antal anställda: 22
+Årsomsättning: 1200 000
+Aktiekapital: 25 000
+Verkst dir: Kjell Johansson
+Etableringsàr: 1959.
+
+ROSENFORS BRUK, AB
+
+Pnr 570 82
+
+Målilla. Tel 0495-208 20.
+Postgiro 8992. Tga Toolbruk.
+Telex 3931
+
+
+
+Verksamhet: Mek verkstad i
+Rosen-fors (Kalmar’). Tillverkar
+verktygsmaskiner såsom fräsmaskiner jämte
+tillbehör samt vävmaskiner för
+wiror, ylle, bomulls- o plastfilt
+Varunamn: Rosenfors
+Antal anställda: 110
+Årsomsättning: 6 200 000
+Aktiekapital: 100 000
+Styrelse: Konsul Tryggve Holm
+(ordf), adv Sten Lindskog, bankdir
+Sigvard Nylén, dir Gösta Rehnquist
+Verkst din Bruksdisp Lennart
+Torstenson
+
+Tekn dir: Nils Olov Engström
+Platschef: Overing Fritz Svensson
+Kamrer: Hans Löthstam
+Bruket äges av Gusums Bruk AB,
+Gusum.
+
+ROSENGRENS
+BLECK-SLAGERI AB
+
+Pnr 200 32
+
+Malmö 18, Volframg 3. Box 18028.
+Tel 040-94 65 80. Postgiro
+432364-8
+
+Verksamhet: Byggnadsplåtslageri,
+ventilationsarbeten samt
+beställningsarbeten i rostfritt
+
+Antal anställda: 70
+Verkst dir: Stig Lundin
+Etableringsàr: 1908.
+
+ROSENGRENS SYFABRIK
+
+Pnr 50108
+
+Borås 1, Box 522. Lidaholmsg 3.
+Tel 033-12 78 25. Bankgiro
+839-2599. Postgiro 24894-8
+Verksamhet: Tillverkar o säljer
+herrskjortor, damskjortblusar,
+skjortblusklänningar, lättare
+kavajer, herr- o dambyxor samt
+speciella plagg för yrkeskategorier
+Antal anställda: 80
+Årsomsättning: 3 500 000
+Ägare o chef: Fabr Erie Rosengren
+Försäljning: Disp Lennart
+Rosengren
+
+Produktion: Fabrikschef Sven
+
+Rosengren
+
+Etableringsàr: 1947.
+
+ROSENGRENS AB, EA
+
+Pnr 59101
+
+Huvudkonton Motala 1, Box 66. Tel
+0141-163 60. Tga Earosengrens.
+Telex 5580 EARMTLA S
+Verksamhet: Specialitet: möbler
+för kontor o offentlig miljö,
+bankirredningar, värde valvdörrar,
+värdeskåp, dokumentskåp
+Fabrik för tillverkning av
+kontorsmöbler i Motala. Motalaverken. Tel
+0141-163 60. Tga Earosengrens
+Fabrik för bankartiklar, dokument-,
+värdeskåp etc i Malung.
+Malungverken. Fack 116. Tel 0280-118 50.
+Tga Norema. Telex7732 EARMLG S
+Försäljningskontor: 591 01 Motala 1,
+Box 66. Tel 0141-163 60
+11140 Stockholm, Döbelnsg 21. Tel
+290280
+
+Sundbyberg. Karlsbodav 25, pa
+16170 Bromma. Tel 08-29 02 80.
+Telex 1896 EARSTH S
+
+402 70 Göteborg 8, Fack. Tel
+031-52 02 20
+
+21225 Malmö, Krusegränd 42 E.
+Tel 040-18 10 50
+
+852 44 Sundsvall, Kyrkog 4. Tel
+060-15 41 40
+
+Dotterbolag: E A Rosengrens A/S,
+Lerstf Parkallé 112, Köpenhamn.
+Tel 0012-29 65 00
+E A Rosengrens A/S, Økernv 9,
+Oslo. Tel 02-67 35 92
+E A Rosengrens GmbH, Parkstrasse
+46, 6232 Bad Soden. Tel
+06196-269 06
+
+Antal anställda: 750
+Årsomsättning: 60 000 000
+Aktiekapital: 8 5 00 000
+Styrelse: Disp F Hartmann (ordf),
+disp Bo Risberg, dlr Lars
+Hill-Lindquist, dir Sigurd Ljungcrantz,
+dir Gunnar Olsson
+Verkst din Gunnar Olsson
+Etableringsån 1886
+Ombildat till aktiebolag 1910.
+Dotterbolag: Göteborgs
+Kassaskåpsfabriks AB, Göteborg, AB
+Hedal-verken, Kungsbacka, AB Norema
+Industrier, Malung, Verkstads AB
+Lindqvist, Motala.
+
+ROSENGRENS METALL.
+GJUTERI AB, J N
+
+Pnr 200 61
+
+Malmö 30, Barlastg. Box 30023.
+Tel 040-15 30 00, 15 30 01. Bankgiro
+869-0182. Postgiro 30685-2. Tga
+
+Metallgjuteriet
+
+Verksamhet: Tillverkar gjutgods,
+metallgjutgods o lättmetallegeringar
+samt utför konstgjutningar o
+cen-trifugalgjutningar
+Antal anställda: 35
+Årsomsättning: 3 000 000
+Aktiekapital: 132000
+Styrelse: Jur dr Erik Danielsson
+(ordf), gjuteriing Bertil Ekeblom,
+kamrer Erik Larsson, ing Arne
+Rosengren, ing Bengt Rosengren
+Verkst dir. Ing Bengt Rosengren
+Etableringsàr: 1930.
+
+ROSENQUIST, AB NILS
+
+Pnr 27201
+
+Simrishamn 1, Kristianstadsv 1. Box
+38. Tel 0414-118 40. Bankgiro
+66-2234. Postgiro 91216-2
+Verksamhet: Säljer trävaror,
+byggnadsmaterial, golv, eldningsolja,
+kol o koks
+
+Årsomsättning: 4 600 000
+Aktiekapital: 100 000
+Verkst dir. Stig Björnsson
+Etableringsån 1915.
+
+ROSENLEWS AB
+HUSHÅLLSMASKINER
+
+Pnr 172 03
+
+Sundbyberg 3, Högklintav 9. Box
+325. Tel 08-98 08 30. Bankgiro
+74-3641. Postgiro 671669. Tga
+Rosen-lewab. Telex 10325 ROLEWAB S
+Verksamhet: Grossistförsäljning av
+hushållskapitalvaror
+Varunamn: Rosenlew
+Antal anställda: 13
+Årsomsättning: 7 000 000
+Aktiekapital: 200 000
+Verkst dir: Torsten Elmström
+Etableringsàr: 1965.
+
+ROSENLIND, ÅKE
+
+Pnr 43136
+
+Mölndal, Höjdg 14. Tel031-27 14 24.
+Postgiro 426253
+
+Verksamhet: Papper o påsar i parti
+Ägare o chef: Ake Rosenlind
+Etableringsån 1953.
+
+ROSHAMN INDUSTRI AB
+
+Pnr 570 82
+
+Målüla, Gårdveda. Tel 0495-221 00.
+Bankgiro 618-4352. Postgiro
+232360-8
+
+Verksamhet: Tillverkar elektriska
+radiatorer för bostadsuppvärmning
+samt strålkastare för
+byggnadsindustrin
+
+Aktiekapital: 50 000
+Verkst dir: Lars Carlsson.
+
+ROSS AB
+
+Pnr 431 33
+
+Mölndal, Taljegårdsg 6. Tel
+031-27 97 85, 27 97 87. Bankgiro
+420-4210. Postgiro 425737-4
+Verksamhet: Billacker o övrigt som
+tillhör billackerarebranschen
+Antal anställda: 4
+Årsomsättning: 550000
+Aktiekapital: 5 000
+Verkst din Fru Margit Ericsson
+Etableringsån 1952.
+
+524

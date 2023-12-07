@@ -1,291 +1,291 @@
 BEL
-<br/>
-<br/>0522-144 50. Bankgiro 42-8317.
-<br/>Postgiro 669410-3. Tga Beijerbygg
-<br/>Verksamhet: Försäljning av
-<br/>byggnadsmaterial, trävaror, snickerier,
-<br/>golvläggningar
-<br/>Antal anställda: 30
-<br/>Årsomsättning: 15 000 000
-<br/>-Aktiekapital: 600 000
-<br/>Styrelse: Dlr Kjell Beijer (ordf),
-<br/>tekn dr Hjalmar Olson, dir Arne
-<br/>Henrikson, dlr Anders Wall
-<br/>Verkst dir: Ake Cederholm
-<br/>Etableringsår: 1966.
-<br/>
-<br/>BEIJER BYGGMATERIAL I
-<br/>VÄRNAMO AB
-<br/>
-<br/>Pnr 33101
-<br/>
-<br/>Värnamo 1, Storg 4. Box 86. Tel
-<br/>0370-119 00. Postgiro 389417.
-<br/>Telex 70146
-<br/>
-<br/>Verksamhet: Säljer
-<br/>byggnadsmateriel, betong, grus o makadam
-<br/>Antal anställda: 90
-<br/>Årsomsättning: 35 000 000
-<br/>Aktiekapital: 1 000 000
-<br/>Verkst dir: Arne Oscarsson
-<br/>Etableringsår: 1946.
-<br/>
-<br/>BEIJER BYGGMATERIAL I
-<br/>OREBKO AB
-<br/>
-<br/>Pnr 70104
-<br/>
-<br/>Örebro 1, Box 294. Storg 27. Tel
-<br/>019-13 03 00. Bankgiro 61-4658.
-<br/>Postgiro 86679. Tga Beijerbygg.
-<br/>Telex 73427 BEJBYGG S
-<br/>Verksamhet: Handel med
-<br/>byggnadsmaterial. Golv- o
-<br/>takentreprenader. Byggträprodukter
-<br/>Antal anställda: 128
-<br/>Årsomsättning: 30 000000
-<br/>Aktiekapital: 34 5 400
-<br/>Verkst din A Lundahl
-<br/>Etableringsår: 1938
-<br/>Ombildat till aktiebolag 1955.
-<br/>
-<br/>BEIJER BYGGMATERIAL I
-<br/>ÖSTERSUND AB
-<br/>
-<br/>(f d Hård, AB J P)
-<br/>
-<br/>Pnr 83101
-<br/>
-<br/>Östersund 1, Box 19. Kyrkg 45.
-<br/>Tel 063-175 00. Bankgiro 25-0045.
-<br/>Postgiro 10450-5. Tga Beijer.
-<br/>Telex 6579
-<br/>
-<br/>Verksamhet: Byggnadsmaterial,
-<br/>plattsättning, golventreprenader
-<br/>Antal anställda: 70
-<br/>Årsomsättning: 20 000 000
-<br/>Aktiekapital: 216 000
-<br/>Verkst dir: Elis Sundström
-<br/>Etableringsår: 1897.
-<br/>
-<br/>BEIJER KEMIKALIE AB
-<br/>
-<br/>Pnr 21124
-<br/>
-<br/>Malmö, Bjurög 43. Tel 040-18 0 0 5 0.
-<br/>Bankgiro 21-7602. Postgiro 634500.
-<br/>Tga Beijerkem. Telex 32248
-<br/>Verksamhet: Återförsäljare av
-<br/>kemikalier o lösningsmedel.
-<br/>Distributör för Dow Chemical, USA
-<br/>Försäljningskontor:
-<br/>Stockholm. Tel 08-22 82 60
-<br/>Göteborg. Tel 031-17 6 6 4 0
-<br/>Dotterbolag: Gust Kjellberg AB,
-<br/>Norrköping. Tel 011-12 0126
-<br/>Antal anställda: 50
-<br/>Årsomsättning: 50 000 000
-<br/>Aktiekapital: 1000 000
-<br/>Verkst dir: Bertil Palmqvist
-<br/>Etableringsår: 1936.
-<br/>
-<br/>BEIJER AB, G &amp; L
-<br/>
-<br/>Pnr 20123
-<br/>
-<br/>Malmö 1, Box 325. N Vallg 70. Tel
-<br/>040-735 60. Bankgiro 640-0089.
-<br/>Postgiro 24530-8. Tga Beijer.
-<br/>Telex 3122
-<br/>
-<br/>Verksamhet: Kol, koks,
-<br/>eldningsoljor, gjuteriförnödenheter,
-<br/>valsverksprodukter, maskiner o utrustningar
-<br/>för gjuterier o stålverk, kemikalier,
-<br/>export av trävaror o svenska
-<br/>industriprodukter, skeppsklarerare,
-<br/>speditörer
-<br/>
-<br/>Filial: Stockholm C, Nybrokajen 7.
-<br/>Tel 08-1180 32. Telex 19027. Tga
-<br/>
-<br/>Beima
-<br/>
-<br/>Antal anställda: 110
-<br/>Årsomsättning: 140 000 000
-<br/>Aktiekapital: 2 553 000
-<br/>Styrelse: Dir Richard Hain (ordf),
-<br/>pol mag John Hain, disp Mauritz
-<br/>Hain, dr Ernst Wehtje, bergsing
-<br/>Charles Werner, övering Gilbert
-<br/>de Laval
-<br/>
-<br/>Verkst dir: John Hain
-<br/>Etableringsår: 1866
-<br/>Ombildat till aktiebolag 1908.
-<br/>
-<br/>BEIJER IMPORT OCH EXPORT
-<br/>AB I STOCKHOLM, G &amp; L
-<br/>
-<br/>Pnr 103 80
-<br/>
-<br/>Stockholm 7, Fack. Birger Jarlsg 6.
-<br/>Tel 08-228260. Postgiro 59555-3.
-<br/>Tga Beijer. Telex 10664, 19322,
-<br/>19327, 19328
-<br/>
-<br/>Försäljning: Kol, koks, olja, järn,
-<br/>kemikalier, livsmedel, stål,
-<br/>internationell handel
-<br/>
-<br/>Avdelningskontor: 403 13 Göteborg
-<br/>2, Box 2135, Ingeniörsg 1 B. Tel
-<br/>031-17 66 40. Tga Beijer. Telex 2322
-<br/>Verksamhet: Speciellt
-<br/>internationella affärer Fjärran Östern
-<br/>Verkst dir: Anders Wall
-<br/>Etableringsår: 1915.
-<br/>
-<br/>BeJi, BERGSTRÖM &amp; JONSON,
-<br/>INGENJÖRSFIRMAN
-<br/>
-<br/>Pnr 150 10
-<br/>
-<br/>Gnesta, Box 83. Tel 0158-105 89.
-<br/>Bankgiro 61-6281. Postgiro 100290
-<br/>Verksamhet: Säljer nya o
-<br/>begagnade elmotorer o elapparater
-<br/>Antal anställda: 6
-<br/>Årsomsättning: 250 000
-<br/>Chefer: Oskar Bergström, K-I
-<br/>Jonson
-<br/>
-<br/>Etableringsår: 1956.
-<br/>
-<br/>BEJOHNS
-<br/>
-<br/>Pnr 502 30
-<br/>
-<br/>Borås. Mariedalsg 7. Tel
-<br/>033-12 17 83. Bankgiro 360-8866.
-<br/>Postgiro 216858-1
-<br/>
-<br/>Verksamhet: Engros i byxor, trikå,
-<br/>strumpor, pyjamas, skjortor,
-<br/>vantar, sockor, sängkläder m m
-<br/>Årsomsättning: 1000 000
-<br/>Ägare o chef: Bror Johansson
-<br/>Etableringsår: 1948.
-<br/>
-<br/>BEJRA MÖBLER I TIBRO AB
-<br/>
-<br/>Pnr 543 01
-<br/>
-<br/>T ib ro 1, Fabrik sg 5. Box 133. Tel
-<br/>0504-125 00. Bankgiro 221-3809.
-<br/>Postgiro 268859-6. Tga Bejra
-<br/>Verksamhet: Tillverkar
-<br/>soffgrup-per, kompletteringsfåtöljer o
-<br/>bäddsoffor
-<br/>
-<br/>Antal anställda: 80
-<br/>Årsomsättning: 12 000 000
-<br/>
-<br/>Aktiekapital: 120 000
-<br/>Verkst dir: Beyron Andersson
-<br/>Etableringsår: 1948.
-<br/>
-<br/>BEKATEK AB
-<br/>
-<br/>Pnr 162 21
-<br/>
-<br/>Vällingby, Vällingbyv 170. Tel
-<br/>08-87 76 00. Bankgiro 472-5636.
-<br/>Postgiro 55632-4. Tga Bekatek
-<br/>Verksamhet Säljer kontorsmaskiner
-<br/>samt specialmaskiner för kontor
-<br/>Aktiekapital: 20 000
-<br/>Verkst dir: I Bjernefalk
-<br/>Etableringsår: 1967.
-<br/>
-<br/>BEKKEDAHL&amp; ORTENBLAD,
-<br/>AB
-<br/>
-<br/>Pnr 40125
-<br/>
-<br/>Göteborg 1, Tegnërsg 15. Box 345.
-<br/>Tel 031-810920
-<br/>
-<br/>Verksamhet: Bil-, traktor- o
-<br/>industridäck. Regummeringsfabrik.
-<br/>Slangar
-<br/>
-<br/>Regummeringsfabrik: Vara,
-<br/>Bad-husg 22. Tel 0512-112 25
-<br/>Antal anställda: 60
-<br/>Årsomsättning: 12 000 000
-<br/>Aktiekapital: 225 000
-<br/>Verkst din Lennart "Säll
-<br/>Etableringsår: 1932.
-<br/>
-<br/>BEKÅ AB
-<br/>
-<br/>Pnr 20110
-<br/>
-<br/>Malmö 1, Gustav Adolfs torg 2.
-<br/>Fack. Tel 040-704 70. Bankgiro
-<br/>34-8212. Postgiro 25120. Tga Bekå
-<br/>Verksamhet: Manufaktur o
-<br/>damkonfektion
-<br/>
-<br/>Aktiekapital: 450 000
-<br/>Verkst dir: Fru Hilda
-<br/>Bengt-Påhlsson
-<br/>
-<br/>Företagsledare: Per Påhlsson
-<br/>Etableringsår: 1925.
-<br/>
-<br/>BELGANETS TOFFELFABRIK
-<br/>JOHANNESSON &amp; MATTSSON
-<br/>
-<br/>Pnr 370 13
-<br/>
-<br/>Belganet, Box 67. Tel 0457-520 47.
-<br/>Bankgiro 95-2508. Postgiro 334533
-<br/>Verksamhet: Tillverkar
-<br/>trätoffel-bottnar o färdiga trätofflor
-<br/>Antal anställda: 14
-<br/>Årsomsättning: 700 000
-<br/>Chefer: H Mattsson, J Johanesson
-<br/>Etableringsår: 1931.
-<br/>
-<br/>B ELG AS, HANDELS AB
-<br/>
-<br/>Pnr 411 15
-<br/>
-<br/>Göteborg, Kyrkog 4. Tel
-<br/>031-1179 73, 1179 76. Bankgiro
-<br/>33-7312. Postgiro 43487. Tga Belgas
-<br/>Verksamhet: Agenturrörelse med
-<br/>elektr hushållsapparater
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: Göran Ohlsson
-<br/>Etableringsår: 1932.
-<br/>
-<br/>BELGIMEX, AB
-<br/>
-<br/>Pnr 100 31
-<br/>
-<br/>Stockholm 21, Sankt Eriksg 103.
-<br/>Box 21029. Tel 08-34 15 75.
-<br/>Postgiro 51166-7
-<br/>
-<br/>Verksamhet: Textilagenturer för
-<br/>filtar o mattor
-<br/>Aktiekapital: 50 000
-<br/>Verkst dir: René Robert
-<br/>Etableringsår: 1929.
-<br/>
-<br/>59
+
+0522-144 50. Bankgiro 42-8317.
+Postgiro 669410-3. Tga Beijerbygg
+Verksamhet: Försäljning av
+byggnadsmaterial, trävaror, snickerier,
+golvläggningar
+Antal anställda: 30
+Årsomsättning: 15 000 000
+-Aktiekapital: 600 000
+Styrelse: Dlr Kjell Beijer (ordf),
+tekn dr Hjalmar Olson, dir Arne
+Henrikson, dlr Anders Wall
+Verkst dir: Ake Cederholm
+Etableringsår: 1966.
+
+BEIJER BYGGMATERIAL I
+VÄRNAMO AB
+
+Pnr 33101
+
+Värnamo 1, Storg 4. Box 86. Tel
+0370-119 00. Postgiro 389417.
+Telex 70146
+
+Verksamhet: Säljer
+byggnadsmateriel, betong, grus o makadam
+Antal anställda: 90
+Årsomsättning: 35 000 000
+Aktiekapital: 1 000 000
+Verkst dir: Arne Oscarsson
+Etableringsår: 1946.
+
+BEIJER BYGGMATERIAL I
+OREBKO AB
+
+Pnr 70104
+
+Örebro 1, Box 294. Storg 27. Tel
+019-13 03 00. Bankgiro 61-4658.
+Postgiro 86679. Tga Beijerbygg.
+Telex 73427 BEJBYGG S
+Verksamhet: Handel med
+byggnadsmaterial. Golv- o
+takentreprenader. Byggträprodukter
+Antal anställda: 128
+Årsomsättning: 30 000000
+Aktiekapital: 34 5 400
+Verkst din A Lundahl
+Etableringsår: 1938
+Ombildat till aktiebolag 1955.
+
+BEIJER BYGGMATERIAL I
+ÖSTERSUND AB
+
+(f d Hård, AB J P)
+
+Pnr 83101
+
+Östersund 1, Box 19. Kyrkg 45.
+Tel 063-175 00. Bankgiro 25-0045.
+Postgiro 10450-5. Tga Beijer.
+Telex 6579
+
+Verksamhet: Byggnadsmaterial,
+plattsättning, golventreprenader
+Antal anställda: 70
+Årsomsättning: 20 000 000
+Aktiekapital: 216 000
+Verkst dir: Elis Sundström
+Etableringsår: 1897.
+
+BEIJER KEMIKALIE AB
+
+Pnr 21124
+
+Malmö, Bjurög 43. Tel 040-18 0 0 5 0.
+Bankgiro 21-7602. Postgiro 634500.
+Tga Beijerkem. Telex 32248
+Verksamhet: Återförsäljare av
+kemikalier o lösningsmedel.
+Distributör för Dow Chemical, USA
+Försäljningskontor:
+Stockholm. Tel 08-22 82 60
+Göteborg. Tel 031-17 6 6 4 0
+Dotterbolag: Gust Kjellberg AB,
+Norrköping. Tel 011-12 0126
+Antal anställda: 50
+Årsomsättning: 50 000 000
+Aktiekapital: 1000 000
+Verkst dir: Bertil Palmqvist
+Etableringsår: 1936.
+
+BEIJER AB, G &amp; L
+
+Pnr 20123
+
+Malmö 1, Box 325. N Vallg 70. Tel
+040-735 60. Bankgiro 640-0089.
+Postgiro 24530-8. Tga Beijer.
+Telex 3122
+
+Verksamhet: Kol, koks,
+eldningsoljor, gjuteriförnödenheter,
+valsverksprodukter, maskiner o utrustningar
+för gjuterier o stålverk, kemikalier,
+export av trävaror o svenska
+industriprodukter, skeppsklarerare,
+speditörer
+
+Filial: Stockholm C, Nybrokajen 7.
+Tel 08-1180 32. Telex 19027. Tga
+
+Beima
+
+Antal anställda: 110
+Årsomsättning: 140 000 000
+Aktiekapital: 2 553 000
+Styrelse: Dir Richard Hain (ordf),
+pol mag John Hain, disp Mauritz
+Hain, dr Ernst Wehtje, bergsing
+Charles Werner, övering Gilbert
+de Laval
+
+Verkst dir: John Hain
+Etableringsår: 1866
+Ombildat till aktiebolag 1908.
+
+BEIJER IMPORT OCH EXPORT
+AB I STOCKHOLM, G &amp; L
+
+Pnr 103 80
+
+Stockholm 7, Fack. Birger Jarlsg 6.
+Tel 08-228260. Postgiro 59555-3.
+Tga Beijer. Telex 10664, 19322,
+19327, 19328
+
+Försäljning: Kol, koks, olja, järn,
+kemikalier, livsmedel, stål,
+internationell handel
+
+Avdelningskontor: 403 13 Göteborg
+2, Box 2135, Ingeniörsg 1 B. Tel
+031-17 66 40. Tga Beijer. Telex 2322
+Verksamhet: Speciellt
+internationella affärer Fjärran Östern
+Verkst dir: Anders Wall
+Etableringsår: 1915.
+
+BeJi, BERGSTRÖM &amp; JONSON,
+INGENJÖRSFIRMAN
+
+Pnr 150 10
+
+Gnesta, Box 83. Tel 0158-105 89.
+Bankgiro 61-6281. Postgiro 100290
+Verksamhet: Säljer nya o
+begagnade elmotorer o elapparater
+Antal anställda: 6
+Årsomsättning: 250 000
+Chefer: Oskar Bergström, K-I
+Jonson
+
+Etableringsår: 1956.
+
+BEJOHNS
+
+Pnr 502 30
+
+Borås. Mariedalsg 7. Tel
+033-12 17 83. Bankgiro 360-8866.
+Postgiro 216858-1
+
+Verksamhet: Engros i byxor, trikå,
+strumpor, pyjamas, skjortor,
+vantar, sockor, sängkläder m m
+Årsomsättning: 1000 000
+Ägare o chef: Bror Johansson
+Etableringsår: 1948.
+
+BEJRA MÖBLER I TIBRO AB
+
+Pnr 543 01
+
+T ib ro 1, Fabrik sg 5. Box 133. Tel
+0504-125 00. Bankgiro 221-3809.
+Postgiro 268859-6. Tga Bejra
+Verksamhet: Tillverkar
+soffgrup-per, kompletteringsfåtöljer o
+bäddsoffor
+
+Antal anställda: 80
+Årsomsättning: 12 000 000
+
+Aktiekapital: 120 000
+Verkst dir: Beyron Andersson
+Etableringsår: 1948.
+
+BEKATEK AB
+
+Pnr 162 21
+
+Vällingby, Vällingbyv 170. Tel
+08-87 76 00. Bankgiro 472-5636.
+Postgiro 55632-4. Tga Bekatek
+Verksamhet Säljer kontorsmaskiner
+samt specialmaskiner för kontor
+Aktiekapital: 20 000
+Verkst dir: I Bjernefalk
+Etableringsår: 1967.
+
+BEKKEDAHL&amp; ORTENBLAD,
+AB
+
+Pnr 40125
+
+Göteborg 1, Tegnërsg 15. Box 345.
+Tel 031-810920
+
+Verksamhet: Bil-, traktor- o
+industridäck. Regummeringsfabrik.
+Slangar
+
+Regummeringsfabrik: Vara,
+Bad-husg 22. Tel 0512-112 25
+Antal anställda: 60
+Årsomsättning: 12 000 000
+Aktiekapital: 225 000
+Verkst din Lennart "Säll
+Etableringsår: 1932.
+
+BEKÅ AB
+
+Pnr 20110
+
+Malmö 1, Gustav Adolfs torg 2.
+Fack. Tel 040-704 70. Bankgiro
+34-8212. Postgiro 25120. Tga Bekå
+Verksamhet: Manufaktur o
+damkonfektion
+
+Aktiekapital: 450 000
+Verkst dir: Fru Hilda
+Bengt-Påhlsson
+
+Företagsledare: Per Påhlsson
+Etableringsår: 1925.
+
+BELGANETS TOFFELFABRIK
+JOHANNESSON &amp; MATTSSON
+
+Pnr 370 13
+
+Belganet, Box 67. Tel 0457-520 47.
+Bankgiro 95-2508. Postgiro 334533
+Verksamhet: Tillverkar
+trätoffel-bottnar o färdiga trätofflor
+Antal anställda: 14
+Årsomsättning: 700 000
+Chefer: H Mattsson, J Johanesson
+Etableringsår: 1931.
+
+B ELG AS, HANDELS AB
+
+Pnr 411 15
+
+Göteborg, Kyrkog 4. Tel
+031-1179 73, 1179 76. Bankgiro
+33-7312. Postgiro 43487. Tga Belgas
+Verksamhet: Agenturrörelse med
+elektr hushållsapparater
+Aktiekapital: 100 000
+Verkst dir: Göran Ohlsson
+Etableringsår: 1932.
+
+BELGIMEX, AB
+
+Pnr 100 31
+
+Stockholm 21, Sankt Eriksg 103.
+Box 21029. Tel 08-34 15 75.
+Postgiro 51166-7
+
+Verksamhet: Textilagenturer för
+filtar o mattor
+Aktiekapital: 50 000
+Verkst dir: René Robert
+Etableringsår: 1929.
+
+59

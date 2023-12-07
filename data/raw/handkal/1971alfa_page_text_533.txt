@@ -1,119 +1,119 @@
 ROT
-<br/>
-<br/>RORSTROM, AGENTUR.
-<br/>FIRMAN BENGT
-<br/>
-<br/>Pnr 13200
-<br/>
-<br/>Saltsjö-Boo, Gamla Brov 28. Tel
-<br/>08-715 1106. Postgiro 204290-1
-<br/>Verksamhet: Säljer transportörer,
-<br/>rörpostanläggningar,
-<br/>cellulosamaskiner, destillationsapparater etc
-<br/>Chef: Ing Bengt Rörström.
-<br/>
-<br/>RORSTROM, BYGGNADSAB 0
-<br/>
-<br/>Pnr 331 01
-<br/>
-<br/>Värnamo 1, Box 16. Tel
-<br/>0370-116 50. Bankgiro 375-0304.
-<br/>Postgiro 78640-0
-<br/>
-<br/>Verksamhet: Nybyggnader,
-<br/>ombyggnader, reparationer
-<br/>Antal anställda: 35
-<br/>Årsomsättning: 2 000 000
-<br/>Aktiekapital: 25 000
-<br/>Veikst dir: Ing Ove Rör ström
-<br/>Etableringsàr: 1967.
-<br/>
-<br/>RÖRSYSTEM, AB
-<br/>
-<br/>Pnr 17140
-<br/>
-<br/>Solna. Brommav 6. Tel 08-83 07 70.
-<br/>Bankgiro 286-0252. Postgiro
-<br/>271040-8. Tga Roersystem
-<br/>Verksamhet: Rörentreprenörer.
-<br/>VVS-, fjärrvärme-,
-<br/>oljelednings-o sprinklerinstallationer.
-<br/>Industrirörledningar
-<br/>
-<br/>FiUal o verkstad: 294 00
-<br/>Sölvesborg, Sölve Industriområde. Tel
-<br/>0456-125 60
-<br/>Antal anstäUda: 200
-<br/>Årsomsättning: 40000 000
-<br/>Aktiekapital: 105 000
-<br/>Verkst dir: Tage Jehrlander
-<br/>Etableringsàr: 1964.
-<br/>
-<br/>RORTEKNISKA BYRÅN AB
-<br/>
-<br/>Pnr 11251
-<br/>
-<br/>Stockholm, Nordenflychtsv 70. Tel
-<br/>08-54 19 45. Bankgiro 723-6672.
-<br/>Postgiro 199820-2
-<br/>Verksamhet: Konsulterande
-<br/>ingen-iörsbyrå inom VVS-facket
-<br/>Antal anstäUda: 19
-<br/>Årsomsättning: 1285 000
-<br/>Aktiekapital: 10 100
-<br/>Styrelse: Ing Arne Thingwall
-<br/>(ordf), ing Ture Ericson, ing Viktor
-<br/>Roxman
-<br/>
-<br/>Verkst dir: Ing Ture Ericson
-<br/>Etableringsàr: 1945.
-<br/>
-<br/>ROSTLINGER AB, K-B
-<br/>
-<br/>Pnr 42121
-<br/>
-<br/>Västra Frölunda 1, Prökotteg 5.
-<br/>Box 15. Tel 031-45 0010. Postgiro
-<br/>520203
-<br/>
-<br/>Verksamhet: Tillverkar o säljer
-<br/>emballage, förpackningsartiklar o
-<br/>förpackningsmaskiner
-<br/>
-<br/>Antal anställda: 15
-<br/>Årsomsättning: 6 000 000
-<br/>Aktiekapital: 50 000
-<br/>Chef: Dir Karl-Bertil Röstlinger
-<br/>Etableringsàr 1961
-<br/>Dotterbolag till AB Värnamo
-<br/>Wellpappfabrik/Svenska Cellulosa AB.
-<br/>
-<br/>ROTMOTAVERKEN, AB
-<br/>
-<br/>Pnr 791 00
-<br/>
-<br/>Falun, Sundbornsv 3. Tel
-<br/>023-33030
-<br/>
-<br/>Verksamhet: Tillverkar
-<br/>träskyddsmedel, färger o industrilacker
-<br/>Aktiekapital: 100 000
-<br/>Verkst dir: K G Wilander
-<br/>Etableringsàr: 1926
-<br/>Ombildat till aktiebolag 1936.
-<br/>
-<br/>ROTSKYDDSPRODUKTER, AB
-<br/>
-<br/>Pnr 41114
-<br/>
-<br/>Göteborg, Drottningg 27. Tel
-<br/>031-1363 67,7110 27. Bankgiro 36-4886.
-<br/>Postgiro 42848
-<br/>
-<br/>Verksamhet: Säljer
-<br/>byggnadske-miskt material o parti
-<br/>Aktiekapital: 5 000
-<br/>Verkst dir: Erie Pettersson
-<br/>Etableringsàr: 1957.
-<br/>
-<br/>531
+
+RORSTROM, AGENTUR.
+FIRMAN BENGT
+
+Pnr 13200
+
+Saltsjö-Boo, Gamla Brov 28. Tel
+08-715 1106. Postgiro 204290-1
+Verksamhet: Säljer transportörer,
+rörpostanläggningar,
+cellulosamaskiner, destillationsapparater etc
+Chef: Ing Bengt Rörström.
+
+RORSTROM, BYGGNADSAB 0
+
+Pnr 331 01
+
+Värnamo 1, Box 16. Tel
+0370-116 50. Bankgiro 375-0304.
+Postgiro 78640-0
+
+Verksamhet: Nybyggnader,
+ombyggnader, reparationer
+Antal anställda: 35
+Årsomsättning: 2 000 000
+Aktiekapital: 25 000
+Veikst dir: Ing Ove Rör ström
+Etableringsàr: 1967.
+
+RÖRSYSTEM, AB
+
+Pnr 17140
+
+Solna. Brommav 6. Tel 08-83 07 70.
+Bankgiro 286-0252. Postgiro
+271040-8. Tga Roersystem
+Verksamhet: Rörentreprenörer.
+VVS-, fjärrvärme-,
+oljelednings-o sprinklerinstallationer.
+Industrirörledningar
+
+FiUal o verkstad: 294 00
+Sölvesborg, Sölve Industriområde. Tel
+0456-125 60
+Antal anstäUda: 200
+Årsomsättning: 40000 000
+Aktiekapital: 105 000
+Verkst dir: Tage Jehrlander
+Etableringsàr: 1964.
+
+RORTEKNISKA BYRÅN AB
+
+Pnr 11251
+
+Stockholm, Nordenflychtsv 70. Tel
+08-54 19 45. Bankgiro 723-6672.
+Postgiro 199820-2
+Verksamhet: Konsulterande
+ingen-iörsbyrå inom VVS-facket
+Antal anstäUda: 19
+Årsomsättning: 1285 000
+Aktiekapital: 10 100
+Styrelse: Ing Arne Thingwall
+(ordf), ing Ture Ericson, ing Viktor
+Roxman
+
+Verkst dir: Ing Ture Ericson
+Etableringsàr: 1945.
+
+ROSTLINGER AB, K-B
+
+Pnr 42121
+
+Västra Frölunda 1, Prökotteg 5.
+Box 15. Tel 031-45 0010. Postgiro
+520203
+
+Verksamhet: Tillverkar o säljer
+emballage, förpackningsartiklar o
+förpackningsmaskiner
+
+Antal anställda: 15
+Årsomsättning: 6 000 000
+Aktiekapital: 50 000
+Chef: Dir Karl-Bertil Röstlinger
+Etableringsàr 1961
+Dotterbolag till AB Värnamo
+Wellpappfabrik/Svenska Cellulosa AB.
+
+ROTMOTAVERKEN, AB
+
+Pnr 791 00
+
+Falun, Sundbornsv 3. Tel
+023-33030
+
+Verksamhet: Tillverkar
+träskyddsmedel, färger o industrilacker
+Aktiekapital: 100 000
+Verkst dir: K G Wilander
+Etableringsàr: 1926
+Ombildat till aktiebolag 1936.
+
+ROTSKYDDSPRODUKTER, AB
+
+Pnr 41114
+
+Göteborg, Drottningg 27. Tel
+031-1363 67,7110 27. Bankgiro 36-4886.
+Postgiro 42848
+
+Verksamhet: Säljer
+byggnadske-miskt material o parti
+Aktiekapital: 5 000
+Verkst dir: Erie Pettersson
+Etableringsàr: 1957.
+
+531
